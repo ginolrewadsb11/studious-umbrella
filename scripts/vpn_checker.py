@@ -692,9 +692,14 @@ async def check_key_full(
 
 
 async def fetch_subscription(url: str) -> str:
-    """Загружает подписку"""
+    """Загружает подписку (с User-Agent как у VPN клиента)"""
+    # User-Agent как у популярных VPN клиентов
+    headers = {
+        "User-Agent": "v2rayNG/1.8.5",
+        "Accept": "*/*",
+    }
     try:
-        async with aiohttp.ClientSession() as session:
+        async with aiohttp.ClientSession(headers=headers) as session:
             async with session.get(url, timeout=aiohttp.ClientTimeout(total=30)) as resp:
                 if resp.status == 200:
                     return await resp.text()
