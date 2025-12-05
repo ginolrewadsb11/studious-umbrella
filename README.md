@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/ginolrewadsb11/fghj9856e324dfg?style=flat-square&label=Обновлено" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/last-commit/ginolrewadsb11/studious-umbrella?style=flat-square&label=Обновлено" alt="Last Commit"/>
   <img src="https://img.shields.io/badge/Проверка-Каждые%203%20часа-green?style=flat-square" alt="Update Interval"/>
   <img src="https://img.shields.io/badge/Протоколы-VLESS%20|%20VMess%20|%20Trojan%20|%20SS-purple?style=flat-square" alt="Protocols"/>
 </p>
@@ -22,11 +22,11 @@
 ### Для Happ / v2rayNG / Streisand
 
 ```
-https://raw.githubusercontent.com/ginolrewadsb11/fghj9856e324dfg/main/bobi_vpn.txt
+https://raw.githubusercontent.com/ginolrewadsb11/studious-umbrella/refs/heads/main/bobi_vpn.txt
 ```
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/ginolrewadsb11/fghj9856e324dfg/main/bobi_vpn.txt">
+  <a href="https://raw.githubusercontent.com/ginolrewadsb11/studious-umbrella/refs/heads/main/bobi_vpn.txt">
     <img src="https://img.shields.io/badge/📲_Добавить_подписку-blue?style=for-the-badge" alt="Add Subscription"/>
   </a>
 </p>
@@ -120,5 +120,5 @@ graph LR
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/ginolrewadsb11/fghj9856e324dfg?style=social" alt="Stars"/>
+  <img src="https://img.shields.io/github/stars/ginolrewadsb11/studious-umbrella?style=social" alt="Stars"/>
 </p>
