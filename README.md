@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/ginolrewadsb11/studious-umbrella?style=flat-square&label=Обновлено" alt="Last Commit"/>
-  <img src="https://img.shields.io/badge/Проверка-Каждые%203%20часа-green?style=flat-square" alt="Update Interval"/>
+  <img src="https://img.shields.io/badge/🔄_Обновление-Каждые%203%20часа-green?style=flat-square" alt="Update Interval"/>
   <img src="https://img.shields.io/badge/Протоколы-VLESS%20|%20VMess%20|%20Trojan%20|%20SS-purple?style=flat-square" alt="Protocols"/>
 </p>
 
