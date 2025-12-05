@@ -1,0 +1,51 @@
+name: VPN Keys Checker
+
+on:
+  schedule:
+    # Запуск каждые 3 часа по Москве (UTC+3)
+    # 00:00, 03:00, 06:00, 09:00, 12:00, 15:00, 18:00, 21:00 MSK
+    - cron: '0 21,0,3,6,9,12,15,18 * * *'
+  workflow_dispatch: # Ручной запуск
+
+permissions:
+  contents: write
+
+jobs:
+  check-keys:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install aiohttp aiohttp-socks
+
+      - name: Install Sing-box
+        run: |
+          wget -q https://github.com/SagerNet/sing-box/releases/download/v1.10.0/sing-box-1.10.0-linux-amd64.tar.gz
+          tar -xzf sing-box-1.10.0-linux-amd64.tar.gz
+          sudo mv sing-box-1.10.0-linux-amd64/sing-box /usr/local/bin/
+          sudo chmod +x /usr/local/bin/sing-box
+          sing-box version
+
+      - name: Run VPN checker
+        env:
+          SUBSCRIPTION_URLS: ${{ secrets.SUBSCRIPTION_URLS }}
+        run: python scripts/vpn_checker.py
+
+      - name: Commit and push results
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add vpn.txt vpn_base64.txt vpn_renamed.txt vpn_renamed_base64.txt bobi_vpn.txt bobi_vpn_base64.txt vpn_report.json
+          git diff --staged --quiet || git commit -m "🦊 Bobi VPN update - $(date +'%Y-%m-%d %H:%M')"
+          git push
