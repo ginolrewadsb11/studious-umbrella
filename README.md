@@ -121,30 +121,10 @@ https://raw.githubusercontent.com/ginolrewadsb11/studious-umbrella/refs/heads/ma
 
 ## ✨ Особенности
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/CHECK-Проверка-blue?style=for-the-badge" alt="Check"/><br>
-<b>Многоуровневая</b><br>
-TCP → Sing-box → IP → Speed
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/GEO-Геолокация-green?style=for-the-badge" alt="Geo"/><br>
-<b>Авто-определение</b><br>
-Страна и провайдер
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/NAME-Имена-purple?style=for-the-badge" alt="Names"/><br>
-<b>Красивые</b><br>
-RU Russia | Provider 1
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/FAST-Скорость-orange?style=for-the-badge" alt="Speed"/><br>
-<b>50 потоков</b><br>
-Параллельная проверка
-</td>
-</tr>
-</table>
+| 🔍 Проверка | 🌍 Геолокация | 🏷️ Имена | ⚡ Скорость |
+|:-----------:|:-------------:|:--------:|:-----------:|
+| **Многоуровневая** | **Авто-определение** | **Красивые** | **50 потоков** |
+| TCP → Sing-box → IP | Страна и провайдер | 🇷🇺 Russia \| Provider 1 | Параллельная проверка |
 
 ---
 
