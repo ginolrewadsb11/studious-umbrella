@@ -124,22 +124,22 @@ https://raw.githubusercontent.com/ginolrewadsb11/studious-umbrella/refs/heads/ma
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🔍-Проверка-blue?style=for-the-badge" alt="Check"/><br>
+<img src="https://img.shields.io/badge/CHECK-Проверка-blue?style=for-the-badge" alt="Check"/><br>
 <b>Многоуровневая</b><br>
 TCP → Sing-box → IP → Speed
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🌍-Геолокация-green?style=for-the-badge" alt="Geo"/><br>
+<img src="https://img.shields.io/badge/GEO-Геолокация-green?style=for-the-badge" alt="Geo"/><br>
 <b>Авто-определение</b><br>
 Страна и провайдер
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/�️-Имена-purple?style=for-the-badge" alt="Names"/><br>
+<img src="https://img.shields.io/badge/NAME-Имена-purple?style=for-the-badge" alt="Names"/><br>
 <b>Красивые</b><br>
-�� Russia | Provider 1
+RU Russia | Provider 1
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/⚡-Скорость-orange?style=for-the-badge" alt="Speed"/><br>
+<img src="https://img.shields.io/badge/FAST-Скорость-orange?style=for-the-badge" alt="Speed"/><br>
 <b>50 потоков</b><br>
 Параллельная проверка
 </td>
