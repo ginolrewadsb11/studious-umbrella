@@ -110,6 +110,10 @@ https://raw.githubusercontent.com/ginolrewadsb11/studious-umbrella/refs/heads/ma
 4. Нажми «Обновить»
 
 
+
+
+
+
 <a href="https://github.com/MatsuriDayo/nekoray/releases">
   <img src="https://img.shields.io/badge/GitHub-Скачать-black?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
