@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="150" alt="BobiVPN Logo"/>
+  <img src="banner.png" width="100%" alt="BobiVPN Banner"/>
 </p>
 
 <h1 align="center">🐶 BobiVPN 🐶</h1>
