@@ -82,7 +82,7 @@ https://raw.githubusercontent.com/ginolrewadsb11/studious-umbrella/refs/heads/ma
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🦊 Hiddify (iOS / Android / Windows / macOS / Linux)
 
@@ -93,12 +93,8 @@ https://raw.githubusercontent.com/ginolrewadsb11/studious-umbrella/refs/heads/ma
 3. Вставь ссылку подписки
 4. Выбери сервер и подключись
 
-<a href="https://github.com/hiddify/hiddify-next/releases">
-  <img src="https://img.shields.io/badge/GitHub-Скачать-black?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💻 Nekoray (Windows / Linux)
 
@@ -107,11 +103,20 @@ https://raw.githubusercontent.com/ginolrewadsb11/studious-umbrella/refs/heads/ma
 1. Скачай **Nekoray** с GitHub
 2. Программа → Настройки подписки
 3. Добавь ссылку подписки
-4. Нажми «Обновить»ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+4. Нажми «Обновить»
+
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://github.com/hiddify/hiddify-next/releases">
+  <img src="https://img.shields.io/badge/GitHub-Скачать-black?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+</td>
+<td align="center">
 <a href="https://github.com/MatsuriDayo/nekoray/releases">
   <img src="https://img.shields.io/badge/GitHub-Скачать-black?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-
 </td>
 </tr>
 </table>
