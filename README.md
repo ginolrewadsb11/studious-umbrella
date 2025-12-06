@@ -124,24 +124,24 @@ https://raw.githubusercontent.com/ginolrewadsb11/studious-umbrella/refs/heads/ma
 <table>
 <tr>
 <td align="center" width="25%">
-🔍<br>
-<b>Многоуровневая проверка</b><br>
-<sub>TCP → Sing-box → IP → Speed</sub>
+<img src="https://img.shields.io/badge/🔍-Проверка-blue?style=for-the-badge" alt="Check"/><br>
+<b>Многоуровневая</b><br>
+TCP → Sing-box → IP → Speed
 </td>
 <td align="center" width="25%">
-🌍<br>
+<img src="https://img.shields.io/badge/🌍-Геолокация-green?style=for-the-badge" alt="Geo"/><br>
 <b>Авто-определение</b><br>
-<sub>Страна и провайдер</sub>
+Страна и провайдер
 </td>
 <td align="center" width="25%">
-🏷️<br>
-<b>Красивые имена</b><br>
-<sub>🇷🇺 Russia | Provider 1</sub>
+<img src="https://img.shields.io/badge/�️-Имена-purple?style=for-the-badge" alt="Names"/><br>
+<b>Красивые</b><br>
+�� Russia | Provider 1
 </td>
 <td align="center" width="25%">
-⚡<br>
+<img src="https://img.shields.io/badge/⚡-Скорость-orange?style=for-the-badge" alt="Speed"/><br>
 <b>50 потоков</b><br>
-<sub>Параллельная проверка</sub>
+Параллельная проверка
 </td>
 </tr>
 </table>
