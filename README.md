@@ -128,6 +128,21 @@ https://raw.githubusercontent.com/ginolrewadsb11/studious-umbrella/refs/heads/ma
 <b>Многоуровневая</b><br>
 TCP → Sing-box → IP → Speed
 </td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🌍-Геолокация-green?style=for-the-badge" alt="Geo"/><br>
+<b>Авто-определение</b><br>
+Страна и провайдер
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🏷️-Умные_имена-purple?style=for-the-badge" alt="Names"/><br>
+<b>Красивые</b><br>
+🇷🇺 Russia | Yandex Cloud 1
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/⚡-Скорость-orange?style=for-the-badge" alt="Speed"/><br>
+<b>50 потоков</b><br>
+Параллельная проверка
+</td>
 </tr>
 </table>
 
