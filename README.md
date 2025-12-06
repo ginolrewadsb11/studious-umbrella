@@ -26,14 +26,8 @@
 
 ## 📥 Подписка
 
-<p align="center">
-  <a href="happ://add/https://raw.githubusercontent.com/ginolrewadsb11/studious-umbrella/refs/heads/main/bobi_vpn.txt">
-    <img src="https://img.shields.io/badge/📲_Добавить_в_Happ-blue?style=for-the-badge" alt="Add to Happ"/>
-  </a>
-  <a href="https://raw.githubusercontent.com/ginolrewadsb11/studious-umbrella/refs/heads/main/bobi_vpn.txt">
-    <img src="https://img.shields.io/badge/📋_Скопировать_ссылку-gray?style=for-the-badge" alt="Copy Link"/>
-  </a>
-</p>
+[![Add to Happ](https://img.shields.io/badge/📲_Добавить_в_Happ-blue?style=for-the-badge)](happ://add/https://raw.githubusercontent.com/ginolrewadsb11/studious-umbrella/refs/heads/main/bobi_vpn.txt)
+[![Copy Link](https://img.shields.io/badge/📋_Скопировать_ссылку-gray?style=for-the-badge)](https://raw.githubusercontent.com/ginolrewadsb11/studious-umbrella/refs/heads/main/bobi_vpn.txt)
 
 ```
 https://raw.githubusercontent.com/ginolrewadsb11/studious-umbrella/refs/heads/main/bobi_vpn.txt
