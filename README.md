@@ -109,7 +109,7 @@ https://raw.githubusercontent.com/ginolrewadsb11/studious-umbrella/refs/heads/ma
 1. Скачай **Nekoray** с GitHub
 2. Программа → Настройки подписки
 3. Добавь ссылку подписки
-4. Нажми «Обновить»<br>
+4. Нажми «Обновить»<br><br>
 
 <p align="center">
   <a href="https://github.com/MatsuriDayo/nekoray/releases">
