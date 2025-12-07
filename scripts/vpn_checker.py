@@ -930,8 +930,8 @@ async def main():
         happ_header = f"""#profile-update-interval: 1
 #profile-title: 🐶BobiVPN🐶
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
-#support-url: https://t.me/bobi_vpn
-#profile-web-page-url: https://t.me/bobi_vpn
+#support-url: https://bobivpn.netlify.app/
+#profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:{announce_b64}
 """
         happ_config = happ_header + "\n" + "\n".join(renamed_keys)
@@ -943,12 +943,96 @@ async def main():
         with open('bobi_vpn_base64.txt', 'w') as f:
             f.write(encoded_happ)
         
+        # === bobi_vpn_lite.txt — дедупликация по IP (макс 3 на IP), кроме России ===
+        # Группируем ключи по exit_ip
+        ip_groups = {}
+        ru_keys = []  # Российские ключи отдельно (без лимита)
+        
+        for i, r in enumerate(working):
+            if r.country_code == "RU":
+                # Россия — все ключи без ограничений
+                ru_keys.append((r, renamed_keys[i]))
+            else:
+                # Остальные страны — группируем по IP
+                ip = r.exit_ip or f"unknown_{i}"
+                if ip not in ip_groups:
+                    ip_groups[ip] = []
+                ip_groups[ip].append((r, renamed_keys[i]))
+        
+        # Для каждого IP оставляем только 3 самых быстрых (по latency)
+        lite_keys = []
+        
+        # Сначала добавляем все российские
+        for r, key in ru_keys:
+            lite_keys.append((r, key))
+        
+        # Затем добавляем остальные (макс 3 на IP, самые быстрые)
+        for ip, keys_list in ip_groups.items():
+            # Сортируем по latency (меньше = лучше)
+            keys_list.sort(key=lambda x: (x[0].latency_ms, -x[0].speed_kbps))
+            # Берём только первые 3
+            for r, key in keys_list[:3]:
+                lite_keys.append((r, key))
+        
+        # Сортируем итоговый список как обычно
+        def sort_key_lite(item):
+            r = item[0]
+            country_priority = COUNTRY_PRIORITY.get(r.country_code, 99)
+            isp_name = (r.isp or "zzz").lower()
+            return (country_priority, isp_name, r.latency_ms)
+        
+        lite_keys.sort(key=sort_key_lite)
+        
+        # Генерируем имена заново с правильной нумерацией
+        isp_current_lite = {}
+        lite_renamed_keys = []
+        
+        for r, _ in lite_keys:
+            flag = COUNTRY_FLAGS.get(r.country_code, "🌍")
+            country = r.exit_country or "Unknown"
+            isp = r.isp or "Server"
+            
+            key_base = f"{r.country_code}_{isp}"
+            isp_current_lite[key_base] = isp_current_lite.get(key_base, 0) + 1
+            num = isp_current_lite[key_base]
+            
+            new_name = f"{flag} {country} | {isp} {num}"
+            
+            if '#' in r.key:
+                new_key = r.key.rsplit('#', 1)[0] + '#' + new_name
+            else:
+                new_key = r.key + '#' + new_name
+            
+            lite_renamed_keys.append(new_key)
+        
+        # Happ header для lite версии
+        random_line_lite = random.choice(announce_lines)
+        announce_text_lite = f"🐶 BobiVPN Lite — Без дубликатов\n{random_line_lite}"
+        announce_b64_lite = base64.b64encode(announce_text_lite.encode()).decode()
+        
+        happ_header_lite = f"""#profile-update-interval: 1
+#profile-title: 🐶BobiVPN Lite🐶
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
+#support-url: https://bobivpn.netlify.app/
+#profile-web-page-url: https://bobivpn.netlify.app/
+#announce: base64:{announce_b64_lite}
+"""
+        happ_config_lite = happ_header_lite + "\n" + "\n".join(lite_renamed_keys)
+        
+        with open('bobi_vpn_lite.txt', 'w', encoding='utf-8') as f:
+            f.write(happ_config_lite)
+        
+        # Статистика lite
+        ru_count = len(ru_keys)
+        other_count = len(lite_keys) - ru_count
+        
         print(f"\n{'=' * 60}")
         print("СОХРАНЕНО:")
         print(f"{'=' * 60}")
         print(f"  📄 vpn.txt - {len(working)} ключей (оригинал)")
         print(f"  📄 vpn_renamed.txt - с красивыми именами")
         print(f"  🦊 bobi_vpn.txt - для Happ (с заголовком)")
+        print(f"  🦊 bobi_vpn_lite.txt - Lite версия ({len(lite_keys)} ключей, RU: {ru_count}, другие: {other_count})")
         print(f"  📊 vpn_report.json - детальный отчёт")
         print(f"\nПо странам:")
         for code, info in sorted(report["countries"].items(), 
@@ -959,6 +1043,8 @@ async def main():
         with open('vpn.txt', 'w') as f:
             f.write('')
         with open('bobi_vpn.txt', 'w') as f:
+            f.write('')
+        with open('bobi_vpn_lite.txt', 'w') as f:
             f.write('')
 
 
