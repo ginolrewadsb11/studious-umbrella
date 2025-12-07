@@ -46,6 +46,6 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add vpn.txt vpn_base64.txt vpn_renamed.txt vpn_renamed_base64.txt bobi_vpn.txt bobi_vpn_base64.txt vpn_report.json
+          git add vpn.txt vpn_base64.txt vpn_renamed.txt vpn_renamed_base64.txt bobi_vpn.txt bobi_vpn_base64.txt bobi_vpn_lite.txt vpn_report.json
           git diff --staged --quiet || git commit -m "🦊 Bobi VPN update - $(date +'%Y-%m-%d %H:%M')"
           git push
