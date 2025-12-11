@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVHVya2V5CuKaoSA0INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=msk.capybara.press&fp=random&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&sid=9c2378562188c3cb&spx=%2F#🇹🇷 Turkey | Coopertino - Skolkovo ... 1
-vless://7f674fcd-fb20-4cae-b444-29eeb716e78a@45.12.143.147:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2&spx=%2F#🇹🇷 Turkey | WorkTitans B.V. 1
-vless://7f674fcd-fb20-4cae-b444-29eeb716e78a@tr01-vlr01.tcp-reset-club.net:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2&spx=%2F#🇹🇷 Turkey | WorkTitans B.V. 2
+vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&security=reality&sid=9c2378562188c3cb&sni=msk.capybara.press&type=tcp#🇹🇷 Turkey | Coopertino - Skolkovo ... 1
+vless://05e4c9c4-f8a6-4d66-8f15-324b07b1c831@62.60.233.41:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=my.oversecure.pro&fp=chrome&pbk=L9LQ_8Ymo1o7QRPvWXsd4VY_i_OZ-0ZIw_mU16zaPEY&sid=a20d3ed244c76426#🇹🇷 Turkey | Global Connectivity So... 1
+vless://7f674fcd-fb20-4cae-b444-29eeb716e78a@45.12.143.147:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=86e999a2cdc2&sni=hls-svod.itunes.apple.com&type=tcp#🇹🇷 Turkey | WorkTitans B.V. 1
 vless://7b379ab3-6402-4d32-84e1-3abe074ed1c4@89.144.20.173:12146?security=none&encryption=none&host=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&headerType=none&type=tcp#🇹🇷 Turkey | Yigit Hosting Bilisim ... 1
