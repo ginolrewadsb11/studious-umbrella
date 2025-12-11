@@ -943,36 +943,52 @@ async def main():
         with open('bobi_vpn_base64.txt', 'w') as f:
             f.write(encoded_happ)
         
-        # === bobi_vpn_lite.txt — дедупликация по IP (макс 3 на IP), кроме России ===
-        # Группируем ключи по exit_ip
-        ip_groups = {}
+        # === bobi_vpn_lite.txt — Россия все, остальные макс 35 с уникальными ISP и IP ===
         ru_keys = []  # Российские ключи отдельно (без лимита)
+        other_keys = []  # Остальные страны
         
         for i, r in enumerate(working):
             if r.country_code == "RU":
                 # Россия — все ключи без ограничений
                 ru_keys.append((r, renamed_keys[i]))
             else:
-                # Остальные страны — группируем по IP
-                ip = r.exit_ip or f"unknown_{i}"
-                if ip not in ip_groups:
-                    ip_groups[ip] = []
-                ip_groups[ip].append((r, renamed_keys[i]))
+                other_keys.append((r, renamed_keys[i]))
         
-        # Для каждого IP оставляем только 3 самых быстрых (по latency)
+        # Для остальных стран: макс 35 ключей с уникальными ISP и IP
         lite_keys = []
         
         # Сначала добавляем все российские
         for r, key in ru_keys:
             lite_keys.append((r, key))
         
-        # Затем добавляем остальные (макс 3 на IP, самые быстрые)
-        for ip, keys_list in ip_groups.items():
-            # Сортируем по latency (меньше = лучше)
-            keys_list.sort(key=lambda x: (x[0].latency_ms, -x[0].speed_kbps))
-            # Берём только первые 3
-            for r, key in keys_list[:3]:
-                lite_keys.append((r, key))
+        # Сортируем остальные по качеству (пинг, потом скорость)
+        other_keys.sort(key=lambda x: (x[0].latency_ms, -x[0].speed_kbps))
+        
+        # Выбираем до 35 ключей с уникальными ISP и IP
+        used_isps = set()
+        used_ips = set()
+        other_selected = []
+        
+        for r, key in other_keys:
+            isp = r.isp or "Unknown"
+            ip = r.exit_ip or ""
+            
+            # Пропускаем если ISP или IP уже использованы
+            if isp in used_isps or ip in used_ips:
+                continue
+            
+            used_isps.add(isp)
+            if ip:
+                used_ips.add(ip)
+            other_selected.append((r, key))
+            
+            # Лимит 35 ключей для не-России
+            if len(other_selected) >= 35:
+                break
+        
+        # Добавляем отобранные ключи
+        for r, key in other_selected:
+            lite_keys.append((r, key))
         
         # Сортируем итоговый список как обычно
         def sort_key_lite(item):
@@ -1024,7 +1040,63 @@ async def main():
         
         # Статистика lite
         ru_count = len(ru_keys)
-        other_count = len(lite_keys) - ru_count
+        other_count = len(other_selected)
+        
+        # === Создаём папку countries/ с подписками по странам ===
+        countries_dir = 'countries'
+        if not os.path.exists(countries_dir):
+            os.makedirs(countries_dir)
+        
+        # Группируем ключи по странам
+        country_keys = {}
+        for i, r in enumerate(working):
+            code = r.country_code or "XX"
+            if code not in country_keys:
+                country_keys[code] = []
+            country_keys[code].append((r, renamed_keys[i]))
+        
+        # Создаём файл для каждой страны
+        country_files_created = []
+        for code, keys_list in country_keys.items():
+            country_name = keys_list[0][0].exit_country or "Unknown"
+            flag = COUNTRY_FLAGS.get(code, "🌍")
+            
+            # Перенумеровываем ключи для этой страны
+            country_renamed = []
+            isp_counter = {}
+            for r, _ in keys_list:
+                isp = r.isp or "Server"
+                isp_counter[isp] = isp_counter.get(isp, 0) + 1
+                num = isp_counter[isp]
+                
+                new_name = f"{flag} {country_name} | {isp} {num}"
+                if '#' in r.key:
+                    new_key = r.key.rsplit('#', 1)[0] + '#' + new_name
+                else:
+                    new_key = r.key + '#' + new_name
+                country_renamed.append(new_key)
+            
+            # Happ header для страны
+            announce_country = f"{flag} BobiVPN — {country_name}\n⚡ {len(keys_list)} проверенных серверов"
+            announce_b64_country = base64.b64encode(announce_country.encode()).decode()
+            
+            happ_header_country = f"""#profile-update-interval: 1
+#profile-title: {flag} BobiVPN {country_name}
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
+#support-url: https://bobivpn.netlify.app/
+#profile-web-page-url: https://bobivpn.netlify.app/
+#announce: base64:{announce_b64_country}
+"""
+            happ_config_country = happ_header_country + "\n" + "\n".join(country_renamed)
+            
+            # Имя файла: russia.txt, germany.txt и т.д.
+            filename = f"{country_name.lower().replace(' ', '_')}.txt"
+            filepath = os.path.join(countries_dir, filename)
+            
+            with open(filepath, 'w', encoding='utf-8') as f:
+                f.write(happ_config_country)
+            
+            country_files_created.append((code, country_name, len(keys_list), filename))
         
         print(f"\n{'=' * 60}")
         print("СОХРАНЕНО:")
@@ -1034,10 +1106,12 @@ async def main():
         print(f"  🦊 bobi_vpn.txt - для Happ (с заголовком)")
         print(f"  🦊 bobi_vpn_lite.txt - Lite версия ({len(lite_keys)} ключей, RU: {ru_count}, другие: {other_count})")
         print(f"  📊 vpn_report.json - детальный отчёт")
+        print(f"  📁 countries/ - {len(country_files_created)} файлов по странам")
         print(f"\nПо странам:")
-        for code, info in sorted(report["countries"].items(), 
-                                  key=lambda x: COUNTRY_PRIORITY.get(x[0], 99)):
-            print(f"  {info['flag']} {info['name']}: {info['count']} серверов")
+        for code, name, count, filename in sorted(country_files_created, 
+                                                   key=lambda x: COUNTRY_PRIORITY.get(x[0], 99)):
+            flag = COUNTRY_FLAGS.get(code, "🌍")
+            print(f"  {flag} {name}: {count} серверов → countries/{filename}")
     else:
         print("\nРабочих ключей не найдено!")
         with open('vpn.txt', 'w') as f:
