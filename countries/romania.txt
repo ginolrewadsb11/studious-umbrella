@@ -3,12 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://af58af9a-cee1-4d3c-8460-674d9c1320ca@81.180.93.45:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=31&sni=hls-svod.itunes.apple.com&type=tcp#🇷🇴 Romania | Alexhost SRL 1
-vless://fc0ffa29-5022-44f8-970e-a52408ce62f4@141.227.180.243:48842?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇷🇴 Romania | OVH SAS 1
-vless://jrghxqxyoy@jrghxqxyoy-518237151-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=jrghxqxyoy-518237151-direct.bahame.co#🇷🇴 Romania | WorkTitans B.V. 1
-vless://d3m1xvk50k@d3m1xvk50k-525340173-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&headerType=none&fp=randomized&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=d3m1xvk50k-525340173-direct.bahame.co#🇷🇴 Romania | WorkTitans B.V. 2
-vless://d3m1xvk50k@d3m1xvk50k-525340173-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=d3m1xvk50k-525340173-direct.bahame.co#🇷🇴 Romania | WorkTitans B.V. 3
-vless://d3m1xvk50k@5.253.40.173:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=randomized&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=d3m1xvk50k-525340173-direct.bahame.co#🇷🇴 Romania | WorkTitans B.V. 4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPeTRUc3J4ZmFKRXhVSWhsY1NxSHBWUUlXSUZNMmpaUg@5.182.37.87:443#🇷🇴 Romania | WorkTitans B.V. 1
+vless://jrghxqxyoy@jrghxqxyoy-518237151-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=jrghxqxyoy-518237151-direct.bahame.co#🇷🇴 Romania | WorkTitans B.V. 2
+vless://d3m1xvk50k@5.253.40.173:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=randomized&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=d3m1xvk50k-525340173-direct.bahame.co#🇷🇴 Romania | WorkTitans B.V. 3
+vless://d3m1xvk50k@d3m1xvk50k-525340173-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&headerType=none&fp=randomized&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=d3m1xvk50k-525340173-direct.bahame.co#🇷🇴 Romania | WorkTitans B.V. 4
 vless://d3m1xvk50k@5.253.40.173:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=randomized&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=d3m1xvk50k-525340173-direct.bahame.co#🇷🇴 Romania | WorkTitans B.V. 5
