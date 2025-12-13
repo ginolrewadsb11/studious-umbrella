@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://af58af9a-cee1-4d3c-8460-674d9c1320ca@81.180.93.45:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31&spx=%2F#🇷🇴 Romania | Alexhost SRL 1
-vless://jrghxqxyoy@jrghxqxyoy-518237151-direct.bahame.co:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=jrghxqxyoy-518237151-direct.bahame.co&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇷🇴 Romania | WorkTitans B.V. 1
-vless://jrghxqxyoy@jrghxqxyoy-518237151-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=jrghxqxyoy-518237151-direct.bahame.co#🇷🇴 Romania | WorkTitans B.V. 2
-vless://d3m1xvk50k@d3m1xvk50k-525340173-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=d3m1xvk50k-525340173-direct.bahame.co#🇷🇴 Romania | WorkTitans B.V. 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPeTRUc3J4ZmFKRXhVSWhsY1NxSHBWUUlXSUZNMmpaUg==@5.182.37.87:443#🇷🇴 Romania | WorkTitans B.V. 1
+vless://d3m1xvk50k@d3m1xvk50k-525340173-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=d3m1xvk50k-525340173-direct.bahame.co#🇷🇴 Romania | WorkTitans B.V. 2
+vless://jrghxqxyoy@jrghxqxyoy-518237151-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=jrghxqxyoy-518237151-direct.bahame.co#🇷🇴 Romania | WorkTitans B.V. 3
+vless://jrghxqxyoy@jrghxqxyoy-518237151-direct.bahame.co:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=jrghxqxyoy-518237151-direct.bahame.co&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇷🇴 Romania | WorkTitans B.V. 4

@@ -3,10 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://af58af9a-cee1-4d3c-8460-674d9c1320ca@45.155.53.147:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=e499f276e7bd6420&spx=%2F#🇨🇭 Switzerland | Alexhost SRL 1
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@srv7.outlinekeys.com:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=srv7.outlinekeys.com#🇨🇭 Switzerland | Global Connectivity So... 1
-vless://d6b62381-8d75-4a0c-9946-bf8f40772afe@45.141.119.10:2443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.vk.com&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#🇨🇭 Switzerland | Julian Achter trading ... 1
-vless://d6b62381-8d75-4a0c-9946-bf8f40772afe@45.141.119.10:2443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.vk.com&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇨🇭 Switzerland | Julian Achter trading ... 2
+vless://d6b62381-8d75-4a0c-9946-bf8f40772afe@45.141.119.10:2443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.vk.com&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇨🇭 Switzerland | Julian Achter trading ... 1
+vless://d6b62381-8d75-4a0c-9946-bf8f40772afe@45.141.119.10:2443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=google.com&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%F0%9F%87%A8%F0%9F%87%AD%20%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F#🇨🇭 Switzerland | Julian Achter trading ... 2
 vless://a91e64f0-9295-499d-bf4a-661ad99d4938@switzerland.geodema.network:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=switzerland.geodema.network&sid=1ed136481e0ede74#🇨🇭 Switzerland | M247 Europe SRL 1
