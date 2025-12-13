@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqvCfh7ggQm9iaVZQTiDigJQgU3BhaW4K4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqvCfh7ggQm9iaVZQTiDigJQgU3BhaW4K4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://a0af2643-a236-463c-8056-3f71d05eed53@104.18.15.19:80?path=/?ed=2560&security=none&encryption=none&host=shomal-g74f3znf-v2.shomal-321.workers.dev&fp=randomized&type=ws#🇪🇸 Spain | OVH SAS 1
+vless://b6bd0efd-3f11-4fad-94f2-085edf739474@63.251.122.140:2243?encryption=none&security=reality&sni=st.ozone.ru&pbk=_NgLRXwqdUVTYqq0oonB9IjToggFxjv-iyN2tV_CDDY&sid=7845e505f5e1bf95&serviceName=st.ozone.ru&type=grpc#🇪🇸 Spain | servinga GmbH 1
+vless://b6bd0efd-3f11-4fad-94f2-085edf739474@bcn.1gb.site:2053?encryption=none&security=reality&sni=music.yandex.ru&pbk=opOo5RKisHaoiuJHX6M9j87bsJToaEb4KFGRjtSxU1g&sid=7845e505f5e1bf95&type=tcp#🇪🇸 Spain | servinga GmbH 2
