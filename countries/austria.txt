@@ -3,9 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://48db1ce7-f461-4df2-851f-a86a9625d2c2@sandking.fonixapp.org:48723?security=reality&encryption=none&pbk=Qw3EwnGIHr1CH-wWM4Hp-2LNKlXw28DFIHl4mT5pfwA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fonts.gstatic.com&sid=0990c9#🇦🇹 Austria | netcup GmbH 1
-vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@217.16.17.135:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=a8#🇦🇹 Austria | netcup GmbH 2
-vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@217.16.17.135:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=a8#🇦🇹 Austria | netcup GmbH 3
-vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@at.horizono.xyz:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=at.horizono.xyz&sid=122218f4c1f172e4#🇦🇹 Austria | netcup GmbH 4
+vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@178.154.205.131:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=672ff0&allowInsecure=1&type=tcp&headerType=none#🇦🇹 Austria | netcup GmbH 2
+vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@at.horizono.xyz:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=at.horizono.xyz&sid=122218f4c1f172e4#🇦🇹 Austria | netcup GmbH 3

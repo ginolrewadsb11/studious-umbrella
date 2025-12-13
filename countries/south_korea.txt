@@ -3,8 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh7cgQm9iaVZQTiDigJQgU291dGggS29yZWEK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HsPCfh7cgQm9iaVZQTiDigJQgU291dGggS29yZWEK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://af58af9a-cee1-4d3c-8460-674d9c1320ca@78.153.150.87:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31&spx=%2F#🇰🇷 South Korea | Global Connectivity So... 1
-vless://af58af9a-cee1-4d3c-8460-674d9c1320ca@kr01-vlr01.tcp-reset-club.net:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=e499f276e7bd6420&spx=%2F#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20noP2P#🇰🇷 South Korea | Global Connectivity So... 2
+vless://af58af9a-cee1-4d3c-8460-674d9c1320ca@kr01-vlr01.tcp-reset-club.net:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31&spx=%2F#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20noP2P#🇰🇷 South Korea | Global Connectivity So... 1
+vless://af58af9a-cee1-4d3c-8460-674d9c1320ca@78.153.150.87:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31&spx=%2F#🇰🇷 South Korea | Global Connectivity So... 2
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@srv12.outlinekeys.com:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=srv12.outlinekeys.com#🇰🇷 South Korea | Global Connectivity So... 3
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.26.13.31:443?path=/&security=tls&encryption=none&host=azadnet-1cm.pages.dev&fp=chrome&type=ws&sni=azadnet-1cm.pages.dev#🇰🇷 South Korea | Oracle 1
