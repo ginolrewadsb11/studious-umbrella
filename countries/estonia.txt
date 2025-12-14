@@ -3,9 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqvCfh6ogQm9iaVZQTiDigJQgRXN0b25pYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqvCfh6ogQm9iaVZQTiDigJQgRXN0b25pYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@ee.horizono.xyz:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ee.horizono.xyz&sid=122218f4c1f172e4#🇪🇪 Estonia | BlueVPS OU 1
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@144.31.178.150:1080?mode=gun&security=&encryption=none&type=grpc#🇪🇪 Estonia | Uxhost LTD 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCVHY3QzZ1TjFXYWo2M3R1NjRLUHZfandOR0gxLW12RA@144.31.178.150:8080#🇪🇪 Estonia | Uxhost LTD 2
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tbankru.outlinekeys.net#🇪🇪 Estonia | Uxhost LTD 3
