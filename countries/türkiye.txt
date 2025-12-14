@@ -3,11 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@tr.horizono.xyz:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=tr.horizono.xyz&sid=122218f4c1f172e4#🇹🇷 Türkiye | 365.partners INC 1
-vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=msk.capybara.press&fp=random&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&sid=9c2378562188c3cb&spx=%2F#🇹🇷 Türkiye | Coopertino - Skolkovo ... 1
-vless://2652fbc5-e1b1-691f-c9c7-11ad83e828a6@ardagulerturk.vtuix.ir:7033?mode=gun&security=reality&encryption=none&pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&fp=firefox&type=grpc&serviceName=7034vless&sni=telewebion.com&sid=16b6cda7ab793526#🇹🇷 Türkiye | Fiba Cloud Operation C... 1
-vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@mailru.ookcdn.ru:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru#🇹🇷 Türkiye | Global Connectivity So... 1
-vless://4ea236b3-c40b-42df-9cd4-f9b76dca5ab4@104.18.78.118:443?type=ws&encryption=none&host=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&path=/ws&security=tls&sni=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome#🇹🇷 Türkiye | WorkTitans B.V. 1
-vless://4ea236b3-c40b-42df-9cd4-f9b76dca5ab4@104.18.79.118:443/?type=ws&encryption=none&flow=&host=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&path=%2Fws&security=tls&sni=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome#🇹🇷 Türkiye | WorkTitans B.V. 2
+vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&security=reality&sid=9c2378562188c3cb&sni=msk.capybara.press&type=tcp#🇹🇷 Türkiye | Coopertino - Skolkovo ... 1
+vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=msk.capybara.press&fp=chrome&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&sid=9c2378562188c3cb&allowInsecure=1&type=tcp&headerType=none#🇹🇷 Türkiye | Coopertino - Skolkovo ... 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCVHY3QzZ1TjFXYWo2M3R1NjRLUHZfandOR0gxLW12RA@77.83.245.220:8080#🇹🇷 Türkiye | Global Connectivity So... 1
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@mailru.ookcdn.ru:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru#🇹🇷 Türkiye | Global Connectivity So... 2
