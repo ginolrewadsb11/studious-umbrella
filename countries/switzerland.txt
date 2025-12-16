@@ -5,8 +5,8 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://6fcf544f-f7ac-4fb4-b41c-70845b732b07@ch.quattro-tech.ru:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ch.quattro-tech.ru&sid=43dcff53849b81e6#🇨🇭 Switzerland | CH.VTX LIR Range 1
-vless://6fcf544f-f7ac-4fb4-b41c-70845b732b07@ch.quattro-tech.ru:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=ch.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇨🇭 Switzerland | CH.VTX LIR Range 2
+vless://6fcf544f-f7ac-4fb4-b41c-70845b732b07@ch.quattro-tech.ru:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=ch.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇨🇭 Switzerland | CH.VTX LIR Range 1
+vless://6fcf544f-f7ac-4fb4-b41c-70845b732b07@ch.quattro-tech.ru:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ch.quattro-tech.ru&sid=43dcff53849b81e6#🇨🇭 Switzerland | CH.VTX LIR Range 2
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@srv7.outlinekeys.com:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=srv7.outlinekeys.com#🇨🇭 Switzerland | Global Connectivity So... 1
 vless://fa77398f-459b-4495-9534-0baa6e0e5130@ch.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#🇨🇭 Switzerland | Julian Achter trading ... 1
 vless://fa77398f-459b-4495-9534-0baa6e0e5130@ch.srv.oplcdn.link:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=ign.com&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇨🇭 Switzerland | Julian Achter trading ... 2
