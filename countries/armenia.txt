@@ -3,14 +3,16 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7IgQm9iaVZQTiDigJQgQXJtZW5pYQrimqEgMTAg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh7IgQm9iaVZQTiDigJQgQXJtZW5pYQrimqEgMTIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&security=reality&sid=0e&sni=yahoo.com&type=tcp#🇦🇲 Armenia | 365.partners INC 1
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=tcp&sni=yahoo.com&sid=0e#🇦🇲 Armenia | 365.partners INC 2
-vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@am.horizono.xyz:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=am.horizono.xyz&sid=122218f4c1f172e4#🇦🇲 Armenia | 365.partners INC 3
-vless://4184cd6e-804d-44dc-8d37-b68817403e36@am.opengate.wiki:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hello.opengate.tech&fp=qq&pbk=oudoaW_d0OpRTxVsWEJJf1BVZ5_R9Y9SCSl8pwRx5yE&sid=30531914bddc70c8&spx=%2F#🇦🇲 Armenia | Global Connectivity So... 1
-vless://4184cd6e-804d-44dc-8d37-b68817403e36@am.opengate.wiki:8443?security=reality&encryption=none&pbk=oudoaW_d0OpRTxVsWEJJf1BVZ5_R9Y9SCSl8pwRx5yE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=hello.opengate.tech&sid=30531914bddc70c8#🇦🇲 Armenia | Global Connectivity So... 2
-vless://2f7d7016-74e0-42d4-a0ac-6470322a4d33@am.opengate.wiki:8443?security=reality&encryption=none&pbk=oudoaW_d0OpRTxVsWEJJf1BVZ5_R9Y9SCSl8pwRx5yE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=hello.opengate.tech&sid=30531914bddc70c8#🇦🇲 Armenia | Global Connectivity So... 3
+vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@am.horizono.xyz:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=am.horizono.xyz&sid=122218f4c1f172e4#🇦🇲 Armenia | Altawk Hosting 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZHBNNFJPdm9MdGF5aTdOTjlESUlk@194.156.103.148:443#🇦🇲 Armenia | Global Connectivity So... 1
+vless://2f7d7016-74e0-42d4-a0ac-6470322a4d33@am.opengate.wiki:8443?security=reality&encryption=none&pbk=oudoaW_d0OpRTxVsWEJJf1BVZ5_R9Y9SCSl8pwRx5yE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=hello.opengate.tech&sid=30531914bddc70c8#🇦🇲 Armenia | Global Connectivity So... 2
+vless://4184cd6e-804d-44dc-8d37-b68817403e36@am.opengate.wiki:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hello.opengate.tech&fp=qq&pbk=oudoaW_d0OpRTxVsWEJJf1BVZ5_R9Y9SCSl8pwRx5yE&sid=30531914bddc70c8&spx=%2F#🇦🇲 Armenia | Global Connectivity So... 3
+vless://2f7d7016-74e0-42d4-a0ac-6470322a4d33@am.opengate.wiki:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hello.opengate.tech&fp=qq&pbk=oudoaW_d0OpRTxVsWEJJf1BVZ5_R9Y9SCSl8pwRx5yE&sid=30531914bddc70c8&spx=%2F#🇦🇲 Armenia | Global Connectivity So... 4
+vless://4184cd6e-804d-44dc-8d37-b68817403e36@am.opengate.wiki:8443?security=reality&encryption=none&pbk=oudoaW_d0OpRTxVsWEJJf1BVZ5_R9Y9SCSl8pwRx5yE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=hello.opengate.tech&sid=30531914bddc70c8#🇦🇲 Armenia | Global Connectivity So... 5
 vless://6fcf544f-f7ac-001c-b41c-70845b732b07@cloud.quattro-tech.ru:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=cloud.quattro-tech.ru&fp=&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇦🇲 Armenia | Proitlab 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw@213.159.76.21:443#🇦🇲 Armenia | WorkTitans B.V. 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw@213.159.76.21:443#🇦🇲 Armenia | WorkTitans B.V. 2
