@@ -3,11 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuPCfh6wgQm9iaVZQTiDigJQgU2luZ2Fwb3JlCuKaoSAxMCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuPCfh6wgQm9iaVZQTiDigJQgU2luZ2Fwb3JlCuKaoSA4INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
 vless://1388529b-bd3d-0081-8755-255dd56af4e9@cloud.quattro-tech.ru:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=cloud.quattro-tech.ru&fp=&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇸🇬 Singapore | Datacamp 1
-vless://7519638e-b786-4279-baaf-8501548caf1f@143.198.222.68:42409?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#🇸🇬 Singapore | DigitalOcean, 1
-vless://7519638e-b786-4279-baaf-8501548caf1f@143.198.222.68:42409?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=&encryption=none&host=zoom.us&type=ws#🇸🇬 Singapore | DigitalOcean, 2
 vless://a91e64f0-9295-499d-bf4a-661ad99d4938@singapore.geodema.network:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=singapore.geodema.network&sid=1ed136481e0ede74#🇸🇬 Singapore | Leaseweb Singapore Pte. . 1
 vless://eead1d87-73dc-4313-b4d0-61fbe2cc955a@singapour-01.ptu.ink:443?security=reality&sni=www.microsoft.com&fp=random&pbk=K11XBiYEwMIZ4lr1NlcRL_le4_aIJDNs1flCh0QfnXI&sid=418b3ff02c4da8b6&type=tcp&flow=xtls-rprx-vision#🇸🇬 Singapore | Melbikomas UAB 1
 vless://2f7d7016-74e0-42d4-a0ac-6470322a4d33@sg.opengate.wiki:8443?security=reality&encryption=none&pbk=oudoaW_d0OpRTxVsWEJJf1BVZ5_R9Y9SCSl8pwRx5yE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=hello.opengate.tech&sid=30531914bddc70c8#🇸🇬 Singapore | OVH SAS 1
