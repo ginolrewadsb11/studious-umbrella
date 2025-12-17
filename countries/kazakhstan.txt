@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMjEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMTkg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://9a8a52d6-f24b-4f03-bf6f-f4854717f54e@83.222.23.113:443?security=reality&sni=google.com&fp=chrome&pbk=Jwam5OBjXf4bffZzA3IqzfcNONIMhYMgjysXPU44XFU&sid=c4da507c203b545a&type=tcp&flow=xtls-rprx-vision&encryption=none#🇰🇿 Kazakhstan | BEGET 1
 vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@kz.horizono.xyz:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=kz.horizono.xyz&sid=122218f4c1f172e4#🇰🇿 Kazakhstan | BEGET 2
@@ -11,18 +11,16 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@109.61.39.28:990#🇰🇿 Kazakhstan | G-Core Labs S.A. 2
 vless://a91e64f0-9295-499d-bf4a-661ad99d4938@kazakhstan2.geodema.network:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=kazakhstan2.geodema.network&sid=1ed136481e0ede74#🇰🇿 Kazakhstan | Goodhost.KZ LLP 1
 vless://433620a7-d390-4363-93f8-15bb38255a4a@kz.secureroom.online:443?security=reality&encryption=none&pbk=gKzr509QjKzsDFJmcFzKuAELm41BvNTTkz-QVwzocVo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.kz.secureroom.online#🇰🇿 Kazakhstan | JSC Transtelecom 1
-vless://ffef6f88-0278-497a-85af-2b39125ee959@91.217.10.166:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api.avito.ru&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇰🇿 Kazakhstan | Newserverlife 1
-vless://ffef6f88-0278-497a-85af-2b39125ee959@91.217.10.166:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api.avito.ru&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#🇰🇿 Kazakhstan | Newserverlife 2
-vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@maxru.outlinekeys.net:443?security=reality&encryption=none&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=maxru.outlinekeys.net#🇰🇿 Kazakhstan | Newserverlife 3
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@maxru.outlinekeys.net:443?security=reality&encryption=none&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=maxru.outlinekeys.net#🇰🇿 Kazakhstan | Newserverlife 1
 vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?encryption=none&fp=chrome&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&security=reality&sid=2001&sni=yahoo.com&type=tcp#🇰🇿 Kazakhstan | NLS ASTANA LLP 1
 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&sid=83&allowInsecure=1&type=tcp&headerType=none#🇰🇿 Kazakhstan | PE Fedinyak Sergey Vya... 1
-vless://4184cd6e-804d-44dc-8d37-b68817403e36@kz.connect-opengate.ru:443?security=reality&encryption=none&pbk=8VKPutEgZOD-XpqMamtP1NAq_Vkzs9_PVCPzIfkPhA0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=softpipe.xyz&sid=4d8983d5ff11fc78#🇰🇿 Kazakhstan | VKtech 1
-vless://2f7d7016-74e0-42d4-a0ac-6470322a4d33@kz.connect-opengate.ru:443?security=reality&encryption=none&pbk=8VKPutEgZOD-XpqMamtP1NAq_Vkzs9_PVCPzIfkPhA0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=softpipe.xyz&sid=4d8983d5ff11fc78#🇰🇿 Kazakhstan | VKtech 2
-vless://2f7d7016-74e0-42d4-a0ac-6470322a4d33@kz.connect-opengate.ru:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=softpipe.xyz&fp=qq&pbk=8VKPutEgZOD-XpqMamtP1NAq_Vkzs9_PVCPzIfkPhA0&sid=4d8983d5ff11fc78&spx=%2F#🇰🇿 Kazakhstan | VKtech 3
+vless://2f7d7016-74e0-42d4-a0ac-6470322a4d33@kz.connect-opengate.ru:443?security=reality&encryption=none&pbk=8VKPutEgZOD-XpqMamtP1NAq_Vkzs9_PVCPzIfkPhA0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=softpipe.xyz&sid=4d8983d5ff11fc78#🇰🇿 Kazakhstan | VKtech 1
 vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#🇰🇿 Kazakhstan | WorkTitans B.V. 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw@103.106.3.82:443#🇰🇿 Kazakhstan | WorkTitans B.V. 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw@103.106.3.82:443#🇰🇿 Kazakhstan | WorkTitans B.V. 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.159.250.190:990#🇰🇿 Kazakhstan | WorkTitans B.V. 4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.159.250.190:990#🇰🇿 Kazakhstan | WorkTitans B.V. 5
-vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@kz.accesspoints.cloakify.app:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#🇰🇿 Kazakhstan | WorkTitans B.V. 6
-vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#🇰🇿 Kazakhstan | WorkTitans B.V. 7
+vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#🇰🇿 Kazakhstan | WorkTitans B.V. 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.159.250.190:990#🇰🇿 Kazakhstan | WorkTitans B.V. 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw@103.106.3.82:443#🇰🇿 Kazakhstan | WorkTitans B.V. 4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw@103.106.3.82:443#🇰🇿 Kazakhstan | WorkTitans B.V. 5
+vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511&type=raw&headertype=none#🇰🇿 Kazakhstan | WorkTitans B.V. 6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.159.250.190:990#🇰🇿 Kazakhstan | WorkTitans B.V. 7
+vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@kz.accesspoints.cloakify.app:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#🇰🇿 Kazakhstan | WorkTitans B.V. 8
+vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@kz.accesspoints.cloakify.app:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#🇰🇿 Kazakhstan | WorkTitans B.V. 9
