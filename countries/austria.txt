@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://ae0a43bc-6189-456e-9b8a-a93f39af336e@38.180.144.156:443?security=reality&type=grpc&mode=gun&serviceName=4ad80c2f8c79fca2b989b494&sni=www.microsoft.com&fp=chrome&sid=42d7234d875308a2&pbk=76Cfr5qNl9BCrSb6jdkrgj0HbwfyCwj4oF6JJVhKD0s&encryption=none#🇦🇹 Austria | M247 Europe SRL 1
 vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@at.horizono.xyz:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=at.horizono.xyz&sid=122218f4c1f172e4#🇦🇹 Austria | netcup GmbH 1
