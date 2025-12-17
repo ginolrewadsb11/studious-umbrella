@@ -3,14 +3,16 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqvCfh6ogQm9iaVZQTiDigJQgRXN0b25pYQrimqEgOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqvCfh6ogQm9iaVZQTiDigJQgRXN0b25pYQrimqEgMTEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@ee.horizono.xyz:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ee.horizono.xyz&sid=122218f4c1f172e4#🇪🇪 Estonia | BlueVPS OU 1
-vless://fa77398f-459b-4495-9534-0baa6e0e5130@ee2.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#🇪🇪 Estonia | Brainoza OU 1
-vless://fa77398f-459b-4495-9534-0baa6e0e5130@ee2.srv.oplcdn.link:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=ign.com&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇪🇪 Estonia | Brainoza OU 2
-vless://1388529b-bd3d-4477-8755-255dd56af4e9@178.154.201.68:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=edge&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇪🇪 Estonia | HostSlim B.V. 1
+vless://fa77398f-459b-4495-9534-0baa6e0e5130@ee2.srv.oplcdn.link:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=ign.com&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇪🇪 Estonia | Brainoza OU 1
+vless://fa77398f-459b-4495-9534-0baa6e0e5130@ee2.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#🇪🇪 Estonia | Brainoza OU 2
+vless://b218952c-9b25-4de9-8d69-94d51ab0b2df@178.154.221.120:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=edge&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇪🇪 Estonia | HostSlim B.V. 1
 vless://1388529b-bd3d-4477-8755-255dd56af4e9@178.154.222.86:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=edge&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇪🇪 Estonia | HostSlim B.V. 2
-vless://1388529b-bd3d-0014-8755-255dd56af4e9@ee.quattro-tech.ru:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=ee.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇪🇪 Estonia | HostSlim B.V. 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCVHY3QzZ1TjFXYWo2M3R1NjRLUHZfandOR0gxLW12RA@144.31.178.150:8080#🇪🇪 Estonia | Uxhost LTD 1
-vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@144.31.178.150:1080?mode=gun&security=&encryption=none&type=grpc#🇪🇪 Estonia | Uxhost LTD 2
+vless://1388529b-bd3d-4477-8755-255dd56af4e9@178.154.221.120:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=edge&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇪🇪 Estonia | HostSlim B.V. 3
+vless://1388529b-bd3d-0014-8755-255dd56af4e9@ee.quattro-tech.ru:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=ee.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇪🇪 Estonia | HostSlim B.V. 4
+vless://1388529b-bd3d-4477-8755-255dd56af4e9@178.154.222.86:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇪🇪 Estonia | HostSlim B.V. 5
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@144.31.178.150:1080?mode=gun&security=&encryption=none&type=grpc#🇪🇪 Estonia | Uxhost LTD 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCVHY3QzZ1TjFXYWo2M3R1NjRLUHZfandOR0gxLW12RA@144.31.178.150:8080#🇪🇪 Estonia | Uxhost LTD 2
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@tbankru.outlinekeys.net:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tbankru.outlinekeys.net#🇪🇪 Estonia | Uxhost LTD 3
