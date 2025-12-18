@@ -3,10 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@178.154.205.131:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=edge&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=672ff0&allowInsecure=1&type=tcp&headerType=none#🇦🇹 Austria | netcup GmbH 1
-vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@51.250.10.228:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=qq&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=dc9998c3&allowInsecure=1&type=tcp&headerType=none#🇦🇹 Austria | netcup GmbH 2
-vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@217.16.17.135:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&headerType=none#🇦🇹 Austria | netcup GmbH 3
-vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@217.16.17.135:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=qq&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&allowInsecure=1&type=tcp&headerType=none#🇦🇹 Austria | netcup GmbH 4
-vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@217.16.17.135:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=65c7748be8#🇦🇹 Austria | netcup GmbH 5
+vless://e3dffb22-aa24-4ec1-8dfb-7e5413db0e91@aut-0001-xr.packet-drop-society.net:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=8453e5fd9af927&spx=%2F#🇦🇹 Austria | Global Connectivity So... 1
+vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@51.250.10.228:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=65c7748be8#🇦🇹 Austria | netcup GmbH 1
+vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@at.horizono.xyz:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=at.horizono.xyz&sid=122218f4c1f172e4#🇦🇹 Austria | netcup GmbH 2
