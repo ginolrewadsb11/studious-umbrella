@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDkg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=api.avito.ru#🇮🇹 Italy | Akamai Technologies, 1
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#🇮🇹 Italy | Akamai Technologies, 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA@176.126.83.121:443#🇮🇹 Italy | BrainStorm Network, Inc 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA@176.126.83.121:443#🇮🇹 Italy | BrainStorm Network, Inc 2
 vless://971ca22a-a09f-4007-9e77-ab7ba91502e1@130.193.35.232:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tradingview.com&fp=random&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=f32140952ba18e18#🇮🇹 Italy | DataCamp 1
