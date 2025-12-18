@@ -3,15 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDEwINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@tr.horizono.xyz:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=tr.horizono.xyz&sid=122218f4c1f172e4#🇹🇷 Türkiye | 365.partners INC 1
 vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&security=reality&sid=9c2378562188c3cb&sni=msk.capybara.press&type=tcp#🇹🇷 Türkiye | Coopertino - Skolkovo ... 1
-vless://1388529b-bd3d-0092-8755-255dd56af4e9@cloud.quattro-tech.ru:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=cloud.quattro-tech.ru&fp=&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇹🇷 Türkiye | Datacamp 1
-vless://b77ae07d-83a5-49d3-95b2-26bd1b2d1c81@158.160.198.23:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tradingview.com&fp=random&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#🇹🇷 Türkiye | Datacamp 2
+vless://b77ae07d-83a5-49d3-95b2-26bd1b2d1c81@158.160.198.23:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tradingview.com&fp=random&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#🇹🇷 Türkiye | Datacamp 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCVHY3QzZ1TjFXYWo2M3R1NjRLUHZfandOR0gxLW12RA@77.83.245.220:8080#🇹🇷 Türkiye | Global Connectivity So... 1
-vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@mailru.ookcdn.ru:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru#🇹🇷 Türkiye | Global Connectivity So... 2
-vless://6f33a04c-de7b-482a-9dfe-1f9237406c54@tr1.vpnreal.ru:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=eh.vk.com&fp=chrome&pbk=xUBjC2vNXBrDnJ3rVvQl2CYPvugp3VeVC5NN9ukRojU&sid=e3ebde1f3c9c2b7c#🇹🇷 Türkiye | Global Connectivity So... 3
-vless://4184cd6e-804d-44dc-8d37-b68817403e36@tr.opengate.wiki:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=runstream.xyz&fp=qq&pbk=t2f5k2Kk4pHbHYbuOA4AMR4ThAFZzZtDnLPaorGIj2I&sid=611025b7fc8a5751&spx=%2F#🇹🇷 Türkiye | Global Connectivity So... 4
-vless://4184cd6e-804d-44dc-8d37-b68817403e36@tr.opengate.wiki:443?security=reality&encryption=none&pbk=t2f5k2Kk4pHbHYbuOA4AMR4ThAFZzZtDnLPaorGIj2I&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=runstream.xyz&sid=611025b7fc8a5751#🇹🇷 Türkiye | Global Connectivity So... 5
+vless://6f33a04c-de7b-482a-9dfe-1f9237406c54@tr1.vpnreal.ru:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=eh.vk.com&fp=chrome&pbk=xUBjC2vNXBrDnJ3rVvQl2CYPvugp3VeVC5NN9ukRojU&sid=e3ebde1f3c9c2b7c#🇹🇷 Türkiye | Global Connectivity So... 2
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@mailru.ookcdn.ru:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru#🇹🇷 Türkiye | Global Connectivity So... 3
 vless://2c3b3c2e-7f02-3d09-94ee-e43b6b1a6384@151.241.226.194:47009?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=sun6-21.userapi.com&fp=chrome&pbk=tr79fhd6jVvu8d-Rp9gCEO8XtMyNpusiu3rLmIiKEnU&sid=e21f2248d3f24140#🇹🇷 Türkiye | Hostkey B.V. 1

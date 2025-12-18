@@ -3,8 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrfCfh7ogQm9iaVZQTiDigJQgSHVuZ2FyeQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrfCfh7ogQm9iaVZQTiDigJQgSHVuZ2FyeQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://0e4ad886-3b62-45f3-98fd-a3bfebdd2600@130.193.59.3:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tradingview.com&fp=random&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=8ba12e75110b7a9c#🇭🇺 Hungary | Datacamp 1
-vless://1388529b-bd3d-4477-8755-255dd56af4e9@hu.quattro-tech.ru:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hu.quattro-tech.ru&fp=edge&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇭🇺 Hungary | Datacamp 2
 vless://d9c5dee6-6857-4795-be33-d992a8b8f25a@217.13.104.174:1443?security=reality&sni=apiok.ru&fp=random&pbk=L6JmMq7D45s3pLCMas0Ukf3TWmCgYNEqo8ar8hFkfxY&sid=a2ab4b90e001c0b9&type=tcp&flow=xtls-rprx-vision#🇭🇺 Hungary | Rackhost Zrt. 1
