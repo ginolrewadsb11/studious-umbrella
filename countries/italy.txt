@@ -3,10 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDkg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#🇮🇹 Italy | Akamai Technologies, 1
-trojan://jDKgCAysZceRJ+IVv-t69w.p8=mB@172.238.237.107:19973?sni=www.vk.com&allowInsecure=1&fp=chrome#🇮🇹 Italy | Akamai Technologies, 2
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&sni=api.avito.ru&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#🇮🇹 Italy | Akamai Technologies, 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA@176.126.83.121:443#🇮🇹 Italy | BrainStorm Network, Inc 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA@176.126.83.121:443#🇮🇹 Italy | BrainStorm Network, Inc 2
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@srv10.outlinekeys.com:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=srv10.outlinekeys.com#🇮🇹 Italy | Global Connectivity So... 1
