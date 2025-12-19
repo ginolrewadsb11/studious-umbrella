@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrfCfh7AgQm9iaVZQTiDigJQgSG9uZyBLb25nCuKaoSAxMCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrfCfh7AgQm9iaVZQTiDigJQgSG9uZyBLb25nCuKaoSAxMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.26.0.221:443?path=%2Fdb10240eb751d6ab&security=tls&encryption=none&host=dabaius2.sylu.net&type=ws&sni=dabaius2.sylu.net#🇭🇰 Hong Kong | Akile LTD 1
 vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.26.0.221:443?path=%2Fdb10240eb751d6ab&security=tls&encryption=none&host=dabaius2.sylu.net&type=ws&sni=dabaius2.sylu.net#🇭🇰 Hong Kong | Akile LTD 2
@@ -11,6 +11,7 @@ vless://824dc1b1-e35b-4121-ad73-9acaf13d6410@n1761184282.74qxv.top:443?path=/824
 trojan://92690597d6298061459918a371e8d77d@47.242.225.242:443?security=tls&sni=hezijiasuqi.com#🇭🇰 Hong Kong | Alibaba.com 1
 trojan://92690597d6298061459918a371e8d77d@47.242.225.242:443?security=tls&sni=hezijiasuqi.com#🇭🇰 Hong Kong | Alibaba.com 2
 vless://49d0210a-b6f8-4a43-9af4-e53372ada8e2@hong-kong-02.ptu.ink:443?security=reality&sni=www.microsoft.com&fp=random&pbk=h489Rh_gu1_f-NlFYdJ3EtKWGhwHJc_xQAM4ZkEt3hY&sid=f9a887badb4cfba5&type=tcp&flow=xtls-rprx-vision#🇭🇰 Hong Kong | CLOUDWEBMANAGE 1
+vless://2409bf30-bf4f-0034-88a0-a548b291e88a@cloud.quattro-tech.ru:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=cloud.quattro-tech.ru&fp=&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇭🇰 Hong Kong | MAINT-KAMATERAINC 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIYU5xdzlwSUU0amN4OThzZzdVUWdIZUdOVE00UjJwaw@194.246.114.101:443#🇭🇰 Hong Kong | WorkTitans B.V. 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.82.252.109:990#🇭🇰 Hong Kong | WorkTitans B.V. 2
 vless://721144db-2a39-4be3-aad1-da2aa56cfcd2@hong-kong.sbrf-cdn342.ru:4241?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=google.com&fp=&pbk=-8Dc8Dm5YzxVvllu8W5Uc7N9rq27_A3McxYXArNyJQs&sid=0a381e1fa219#🇭🇰 Hong Kong | WorkTitans B.V. 3
