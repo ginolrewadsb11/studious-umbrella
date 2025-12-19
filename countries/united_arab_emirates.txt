@@ -3,8 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@38.180.27.102:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&pbk=CWeNg8bNNdCHYhjNl01BTevvPnHsXd736dymoBEsbBI&allowInsecure=1&type=tcp&headerType=none#🇦🇪 United Arab Emirates | M247 Europe SRL 1
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@38.180.27.102:8443?security=reality&encryption=none&pbk=CWeNg8bNNdCHYhjNl01BTevvPnHsXd736dymoBEsbBI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com#🇦🇪 United Arab Emirates | M247 Europe SRL 2
-vless://2409bf30-bf4f-006f-88a0-a548b291e88a@cloud.quattro-tech.ru:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=cloud.quattro-tech.ru&fp=&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇦🇪 United Arab Emirates | Melbikomas UAB 1

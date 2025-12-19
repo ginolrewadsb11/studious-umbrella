@@ -3,11 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@tr.horizono.xyz:443?security=reality&encryption=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=tr.horizono.xyz&sid=122218f4c1f172e4#🇹🇷 Türkiye | 365.partners INC 1
 vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&security=reality&sid=9c2378562188c3cb&sni=msk.capybara.press&type=tcp#🇹🇷 Türkiye | Coopertino - Skolkovo ... 1
-vless://2409bf30-bf4f-0092-88a0-a548b291e88a@cloud.quattro-tech.ru:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=cloud.quattro-tech.ru&fp=&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇹🇷 Türkiye | Datacamp 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCVHY3QzZ1TjFXYWo2M3R1NjRLUHZfandOR0gxLW12RA@77.83.245.220:8080#🇹🇷 Türkiye | Global Connectivity So... 1
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@mailru.ookcdn.ru:443?security=reality&encryption=none&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru#🇹🇷 Türkiye | Global Connectivity So... 2
-vmess://eyJ2IjoiMiIsInBzIjoi8J+RifCfhpQgQHYycmF5X2NvbmZpZ3NfcG9vbCDwn5OhIPCfh7fwn4e6UlVfMSDwn6etIDUuME1CL3MiLCJhZGQiOiI0NS44OS41Mi4yMDciLCJwb3J0IjoiMzk2NTEiLCJpZCI6ImFjNGMxMmM1LTQ1ZjItNDM5OC1hNzE4LTk5ODM5NDFlZGUyYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIifQ==#🇹🇷 Türkiye | WorkTitans B.V. 1
