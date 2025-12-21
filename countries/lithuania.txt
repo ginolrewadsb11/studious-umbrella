@@ -3,12 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsfCfh7kgQm9iaVZQTiDigJQgTGl0aHVhbmlhCuKaoSA3INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+HsfCfh7kgQm9iaVZQTiDigJQgTGl0aHVhbmlhCuKaoSA0INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.237.185.89:990#🇱🇹 Lithuania | BrainStorm Network, Inc 1
-vless://8e2cc81d-7ac4-4352-a7b5-bbfcfa81e49e@ltu01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=8453e5fd9af927&spx=%2F&type=tcp&headerType=none#🇱🇹 Lithuania | Global Connectivity So... 1
-vless://7fb879c5-63cc-4565-a648-430022f017ba@li.intfreed.ru:11443?security=reality&type=grpc&headerType=&serviceName=&authority=&mode=gun&sni=video.intfreed.ru&fp=qq&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#🇱🇹 Lithuania | Global Connectivity So... 2
-vless://7fb879c5-63cc-4565-a648-430022f017ba@li.intfreed.ru:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=video.intfreed.ru&fp=qq&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#🇱🇹 Lithuania | Global Connectivity So... 3
-vless://54326e1f-4974-46b6-8b8d-1d78c91d7a6a@lt.quattro-tech.ru:10167?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=edge&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇱🇹 Lithuania | UAB Cherry Servers 1
-vless://54326e1f-4974-46b6-8b8d-1d78c91d7a6a@lt.quattro-tech.ru:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=lt.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇱🇹 Lithuania | UAB Cherry Servers 2
-vless://f016135c-f710-4d5c-82f7-2a7a14796deb@51.250.45.71:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BMwJ07HcM0uN_mcE7UPsBAXxbPSh3VUueBEYyfmMin8&security=reality&sid=70829e86e92b7f&sni=eh.vk.com&type=tcp#🇱🇹 Lithuania | WorkTitans B.V. 1
+vless://54326e1f-4974-46b6-8b8d-1d78c91d7a6a@lt.quattro-tech.ru:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=lt.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇱🇹 Lithuania | UAB Cherry Servers 1
+vless://54326e1f-4974-46b6-8b8d-1d78c91d7a6a@lt.quattro-tech.ru:10167?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=edge&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇱🇹 Lithuania | UAB Cherry Servers 2
+vless://f016135c-f710-4d5c-82f7-2a7a14796deb@51.250.45.71:443?type=tcp&security=reality&pbk=BMwJ07HcM0uN_mcE7UPsBAXxbPSh3VUueBEYyfmMin8&fp=chrome&sni=eh.vk.com&sid=70829e86e92b7f&spx=%2F&flow=xtls-rprx-vision#🇱🇹 Lithuania | WorkTitans B.V. 1
