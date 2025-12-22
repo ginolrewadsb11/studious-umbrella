@@ -7,6 +7,6 @@
 
 vless://7503171c-a602-0016-b82f-88aaf1ce9992@cloud.quattro-tech.ru:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=cloud.quattro-tech.ru&fp=&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🌍 Azerbaijan | Delta Telecom 1
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?encryption=none&packetEncoding=xudp#🌍 Azerbaijan | G-Core Labs S.A. 1
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?encryption=none&security=none&type=tcp&headerType=none#🌍 Azerbaijan | G-Core Labs S.A. 2
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?encryption=none&packetEncoding=xudp#🌍 Azerbaijan | G-Core Labs S.A. 3
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&type=tcp#🌍 Azerbaijan | G-Core Labs S.A. 2
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&type=tcp#🌍 Azerbaijan | G-Core Labs S.A. 3
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?encryption=none&packetEncoding=xudp#🌍 Azerbaijan | G-Core Labs S.A. 4
