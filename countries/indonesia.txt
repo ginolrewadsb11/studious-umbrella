@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
+vless://2ec01a64-4c04-4b66-ad4d-860d6916b76b@lavenderblush.qzz.io:443?encryption=none&security=tls&sni=lavenderblush.qzz.io&insecure=0&allowInsecure=0&type=ws&path=%2F43.218.77.16%3A443#🌍 Indonesia | Amazon.com, 1
+vless://2ec01a64-4c04-4b66-ad4d-860d6916b76b@lavenderblush.qzz.io:443?path=%2F43.218.77.16%3A443&security=tls&encryption=none&type=ws&sni=lavenderblush.qzz.io#🌍 Indonesia | Amazon.com, 2
+vless://fc4706af-c9c8-478c-b1a1-394fb0157d63@lavenderblush.qzz.io:443?encryption=none&security=tls&sni=lavenderblush.qzz.io&insecure=0&allowInsecure=0&type=ws&path=%2F31.97.50.106%3A443#🌍 Indonesia | Hostinger International 1
+vless://fc4706af-c9c8-478c-b1a1-394fb0157d63@lavenderblush.qzz.io:443?path=%2F31.97.50.106%3A443&security=tls&encryption=none&type=ws&sni=lavenderblush.qzz.io#🌍 Indonesia | Hostinger International 2
+vless://01f4cee2-a293-4a31-9a3f-c5dd4038bcea@lavenderblush.qzz.io:443?path=%2F156.244.1.250%3A8443&security=tls&encryption=none&type=ws&sni=lavenderblush.qzz.io#🌍 Indonesia | Kaopu Cloud HK 1
+vless://01f4cee2-a293-4a31-9a3f-c5dd4038bcea@lavenderblush.qzz.io:443?encryption=none&security=tls&sni=lavenderblush.qzz.io&insecure=0&allowInsecure=0&type=ws&path=%2F156.244.1.250%3A8443#🌍 Indonesia | Kaopu Cloud HK 2
 vless://7503171c-a602-0040-b82f-88aaf1ce9992@cloud.quattro-tech.ru:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=cloud.quattro-tech.ru&fp=&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🌍 Indonesia | PT Herza Digital Indon... 1
