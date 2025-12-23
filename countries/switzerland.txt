@@ -3,12 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://39c981ad-0590-4fe2-abf5-e304023ef764@che01-vlr01.tcp-reset-club.net:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31&spx=%2F#🇨🇭 Switzerland | Alexhost SRL 1
-vless://8e2cc81d-7ac4-4352-a7b5-bbfcfa81e49e@che01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=e499f276e7bd6420&spx=%2F&type=tcp&headerType=none#🇨🇭 Switzerland | Alexhost SRL 2
+vless://8e2cc81d-7ac4-4352-a7b5-bbfcfa81e49e@che01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=e499f276e7bd6420&spx=%2F&type=tcp&headerType=none#🇨🇭 Switzerland | Alexhost SRL 1
+vless://39c981ad-0590-4fe2-abf5-e304023ef764@che01-vlr01.tcp-reset-club.net:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&spx=%2F#🇨🇭 Switzerland | Alexhost SRL 2
 vless://7503171c-a602-4663-b82f-88aaf1ce9992@ch.quattro-tech.ru:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=ch.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇨🇭 Switzerland | CH.VTX LIR Range 1
-ss://YWVzLTEyOC1nY206c01ORXV2RWZSUllOZkNiR0NzMUZwdw==@bd-rez.intfreed.ru:443#🇨🇭 Switzerland | Infomaniak Network Man... 1
-vless://b30d10d0-6a2f-4f59-a36b-cd3a61b8a35a@swiss.intfreed.ru:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=swiss.video.intfreed.ru&fp=qq&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#🇨🇭 Switzerland | Infomaniak Network Man... 2
-ss://YWVzLTEyOC1nY206c01ORXV2RWZSUllOZkNiR0NzMUZwdw@bd-rez.intfreed.ru:443#🇨🇭 Switzerland | Infomaniak Network Man... 3
+vless://a0af2643-a236-463c-8056-3f71d05eed53@104.18.15.19:80?path=/?ed=2560&security=none&encryption=none&host=shomal-g74f3znf-v2.shomal-321.workers.dev&fp=randomized&type=ws#🇨🇭 Switzerland | Datasource AG 1
+ss://YWVzLTEyOC1nY206c01ORXV2RWZSUllOZkNiR0NzMUZwdw@bd-rez.intfreed.ru:443#🇨🇭 Switzerland | Infomaniak Network Man... 1
+ss://YWVzLTEyOC1nY206c01ORXV2RWZSUllOZkNiR0NzMUZwdw==@bd-rez.intfreed.ru:443#🇨🇭 Switzerland | Infomaniak Network Man... 2
+vless://b30d10d0-6a2f-4f59-a36b-cd3a61b8a35a@swiss.intfreed.ru:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=swiss.video.intfreed.ru&fp=qq&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#🇨🇭 Switzerland | Infomaniak Network SA 1
 vless://a91e64f0-9295-499d-bf4a-661ad99d4938@switzerland.geodema.network:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=switzerland.geodema.network&sid=1ed136481e0ede74#🇨🇭 Switzerland | M247 Europe SRL 1
