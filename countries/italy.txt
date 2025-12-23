@@ -5,13 +5,13 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDEwINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-trojan://jDKgCAysZceRJ+IVv-t69w.p8=mB@172.238.237.107:19973/?type=tcp&amp;security=tls&amp;sni=www.vk.com&amp;fp=chrome#🇮🇹 Italy | Akamai Technologies, 1
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=api.avito.ru#🇮🇹 Italy | Akamai Technologies, 2
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=api.avito.ru#🇮🇹 Italy | Akamai Technologies, 1
+trojan://jDKgCAysZceRJ+IVv-t69w.p8=mB@172.238.237.107:19973?sni=www.vk.com&allowInsecure=1&fp=chrome#🇮🇹 Italy | Akamai Technologies, 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA@176.126.83.121:443#🇮🇹 Italy | BrainStorm Network, Inc 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.126.83.158:990#🇮🇹 Italy | BrainStorm Network, Inc 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@212.102.54.45:990#🇮🇹 Italy | Datacamp 1
 vless://7503171c-a602-4663-b82f-88aaf1ce9992@it.quattro-tech.ru:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=it.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇮🇹 Italy | Interkvm Host SRL 1
 vless://a91e64f0-9295-499d-bf4a-661ad99d4938@italy.geodema.network:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=italy.geodema.network&sid=1ed136481e0ede74#🇮🇹 Italy | Kamatera, 1
-vless://39c981ad-0590-4fe2-abf5-e304023ef764@ita01-vlr01.tcp-reset-club.net:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=8453e5fd9af927&spx=%2F#🇮🇹 Italy | WorkTitans B.V. 1
+vless://39c981ad-0590-4fe2-abf5-e304023ef764@ita01-vlr01.tcp-reset-club.net:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31&spx=%2F#🇮🇹 Italy | WorkTitans B.V. 1
 vless://8e2cc81d-7ac4-4352-a7b5-bbfcfa81e49e@ita01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31&spx=%2F&type=tcp&headerType=none#🇮🇹 Italy | WorkTitans B.V. 2
 vless://ba4b6c41-7867-4cff-94ea-fcc8e2e0dbf9@italy.sbrf-cdn342.ru:4241?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=google.com&fp=&pbk=-8Dc8Dm5YzxVvllu8W5Uc7N9rq27_A3McxYXArNyJQs&sid=0a381e1fa219#🇮🇹 Italy | WorkTitans B.V. 3
