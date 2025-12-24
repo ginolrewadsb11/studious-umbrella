@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh74gQm9iaVZQTiDigJQgQmVsYXJ1cwrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh74gQm9iaVZQTiDigJQgQmVsYXJ1cwrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://7503171c-a602-4663-b82f-88aaf1ce9992@by.quattro-tech.ru:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=by.quattro-tech.ru&fp=&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇧🇾 Belarus | Itglobalcom BEL 1
+vless://bdde5131-0d94-4f87-8b5c-00d6ad8951b4@by.quattro-tech.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=by.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none&name=865+%7C+%F0%9F%8C%8D+Unknown+%7C+VLESS+%7C+TG%3A+%40YoutubeUnBlockRu#🇧🇾 Belarus | Itglobalcom BEL 1
+vless://7503171c-a602-4663-b82f-88aaf1ce9992@by.quattro-tech.ru:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=by.quattro-tech.ru&fp=&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇧🇾 Belarus | Itglobalcom BEL 2
+vless://f8ec2de6-b920-4019-ba04-77da8ce1b913@by.adr-cloud.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=qq&pbk=oL_5X9oIPHjUBjNTxxYJOk--hilANokOzUnerzeckBE&sid=84ba23f181dd9a15&type=tcp&headerType=none&name=697+%7C+%F0%9F%8C%8D+Unknown+%7C+VLESS+%7C+TG%3A+%40YoutubeUnBlockRu#🇧🇾 Belarus | Mobile TeleSystems J 1
