@@ -1,3 +1,10 @@
+#profile-update-interval: 1
+#profile-title: 🐶BobiVPN🐶
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
+#support-url: https://bobivpn.netlify.app/
+#profile-web-page-url: https://bobivpn.netlify.app/
+#announce: base64:8J+QtiBCb2JpVlBOIOKAlCDQkdGL0YHRgtGA0YvQuSDQuCDQndCw0LTRkdC20L3Ri9C5CvCfj4Yg0KLQvtC/0L7QstGL0LUg0YHQtdGA0LLQtdGA0Ys=
+
 vless://dcddd89c-aeca-4824-a680-d88f96510e9f@176.108.242.76:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.rutube.ru&sid=048fe5c8be4bb687#🇷🇺 Russia | "Cloud Technologies"  ... 1
 vless://13d36378-f639-4b45-bcf0-3ebc84569ab1@176.108.242.76:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=95ec618532fa065e&sni=www.rutube.ru&type=tcp#🇷🇺 Russia | "Cloud Technologies"  ... 2
 vless://f6fa6a7e-fed7-4766-b35a-63f9937c9bbb@176.109.105.79:10167?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=ozon.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇷🇺 Russia | "Cloud Technologies"  ... 3
