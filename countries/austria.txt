@@ -3,11 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://f6fa6a7e-fed7-0067-b35a-63f9937c9bbb@cloud.quattro-tech.ru:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=cloud.quattro-tech.ru&fp=&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇦🇹 Austria | EDIS GmbH 1
 vless://52aa4a12-892d-4a29-be2b-efe1717b1dcc@195.133.88.228:30326?encryption=none&fp=chrome&pbk=OGdmH9sTKUt8EYv3qd_R01Ck0KDCLQNlKiYcXrmSFkY&security=reality&sid=786a49cf4b2655a0&sni=yandex.ru&type=tcp#🇦🇹 Austria | Global Connectivity So... 1
-vless://52aa4a12-892d-4a29-be2b-efe1717b1dcc@195.133.88.228:30326?type=tcp&security=reality&sni=yandex.ru&fp=chrome&pbk=OGdmH9sTKUt8EYv3qd_R01Ck0KDCLQNlKiYcXrmSFkY&sid=786a49cf4b2655a0#🇦🇹 Austria | Global Connectivity So... 2
-vless://b6c457ae-1251-4566-a6ac-2464c17838c5@cloudav.noped.online:443?encryption=none&fp=chrome&pbk=sIBL9uK_8LpZIng7IltNLUAEDYqxEr8kA7IKINxxdwI&security=reality&serviceName=example-grpc&sid=9999&sni=cloudav.noped.online&type=grpc&name=1206+%7C+%F0%9F%8C%90+Unknown+%7C+VLESS+%7C+TG%3A+%40YoutubeUnBlockRu#🇦🇹 Austria | netcup GmbH 1
+vless://52aa4a12-892d-4a29-be2b-efe1717b1dcc@195.133.88.228:30326?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=OGdmH9sTKUt8EYv3qd_R01Ck0KDCLQNlKiYcXrmSFkY&sni=yandex.ru&sid=786a49cf4b2655a0&spx=%2F#🇦🇹 Austria | Global Connectivity So... 2
+vless://b6c457ae-1251-4566-a6ac-2464c17838c5@cloudav.noped.online:443?security=reality&type=grpc&headerType=&authority=&serviceName=example-grpc&mode=multi&sni=cloudav.noped.online&fp=random&pbk=sIBL9uK_8LpZIng7IltNLUAEDYqxEr8kA7IKINxxdwI&sid=9999&spx=%2Fpath#🇦🇹 Austria | netcup GmbH 1
 vless://b6c457ae-1251-4566-a6ac-2464c17838c5@cloudav.noped.online:443?encryption=none&fp=chrome&pbk=sIBL9uK_8LpZIng7IltNLUAEDYqxEr8kA7IKINxxdwI&security=reality&serviceName=example-grpc&sid=9999&sni=cloudav.noped.online&type=grpc&name=1206+%7C+%F0%9F%8C%90+Unknown+%7C+VLESS+%7C+TG%3A+%40YoutubeUnBlockRu#🇦🇹 Austria | netcup GmbH 2
-vless://b6c457ae-1251-4566-a6ac-2464c17838c5@cloudav.noped.online:443?security=reality&type=grpc&headerType=&authority=&serviceName=example-grpc&mode=multi&sni=cloudav.noped.online&fp=random&pbk=sIBL9uK_8LpZIng7IltNLUAEDYqxEr8kA7IKINxxdwI&sid=9999&spx=%2Fpath#🇦🇹 Austria | netcup GmbH 3
+vless://b6c457ae-1251-4566-a6ac-2464c17838c5@cloudav.noped.online:443?encryption=none&fp=chrome&pbk=sIBL9uK_8LpZIng7IltNLUAEDYqxEr8kA7IKINxxdwI&security=reality&serviceName=example-grpc&sid=9999&sni=cloudav.noped.online&type=grpc&name=1206+%7C+%F0%9F%8C%90+Unknown+%7C+VLESS+%7C+TG%3A+%40YoutubeUnBlockRu#🇦🇹 Austria | netcup GmbH 3
