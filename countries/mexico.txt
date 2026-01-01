@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNZXhpY28K4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://f6fa6a7e-fed7-0065-b35a-63f9937c9bbb@cloud.quattro-tech.ru:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=cloud.quattro-tech.ru&fp=&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🌍 Mexico | Sondatech S.A.S. 1
-trojan://bMJKkQZ1xHhlBjVo_wSiPUmCGRvEn@216.238.69.216:25121/?type=tcp&security=tls&sni=vk.com&fp=chrome#🌍 Mexico | The Constant Company 1
-trojan://bMJKkQZ1xHhlBjVo_wSiPUmCGRvEn@216.238.79.82:25121/?type=tcp&security=tls&sni=ya.ru#🌍 Mexico | The Constant Company 2
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?allowInsecure=1&encryption=none&path=%2Fvless%2F&security=tls&type=ws&name=0651+%7C+%F0%9F%8C%90+Unknown+%7C+VLESS+%7C+TG%3A+%40YoutubeUnBlockRu#🌍 Mexico | Latitude.sh 1
+trojan://bMJKkQZ1xHhlBjVo_wSiPUmCGRvEn@216.238.79.82:25121/?type=tcp&security=tls&sni=ya.ru#🌍 Mexico | The Constant Company 1
+trojan://bMJKkQZ1xHhlBjVo_wSiPUmCGRvEn@216.238.69.216:25121/?type=tcp&security=tls&sni=vk.com&fp=chrome#🌍 Mexico | The Constant Company 2
