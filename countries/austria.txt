@@ -3,8 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://94e25e2b-ffc8-453d-a08c-1f5c3c249755@aut-0001-xr.packet-drop-society.net:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=8453e5fd9af927&spx=%2F#🇦🇹 Austria | Global Connectivity So... 1
-vless://41f75eba-8d27-4155-9402-fdf3a2c3adca@cloudav.noped.online:443?security=reality&type=grpc&headerType=&authority=&serviceName=example-grpc&mode=multi&sni=cloudav.noped.online&fp=random&pbk=sIBL9uK_8LpZIng7IltNLUAEDYqxEr8kA7IKINxxdwI&sid=9999&spx=%2Fpath#🇦🇹 Austria | netcup GmbH 1
+vless://94e25e2b-ffc8-453d-a08c-1f5c3c249755@aut-0001-xr.packet-drop-society.net:443?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=8453e5fd9af927&spx=%2F&name=0871+%7C+%F0%9F%8C%90+Unknown+%7C+VLESS+%7C+TG%3A+%40YoutubeUnBlockRu#🇦🇹 Austria | Global Connectivity So... 1
+vless://94e25e2b-ffc8-453d-a08c-1f5c3c249755@aut-0001-xr.packet-drop-society.net:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=8453e5fd9af927&spx=%2F#🇦🇹 Austria | Global Connectivity So... 2
+vless://423befe4-3360-4889-9e5d-a094406407e3@at.ultima.foundation:22231?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=#🇦🇹 Austria | netcup GmbH 1
+vless://41f75eba-8d27-4155-9402-fdf3a2c3adca@cloudav.noped.online:443?security=reality&type=grpc&serviceName=example-grpc&mode=multi&sni=cloudav.noped.online&fp=random&pbk=sIBL9uK_8LpZIng7IltNLUAEDYqxEr8kA7IKINxxdwI&sid=9999&spx=%2Fpath&name=0704+%7C+%F0%9F%8C%90+Unknown+%7C+VLESS+%7C+TG%3A+%40YoutubeUnBlockRu#🇦🇹 Austria | netcup GmbH 2
+vless://41f75eba-8d27-4155-9402-fdf3a2c3adca@cloudav.noped.online:443?security=reality&type=grpc&headerType=&authority=&serviceName=example-grpc&mode=multi&sni=cloudav.noped.online&fp=random&pbk=sIBL9uK_8LpZIng7IltNLUAEDYqxEr8kA7IKINxxdwI&sid=9999&spx=%2Fpath#🇦🇹 Austria | netcup GmbH 3
+vless://423befe4-3360-4889-9e5d-a094406407e3@at.ultima.foundation:22231?security=reality&type=tcp&flow=xtls-rprx-vision&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&name=1042+%7C+%F0%9F%8C%90+Unknown+%7C+VLESS+%7C+TG%3A+%40YoutubeUnBlockRu#🇦🇹 Austria | netcup GmbH 4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YTg1YjI0OTI4NmE3NGE5@196.245.238.34:57456#🇦🇹 Austria | Orion Network 1
