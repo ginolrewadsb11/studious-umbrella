@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://4e75d4d3-d979-0067-b484-a4d5398a6b33@cloud.quattro-tech.ru:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=cloud.quattro-tech.ru&fp=&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇦🇹 Austria | EDIS GmbH 1
-vless://41f75eba-8d27-4155-9402-fdf3a2c3adca@cloudav.noped.online:443?security=reality&type=grpc&headerType=&authority=&serviceName=example-grpc&mode=multi&sni=cloudav.noped.online&fp=random&pbk=sIBL9uK_8LpZIng7IltNLUAEDYqxEr8kA7IKINxxdwI&sid=1111&spx=%2Fpath#🇦🇹 Austria | netcup GmbH 1
+vless://94e25e2b-ffc8-453d-a08c-1f5c3c249755@aut-0001-xr.packet-drop-society.net:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=8453e5fd9af927&spx=%2F#🇦🇹 Austria | Global Connectivity So... 1
+vless://41f75eba-8d27-4155-9402-fdf3a2c3adca@cloudav.noped.online:443?security=reality&type=grpc&headerType=&authority=&serviceName=example-grpc&mode=multi&sni=cloudav.noped.online&fp=random&pbk=sIBL9uK_8LpZIng7IltNLUAEDYqxEr8kA7IKINxxdwI&sid=9999&spx=%2Fpath#🇦🇹 Austria | netcup GmbH 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YTg1YjI0OTI4NmE3NGE5@196.245.238.34:57456#🇦🇹 Austria | Orion Network 1
