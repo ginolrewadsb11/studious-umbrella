@@ -3,10 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://854eea7a-c834-4f62-9e17-ae63d1086f36@sw1.krasivovpn.ru:443?security=reality&type=tcp&headerType=&path=&host=&sni=deepl.com&fp=chrome&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&spx=%2Fexample#🇨🇭 Switzerland | Alexhost SRL 1
-vless://4e75d4d3-d979-431e-b484-a4d5398a6b33@ch.quattro-tech.ru:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=ch.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇨🇭 Switzerland | CH.VTX LIR Range 1
+vless://98dc8a17-0e58-4270-8407-95869d24bb5c@104.17.148.22:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=Parsa-0ShPE1.pARsa-E06.wOrkERs.Dev&sni=Parsa-0ShPE1.pARsa-E06.wOrkERs.Dev&fp=chrome&encryption=none#🇨🇭 Switzerland | Datasource AG 1
 vless://a91e64f0-9295-499d-bf4a-661ad99d4938@switzerland.geodema.network:443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=switzerland.geodema.network&sid=1ed136481e0ede74#🇨🇭 Switzerland | M247 Europe SRL 1
 vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?type=grpc&encryption=none&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&fp=chrome&security=reality&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&sid=9c8d68d581a08ea5#🇨🇭 Switzerland | Ontario 1
-vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&sid=910aab#🇨🇭 Switzerland | WorkTitans B.V. 1
+vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?security=reality&encryption=none&sni=www.microsoft.com&fp=chrome&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&sid=9c8d68d581a08ea5&type=grpc&serviceName=ecb7f0f50489f81cd1983a56&path=/#🇨🇭 Switzerland | Ontario 2
+vless://e500b0a1-dffa-4983-9217-484913715071@144.31.216.16:444/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.ru&security=reality&pbk=wMbKwMppoyj--v07kQdzy73hrnQ2MaM_WfVf4zVqJko&sid=6ba85179e30d4fc2#🇨🇭 Switzerland | SERV.HOST GROUP LTD 1
+vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@104.18.13.229:2052?encryption=none&security=none&type=ws&host=parking-nfchbwa1-v2.parking-1ab.workers.dev&path=/?ed=2560#🇨🇭 Switzerland | WorkTitans B.V. 1
