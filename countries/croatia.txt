@@ -1,9 +1,8 @@
 #profile-update-interval: 1
 #profile-title: 🇭🇷 BobiVPN Croatia
-#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1767225600
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrfCfh7cgQm9iaVZQTiDigJQgQ3JvYXRpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrfCfh7cgQm9iaVZQTiDigJQgQ3JvYXRpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozQ3pPUFNLTGFfdnZ6Q2dTZVBkSVd3@84.234.30.125:1084#🇭🇷 Croatia | Akton d.o.o. 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozQ3pPUFNLTGFfdnZ6Q2dTZVBkSVd3@pro.turbooserver.com:1084#🇭🇷 Croatia | Akton d.o.o. 2
+vless://3961c4a7-75dc-4ae1-8e4d-020bb3eff6e3@5.181.2.84:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=retn.net&fp=chrome&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&sid=6b374e33af12fd1e&type=tcp&headerType=none&host=prosto.pro1vpn.net&name=TG%3AYoutubeUnBlockRu#🇭🇷 Croatia | Global Connectivity So... 1
