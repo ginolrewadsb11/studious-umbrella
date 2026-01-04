@@ -3,8 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://04c9694e-657f-49b4-8f09-d5fc3e0d9127@uk2.srv.oplcdn.link:8443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=ign.dev&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇮🇪 Ireland | AV SERVICES 1
-vless://df0069ff-8af9-4a46-804c-f8d038d26afd@nl.connect-iskra.ru:443?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=cloudlane.xyz&fp=qq&pbk=b46-XOvKuFVg6gyU1c7bVrxx5y24blnFHWPl0CCDNx8&spx=%2F&sid=6a8f44cd52f26715&name=TG%3AYoutubeUnBlockRu#🇮🇪 Ireland | IBIS 1
+vless://04c9694e-657f-49b4-8f09-d5fc3e0d9127@31.57.56.213:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=ign.com&type=tcp#🇮🇪 Ireland | AV SERVICES 1
+vless://04c9694e-657f-49b4-8f09-d5fc3e0d9127@uk2.srv.oplcdn.link:8443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=ign.com&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇮🇪 Ireland | AV SERVICES 2
+vless://04c9694e-657f-49b4-8f09-d5fc3e0d9127@uk2.srv.oplcdn.link:8443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=ign.com&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&name=TG%3AYoutubeUnBlockRu#🇮🇪 Ireland | AV SERVICES 3
 vless://f1f737fb-39d9-0044-986f-0d2b2ed1b7d2@cloud.quattro-tech.ru:8443?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=cloud.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇮🇪 Ireland | Sternforth . trading a... 1
+vless://f1f737fb-39d9-0044-986f-0d2b2ed1b7d2@cloud.quattro-tech.ru:8443?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=cloud.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&name=TG%3AYoutubeUnBlockRu#🇮🇪 Ireland | Sternforth . trading a... 2

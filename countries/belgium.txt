@@ -3,7 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
+vless://69f1ac23-ceb0-4f20-bf26-0488fc0a897e@ru-cdn-cloud.ultima.foundation:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&fp=qq&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff&name=TG%3AYoutubeUnBlockRu#🇧🇪 Belgium | FDCservers.net 1
+vless://69f1ac23-ceb0-4f20-bf26-0488fc0a897e@ru-cdn-cloud.ultima.foundation:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&fp=qq&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff#🇧🇪 Belgium | FDCservers.net 2
 vless://f1f737fb-39d9-4c07-986f-0d2b2ed1b7d2@be.quattro-tech.ru:443?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=be.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇧🇪 Belgium | VERIXI SA 1
+vless://f1f737fb-39d9-4c07-986f-0d2b2ed1b7d2@be.quattro-tech.ru:443?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=be.quattro-tech.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&name=TG%3AYoutubeUnBlockRu#🇧🇪 Belgium | VERIXI SA 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ@45.83.20.206:443#🇧🇪 Belgium | WorkTitans B.V. 1
+vless://3fd4420f-545e-41a3-ac54-8d34054dc152@176.122.25.28:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=yjqm22-hoTcIMl6ugGIkgXxfdO7tvKhn_UIYQ9pnD34&security=reality&sid=a270053e&sni=belkacar.ru&type=tcp#🇧🇪 Belgium | WorkTitans B.V. 2
+vless://3fd4420f-545e-41a3-ac54-8d34054dc152@176.122.25.28:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=yjqm22-hoTcIMl6ugGIkgXxfdO7tvKhn_UIYQ9pnD34&security=reality&sid=a270053e&sni=belkacar.ru&type=tcp#🇧🇪 Belgium | WorkTitans B.V. 3
