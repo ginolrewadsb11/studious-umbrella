@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBTb3V0aCBBZnJpY2EK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBTb3V0aCBBZnJpY2EK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://367f63f6-8136-00a1-a062-c5c91500e5b3@cloud.quattro-tech.ru:8443?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=cloud.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🌍 South Africa | Datacamp 1
+vless://70598164-7e47-4bd2-99f0-84a6456fa75c@95.163.249.115:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=max.ru&type=tcp#🌍 South Africa | Sun Network Company 1
+vless://70598164-7e47-4bd2-99f0-84a6456fa75c@95.163.249.115:5443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#🌍 South Africa | Sun Network Company 2
