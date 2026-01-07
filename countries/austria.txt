@@ -3,12 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
+vless://2d5f3bea-9ec7-43ca-bd3e-cc21cac88803@at2.ultima.foundation:22231?security=reality&type=tcp&flow=xtls-rprx-vision&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=a9725715bf4c62ff#🇦🇹 Austria | ANX 1
 vless://367f63f6-8136-0067-a062-c5c91500e5b3@cloud.quattro-tech.ru:8443?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=cloud.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇦🇹 Austria | EDIS GmbH 1
-vless://2d5f3bea-9ec7-43ca-bd3e-cc21cac88803@at.ultima.foundation:22231?security=reality&type=tcp&flow=xtls-rprx-vision&sni=at.ultima.foundation&fp=edge&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng#🇦🇹 Austria | netcup GmbH 1
 vless://7005f499-036f-4570-a2a1-29761cfbbd9e@196.245.238.34:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=THd83pRAiz68QKKNCzCdj3hvVq9Wy7NIFeIk1WjRJ1c&security=reality&sid=15cdd4ff88310cf0&sni=desrv.fasti.win&type=tcp#🇦🇹 Austria | Orion Network 1
 vless://7005f499-036f-4570-a2a1-29761cfbbd9e@196.245.238.34:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=THd83pRAiz68QKKNCzCdj3hvVq9Wy7NIFeIk1WjRJ1c&security=reality&sid=15cdd4ff88310cf0&sni=desrv.fasti.win&type=tcp#🇦🇹 Austria | Orion Network 2
-vless://7005f499-036f-4570-a2a1-29761cfbbd9e@196.245.238.34:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=THd83pRAiz68QKKNCzCdj3hvVq9Wy7NIFeIk1WjRJ1c&security=reality&sid=15cdd4ff88310cf0&sni=desrv.fasti.win&type=tcp#🇦🇹 Austria | Orion Network 3
-vless://0d93b787-b66b-4696-a036-a0f549764f69@desrv.fasti.win:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=THd83pRAiz68QKKNCzCdj3hvVq9Wy7NIFeIk1WjRJ1c&security=reality&sid=15cdd4ff88310cf0&sni=desrv.fasti.win&type=tcp&name=TG%3AYoutubeUnBlockRu#🇦🇹 Austria | Orion Network 4
-vless://7005f499-036f-4570-a2a1-29761cfbbd9e@desrv.fasti.win:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=desrv.fasti.win&fp=chrome&pbk=THd83pRAiz68QKKNCzCdj3hvVq9Wy7NIFeIk1WjRJ1c&sid=15cdd4ff88310cf0&type=tcp&headerType=none#🇦🇹 Austria | Orion Network 5
+vless://0d93b787-b66b-4696-a036-a0f549764f69@196.245.238.34:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=THd83pRAiz68QKKNCzCdj3hvVq9Wy7NIFeIk1WjRJ1c&security=reality&sid=15cdd4ff88310cf0&sni=desrv.fasti.win&type=tcp#🇦🇹 Austria | Orion Network 3
+vless://7005f499-036f-4570-a2a1-29761cfbbd9e@196.245.238.34:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=THd83pRAiz68QKKNCzCdj3hvVq9Wy7NIFeIk1WjRJ1c&security=reality&sid=15cdd4ff88310cf0&sni=desrv.fasti.win&type=tcp#🇦🇹 Austria | Orion Network 4
