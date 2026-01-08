@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://932fbc77-4dff-4607-8b69-50d6580331a3@uk2.srv.oplcdn.link:8443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=ign.dev&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇮🇪 Ireland | AV SERVICES 1
+vless://932fbc77-4dff-4607-8b69-50d6580331a3@uk2.srv.oplcdn.link:8443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=ign.com&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇮🇪 Ireland | AV SERVICES 1
+vless://b36c3c07-dfc3-497f-9338-8f32d808592f@84.201.130.91:4241?security=reality&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇮🇪 Ireland | IBIS 1
+vless://b36c3c07-dfc3-497f-9338-8f32d808592f@elastic.sbrf-cdn342.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇮🇪 Ireland | IBIS 2
+vless://b36c3c07-dfc3-497f-9338-8f32d808592f@educated-4.sbrf-cdn342.ru:4241?security=reality&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇮🇪 Ireland | IBIS 3
