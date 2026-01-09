@@ -3,13 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://d5d5b641-dd56-4f39-9754-8d3c45cc2c5e@103.80.86.254:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#🇺🇦 Ukraine | Individual Entrepreneu... 1
 vless://7589b171-6e9d-48d1-8513-7c7a7735f3c8@46.235.191.229:443?path=%2Fstream%2Flive&security=tls&encryption=none&host=narutan.ufavpn.ru&fp=qq&allowinsecure=1&type=ws&sni=narutan.ufavpn.ru#🇺🇦 Ukraine | IT HOSTLINE LTD 1
 vless://5ccbcfca-1f87-4819-86e6-49e58daba2fd@fr.prod.n7.homes:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&fp=chrome&type=tcp&sni=sun6-21.userapi.com&sid=3ca620a7ed5f3196#🇺🇦 Ukraine | IT HOSTLINE LTD 2
-vless://5ccbcfca-1f87-4819-86e6-49e58daba2fd@de.prod.n7.homes:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&fp=chrome&type=tcp&sni=sun6-21.userapi.com&sid=3ca620a7ed5f3196#🇺🇦 Ukraine | IT HOSTLINE LTD 3
-vless://7589b171-6e9d-48d1-8513-7c7a7735f3c8@narutan.ufavpn.ru:443?path=%2Fstream%2Flive&security=tls&encryption=none&host=narutan.ufavpn.ru&fp=qq&allowinsecure=0&type=ws&sni=narutan.ufavpn.ru#🇺🇦 Ukraine | IT HOSTLINE LTD 4
+vless://7589b171-6e9d-48d1-8513-7c7a7735f3c8@narutan.ufavpn.ru:443?path=%2Fstream%2Flive&security=tls&encryption=none&host=narutan.ufavpn.ru&fp=qq&allowinsecure=0&type=ws&sni=narutan.ufavpn.ru#🇺🇦 Ukraine | IT HOSTLINE LTD 3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjdmYWVkOGE5Yjk4YmQw@163.171.137.72:11201#🇺🇦 Ukraine | Meteverse . 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjdmYWVkOGE5Yjk4YmQw@163.171.137.72:11201#🇺🇦 Ukraine | Meteverse . 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5VlpvREdUaXZJdGFHV1ZSbkNCYndnSUZvWncwMk1nMzkwSzBOaVdOVzV0SFRqbFY@194.38.23.137:31348#🇺🇦 Ukraine | Rices Privately owned ... 1
