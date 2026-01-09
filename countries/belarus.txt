@@ -3,8 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh74gQm9iaVZQTiDigJQgQmVsYXJ1cwrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh74gQm9iaVZQTiDigJQgQmVsYXJ1cwrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://75fbc7a6-b1c0-4f9f-aff7-166d1770d93b@by.adr-cloud.ru:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=qq&pbk=oL_5X9oIPHjUBjNTxxYJOk--hilANokOzUnerzeckBE&sid=84ba23f181dd9a15#🇧🇾 Belarus | Mobile TeleSystems J 1
+vless://75fbc7a6-b1c0-4f9f-aff7-166d1770d93b@by.adr-cloud.ru:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=qq&pbk=oL_5X9oIPHjUBjNTxxYJOk--hilANokOzUnerzeckBE&sid=84ba23f181dd9a15#🇧🇾 Belarus | Mobile TeleSystems J 2
 vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@by.cdn.titun.su:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=by.cdn.titun.su&fp=qq&pbk=0L6FE1vTechnKhN9LxFgmcDzqGVIfEQz8ZBGfvzKGzg&sid=0273d62b9b0b742a&packetEncoding=xudp#🇧🇾 Belarus | Republican Unitary Tel... 1
 vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@by.cdn.titun.su:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=by.cdn.titun.su&fp=qq&pbk=0L6FE1vTechnKhN9LxFgmcDzqGVIfEQz8ZBGfvzKGzg&sid=0273d62b9b0b742a&packetEncoding=xudp#🇧🇾 Belarus | Republican Unitary Tel... 2
+vless://cf1a37bc-140b-4a3a-a18c-10c9f87eaad6@by.cdn.titun.su:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=by.cdn.titun.su&fp=qq&pbk=0L6FE1vTechnKhN9LxFgmcDzqGVIfEQz8ZBGfvzKGzg&spx=%2F&sid=9d43fd0a79881e70#🇧🇾 Belarus | Republican Unitary Tel... 3
