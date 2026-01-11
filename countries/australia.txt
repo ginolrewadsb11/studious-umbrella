@@ -3,19 +3,14 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7ogQm9iaVZQTiDigJQgQXVzdHJhbGlhCuKaoSAxNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7ogQm9iaVZQTiDigJQgQXVzdHJhbGlhCuKaoSA5INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODMyMmU0YjkzNDg3MGI2@154.26.156.99:47386#🇦🇺 Australia | Cogent Communications 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODMyMmU0YjkzNDg3MGI2@154.26.156.99:47386#🇦🇺 Australia | Cogent Communications 2
-vless://2053d74c-2a3b-453b-b665-8e25142a7569@162.159.138.90:443?security=tls&type=ws&path=%2Fassets&host=shiny.revilseptember.workers.dev&alpn=http%2F1.1&sni=Shiny.REvilSeptembEr.WorkErs.dEv&fp=chrome&encryption=none#🇦🇺 Australia | Macquarie Telecom 1
+vless://2053d74c-2a3b-453b-b665-8e25142a7569@104.20.5.134:443?security=tls&type=ws&path=/socks5://8.222.249.27:1100&host=shiny.revilseptember.workers.dev&sni=shiny.revilseptember.workers.dev&fp=randomized&encryption=none#🇦🇺 Australia | Macquarie Telecom 1
 vmess://ewogICAgImFkZCI6ICJzeTQuNjIwNzIwLnh5eiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInN5NC42MjA3MjAueHl6IiwKICAgICJpZCI6ICI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xNzIuNjcuMTk3LjQ3LTA0MTUiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==#🇦🇺 Australia | Oracle 1
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhW3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtQVUtMTEzMzc3MjMiLCJhZGQiOiJzeTQuNjIwNzIwLnh5eiIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNTE2ZDhhN2EtM2YwYi00MWQzLWJhZDAtMjQ2MTE2MzgxNTE2IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6InN5NC42MjA3MjAueHl6IiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇦🇺 Australia | Oracle 2
-vless://1bea439e-3014-4e90-abcc-0d85a33834dd@5.129.195.197:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oudoaW_d0OpRTxVsWEJJf1BVZ5_R9Y9SCSl8pwRx5yE&security=reality&sid=30531914bddc70c8&sni=hello.opengate.tech&type=tcp#🇦🇺 Australia | OVH SAS 1
-vless://1bea439e-3014-4e90-abcc-0d85a33834dd@5.129.195.197:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oudoaW_d0OpRTxVsWEJJf1BVZ5_R9Y9SCSl8pwRx5yE&security=reality&sid=30531914bddc70c8&sni=hello.opengate.tech&type=tcp#🇦🇺 Australia | OVH SAS 2
-vless://1bea439e-3014-4e90-abcc-0d85a33834dd@5.129.195.197:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oudoaW_d0OpRTxVsWEJJf1BVZ5_R9Y9SCSl8pwRx5yE&security=reality&sid=30531914bddc70c8&sni=hello.opengate.tech&type=tcp#🇦🇺 Australia | OVH SAS 3
-vless://f29c2f88-e9df-4849-b810-670db4ffa0fc@au.connect-opengate.cv:8443?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=hello.opengate.tech&fp=qq&pbk=oudoaW_d0OpRTxVsWEJJf1BVZ5_R9Y9SCSl8pwRx5yE&spx=%2F&sid=30531914bddc70c8#🇦🇺 Australia | OVH SAS 4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#🇦🇺 Australia | UpCloud 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ@95.111.222.113:443#🇦🇺 Australia | UpCloud 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#🇦🇺 Australia | UpCloud 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ@95.111.222.113:443#🇦🇺 Australia | UpCloud 4
+vless://f29c2f88-e9df-4849-b810-670db4ffa0fc@au.connect-opengate.cv:8443?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=hello.opengate.tech&fp=qq&pbk=oudoaW_d0OpRTxVsWEJJf1BVZ5_R9Y9SCSl8pwRx5yE&spx=%2F&sid=30531914bddc70c8#🇦🇺 Australia | OVH SAS 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ@95.111.222.113:443#🇦🇺 Australia | UpCloud 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#🇦🇺 Australia | UpCloud 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ@95.111.222.113:443#🇦🇺 Australia | UpCloud 3
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.15.185.69:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#🇦🇺 Australia | WorkTitans B.V. 1

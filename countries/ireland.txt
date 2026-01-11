@@ -3,8 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://cf1a37bc-140b-4a3a-a18c-10c9f87eaad6@ie.cdn.stun.su:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=ie.cdn.stun.su&fp=qq&pbk=0ebq2jNFPvHs8HvOoCViKBLnUdhSDd1bG9Jeb7f_82k&spx=%2F&sid=f189d91760bb6663#🇮🇪 Ireland | Global Connectivity So... 1
+vless://d811ecf9-4029-4794-a43e-3611c3575b9e@34.254.224.37:48056?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=www.bing.com&sni=34.254.224.37#🇮🇪 Ireland | Amazon Technologies 1
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🇮🇪 Ireland | M247 Europe SRL 1
+vless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052?path=/?ed=2560&security=none&encryption=none&host=winbiss-0tpka6-v1.winbiss.workers.dev&type=ws#🇮🇪 Ireland | Mvps LTD 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@196.196.192.58:990#🇮🇪 Ireland | Orion Network 1
