@@ -3,12 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://d811ecf9-4029-4794-a43e-3611c3575b9e@34.254.224.37:48056?security=tls&type=grpc&mode=gun&serviceName=www.bing.com&alpn=h2%2Chttp%2F1.1&sni=34.254.224.37&fp=chrome&encryption=none#🇮🇪 Ireland | Amazon Technologies 1
+vless://d811ecf9-4029-4794-a43e-3611c3575b9e@34.254.224.37:48056/?type=grpc&encryption=none&flow=&serviceName=www.bing.com&security=tls&sni=34.254.224.37&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=chrome#🇮🇪 Ireland | Amazon Technologies 1
 vless://d811ecf9-4029-4794-a43e-3611c3575b9e@34.254.224.37:48056/?type=grpc&encryption=none&flow=&serviceName=www.bing.com&security=tls&sni=34.254.224.37&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=chrome#🇮🇪 Ireland | Amazon Technologies 2
 vless://b82d5a1d-88be-47ea-b59d-2eb0a36b3922@31.57.56.213:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=ign.dev&type=tcp#🇮🇪 Ireland | Andrew Kristuli 1
 vless://b82d5a1d-88be-47ea-b59d-2eb0a36b3922@31.57.56.213:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=ign.dev&type=tcp#🇮🇪 Ireland | Andrew Kristuli 2
 vless://b82d5a1d-88be-47ea-b59d-2eb0a36b3922@31.57.56.213:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=ign.dev&type=tcp#🇮🇪 Ireland | Andrew Kristuli 3
 vless://336c75e2-d012-4b56-a8a7-35a0c747a2a9@uk2.srv.oplcdn.link:8443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=ign.dev&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇮🇪 Ireland | Andrew Kristuli 4
-vless://34ef4875-477f-4b8d-8e60-e230379f21ef@ie.cdn.stun.su:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=ie.cdn.stun.su&fp=qq&pbk=0ebq2jNFPvHs8HvOoCViKBLnUdhSDd1bG9Jeb7f_82k&spx=%2F&sid=9f6c7ec9f6434a4f#🇮🇪 Ireland | Global Connectivity So... 1
+vless://34ef4875-477f-4b8d-8e60-e230379f21ef@ie.cdn.stun.su:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=ie.cdn.stun.su&fp=qq&pbk=0ebq2jNFPvHs8HvOoCViKBLnUdhSDd1bG9Jeb7f_82k&spx=%2F&sid=28d283d04da796d7#🇮🇪 Ireland | Global Connectivity So... 1
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🇮🇪 Ireland | M247 Europe SRL 1
