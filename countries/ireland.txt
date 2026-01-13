@@ -5,8 +5,8 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://d811ecf9-4029-4794-a43e-3611c3575b9e@34.254.224.37:48056/?type=grpc&encryption=none&flow=&serviceName=www.bing.com&security=tls&sni=34.254.224.37&alpn=h2,http/1.1&allowInsecure=1&fp=chrome#🇮🇪 Ireland | Amazon Technologies 1
-vless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052/?type=ws&encryption=none&flow=&host=winbiss-0tpka6-v1.winbiss.workers.dev&path=%2F%3Fed%3D2560#🇮🇪 Ireland | Amazon.com, 1
-vless://34ef4875-477f-4b8d-8e60-e230379f21ef@ie.cdn.stun.su:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=ie.cdn.stun.su&fp=qq&pbk=0ebq2jNFPvHs8HvOoCViKBLnUdhSDd1bG9Jeb7f_82k&spx=%2F&sid=f189d91760bb6663#🇮🇪 Ireland | Global Connectivity So... 1
+vless://d811ecf9-4029-4794-a43e-3611c3575b9e@34.254.224.37:48056?security=tls&type=grpc&mode=gun&serviceName=www.bing.com&alpn=h2%2Chttp%2F1.1&sni=34.254.224.37&fp=chrome&encryption=none#🇮🇪 Ireland | Amazon Technologies 1
+vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.14.19:80?encryption=none&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev&path=%2F%3Fed%3D2560&security=none&type=ws#🇮🇪 Ireland | Amazon.com, 1
+vless://2629c097-9fef-457c-bb4f-ca44a40a90b5@lutranautilus.qzz.io:443?encryption=none&security=tls&type=ws&host=lutranautilus.qzz.io&path=%2F54.220.80.89%3D2053&sni=lutranautilus.qzz.io#🇮🇪 Ireland | Amazon.com, 2
+vless://34ef4875-477f-4b8d-8e60-e230379f21ef@ie.cdn.stun.su:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=ie.cdn.stun.su&fp=qq&pbk=0ebq2jNFPvHs8HvOoCViKBLnUdhSDd1bG9Jeb7f_82k&spx=%2F&sid=d71095e3b812643f#🇮🇪 Ireland | Global Connectivity So... 1
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🇮🇪 Ireland | M247 Europe SRL 1
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🇮🇪 Ireland | M247 Europe SRL 2
