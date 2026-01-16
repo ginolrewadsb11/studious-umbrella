@@ -3,8 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
+vless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052?path=/?ed=2560&security=none&encryption=none&host=winbiss-0tpka6-v1.winbiss.workers.dev&type=ws#🇮🇪 Ireland | Amazon.com, 1
+vless://ab0147a2-647c-4031-a267-5ccb1081c5cb@heavenlyblue.qzz.io:443?encryption=none&security=tls&type=ws&host=heavenlyblue.qzz.io&path=%2F54.77.206.41%3D443&sni=heavenlyblue.qzz.io#🇮🇪 Ireland | Amazon.com, 2
+vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.14.19:80?type=ws&security=none&encryption=none&path=%2F%3Fed%3D2560&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev#🇮🇪 Ireland | HostPapa 1
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🇮🇪 Ireland | M247 Europe SRL 1
+vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.4:443?type=ws&security=tls&encryption=none&sni=rAyAn-007.pArViN.DpDnS.OrG&path=%2FTelegram%3A%40AZARBAYJAB1&host=rayan-007.parvin.dpdns.org#🇮🇪 Ireland | OVH SAS 1
 vless://b042a503-3cb9-461f-994d-28a642133b5e@193.57.138.53:40921?security=reality&encryption=none&pbk=heCmtLzcbUCR7Y1ZSomzRZpc45p9Qie9p_2W6Xw333A&headerType=none&fp=chrome&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=tcp&sni=yahoo.com&sid=c42db93ba6c62c#🇮🇪 Ireland | WorkTitans B.V. 1
 vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&encryption=none&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9d90d7ada8#🇮🇪 Ireland | WorkTitans B.V. 2
