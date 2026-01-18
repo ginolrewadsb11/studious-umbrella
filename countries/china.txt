@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGluYQrimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGluYQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.15.59:60129#🌍 China | Baxet Group 1
 ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.15.59:60129#🌍 China | Baxet Group 2
@@ -12,3 +12,4 @@ ss://YWVzLTI1Ni1nY206MTIz@14.18.106.88:6100#🌍 China | CHINANET Guangdong pro.
 ss://YWVzLTI1Ni1nY206MTIz@14.18.106.88:6100#🌍 China | CHINANET Guangdong pro... 2
 ss://YWVzLTI1Ni1nY206MTIz@14.18.106.88:6100#🌍 China | CHINANET Guangdong pro... 3
 ss://YWVzLTI1Ni1nY206MTIz@14.18.106.88:6100#🌍 China | CHINANET Guangdong pro... 4
+vless://5f381300-7b90-4c2d-92be-5674937d95a8@tly.qzz.io:443?encryption=none&security=tls&type=ws&host=tly.qzz.io&path=%2F120.53.10.175%3D8888&sni=tly.qzz.io#🌍 China | Shenzhen Tencent Compu... 1
