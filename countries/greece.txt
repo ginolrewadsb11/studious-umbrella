@@ -3,15 +3,20 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrPCfh7cgQm9iaVZQTiDigJQgR3JlZWNlCuKaoSAxMCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrPCfh7cgQm9iaVZQTiDigJQgR3JlZWNlCuKaoSAxNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 trojan://nbBv30KKn2tVJB6u33PuotT0t-ghHk@217.12.204.110:8443?alpn=h2%2Chttp%2F1.1&security=tls&sni=chat.speedload.ru#🇬🇷 Greece | Green Floid 1
-trojan://nbBv30KKn2tVJB6u33PuotT0t-ghHk@217.12.204.110:8443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=&fp=qq&type=tcp&sni=chat.speedload.ru#🇬🇷 Greece | Green Floid 2
-trojan://nbBv30KKn2tVJB6u33PuotT0t-ghHk@217.12.204.110:8443?security=tls&sni=chat.speedload.ru&alpn=h2,http/1.1&fp=qq#🇬🇷 Greece | Green Floid 3
+trojan://nbBv30KKn2tVJB6u33PuotT0t-ghHk@217.12.204.110:8443?security=tls&sni=chat.speedload.ru&alpn=h2,http/1.1&fp=qq#🇬🇷 Greece | Green Floid 2
+trojan://nbBv30KKn2tVJB6u33PuotT0t-ghHk@217.12.204.110:8443?alpn=h2%2Chttp%2F1.1&security=tls&sni=chat.speedload.ru#🇬🇷 Greece | Green Floid 3
 trojan://nbBv30KKn2tVJB6u33PuotT0t-ghHk@217.12.204.110:8443?security=tls&sni=chat.speedload.ru&alpn=h2,http/1.1&fp=qq#🇬🇷 Greece | Green Floid 4
-trojan://nbBv30KKn2tVJB6u33PuotT0t-ghHk@217.12.204.110:8443?security=tls&sni=chat.speedload.ru&alpn=h2,http/1.1&fp=qq#🇬🇷 Greece | Green Floid 5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZGYyYmU3YzZlZWYwZWQ2@38.54.29.130:11203#🇬🇷 Greece | Kaopu Cloud HK 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZGYyYmU3YzZlZWYwZWQ2@38.54.29.130:11203#🇬🇷 Greece | Kaopu Cloud HK 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzJhNTE5YzgxNDdhOTk4@38.54.29.18:11201#🇬🇷 Greece | Kaopu Cloud HK 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzJhNTE5YzgxNDdhOTk4@38.54.29.18:11201#🇬🇷 Greece | Kaopu Cloud HK 4
+trojan://nbBv30KKn2tVJB6u33PuotT0t-ghHk@217.12.204.110:8443/?type=tcp&security=tls&sni=chat.speedload.ru&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🇬🇷 Greece | Green Floid 5
+trojan://nbBv30KKn2tVJB6u33PuotT0t-ghHk@217.12.204.110:8443?sni=chat.speedload.ru&peer=chat.speedload.ru&security=tls#🇬🇷 Greece | Green Floid 6
+trojan://nbBv30KKn2tVJB6u33PuotT0t-ghHk@217.12.204.110:8443?security=tls&sni=chat.speedload.ru&alpn=h2,http/1.1&fp=qq#🇬🇷 Greece | Green Floid 7
+trojan://nbBv30KKn2tVJB6u33PuotT0t-ghHk@217.12.204.110:8443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=&fp=qq&type=tcp&sni=chat.speedload.ru#🇬🇷 Greece | Green Floid 8
+trojan://nbBv30KKn2tVJB6u33PuotT0t-ghHk@217.12.204.110:8443?security=tls&sni=chat.speedload.ru&alpn=h2,http/1.1&fp=qq#🇬🇷 Greece | Green Floid 9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzJhNTE5YzgxNDdhOTk4@38.54.29.18:11201#🇬🇷 Greece | Kaopu Cloud HK 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzJhNTE5YzgxNDdhOTk4@38.54.29.18:11201#🇬🇷 Greece | Kaopu Cloud HK 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZGYyYmU3YzZlZWYwZWQ2@38.54.29.130:11203#🇬🇷 Greece | Kaopu Cloud HK 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZGYyYmU3YzZlZWYwZWQ2@38.54.29.130:11203#🇬🇷 Greece | Kaopu Cloud HK 4
 vless://96fcf8cc-535d-46c4-b8f9-76058df48e3b@94.131.8.19:45448?security=reality&encryption=none&pbk=MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=958639bf55e679#🇬🇷 Greece | WorkTitans B.V. 1
+vless://96fcf8cc-535d-46c4-b8f9-76058df48e3b@94.131.8.19:45448?security=reality&encryption=none&pbk=MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=958639bf55e679#🇬🇷 Greece | WorkTitans B.V. 2
