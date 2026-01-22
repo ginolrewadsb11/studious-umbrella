@@ -3,16 +3,14 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNZXhpY28K4pqhIDExINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNZXhpY28K4pqhIDkg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTVlYjNlMTYwY2YyNDMy@154.205.152.64:11201#🌍 Mexico | Kaopu Cloud HK 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTVlYjNlMTYwY2YyNDMy@154.205.152.64:11201#🌍 Mexico | Kaopu Cloud HK 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NTFkZjVkYzhmZDA4ZDBj@38.60.224.37:11201#🌍 Mexico | Kaopu Cloud HK 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTVlYjNlMTYwY2YyNDMy@154.205.152.64:11201#🌍 Mexico | Kaopu Cloud HK 4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTVlYjNlMTYwY2YyNDMy@154.205.152.64:11201#🌍 Mexico | Kaopu Cloud HK 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NTFkZjVkYzhmZDA4ZDBj@38.60.224.37:11201#🌍 Mexico | Kaopu Cloud HK 4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@147.78.1.230:990#🌍 Mexico | ONEPROVIDER 1
-vmess://eyJhZGQiOiIyMTYuMjM4Ljg3LjQ3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImI4MTU1Y2U0LTdlMDgtNGM0MC04MDBmLTg2NzEzMTJiNzEyNCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjI3NTAyIiwicHMiOiLwn4ey8J+HvSBNZXhpY28sIFRvbHVjYSBbQkxdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#🌍 Mexico | The Constant Company 1
-vmess://eyJhZGQiOiIyMTYuMjM4Ljg3LjQ3IiwiaWQiOiJiODE1NWNlNC03ZTA4LTRjNDAtODAwZi04NjcxMzEyYjcxMjQiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoyNzUwMiwicHMiOiLwn4ey8J+HvSBNZXhpY28sIFRvbHVjYSBbQkxdIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#🌍 Mexico | The Constant Company 2
-vmess://eyJhZGQiOiIyMTYuMjM4Ljg3LjQ3IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImI4MTU1Y2U0LTdlMDgtNGM0MC04MDBmLTg2NzEzMTJiNzEyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjI3NTAyIiwicHMiOiLwn4ey8J+HvSBNZXhpY28sIFNhbiBBbnRvbmlvIGRlIGxvcyBIb3Jjb25lcyBbQkxdIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#🌍 Mexico | The Constant Company 3
-vmess://eyJhZGQiOiIyMTYuMjM4Ljg3LjQ3IiwiaWQiOiJiODE1NWNlNC03ZTA4LTRjNDAtODAwZi04NjcxMzEyYjcxMjQiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoyNzUwMiwicHMiOiLwn4ey8J+HvSBNZXhpY28sIFNhbiBBbnRvbmlvIGRlIGxvcyBIb3Jjb25lcyBbQkxdIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#🌍 Mexico | The Constant Company 4
-vless://fb364824-aa3c-48f5-9879-98ef9013b010@8.6.112.0:443?security=tls&sni=proxyvpn11.antiquewhite.qzz.io&allowInsecure=1&type=ws&path=/148.223.138.11:443&host=proxyvpn11.antiquewhite.qzz.io&packetEncoding=xudp&encryption=none#🌍 Mexico | Uninet S.A. de C.V. 1
-vless://fb364824-aa3c-48f5-9879-98ef9013b010@8.6.112.0:443?path=%2F148.223.138.11%3A443&security=tls&encryption=none&insecure=1&host=proxyvpn11.antiquewhite.qzz.io&type=ws&allowInsecure=1&sni=proxyvpn11.antiquewhite.qzz.io#🌍 Mexico | Uninet S.A. de C.V. 2
+vmess://eyJhZGQiOiIyMTYuMjM4Ljg3LjQ3IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImI4MTU1Y2U0LTdlMDgtNGM0MC04MDBmLTg2NzEzMTJiNzEyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjI3NTAyIiwicHMiOiLwn4ey8J+HvSBNZXhpY28sIFNhbiBBbnRvbmlvIGRlIGxvcyBIb3Jjb25lcyBbQkxdIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#🌍 Mexico | The Constant Company 1
+vmess://eyJhZGQiOiIyMTYuMjM4Ljg3LjQ3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImI4MTU1Y2U0LTdlMDgtNGM0MC04MDBmLTg2NzEzMTJiNzEyNCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjI3NTAyIiwicHMiOiLwn4ey8J+HvSBNZXhpY28sIFRvbHVjYSBbQkxdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#🌍 Mexico | The Constant Company 2
+vmess://eyJhZGQiOiIyMTYuMjM4Ljg3LjQ3IiwiaWQiOiJiODE1NWNlNC03ZTA4LTRjNDAtODAwZi04NjcxMzEyYjcxMjQiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoyNzUwMiwicHMiOiLwn4ey8J+HvSBNZXhpY28sIFNhbiBBbnRvbmlvIGRlIGxvcyBIb3Jjb25lcyBbQkxdIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#🌍 Mexico | The Constant Company 3
+vmess://eyJhZGQiOiIyMTYuMjM4Ljg3LjQ3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImI4MTU1Y2U0LTdlMDgtNGM0MC04MDBmLTg2NzEzMTJiNzEyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjc1MDIiLCJwcyI6IvCfh7Lwn4e9IE1leGljbywgVG9sdWNhIFtCTF0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=#🌍 Mexico | The Constant Company 4
