@@ -3,17 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMTIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMTAg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://582c84b9-25e9-48ae-826b-e1bdafca3730@98.142.254.3:25117?security=none&%3Bencryption=none&%3BheaderType=none&%3Btype=tcp#🇧🇪 Belgium | HZ Hosting 1
+vless://582c84b9-25e9-48ae-826b-e1bdafca3730@98.142.254.3:25117?type=tcp&security=none#🇧🇪 Belgium | HZ Hosting 1
 vless://582c84b9-25e9-48ae-826b-e1bdafca3730@98.142.254.3:25117?encryption=none&security=none&type=tcp#🇧🇪 Belgium | HZ Hosting 2
 vless://582c84b9-25e9-48ae-826b-e1bdafca3730@98.142.254.3:25117?encryption=none&security=none&type=tcp#🇧🇪 Belgium | HZ Hosting 3
-vless://582c84b9-25e9-48ae-826b-e1bdafca3730@98.142.254.3:25117?type=tcp&security=none#🇧🇪 Belgium | HZ Hosting 4
+vless://582c84b9-25e9-48ae-826b-e1bdafca3730@98.142.254.3:25117?security=none&%3Bencryption=none&%3BheaderType=none&%3Btype=tcp#🇧🇪 Belgium | HZ Hosting 4
 vless://582c84b9-25e9-48ae-826b-e1bdafca3730@98.142.254.3:25117?encryption=none&security=none&type=tcp#🇧🇪 Belgium | HZ Hosting 5
-vless://582c84b9-25e9-48ae-826b-e1bdafca3730@98.142.254.3:25117?encryption=none&security=none&type=tcp#🇧🇪 Belgium | HZ Hosting 6
-vless://582c84b9-25e9-48ae-826b-e1bdafca3730@98.142.254.3:25117/?type=tcp&encryption=none&flow=#🇧🇪 Belgium | HZ Hosting 7
-vless://582c84b9-25e9-48ae-826b-e1bdafca3730@98.142.254.3:25117?encryption=none&security=none&type=tcp#🇧🇪 Belgium | HZ Hosting 8
-vless://19ee2796-51a1-46d9-9985-904fdb2c3d48@176.122.23.41:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_6dvIYbIsqGYLAdkdeP-B5sjHriLO3MvpNdO6ThTi14&security=reality&sid=3538&sni=eh.vk.ru&type=tcp#🇧🇪 Belgium | WorkTitans B.V. 1
+vless://582c84b9-25e9-48ae-826b-e1bdafca3730@98.142.254.3:25117/?type=tcp&encryption=none&flow=#🇧🇪 Belgium | HZ Hosting 6
+vless://582c84b9-25e9-48ae-826b-e1bdafca3730@98.142.254.3:25117?encryption=none&security=none&type=tcp#🇧🇪 Belgium | HZ Hosting 7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ@45.83.20.206:443#🇧🇪 Belgium | WorkTitans B.V. 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ@45.83.20.206:443#🇧🇪 Belgium | WorkTitans B.V. 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ@45.83.20.206:443#🇧🇪 Belgium | WorkTitans B.V. 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ@45.83.20.206:443#🇧🇪 Belgium | WorkTitans B.V. 4
