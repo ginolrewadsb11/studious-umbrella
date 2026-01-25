@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBOb3J0aCBNYWNlZG9uaWEK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBOb3J0aCBNYWNlZG9uaWEK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMVIzaEpFV2VRSkdKTDQyU2FZeTIyQ0MyMXVGdF8weQ==@89.185.82.117:9443#🌍 North Macedonia | Global Connectivity So... 1
-vless://2dd1a15d-1426-413a-a3b8-a645788bc844@89.185.82.117:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mak.speedload.online&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&packetEncoding=xudp#🌍 North Macedonia | Global Connectivity So... 2
+vless://2dd1a15d-1426-413a-a3b8-a645788bc844@89.185.82.117:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mak.speedload.online&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&type=tcp&headerType=none#🌍 North Macedonia | Global Connectivity So... 2
+vless://2dd1a15d-1426-413a-a3b8-a645788bc844@89.185.82.117:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mak.speedload.online&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&packetEncoding=xudp#🌍 North Macedonia | Global Connectivity So... 3
