@@ -3,36 +3,34 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh7ggQm9iaVZQTiDigJQgSWNlbGFuZArimqEgMzEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HrvCfh7ggQm9iaVZQTiDigJQgSWNlbGFuZArimqEgMjkg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://a7e84660-8f5c-43ba-b635-cc394c5be4b9@104.18.15.19:80?encryption=none&host=amita-b17wejf6-v2.amita.workers.dev&eh=Sec-WebSocket-Protocol&ed=2560&security=none&type=ws#🇮🇸 Iceland | 1984 ehf 1
-vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@www.visa.com.sg:2052/?type=ws&encryption=none&flow=&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev&path=%2F%3Fed%3D2560#🇮🇸 Iceland | 1984 ehf 2
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?sni=celestialcorset.crystalhamster.click#🇮🇸 Iceland | Advania Island ehf 1
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?type=tcp&security=tls&sni=celestialcorset.crystalhamster.click&allowInsecure=1#🇮🇸 Iceland | Advania Island ehf 1
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?sni=celestialcorset.crystalhamster.click#🇮🇸 Iceland | Advania Island ehf 2
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&sni=web.max.ru&allowInsecure=true&fp=chrome#🇮🇸 Iceland | Baxet Group 1
-trojan://iCfh96DEJn3=QRbzF.Tdl@212.192.214.46:18069?security=tls&sni=www.vk.com&allowInsecure=1&type=tcp#🇮🇸 Iceland | Baxet Group 2
-trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069?security=tls&sni=www.vk.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇸 Iceland | Baxet Group 3
-trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069?security=tls&sni=www.vk.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇮🇸 Iceland | Baxet Group 4
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&headerType=none&type=tcp&sni=web.max.ru#🇮🇸 Iceland | Baxet Group 5
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&sni=web.max.ru#🇮🇸 Iceland | Baxet Group 6
-trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069?security=tls&sni=www.vk.com&insecure=1&allowInsecure=1&type=tcp&headerType=none&name=TG%3AYoutubeUnBlockRu#🇮🇸 Iceland | Baxet Group 7
-trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069?security=tls&headerType=none&type=tcp&sni=www.vk.com#🇮🇸 Iceland | Baxet Group 8
-trojan://iCfh96DEJn3=QRbzF.Tdl@212.192.214.46:18069?security=tls&sni=www.vk.com&allowInsecure=true#🇮🇸 Iceland | Baxet Group 9
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?security=tls&headerType=&type=tcp&sni=ozon.ru#🇮🇸 Iceland | Baxet Group 10
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&sni=web.max.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇮🇸 Iceland | Baxet Group 11
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?security=tls&sni=ya.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇮🇸 Iceland | Baxet Group 12
-trojan://iCfh96DEJn3=QRbzF.Tdl@212.192.214.46:18069?allowInsecure=1&sni=www.vk.com&name=TG%3AYoutubeUnBlockRu#🇮🇸 Iceland | Baxet Group 13
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&sni=web.max.ru#🇮🇸 Iceland | Baxet Group 14
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?allowInsecure=0&sni=web.max.ru#🇮🇸 Iceland | Baxet Group 15
-trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069?security=tls&headerType=&type=tcp&sni=www.vk.com#🇮🇸 Iceland | Baxet Group 16
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?security=tls&sni=ozon.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇮🇸 Iceland | Baxet Group 17
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?security=tls&headerType=none&type=tcp&sni=ya.ru#🇮🇸 Iceland | Baxet Group 18
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max&allowInsecure=1&type=tcp&headerType=none#🇮🇸 Iceland | Baxet Group 19
+trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇮🇸 Iceland | Advania Island ehf 3
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?sni=celestialcorset.crystalhamster.click#🇮🇸 Iceland | Advania Island ehf 4
+trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?security=tls&headerType=&type=tcp&sni=celestialcorset.crystalhamster.click#🇮🇸 Iceland | Advania Island ehf 5
+trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069?security=tls&headerType=none&type=tcp&sni=www.vk.com#🇮🇸 Iceland | Baxet Group 1
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&sni=web.max.ru&allowInsecure=true&fp=chrome#🇮🇸 Iceland | Baxet Group 2
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&headerType=none&type=tcp&sni=web.max.ru#🇮🇸 Iceland | Baxet Group 3
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&sni=web.max.ru#🇮🇸 Iceland | Baxet Group 4
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?security=tls&sni=ya.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇮🇸 Iceland | Baxet Group 5
+trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069?security=tls&sni=www.vk.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇮🇸 Iceland | Baxet Group 6
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&sni=web.max.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇮🇸 Iceland | Baxet Group 7
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?security=tls&headerType=&type=tcp&sni=ozon.ru#🇮🇸 Iceland | Baxet Group 8
+trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069?security=tls&sni=www.vk.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇸 Iceland | Baxet Group 9
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?allowInsecure=0&sni=web.max.ru#🇮🇸 Iceland | Baxet Group 10
+trojan://iCfh96DEJn3=QRbzF.Tdl@212.192.214.46:18069?allowInsecure=1&sni=www.vk.com&name=TG%3AYoutubeUnBlockRu#🇮🇸 Iceland | Baxet Group 11
+trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069?security=tls&sni=www.vk.com&insecure=1&allowInsecure=1&type=tcp&headerType=none&name=TG%3AYoutubeUnBlockRu#🇮🇸 Iceland | Baxet Group 12
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max&allowInsecure=1&type=tcp&headerType=none#🇮🇸 Iceland | Baxet Group 13
+trojan://iCfh96DEJn3=QRbzF.Tdl@212.192.214.46:18069?security=tls&sni=www.vk.com&allowInsecure=true&name=TG%3AYoutubeUnBlockRu#🇮🇸 Iceland | Baxet Group 14
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?security=tls&headerType=none&type=tcp&sni=ya.ru#🇮🇸 Iceland | Baxet Group 15
+trojan://iCfh96DEJn3=QRbzF.Tdl@212.192.214.46:18069?allowInsecure=1&sni=www.vk.com#🇮🇸 Iceland | Baxet Group 16
+trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069?security=tls&sni=www.vk.com&insecure=1&allowInsecure=1&type=tcp&headerType=none&name=TG%3AYoutubeUnBlockRu#🇮🇸 Iceland | Baxet Group 17
+trojan://iCfh96DEJn3=QRbzF.Tdl@212.192.214.46:18069?security=tls&sni=www.vk.com&allowInsecure=1&type=tcp#🇮🇸 Iceland | Baxet Group 18
+trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069?security=tls&headerType=&type=tcp&sni=www.vk.com#🇮🇸 Iceland | Baxet Group 19
 trojan://iCfh96DEJn3=QRbzF.Tdl@212.192.214.46:18069/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#🇮🇸 Iceland | Baxet Group 20
-trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069?security=tls&sni=www.vk.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇮🇸 Iceland | Baxet Group 21
-trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069?security=tls&sni=www.vk.com&insecure=1&allowInsecure=1&type=tcp&headerType=none&name=TG%3AYoutubeUnBlockRu#🇮🇸 Iceland | Baxet Group 22
-trojan://iCfh96DEJn3=QRbzF.Tdl@212.192.214.46:18069?security=tls&sni=www.vk.com&allowInsecure=true&name=TG%3AYoutubeUnBlockRu#🇮🇸 Iceland | Baxet Group 23
-trojan://iCfh96DEJn3=QRbzF.Tdl@212.192.214.46:18069?allowInsecure=1&sni=www.vk.com#🇮🇸 Iceland | Baxet Group 24
-vless://a7e84660-8f5c-43ba-b635-cc394c5be4b9@104.18.14.19:80?encryption=none&host=amita-b17wejf6-v2.amita.workers.dev&eh=Sec-WebSocket-Protocol&ed=2560&security=none&type=ws#🇮🇸 Iceland | Hostkey B.V. 1
-vless://a7e84660-8f5c-43ba-b635-cc394c5be4b9@104.18.14.19:80?encryption=none&host=amita-b17wejf6-v2.amita.workers.dev&security=none&type=ws#🇮🇸 Iceland | WorkTitans B.V. 1
-vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?security=reality&encryption=none&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&headerType=none&fp=chrome&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=tcp&sni=yahoo.com&sid=816473be23c2#🇮🇸 Iceland | WorkTitans B.V. 2
+trojan://iCfh96DEJn3=QRbzF.Tdl@212.192.214.46:18069?security=tls&sni=www.vk.com&allowInsecure=true#🇮🇸 Iceland | Baxet Group 21
+trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069?security=tls&sni=www.vk.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇮🇸 Iceland | Baxet Group 22
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?security=tls&sni=ozon.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇮🇸 Iceland | Baxet Group 23
+vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?security=reality&encryption=none&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&headerType=none&fp=chrome&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=tcp&sni=yahoo.com&sid=816473be23c2#🇮🇸 Iceland | WorkTitans B.V. 1
