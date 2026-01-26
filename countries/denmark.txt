@@ -3,11 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 trojan://y0.qLgDed4ElASjr_3+B7kTVb9np1@83.172.159.181:17860?security=tls&headerType=none&type=tcp&sni=www.vk.ru#🇩🇰 Denmark | M247 Europe SRL 1
 trojan://y0.qLgDed4ElASjr_3+B7kTVb9np1@83.172.159.181:17860?security=tls&headerType=none&type=tcp&sni=www.vk.ru#🇩🇰 Denmark | M247 Europe SRL 2
-vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.2.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&eh=Sec-WebSocket-Protocol&ed=2560&security=none&type=ws#🇩🇰 Denmark | Webdock.io ApS 1
-vless://a7e84660-8f5c-43ba-b635-cc394c5be4b9@104.18.14.19:80?encryption=none&host=amita-b17wejf6-v2.amita.workers.dev&eh=Sec-WebSocket-Protocol&ed=2560&security=none&type=ws#🇩🇰 Denmark | Webdock.io ApS 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443#🇩🇰 Denmark | WorkTitans B.V. 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw==@95.164.10.228:443#🇩🇰 Denmark | WorkTitans B.V. 2
+vless://a7e84660-8f5c-43ba-b635-cc394c5be4b9@104.18.14.19:80?encryption=none&host=amita-b17wejf6-v2.amita.workers.dev&security=none&type=ws#🇩🇰 Denmark | Webdock.io ApS 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw==@95.164.10.228:443#🇩🇰 Denmark | WorkTitans B.V. 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443#🇩🇰 Denmark | WorkTitans B.V. 2
