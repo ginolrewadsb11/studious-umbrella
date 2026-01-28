@@ -3,24 +3,26 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBWaWV0bmFtCuKaoSAxOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBWaWV0bmFtCuKaoSAyMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-trojan://d51abb35-94a4-4529-9244-2808beaa4624@vn.yiciyuanquicken.online:27638?allowInsecure=1&sni=vn.yiciyuanquicken.online#🌍 Vietnam | Antbox Networks 1
-trojan://d51abb35-94a4-4529-9244-2808beaa4624@192.229.96.16:27638?security=tls&headerType=&type=tcp&sni=vn.yiciyuanquicken.online#🌍 Vietnam | Antbox Networks 2
+trojan://d51abb35-94a4-4529-9244-2808beaa4624@192.229.96.16:27638?security=tls&headerType=&type=tcp&sni=vn.yiciyuanquicken.online#🌍 Vietnam | Antbox Networks 1
+trojan://d51abb35-94a4-4529-9244-2808beaa4624@192.229.96.16:27638?security=tls&sni=vn.yiciyuanquicken.online#🌍 Vietnam | Antbox Networks 2
 trojan://d51abb35-94a4-4529-9244-2808beaa4624@vn.yiciyuanquicken.online:27638?security=tls&sni=vn.yiciyuanquicken.online#🌍 Vietnam | Antbox Networks 3
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.20:38388#🌍 Vietnam | FASTLY 1
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.26:38388#🌍 Vietnam | FASTLY 2
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.22:38388#🌍 Vietnam | FASTLY 3
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.53:38388#🌍 Vietnam | FASTLY 4
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.145:38388#🌍 Vietnam | FASTLY 5
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.26:38388#🌍 Vietnam | FASTLY 6
+trojan://d51abb35-94a4-4529-9244-2808beaa4624@vn.yiciyuanquicken.online:27638?security=tls#🌍 Vietnam | Antbox Networks 4
+trojan://d51abb35-94a4-4529-9244-2808beaa4624@vn.yiciyuanquicken.online:27638?allowInsecure=1&sni=vn.yiciyuanquicken.online#🌍 Vietnam | Antbox Networks 5
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.145:38388#🌍 Vietnam | FASTLY 1
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.145:38388#🌍 Vietnam | FASTLY 2
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.26:38388#🌍 Vietnam | FASTLY 3
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.22:38388#🌍 Vietnam | FASTLY 4
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.26:38388#🌍 Vietnam | FASTLY 5
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.20:38388#🌍 Vietnam | FASTLY 6
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.26:38388#🌍 Vietnam | FASTLY 7
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.10:38388#🌍 Vietnam | FASTLY 8
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.22:38388#🌍 Vietnam | FASTLY 9
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.20:38388#🌍 Vietnam | FASTLY 10
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.145:38388#🌍 Vietnam | FASTLY 11
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.20:38388#🌍 Vietnam | FASTLY 9
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.22:38388#🌍 Vietnam | FASTLY 10
 vmess://eyJhZGQiOiIxNjAuMTkxLjI0NS40OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4ZDc0ODAzZS1hYTc0LTQ3ZWYtZTNhZS0yM2VlYWE5NmY4OWQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU4NjIzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoi8J+Hu/Cfh7MgVmlldG5hbSwgxJDhu5EgU8ahbiAoTWluaCDEkOG7qWMpIFtCTF0ifQ==#🌍 Vietnam | Hoang Dieu Cloud Compu... 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOTRmMGI2OTE2ZjY3YmRj@38.54.14.156:11201#🌍 Vietnam | Kaopu Cloud HK 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOTRmMGI2OTE2ZjY3YmRj@38.54.14.156:11201#🌍 Vietnam | Kaopu Cloud HK 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45312#🌍 Vietnam | SaiGon Tourist cable T... 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45312#🌍 Vietnam | SaiGon Tourist cable T... 2
 vless://e32f9c43-b141-3d58-b879-15c6a402e119@s321.okgfw.top:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s321.okgfw.top&path=&flow=&security=tls&sni=u730537ube10s321.okgfw.top&serviceName=ssp&mode=gun&alpn=#🌍 Vietnam | Thien Quang Digital te... 1
