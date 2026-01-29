@@ -3,13 +3,14 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQS1FfMTF4UllwNE5RZ0ZaVi1iVXdFUmhXRVRRZFlSUQ@113.30.152.110:9443#🇧🇪 Belgium | GCS SER 1
-vless://488fa2ff-440b-46b7-b0e0-211bcf923d5e@113.30.152.110:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&sid=a20d3ed244c76426&sni=brus.speedload.online&type=tcp#🇧🇪 Belgium | GCS SER 2
-vless://488fa2ff-440b-46b7-b0e0-211bcf923d5e@45.148.103.47:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&sid=a20d3ed244c76426&sni=kan.speedload.online&type=tcp#🇧🇪 Belgium | RAPIDSEEDBOX 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQS1FfMTF4UllwNE5RZ0ZaVi1iVXdFUmhXRVRRZFlSUQ@45.148.103.47:9443#🇧🇪 Belgium | RAPIDSEEDBOX 2
+vless://488fa2ff-440b-46b7-b0e0-211bcf923d5e@113.30.152.110:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&sid=a20d3ed244c76426&sni=brus.speedload.online&type=tcp#🇧🇪 Belgium | GCS SER 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQS1FfMTF4UllwNE5RZ0ZaVi1iVXdFUmhXRVRRZFlSUQ@113.30.152.110:9443#🇧🇪 Belgium | GCS SER 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQS1FfMTF4UllwNE5RZ0ZaVi1iVXdFUmhXRVRRZFlSUQ@45.148.103.47:9443#🇧🇪 Belgium | RAPIDSEEDBOX 1
+vless://488fa2ff-440b-46b7-b0e0-211bcf923d5e@45.148.103.47:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&sid=a20d3ed244c76426&sni=kan.speedload.online&type=tcp#🇧🇪 Belgium | RAPIDSEEDBOX 2
 vless://488fa2ff-440b-46b7-b0e0-211bcf923d5e@45.148.102.189:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&sid=a20d3ed244c76426&sni=shve.speedload.online&type=tcp#🇧🇪 Belgium | RAPIDSEEDBOX 3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQS1FfMTF4UllwNE5RZ0ZaVi1iVXdFUmhXRVRRZFlSUQ@45.148.102.189:9443#🇧🇪 Belgium | RAPIDSEEDBOX 4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ@45.83.20.206:443#🇧🇪 Belgium | WorkTitans B.V. 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ@45.83.20.206:443#🇧🇪 Belgium | WorkTitans B.V. 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ==@45.83.20.206:443#🇧🇪 Belgium | WorkTitans B.V. 2
+vless://1c07b63a-255e-4217-92e4-b60242337ce2@176.122.25.13:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=fc7wwlzUfydHkCpOx0NTUCIScR0i66XtzGsoL_D4AVk&sid=3ec281ed&sni=eh.vk.ru#🇧🇪 Belgium | WorkTitans B.V. 3
