@@ -3,14 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://8f3e47a5-5462-44f9-a3c1-db5292b5e82f@ua.snowfall.top:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&sid=5fd0dddec84b300d&sni=ua.snowfall.top#🇺🇦 Ukraine | Green Floid 1
-vless://8e114b5d-4f06-411b-88fb-57bd84549e74@ua.snowfall.top:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&sid=69afb4b98a8a2968&sni=ua.snowfall.top#🇺🇦 Ukraine | Green Floid 2
-vless://4c752f26-0041-44f4-8295-d10908660fe6@ua.snowfall.top:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&sid=5fd0dddec84b300d&sni=ua.snowfall.top#🇺🇦 Ukraine | Green Floid 3
 vless://5bcc9ea0-b76c-4049-af62-ce10fe56a38b@188.166.159.141:31212?encryption=none&fp=chrome&pbk=CptKL5jRuLHXRCctK3pXzCbx-ksw8Tda3DgVYv6rIH0&security=reality&sid=2b2da49cdf&sni=starlink.com#🇺🇦 Ukraine | Ivanov Vitaliy Sergeevich 1
-vless://5bcc9ea0-b76c-4049-af62-ce10fe56a38b@188.166.159.141:31212?encryption=none&fp=chrome&pbk=CptKL5jRuLHXRCctK3pXzCbx-ksw8Tda3DgVYv6rIH0&security=reality&sid=2b2da49cdf&sni=starlink.com#🇺🇦 Ukraine | Ivanov Vitaliy Sergeevich 2
+vless://5bcc9ea0-b76c-4049-af62-ce10fe56a38b@188.166.159.141:31212?type=tcp&security=reality&encryption=none&fp=chrome&pbk=CptKL5jRuLHXRCctK3pXzCbx-ksw8Tda3DgVYv6rIH0&sid=2b2da49cdf&sni=starlink.com#🇺🇦 Ukraine | Ivanov Vitaliy Sergeevich 2
 vless://5bcc9ea0-b76c-4049-af62-ce10fe56a38b@188.166.159.141:31212?security=reality&encryption=none&pbk=CptKL5jRuLHXRCctK3pXzCbx-ksw8Tda3DgVYv6rIH0&headerType=none&fp=chrome&type=tcp&sni=starlink.com&sid=2b2da49cdf#🇺🇦 Ukraine | Ivanov Vitaliy Sergeevich 3
 vless://5bcc9ea0-b76c-4049-af62-ce10fe56a38b@188.166.159.141:31212?encryption=none&fp=chrome&pbk=CptKL5jRuLHXRCctK3pXzCbx-ksw8Tda3DgVYv6rIH0&security=reality&sid=2b2da49cdf&sni=starlink.com#🇺🇦 Ukraine | Ivanov Vitaliy Sergeevich 4
-vless://5bcc9ea0-b76c-4049-af62-ce10fe56a38b@188.166.159.141:31212?type=tcp&security=reality&encryption=none&fp=chrome&pbk=CptKL5jRuLHXRCctK3pXzCbx-ksw8Tda3DgVYv6rIH0&sid=2b2da49cdf&sni=starlink.com#🇺🇦 Ukraine | Ivanov Vitaliy Sergeevich 5
-vless://5bcc9ea0-b76c-4049-af62-ce10fe56a38b@188.166.159.141:31212?encryption=none&fp=chrome&pbk=CptKL5jRuLHXRCctK3pXzCbx-ksw8Tda3DgVYv6rIH0&security=reality&sid=2b2da49cdf&sni=starlink.com#🇺🇦 Ukraine | Ivanov Vitaliy Sergeevich 6
+vless://5bcc9ea0-b76c-4049-af62-ce10fe56a38b@188.166.159.141:31212?encryption=none&fp=chrome&pbk=CptKL5jRuLHXRCctK3pXzCbx-ksw8Tda3DgVYv6rIH0&security=reality&sid=2b2da49cdf&sni=starlink.com#🇺🇦 Ukraine | Ivanov Vitaliy Sergeevich 5
