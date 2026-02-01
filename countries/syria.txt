@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBTeXJpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBTeXJpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://2a833b68-f839-4954-8679-153480a1208b@syr.adr-cloud.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=gkNA2YmF1fOt5pz1H-STfqkqLVXtpzFadhxoAi0hmxc&sid=12af42a918ad5b45&sni=www.cloudflare.com&path=&host=#🌍 Syria | H2nexus LTD 1
+vless://e684b827-4e81-4be3-8b14-bab2bb97221f@syr.adr-cloud.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gkNA2YmF1fOt5pz1H-STfqkqLVXtpzFadhxoAi0hmxc&sid=12af42a918ad5b45&sni=www.cloudflare.com#🌍 Syria | H2nexus LTD 1
+vless://0848a7ee-bfbb-46f0-a711-c66e135a3b4e@syr.adr-cloud.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gkNA2YmF1fOt5pz1H-STfqkqLVXtpzFadhxoAi0hmxc&sid=12af42a918ad5b45&sni=www.cloudflare.com#🌍 Syria | H2nexus LTD 2
