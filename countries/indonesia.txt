@@ -3,12 +3,25 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDIwINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://44927ab5-6655-415f-9a12-ed1666f02880@cdn.zoom.us:443?path=/43.218.77.16=1443&security=tls&encryption=none&host=afrcloud1.c01.kr&allowinsecure=0&type=ws&sni=afrcloud1.c01.kr#🌍 Indonesia | Amazon.com, 1
-vless://a34dff22-9328-440d-b1c8-e6c88bdb2e84@afrcloud5.c01.kr:443?encryption=none&security=tls&type=ws&host=afrcloud5.c01.kr&path=%2F43.218.77.16%3D1443&sni=afrcloud5.c01.kr#🌍 Indonesia | Amazon.com, 2
+vless://21f9985c-d363-4eee-957f-720e9e9f9b8d@172.67.194.187:443?security=tls&encryption=none&host=teams.live.com.afrcloud1.c01.kr&type=ws&sni=teams.live.com.afrcloud1.c01.kr#🌍 Indonesia | Amazon.com, 1
+vless://a44e0875-210f-4941-9062-89b6361a14c6@188.114.96.3:443/?type=ws&encryption=none&flow=&host=teams.live.com.afrcloud1.c01.kr&security=tls&sni=teams.live.com.afrcloud1.c01.kr#🌍 Indonesia | Amazon.com, 2
+vless://a44e0875-210f-4941-9062-89b6361a14c6@188.114.96.3:443?security=tls&encryption=none&insecure=0&host=teams.live.com.afrcloud1.c01.kr&type=ws&allowInsecure=0&sni=teams.live.com.afrcloud1.c01.kr#🌍 Indonesia | Amazon.com, 3
+vless://a44e0875-210f-4941-9062-89b6361a14c6@188.114.96.3:443?security=tls&encryption=none&host=teams.live.com.afrcloud1.c01.kr&type=ws&sni=teams.live.com.afrcloud1.c01.kr#🌍 Indonesia | Amazon.com, 4
+vless://a44e0875-210f-4941-9062-89b6361a14c6@188.114.96.3:443?security=tls&encryption=none&host=teams.live.com.afrcloud1.c01.kr&type=ws&sni=teams.live.com.afrcloud1.c01.kr#🌍 Indonesia | Amazon.com, 5
+vless://21f9985c-d363-4eee-957f-720e9e9f9b8d@172.67.194.187:443?security=tls&encryption=none&host=teams.live.com.afrcloud1.c01.kr&type=ws&sni=teams.live.com.afrcloud1.c01.kr#🌍 Indonesia | Amazon.com, 6
+vless://a44e0875-210f-4941-9062-89b6361a14c6@188.114.96.3:443?security=tls&encryption=none&host=teams.live.com.afrcloud1.c01.kr&type=ws&sni=teams.live.com.afrcloud1.c01.kr#🌍 Indonesia | Amazon.com, 7
+vless://21f9985c-d363-4eee-957f-720e9e9f9b8d@ipbaz.ping-box.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=teams.live.com.afrcloud1.c01.kr&fp=chrome&type=ws&allowInsecure=0&sni=teams.live.com.afrcloud1.c01.kr#🌍 Indonesia | Amazon.com, 8
+vless://21f9985c-d363-4eee-957f-720e9e9f9b8d@ipbaz.ping-box.com:443?type=ws&security=tls&path=%2F&host=teams.live.com.afrcloud1.c01.kr&sni=teams.live.com.afrcloud1.c01.kr&encryption=none#🌍 Indonesia | Amazon.com, 9
+vless://21f9985c-d363-4eee-957f-720e9e9f9b8d@ipbaz.ping-box.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=teams.live.com.afrcloud1.c01.kr&type=ws&allowInsecure=0&sni=teams.live.com.afrcloud1.c01.kr#🌍 Indonesia | Amazon.com, 10
+vless://21f9985c-d363-4eee-957f-720e9e9f9b8d@ipbaz.ping-box.com:443?path=/Tel-@V2rayAlpha&security=tls&encryption=none&insecure=0&host=teams.live.com.afrcloud1.c01.kr&fp=chrome&type=ws&allowInsecure=0&sni=teams.live.com.afrcloud1.c01.kr#🌍 Indonesia | Amazon.com, 11
+vless://21f9985c-d363-4eee-957f-720e9e9f9b8d@ipbaz.ping-box.com:443?path=%2FXIXVPN%3Fed&security=tls&encryption=none&insecure=0&host=teams.live.com.afrcloud1.c01.kr&fp=chrome&type=ws&allowInsecure=0&sni=teams.live.com.afrcloud1.c01.kr#🌍 Indonesia | Amazon.com, 12
+vless://21f9985c-d363-4eee-957f-720e9e9f9b8d@ipbaz.ping-box.com:443?path=%2FTel-%40V2rayAlpha&security=tls&encryption=none&insecure=0&host=teams.live.com.afrcloud1.c01.kr&fp=chrome&type=ws&allowInsecure=0&sni=teams.live.com.afrcloud1.c01.kr#🌍 Indonesia | Amazon.com, 13
+vless://44927ab5-6655-415f-9a12-ed1666f02880@cdn.zoom.us:443?path=/43.218.77.16=1443&security=tls&encryption=none&host=afrcloud1.c01.kr&allowinsecure=0&type=ws&sni=afrcloud1.c01.kr#🌍 Indonesia | Amazon.com, 14
+vless://44927ab5-6655-415f-9a12-ed1666f02880@cdn.zoom.us:443?encryption=none&security=tls&sni=afrcloud1.c01.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud1.c01.kr&path=%2F#🌍 Indonesia | Amazon.com, 15
+vless://21f9985c-d363-4eee-957f-720e9e9f9b8d@ipbaz.ping-box.com:443?path=%2F&security=tls&encryption=none&host=teams.live.com.afrcloud1.c01.kr&type=ws&sni=teams.live.com.afrcloud1.c01.kr#🌍 Indonesia | Amazon.com, 16
+vless://21f9985c-d363-4eee-957f-720e9e9f9b8d@ipbaz.ping-box.com:443?path=/&security=tls&encryption=none&host=teams.live.com.afrcloud1.c01.kr&fp=chrome&type=ws&sni=teams.live.com.afrcloud1.c01.kr#🌍 Indonesia | Amazon.com, 17
+vless://a34dff22-9328-440d-b1c8-e6c88bdb2e84@afrcloud5.c01.kr:443?encryption=none&security=tls&type=ws&host=afrcloud5.c01.kr&path=%2F43.218.77.16%3D1443&sni=afrcloud5.c01.kr#🌍 Indonesia | Amazon.com, 18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.171.254:990#🌍 Indonesia | Kaopu Cloud HK 1
-vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@labeller.neonime83.workers.dev:443?type=ws&security=tls&encryption=none&sni=labeller.neonime83.workers.dev&path=%2F&host=labeller.neonime83.workers.dev&allowInsecure=1#🌍 Indonesia | PT Industri Kreatif Di... 1
-vless://a75cf6f3-10fb-461b-a5a5-a934f6039cce@cdn.halazzon.ir:443?path=%2F36.95.152.58%3D12137&security=tls&encryption=none&insecure=0&host=afrcloud4.c01.kr&type=ws&allowInsecure=0&sni=afrcloud4.c01.kr#🌍 Indonesia | PT. Telekomunikasi Ind... 1
-vless://a75cf6f3-10fb-461b-a5a5-a934f6039cce@cdn.halazzon.ir:443/?type=ws&encryption=none&flow=&host=afrcloud4.c01.kr&path=%2F36.95.152.58%3D12137&security=tls&sni=afrcloud4.c01.kr&fp=chrome#🌍 Indonesia | PT. Telekomunikasi Ind... 2
-vless://a75cf6f3-10fb-461b-a5a5-a934f6039cce@cdn.halazzon.ir:443/?type=ws&encryption=none&flow=&host=afrcloud4.c01.kr&path=%2F36.95.152.58%3D12137&security=tls&sni=afrcloud4.c01.kr#🌍 Indonesia | PT. Telekomunikasi Ind... 3
+vless://a75cf6f3-10fb-461b-a5a5-a934f6039cce@cdn.halazzon.ir:443/?type=ws&encryption=none&flow=&host=afrcloud4.c01.kr&path=%2F36.95.152.58%3D12137&security=tls&sni=afrcloud4.c01.kr#🌍 Indonesia | PT. Telekomunikasi Ind... 1
