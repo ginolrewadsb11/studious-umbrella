@@ -3,54 +3,53 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hs/Cfh7QgQm9iaVZQTiDigJQgTm9yd2F5CuKaoSA0OSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hs/Cfh7QgQm9iaVZQTiDigJQgTm9yd2F5CuKaoSA0OCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990#🇳🇴 Norway | BrainStorm Network, Inc 1
-vless://7a826f5a-9f69-4cd8-8dbc-c32e090eecfc@83.217.208.138:447?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=RRJVY-8E5PYn--jJ5cgyZW3z14p1lOg0kELMKn2M81w&sid=6baad06c&sni=google.com#🇳🇴 Norway | Corporacion Laceibanet... 1
+vless://7a826f5a-9f69-4cd8-8dbc-c32e090eecfc@83.217.208.138:447?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=RRJVY-8E5PYn--jJ5cgyZW3z14p1lOg0kELMKn2M81w&sid=6baad06c&sni=google.com#🇳🇴 Norway | Corporacion Laceibanet... 1
+vless://7a826f5a-9f69-4cd8-8dbc-c32e090eecfc@83.217.208.138:447?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=RRJVY-8E5PYn--jJ5cgyZW3z14p1lOg0kELMKn2M81w&sid=6baad06c&sni=google.com#🇳🇴 Norway | Corporacion Laceibanet... 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇳🇴 Norway | Gigahost 1
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&type=raw#🇳🇴 Norway | ServeTheWorld 1
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇳🇴 Norway | ServeTheWorld 2
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#🇳🇴 Norway | ServeTheWorld 3
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=&fp=chrome&type=tcp&sni=www.semanticstaplegun.click#🇳🇴 Norway | ServeTheWorld 4
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0#🇳🇴 Norway | ServeTheWorld 5
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&allowInsecure=true#🇳🇴 Norway | ServeTheWorld 6
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#🇳🇴 Norway | ServeTheWorld 7
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=1&sni=www.semanticstaplegun.click#🇳🇴 Norway | ServeTheWorld 8
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&fp=chrome&type=tcp&sni=io.ozone.ru#🇳🇴 Norway | ServeTheWorld 9
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#🇳🇴 Norway | ServeTheWorld 10
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20b2n.ir%2Fv2ray-configs%20%7C%20460%20&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇳🇴 Norway | ServeTheWorld 11
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&fp=chrome&type=tcp#🇳🇴 Norway | ServeTheWorld 12
-trojan://a5inYFE%3DJGV89%2BhjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&sni=io.ozone.ru&type=tcp#🇳🇴 Norway | ServeTheWorld 13
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&allowInsecure=true#🇳🇴 Norway | ServeTheWorld 14
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇳🇴 Norway | ServeTheWorld 15
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&type=tcp#🇳🇴 Norway | ServeTheWorld 16
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&fp=chrome&type=tcp#🇳🇴 Norway | ServeTheWorld 17
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&type=tcp&headerType=none&path=%2f&allow_insecure=1#🇳🇴 Norway | ServeTheWorld 18
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?sni=www.semanticstaplegun.click&peer=www.semanticstaplegun.click&security=tls#🇳🇴 Norway | ServeTheWorld 19
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#🇳🇴 Norway | ServeTheWorld 20
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1#🇳🇴 Norway | ServeTheWorld 21
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&allowInsecure=1&type=tcp#🇳🇴 Norway | ServeTheWorld 22
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇳🇴 Norway | ServeTheWorld 23
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇳🇴 Norway | Gigahost 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇳🇴 Norway | Gigahost 3
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=io.ozone.ru#🇳🇴 Norway | ServeTheWorld 1
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&fp=chrome&type=tcp#🇳🇴 Norway | ServeTheWorld 2
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇳🇴 Norway | ServeTheWorld 3
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?sni=www.semanticstaplegun.click&peer=www.semanticstaplegun.click&security=tls#🇳🇴 Norway | ServeTheWorld 4
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#🇳🇴 Norway | ServeTheWorld 5
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&type=tcp#🇳🇴 Norway | ServeTheWorld 6
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇳🇴 Norway | ServeTheWorld 7
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#🇳🇴 Norway | ServeTheWorld 8
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=1&sni=www.semanticstaplegun.click#🇳🇴 Norway | ServeTheWorld 9
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?sni=www.semanticstaplegun.click#🇳🇴 Norway | ServeTheWorld 10
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=&fp=chrome&type=tcp&sni=www.semanticstaplegun.click#🇳🇴 Norway | ServeTheWorld 11
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&allowInsecure=true#🇳🇴 Norway | ServeTheWorld 12
+trojan://a5inYFE%3DJGV89%2BhjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇳🇴 Norway | ServeTheWorld 13
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1&sni=io.ozone.ru#🇳🇴 Norway | ServeTheWorld 14
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?fp=chrome&security=tls&sni=www.semanticstaplegun.click&type=#🇳🇴 Norway | ServeTheWorld 15
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇳🇴 Norway | ServeTheWorld 16
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#🇳🇴 Norway | ServeTheWorld 17
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1#🇳🇴 Norway | ServeTheWorld 18
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&allowInsecure=true#🇳🇴 Norway | ServeTheWorld 19
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=&type=tcp&sni=www.semanticstaplegun.click#🇳🇴 Norway | ServeTheWorld 20
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇳🇴 Norway | ServeTheWorld 21
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&fp=chrome&type=tcp&sni=io.ozone.ru#🇳🇴 Norway | ServeTheWorld 22
+trojan://a5inYFE%3DJGV89%2BhjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇳🇴 Norway | ServeTheWorld 23
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#🇳🇴 Norway | ServeTheWorld 24
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1#🇳🇴 Norway | ServeTheWorld 25
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&type=tcp#🇳🇴 Norway | ServeTheWorld 26
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?sni=www.semanticstaplegun.click#🇳🇴 Norway | ServeTheWorld 27
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1&sni=io.ozone.ru#🇳🇴 Norway | ServeTheWorld 28
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=io.ozone.ru#🇳🇴 Norway | ServeTheWorld 29
-trojan://a5inYFE%3DJGV89%2BhjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇳🇴 Norway | ServeTheWorld 30
-trojan://a5inYFE%3DJGV89%2BhjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇳🇴 Norway | ServeTheWorld 31
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=io.ozone.ru#🇳🇴 Norway | ServeTheWorld 25
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1#🇳🇴 Norway | ServeTheWorld 26
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&allowInsecure=1&type=tcp#🇳🇴 Norway | ServeTheWorld 27
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#🇳🇴 Norway | ServeTheWorld 28
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0#🇳🇴 Norway | ServeTheWorld 29
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇳🇴 Norway | ServeTheWorld 30
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&type=tcp#🇳🇴 Norway | ServeTheWorld 31
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=&type=tcp&sni=www.semanticstaplegun.click#🇳🇴 Norway | ServeTheWorld 32
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&type=#🇳🇴 Norway | ServeTheWorld 33
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&fp=chrome&type=tcp#🇳🇴 Norway | ServeTheWorld 34
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇳🇴 Norway | ServeTheWorld 35
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇳🇴 Norway | ServeTheWorld 36
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=&type=tcp&sni=www.semanticstaplegun.click#🇳🇴 Norway | ServeTheWorld 37
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?fp=chrome&security=tls&sni=www.semanticstaplegun.click&type=#🇳🇴 Norway | ServeTheWorld 38
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#🇳🇴 Norway | ServeTheWorld 39
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&fp=chrome#🇳🇴 Norway | ServeTheWorld 40
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇳🇴 Norway | ServeTheWorld 41
-trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?sni=83.143.87.9#🇳🇴 Norway | ServeTheWorld AS 1
-trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&sni=m.vk.com&allowInsecure=true#🇳🇴 Norway | ServeTheWorld AS 2
-trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&sni=m.vk.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇳🇴 Norway | ServeTheWorld AS 3
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&fp=chrome&type=tcp#🇳🇴 Norway | ServeTheWorld 33
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇳🇴 Norway | ServeTheWorld 34
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&type=tcp&headerType=none&path=%2f&allow_insecure=1#🇳🇴 Norway | ServeTheWorld 35
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20b2n.ir%2Fv2ray-configs%20%7C%20460%20&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇳🇴 Norway | ServeTheWorld 36
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click&fp=chrome&type=tcp#🇳🇴 Norway | ServeTheWorld 37
+trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&headerType=none&type=tcp&sni=m.vk.com#🇳🇴 Norway | ServeTheWorld AS 1
+trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&headerType=none&type=tcp&sni=m.vk.com#🇳🇴 Norway | ServeTheWorld AS 2
+trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&sni=83.143.87.9#🇳🇴 Norway | ServeTheWorld AS 3
 trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?allowInsecure=1&sni=m.vk.com#🇳🇴 Norway | ServeTheWorld AS 4
-trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&headerType=none&type=tcp&sni=m.vk.com#🇳🇴 Norway | ServeTheWorld AS 5
+trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&sni=m.vk.com&allowInsecure=true#🇳🇴 Norway | ServeTheWorld AS 5
