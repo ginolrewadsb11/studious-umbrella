@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh74gQm9iaVZQTiDigJQgQmVsYXJ1cwrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh74gQm9iaVZQTiDigJQgQmVsYXJ1cwrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://52105bd0-7311-4b32-b182-49fb177e7ca0@by.adr-cloud.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=oL_5X9oIPHjUBjNTxxYJOk--hilANokOzUnerzeckBE&sid=84ba23f181dd9a15&sni=www.cloudflare.com&path=&host=by.adr-cloud.ru#🇧🇾 Belarus | Mobile TeleSystems J 1
+vless://52105bd0-7311-4b32-b182-49fb177e7ca0@by.adr-cloud.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oL_5X9oIPHjUBjNTxxYJOk--hilANokOzUnerzeckBE&sid=84ba23f181dd9a15&sni=www.cloudflare.com#🇧🇾 Belarus | Mobile TeleSystems J 1
+vless://52105bd0-7311-4b32-b182-49fb177e7ca0@by.adr-cloud.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=oL_5X9oIPHjUBjNTxxYJOk--hilANokOzUnerzeckBE&sid=84ba23f181dd9a15&sni=www.cloudflare.com&path=&host=by.adr-cloud.ru#🇧🇾 Belarus | Mobile TeleSystems J 2
