@@ -3,21 +3,16 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgMTYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgMTEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://9a587cc1-ca3e-47d4-88d7-5580b5c83731@afrcloud22.mmv.kr:443?encryption=none&security=tls&type=ws&host=afrcloud22.mmv.kr&path=%2F47.250.132.147%3D443&sni=afrcloud22.mmv.kr#🌍 Malaysia | Alibaba (US) Technolog... 1
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?encryption=none&security=reality&sni=cdn.userway.org&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=7266e6&type=tcp&headerType=none#🌍 Malaysia | Alibaba Cloud 1
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#🌍 Malaysia | Alibaba Cloud 2
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&security=reality&sid=7266e6&sni=cdn.userway.org&type=tcp#🌍 Malaysia | Alibaba Cloud 1
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?encryption=none&security=reality&sni=cdn.userway.org&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=7266e6&type=tcp&headerType=none#🌍 Malaysia | Alibaba Cloud 2
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#🌍 Malaysia | Alibaba Cloud 3
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&type=tcp&sni=cdn.userway.org&fp=chrome&sid=7266e6&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw#🌍 Malaysia | Alibaba Cloud 4
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#🌍 Malaysia | Alibaba Cloud 5
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?encryption=none&security=reality&sni=cdn.userway.org&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=7266e6&type=tcp&headerType=none#🌍 Malaysia | Alibaba Cloud 6
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?encryption=none&security=reality&sni=cdn.userway.org&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=7266e6&type=tcp&headerType=none#🌍 Malaysia | Alibaba Cloud 7
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@47.250.132.147:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🌍 Malaysia | Cloudflare, 1
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=cdn.userway.org&sid=7266e6#🌍 Malaysia | Alibaba Cloud 4
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443?encryption=none&security=reality&sni=cdn.userway.org&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=7266e6&type=tcp&headerType=none#🌍 Malaysia | Alibaba Cloud 5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYmIwODIwNWNiNmM4YWYw@38.54.97.247:28026#🌍 Malaysia | Kaopu Cloud HK 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.192.176:990#🌍 Malaysia | Kaopu Cloud HK 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYmIwODIwNWNiNmM4YWYw@38.54.97.247:28026#🌍 Malaysia | Kaopu Cloud HK 3
-vless://fbc30338-4eed-4440-8d90-2247b479d734@my01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=8453e5fd9af927&sni=hls-svod.itunes.apple.com#🌍 Malaysia | Shinjiru Technology Sd... 1
-vless://fbc30338-4eed-4440-8d90-2247b479d734@my01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&sni=hls-svod.itunes.apple.com&path=&host=&spx=/#🌍 Malaysia | Shinjiru Technology Sd... 2
-vless://fbc30338-4eed-4440-8d90-2247b479d734@my01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=8453e5fd9af927&sni=hls-svod.itunes.apple.com#🌍 Malaysia | Shinjiru Technology Sd... 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYmIwODIwNWNiNmM4YWYw@38.54.97.247:28026#🌍 Malaysia | Kaopu Cloud HK 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.192.176:990#🌍 Malaysia | Kaopu Cloud HK 3
+vless://fbc30338-4eed-4440-8d90-2247b479d734@my01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&sni=hls-svod.itunes.apple.com&spx=/#🌍 Malaysia | Shinjiru Technology Sd... 1
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.89.107.200:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#🌍 Malaysia | WorkTitans B.V. 1
