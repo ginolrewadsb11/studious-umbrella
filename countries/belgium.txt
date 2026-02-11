@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🇧🇪 Belgium | EDIS GmbH 1
+vless://1c277bb3-20cf-425b-b1ae-4c1923fdc9c7@176.122.25.13:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=fc7wwlzUfydHkCpOx0NTUCIScR0i66XtzGsoL_D4AVk&security=reality&sid=185c&sni=eh.vk.ru&type=tcp#🇧🇪 Belgium | WorkTitans B.V. 1
+vless://1c277bb3-20cf-425b-b1ae-4c1923fdc9c7@176.122.25.13:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=fc7wwlzUfydHkCpOx0NTUCIScR0i66XtzGsoL_D4AVk&security=reality&sid=3ec281ed&sni=st.vk.com&type=tcp#🇧🇪 Belgium | WorkTitans B.V. 2
