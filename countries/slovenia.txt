@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuPCfh64gQm9iaVZQTiDigJQgU2xvdmVuaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HuPCfh64gQm9iaVZQTiDigJQgU2xvdmVuaWEK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#🇸🇮 Slovenia | Optimus IT d.o.o. 1
+vless://3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443?path=/proxyip&security=tls&encryption=none&insecure=0&host=o00o.snip.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=o00o.snip.qzz.io#🇸🇮 Slovenia | WorkTitans B.V. 1
+vless://1701980a-4c71-492a-b111-d6ff1c4da7c7@146.185.197.72:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tLIY95WzJpGsi02rk_G2SwMOiy10H0-5fGCh6fGDimI&security=reality&sid=e1&sni=vashsender.ru&type=tcp#🇸🇮 Slovenia | WorkTitans B.V. 2
+vless://8e016bef-c135-4419-a3d2-2ff3a0048619@146.185.197.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3EskRsCTWByjbUbW9bYkoyAlfCWkdyay3QhHUG6AQA0&security=reality&sid=574a4603&sni=vashsender.ru&type=tcp#🇸🇮 Slovenia | WorkTitans B.V. 3
+vless://8e016bef-c135-4419-a3d2-2ff3a0048619@146.185.197.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3EskRsCTWByjbUbW9bYkoyAlfCWkdyay3QhHUG6AQA0&security=reality&sid=280ca86e81fd4d61&sni=ads.yandex.ru&type=tcp#🇸🇮 Slovenia | WorkTitans B.V. 4
