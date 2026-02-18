@@ -3,61 +3,63 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuPCfh6wgQm9iaVZQTiDigJQgU2luZ2Fwb3JlCuKaoSA1NiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuPCfh6wgQm9iaVZQTiDigJQgU2luZ2Fwb3JlCuKaoSA1OCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.17.98.251:443?path=/150.109.11.223=443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=joinProxyVPN11.afrcloud22.mmv.kr#🇸🇬 Singapore | Aceville Pte.ltd 1
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.17.98.251:443?path=%2F150.109.11.223%3D443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=joinProxyVPN11.afrcloud22.mmv.kr#🇸🇬 Singapore | Aceville Pte.ltd 2
-vless://53342b53-157e-4475-9f3a-40439434e689@172.64.156.188:80?type=ws&encryption=none&host=c.iamdt.dpdns.org&path=/#🇸🇬 Singapore | Aceville Pte.ltd 3
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:443?encryption=none&security=tls&type=ws&host=afrcloud22.mmv.kr&path=%2F43.156.181.203%3D443&sni=afrcloud22.mmv.kr#🇸🇬 Singapore | Aceville Pte.ltd 4
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:443?encryption=none&security=tls&type=ws&host=afrcloud22.mmv.kr&path=%2F43.156.181.203%3D443&sni=afrcloud22.mmv.kr#🇸🇬 Singapore | Aceville Pte.ltd 1
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.17.98.251:443?path=/150.109.11.223=443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=joinProxyVPN11.afrcloud22.mmv.kr#🇸🇬 Singapore | Aceville Pte.ltd 2
 vless://713f9e11-b9b1-438d-b49e-548e07c295a6@support.zoom.us:80?path=%2F&security=none&encryption=none&host=25.sahanwickramasinghevip.shop&type=ws#🇸🇬 Singapore | Akamai Technologies, 1
 vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@node1.nanonet.host:22539?type=tcp&security=tls&encryption=none&sni=node1.nanonet.host#🇸🇬 Singapore | Akamai Technologies, 2
 vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@node1.nanonet.host:22539?type=tcp&security=tls&encryption=none&sni=node1.nanonet.host#🇸🇬 Singapore | Akamai Technologies, 3
 vmess://eyJhZGQiOiJjZi4wOTAyMjcueHl6IiwiYWlkIjowLCJob3N0Ijoic2dhbC5kYWdyYXRlLmV1Lm9yZyIsImlkIjoiMjkwY2M2OTEtM2FjNi00Mzg3LTk4YTEtMjVjOGViOGNhMmVhIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjW3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtU0ctMTEzOTE2NDUiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiJzZ2FsLmRhZ3JhdGUuZXUub3JnIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==#🇸🇬 Singapore | Alibaba Cloud (Singapo... 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8316#🇸🇬 Singapore | Amazon Technologies 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8313#🇸🇬 Singapore | Amazon Technologies 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8319#🇸🇬 Singapore | Amazon Technologies 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#🇸🇬 Singapore | Amazon Technologies 4
-vless://26524cce-d514-4014-a426-365fb266a14d@208.103.161.109:2096?&security=tls&sni=WangCai.443888.xyz&type=ws&headerType=none&host=WangCai.443888.xyz&path=%2Fdanfeng%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇸🇬 Singapore | CDS Global Cloud Co., 1
-vless://26524cce-d514-4014-a426-365fb266a14d@31.15.18.26:2053?path=%2Fdanfeng%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=WangCai.443888.xyz&fp=chrome&type=ws&allowInsecure=0&sni=WangCai.443888.xyz#🇸🇬 Singapore | CDS Global Cloud Co., 2
-vless://26524cce-d514-4014-a426-365fb266a14d@31.15.18.26:2053?path=/danfeng?ed=2560&security=tls&encryption=none&insecure=0&host=WangCai.443888.xyz&fp=chrome&type=ws&allowInsecure=0&sni=WangCai.443888.xyz#🇸🇬 Singapore | CDS Global Cloud Co., 3
-vless://26524cce-d514-4014-a426-365fb266a14d@202.84.53.85:19999?&security=tls&fp=chrome&sni=WangCai.443888.xyz&type=ws&headerType=none&host=WangCai.443888.xyz&path=%2Fdanfeng%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇸🇬 Singapore | CDS Global Cloud Co., 4
-vless://26524cce-d514-4014-a426-365fb266a14d@47.242.145.136:8001?encryption=none&security=tls&sni=WangCai.443888.xyz&type=ws&host=WangCai.443888.xyz&path=%2Fdanfeng%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇸🇬 Singapore | CDS Global Cloud Co., 5
-vless://26524cce-d514-4014-a426-365fb266a14d@151.242.183.220:35549?encryption=none&security=tls&sni=WangCai.443888.xyz&insecure=0&allowInsecure=0&type=ws&host=WangCai.443888.xyz&path=%2Fdanfeng%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#🇸🇬 Singapore | CDS Global Cloud Co., 6
-vless://26524cce-d514-4014-a426-365fb266a14d@151.242.183.220:35549?encryption=none&security=tls&sni=WangCai.443888.xyz&insecure=0&allowInsecure=0&type=ws&host=WangCai.443888.xyz&path=%2Fdanfeng%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#🇸🇬 Singapore | CDS Global Cloud Co., 7
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.156.116.194:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=sni.111000.v6.navy&fp=chrome#🇸🇬 Singapore | Cloudflare, 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@168.138.189.91:443/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.dynv6.net&fp=chrome#🇸🇬 Singapore | Cloudflare, 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8313#🇸🇬 Singapore | Amazon Technologies 1
+vless://26524cce-d514-4014-a426-365fb266a14d@202.84.53.85:19999?&security=tls&fp=chrome&sni=WangCai.443888.xyz&type=ws&headerType=none&host=WangCai.443888.xyz&path=%2Fdanfeng%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇸🇬 Singapore | CDS Global Cloud Co., 1
+vless://26524cce-d514-4014-a426-365fb266a14d@47.242.145.136:8001?encryption=none&security=tls&sni=WangCai.443888.xyz&type=ws&host=WangCai.443888.xyz&path=%2Fdanfeng%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇸🇬 Singapore | CDS Global Cloud Co., 2
+vless://26524cce-d514-4014-a426-365fb266a14d@47.242.145.136:8001?encryption=none&security=tls&sni=WangCai.443888.xyz&type=ws&host=WangCai.443888.xyz&path=%2Fdanfeng%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🇸🇬 Singapore | CDS Global Cloud Co., 3
+vless://55b0463c-e27f-455b-a25a-70123297b9f4@69.84.182.20:443?encryption=none&host=rAyAn-cOnFiG-sg-1.pArSa.dPdNs.oRg&fp=chrome&path=%2Fws&security=tls&sni=rAyAn-cOnFiG-sg-1.pArSa.dPdNs.oRg&type=ws#🇸🇬 Singapore | Chelyabinsk-Signal 1
+vless://55b0463c-e27f-455b-a25a-70123297b9f4@69.84.182.20:443?security=tls&sni=rAyAn-cOnFiG-sg-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-sg-1.pArSa.dPdNs.oRg&encryption=none#🇸🇬 Singapore | Chelyabinsk-Signal 2
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.133.61.219:443/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.dynv6.net&fp=chrome#🇸🇬 Singapore | Cloudflare, 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.36.178.36:2053?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&host=sni.111000.indevs.in#🇸🇬 Singapore | Cloudflare, 2
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.36.178.36:8443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&host=sni.111000.indevs.in#🇸🇬 Singapore | Cloudflare, 3
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@157.230.244.86:443/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.dynv6.net&fp=chrome#🇸🇬 Singapore | Cloudflare, 4
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.36.178.36:8443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&host=sni.111000.indevs.in#🇸🇬 Singapore | Cloudflare, 5
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@157.245.200.76:443/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.dynv6.net&fp=chrome#🇸🇬 Singapore | Cloudflare, 6
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.36.178.36:2053?type=ws&security=tls&encryption=none&fp=chrome&sni=sni.111000.indevs.in&path=/%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=sni.111000.indevs.in#🇸🇬 Singapore | Cloudflare, 7
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.248.145.216:443/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.dynv6.net&fp=chrome#🇸🇬 Singapore | Cloudflare, 8
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@143.42.66.91:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🇸🇬 Singapore | Cloudflare, 9
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.2.89.238:43254?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#🇸🇬 Singapore | Cloudflare, 10
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:443?encryption=none&security=tls&type=ws&host=afrcloud22.mmv.kr&path=%2F154.19.242.205%3D443&sni=afrcloud22.mmv.kr#🇸🇬 Singapore | Cogent Communications 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MmQyYjQ3MTgxYTMyZGU3@154.26.132.38:16922#🇸🇬 Singapore | Cogent Communications 2
 ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80#🇸🇬 Singapore | Contabo Asia Private 1
 ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80#🇸🇬 Singapore | Contabo Asia Private 2
 ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80#🇸🇬 Singapore | Contabo Asia Private 3
-ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80#🇸🇬 Singapore | Contabo Asia Private 4
-ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:443#🇸🇬 Singapore | Contabo Asia Private 5
-ss://YWVzLTI1Ni1nY206cUt2Zlg3eVFuVDk5T011Mw@194.233.75.190:80#🇸🇬 Singapore | Contabo Asia Private 6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NjRhNGQ4YzFjNzZlYjUw@194.233.73.51:14453#🇸🇬 Singapore | Contabo Asia Private 7
-ss://YWVzLTI1Ni1nY206cUt2Zlg3eVFuVDk5T011Mw@194.233.75.190:80#🇸🇬 Singapore | Contabo Asia Private 8
+ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:443#🇸🇬 Singapore | Contabo Asia Private 4
+ss://YWVzLTI1Ni1nY206cUt2Zlg3eVFuVDk5T011Mw@194.233.75.190:80#🇸🇬 Singapore | Contabo Asia Private 5
+ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80#🇸🇬 Singapore | Contabo Asia Private 6
+ss://YWVzLTI1Ni1nY206cUt2Zlg3eVFuVDk5T011Mw@194.233.75.190:80#🇸🇬 Singapore | Contabo Asia Private 7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NjRhNGQ4YzFjNzZlYjUw@194.233.73.51:14453#🇸🇬 Singapore | Contabo Asia Private 8
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#🇸🇬 Singapore | DigitalOcean, 1
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:443?encryption=none&security=tls&type=ws&host=afrcloud22.mmv.kr&path=%2F5.223.47.32%3D443&sni=afrcloud22.mmv.kr#🇸🇬 Singapore | Hetzner Online GmbH 1
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.138.24:3901?security=tls&sni=www.nintendogames.net#🇸🇬 Singapore | M247 Europe SRL 1
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.124.55:3901?security=tls&sni=www.nintendogames.net#🇸🇬 Singapore | M247 Europe SRL 2
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.39.240:3901?security=tls&sni=www.nintendogames.net#🇸🇬 Singapore | M247 Europe SRL 3
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.81.84:3901?security=tls&sni=www.nintendogames.net#🇸🇬 Singapore | M247 Europe SRL 4
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.81.84:3901?security=tls&sni=www.nintendogames.net#🇸🇬 Singapore | M247 Europe SRL 5
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.124.55:3901?security=tls&sni=www.nintendogames.net#🇸🇬 Singapore | M247 Europe SRL 6
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.39.240:3901?security=tls&sni=www.nintendogames.net#🇸🇬 Singapore | M247 Europe SRL 1
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.138.24:3901?security=tls&sni=www.nintendogames.net#🇸🇬 Singapore | M247 Europe SRL 2
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.89.176:3901?security=tls&sni=www.nintendogames.net#🇸🇬 Singapore | M247 Europe SRL 3
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.124.55:3901?security=tls&sni=www.nintendogames.net#🇸🇬 Singapore | M247 Europe SRL 4
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.138.24:3901?allowInsecure=0&sni=www.nintendogames.net#🇸🇬 Singapore | M247 Europe SRL 5
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.81.84:3901?security=tls&sni=www.nintendogames.net#🇸🇬 Singapore | M247 Europe SRL 6
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.89.176:3901?security=tls&sni=www.nintendogames.net#🇸🇬 Singapore | M247 Europe SRL 7
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.89.176:3901?security=tls&sni=www.nintendogames.net#🇸🇬 Singapore | M247 Europe SRL 8
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.124.55:3901?security=tls&sni=www.nintendogames.net#🇸🇬 Singapore | M247 Europe SRL 8
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.81.84:3901?security=tls&sni=www.nintendogames.net#🇸🇬 Singapore | M247 Europe SRL 9
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.17.98.251:443?path=/91.192.81.154=2053&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=joinProxyVPN11.afrcloud22.mmv.kr#🇸🇬 Singapore | Melbikomas UAB 1
-vless://9751a75b-b27c-4766-9e67-380599588612@afrcloud22.mmv.kr:443?path=%2F138.2.95.61%3D1111&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#🇸🇬 Singapore | Oracle 1
-vless://9751a75b-b27c-4766-9e67-380599588612@afrcloud22.mmv.kr:443?path=%2F138.2.95.61%3D1111&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#🇸🇬 Singapore | Oracle 2
-vless://53342b53-157e-4475-9f3a-40439434e689@172.64.156.188:80/?type=ws&encryption=none&flow=&host=c.iamdt.dpdns.org&path=%2F#🇸🇬 Singapore | Oracle 3
+vless://e8add82d-0a0a-4f3b-a22e-c74f83da73b9@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2F138.2.64.229%3D443#🇸🇬 Singapore | Oracle 1
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:443?encryption=none&security=tls&type=ws&host=afrcloud22.mmv.kr&path=%2F168.138.189.91%3D443&sni=afrcloud22.mmv.kr#🇸🇬 Singapore | Oracle 2
+vless://9751a75b-b27c-4766-9e67-380599588612@afrcloud22.mmv.kr:443?path=%2F138.2.95.61%3D1111&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#🇸🇬 Singapore | Oracle 3
 vless://9751a75b-b27c-4766-9e67-380599588612@afrcloud22.mmv.kr:443?path=%2F138.2.95.61%3D1111&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#🇸🇬 Singapore | Oracle 4
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:443?encryption=none&security=tls&type=ws&host=afrcloud22.mmv.kr&path=%2F168.138.189.91%3D443&sni=afrcloud22.mmv.kr#🇸🇬 Singapore | Oracle 5
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:443?encryption=none&security=tls&type=ws&host=afrcloud22.mmv.kr&path=%2F43.156.116.194%3D443&sni=afrcloud22.mmv.kr#🇸🇬 Singapore | Shenzhen Tencent Compu... 1
 vless://0ec1c958-0087-4ca6-b4b2-b846c0f62419@afrcloud22.mmv.kr:443?security=tls&sni=afrcloud22.mmv.kr&type=ws&path=/45.32.100.46%3D13802&host=afrcloud22.mmv.kr&encryption=none#🇸🇬 Singapore | The Constant Company 1
 ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ@45.77.253.107:80#🇸🇬 Singapore | The Constant Company 2
 ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ@45.77.253.107:80#🇸🇬 Singapore | The Constant Company 3
-ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ@45.77.253.107:80#🇸🇬 Singapore | The Constant Company 4
-ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ@45.77.253.107:443#🇸🇬 Singapore | The Constant Company 5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#🇸🇬 Singapore | Ultahost, 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.89.142.56:990#🇸🇬 Singapore | Ultahost, 2
+ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ@45.77.253.107:443#🇸🇬 Singapore | The Constant Company 4
+ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ@45.77.253.107:80#🇸🇬 Singapore | The Constant Company 5
+ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ@45.77.253.107:443#🇸🇬 Singapore | The Constant Company 6
+ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ@45.77.253.107:80#🇸🇬 Singapore | The Constant Company 7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.89.142.56:990#🇸🇬 Singapore | Ultahost, 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#🇸🇬 Singapore | Ultahost, 2
