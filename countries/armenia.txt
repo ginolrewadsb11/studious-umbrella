@@ -3,11 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7IgQm9iaVZQTiDigJQgQXJtZW5pYQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7IgQm9iaVZQTiDigJQgQXJtZW5pYQrimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&security=reality&sid=0e&sni=yahoo.com&type=tcp#🇦🇲 Armenia | 365.partners INC 1
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&security=reality&sid=0e&sni=yahoo.com&type=tcp#🇦🇲 Armenia | 365.partners INC 2
-vless://f3c95705-8a7b-4566-9086-d19c2f34b675@91.196.35.96:8080?security=reality&encryption=none&pbk=qGXclTFIbiEJ6sxs5N0V9p91cSdQHElwNxTMS07dM2A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=help.max.ru&sid=f1#🇦🇲 Armenia | WorkTitans B.V. 1
-vless://f3c95705-8a7b-4566-9086-d19c2f34b675@91.196.35.96:8080?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qGXclTFIbiEJ6sxs5N0V9p91cSdQHElwNxTMS07dM2A&sid=f1&sni=help.max.ru#🇦🇲 Armenia | WorkTitans B.V. 2
-vless://c7fd7017-71cf-4bfa-bc4f-bff8534c250b@185.234.57.169:443?security=reality&encryption=none&pbk=oXJYDXF6d8Bfx04xUNcI6SFSRyQ9SpBhU0Xf3tw4yy8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=wikiportal.su&sid=a5dc63d78eb0b1c9#🇦🇲 Armenia | WorkTitans B.V. 3
-vless://dd92c4f8-be88-4c61-84eb-d261f798071e@185.234.57.207:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=teamdocs.su&fp=chrome&pbk=Yu1_Agl1_bJb298G9ukjGuvfksVTUs1X7laYJ3VqwwQ&sid=b5e0cd9ca194c0a5&type=tcp&headerType=none#🇦🇲 Armenia | WorkTitans B.V. 4
+vless://f3c95705-8a7b-4566-9086-d19c2f34b675@91.196.35.96:8080?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qGXclTFIbiEJ6sxs5N0V9p91cSdQHElwNxTMS07dM2A&sid=f1&sni=help.max.ru#🇦🇲 Armenia | WorkTitans B.V. 1
+vless://f3c95705-8a7b-4566-9086-d19c2f34b675@91.196.35.96:8080/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=help.max.ru&fp=chrome&security=reality&pbk=qGXclTFIbiEJ6sxs5N0V9p91cSdQHElwNxTMS07dM2A&sid=f1#🇦🇲 Armenia | WorkTitans B.V. 2
+vless://f3c95705-8a7b-4566-9086-d19c2f34b675@91.196.35.96:8080?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qGXclTFIbiEJ6sxs5N0V9p91cSdQHElwNxTMS07dM2A&sid=f1&sni=help.max.ru#🇦🇲 Armenia | WorkTitans B.V. 3
+vless://c7fd7017-71cf-4bfa-bc4f-bff8534c250b@185.234.57.169:443?security=reality&encryption=none&pbk=oXJYDXF6d8Bfx04xUNcI6SFSRyQ9SpBhU0Xf3tw4yy8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=wikiportal.su&sid=a5dc63d78eb0b1c9#🇦🇲 Armenia | WorkTitans B.V. 4
+vless://dd92c4f8-be88-4c61-84eb-d261f798071e@185.234.57.207:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=teamdocs.su&fp=chrome&pbk=Yu1_Agl1_bJb298G9ukjGuvfksVTUs1X7laYJ3VqwwQ&sid=b5e0cd9ca194c0a5&type=tcp&headerType=none#🇦🇲 Armenia | WorkTitans B.V. 5
