@@ -3,18 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMTMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://2b20b451-3843-4aa7-8688-94121ee71ac0@78.159.247.216:3443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=dfT5z5agib56VILhtjzfgksA4M5Ez0yNA_19Ck2z5ho&sid=d16801fe66c1c538&sni=max.ru&path=&host=#🇨🇿 Czechia | Global Cloud Network 1
-vless://f37a21b9-5680-40d7-a1ed-4834211e520b@78.159.247.216:3443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dfT5z5agib56VILhtjzfgksA4M5Ez0yNA_19Ck2z5ho&security=reality&sid=d16801fe66c1c538&sni=max.ru&type=tcp#🇨🇿 Czechia | Global Cloud Network 2
-vless://f37a21b9-5680-40d7-a1ed-4834211e520b@78.159.247.216:3443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=dfT5z5agib56VILhtjzfgksA4M5Ez0yNA_19Ck2z5ho&security=reality&sid=d16801fe66c1c538&sni=max.ru#🇨🇿 Czechia | Global Cloud Network 3
-vless://83c729d5-7b49-4007-9bf5-d090bb8ee500@78.159.247.216:3443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=dfT5z5agib56VILhtjzfgksA4M5Ez0yNA_19Ck2z5ho&sid=d16801fe66c1c538&sni=max.ru#🇨🇿 Czechia | Global Cloud Network 4
-vless://b5fdd62c-75b5-44d4-b4c4-7e48a5b4268a@78.159.247.216:3443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=dfT5z5agib56VILhtjzfgksA4M5Ez0yNA_19Ck2z5ho&sid=d16801fe66c1c538&sni=max.ru&path=&host=#🇨🇿 Czechia | Global Cloud Network 5
-vless://42cd70c5-fcdf-4295-a269-72c67972afa0@78.159.247.216:3443?security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=dfT5z5agib56VILhtjzfgksA4M5Ez0yNA_19Ck2z5ho&sid=d16801fe66c1c538&sni=max.ru#🇨🇿 Czechia | Global Cloud Network 6
-vless://f37a21b9-5680-40d7-a1ed-4834211e520b@78.159.247.216:3443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=dfT5z5agib56VILhtjzfgksA4M5Ez0yNA_19Ck2z5ho&security=reality&sid=d16801fe66c1c538&sni=max.ru#🇨🇿 Czechia | Global Cloud Network 7
-vless://f37a21b9-5680-40d7-a1ed-4834211e520b@78.159.247.216:3443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dfT5z5agib56VILhtjzfgksA4M5Ez0yNA_19Ck2z5ho&sid=d16801fe66c1c538&sni=max.ru#🇨🇿 Czechia | Global Cloud Network 8
-vless://f37a21b9-5680-40d7-a1ed-4834211e520b@78.159.247.216:3443?security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=dfT5z5agib56VILhtjzfgksA4M5Ez0yNA_19Ck2z5ho&sid=d16801fe66c1c538&sni=max.ru#🇨🇿 Czechia | Global Cloud Network 9
-vless://42cd70c5-fcdf-4295-a269-72c67972afa0@78.159.247.216:3443?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dfT5z5agib56VILhtjzfgksA4M5Ez0yNA_19Ck2z5ho&sid=d16801fe66c1c538&sni=max.ru#🇨🇿 Czechia | Global Cloud Network 10
 vless://6ab80df3-5f07-4aa7-9aed-44d6db54aa3f@194.182.64.209:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gmail.com#🇨🇿 Czechia | INTERNET CZ, a.s. 1
 vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@45.15.162.85:443?security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&type=tcp&flow=xtls-rprx-vision&encryption=none#🇨🇿 Czechia | WorkTitans B.V. 1
 vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@45.15.162.85:443?security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&type=tcp&flow=xtls-rprx-vision&encryption=none#🇨🇿 Czechia | WorkTitans B.V. 2
