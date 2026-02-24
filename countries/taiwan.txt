@@ -3,24 +3,21 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HufCfh7wgQm9iaVZQTiDigJQgVGFpd2FuCuKaoSAxOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HufCfh7wgQm9iaVZQTiDigJQgVGFpd2FuCuKaoSAxNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.228.69.232:3462?security=tls&sni=45.32.28.232&type=tcp&allowInsecure=1#🇹🇼 Taiwan | Cloudflare, 1
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.228.69.38:3462?security=tls&sni=45.32.28.232&type=tcp&allowInsecure=1#🇹🇼 Taiwan | Cloudflare, 2
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.228.68.42:3462?security=tls&sni=45.32.28.232&allowInsecure=1&type=tcp&headerType=none#🇹🇼 Taiwan | Cloudflare, 3
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.228.69.38:3462?security=tls&sni=45.32.28.232&allowInsecure=1&type=tcp&headerType=none#🇹🇼 Taiwan | Cloudflare, 4
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.228.69.38:3462?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&type=tcp&headerType=none#🇹🇼 Taiwan | Cloudflare, 5
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.228.69.226:3462?security=tls&sni=45.32.28.232&type=tcp&allowInsecure=1#🇹🇼 Taiwan | Cloudflare, 6
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.228.69.38:3462?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=45.32.28.232#🇹🇼 Taiwan | Cloudflare, 7
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.228.69.232:3462?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&type=tcp&headerType=none#🇹🇼 Taiwan | Cloudflare, 8
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.228.68.42:3462?security=tls&sni=45.32.28.232&type=tcp&allowInsecure=1#🇹🇼 Taiwan | Cloudflare, 9
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.228.68.42:3462?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&type=tcp&headerType=none#🇹🇼 Taiwan | Cloudflare, 10
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.221.189.242:3462?security=tls&sni=45.32.28.232#🇹🇼 Taiwan | Cloudflare, 11
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@59.125.131.164:3462?security=tls&sni=45.32.28.232#🇹🇼 Taiwan | Cloudflare, 12
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@203.69.248.40:10443?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇹🇼 Taiwan | Cloudflare, 13
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@203.69.248.40:10443?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇹🇼 Taiwan | Cloudflare, 14
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@a03.taipeicitygovernment.cn.ua:3462?security=tls&sni=45.32.28.232#🇹🇼 Taiwan | Cloudflare, 15
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.228.69.232:3462?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&type=tcp&headerType=none#🇹🇼 Taiwan | Cloudflare, 1
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.228.69.38:3462?security=tls&sni=45.32.28.232&allowInsecure=1&type=tcp&headerType=none#🇹🇼 Taiwan | Cloudflare, 2
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.228.68.42:3462?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&type=tcp&headerType=none#🇹🇼 Taiwan | Cloudflare, 3
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.228.69.226:3462?security=tls&sni=45.32.28.232&type=tcp&allowInsecure=1#🇹🇼 Taiwan | Cloudflare, 4
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.221.189.242:3462?security=tls&sni=45.32.28.232#🇹🇼 Taiwan | Cloudflare, 5
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.228.68.42:3462?security=tls&sni=45.32.28.232&type=tcp&allowInsecure=1#🇹🇼 Taiwan | Cloudflare, 6
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@59.125.131.164:3462?security=tls&sni=45.32.28.232#🇹🇼 Taiwan | Cloudflare, 7
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@203.69.248.40:10443?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇹🇼 Taiwan | Cloudflare, 8
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.228.69.38:3462?security=tls&sni=45.32.28.232&allowInsecure=1&type=tcp&headerType=none#🇹🇼 Taiwan | Cloudflare, 9
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@a03.taipeicitygovernment.cn.ua:3462?security=tls&sni=45.32.28.232#🇹🇼 Taiwan | Cloudflare, 10
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.105:41632#🇹🇼 Taiwan | Data Center Network 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.223.20.79:990#🇹🇼 Taiwan | Kaopu Cloud HK 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.107.101:990#🇹🇼 Taiwan | Kaopu Cloud HK 2
 vless://0878c33b-ab5e-47f4-94ec-44206a08069c@download.riferoser.icu:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=q42m1wg11kZLyRtjaKus8T-NNl1vriRG3V1eVTL6ICc&sid=0f1280fa579b&sni=www.tradingview.com#🇹🇼 Taiwan | SAKURA LTD. 1
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6MzUwMzQsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjW3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtVFctMTI5Mzc5NDkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwibmFtZSI6Ij4+QG9uZWNsaWNrdnBua2V5czo6VFc6OlRXIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇹🇼 Taiwan | Scloud Pte 1
+vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuYW1lIjoiPj5Ab25lY2xpY2t2cG5rZXlzOjpUVzo6VFciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6MzUwMzQsInBzIjoiXHVkODNjXHVkZmYzW3d3dy52Mm5vZGVzLmNvbV0gdm1lc3MtIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇹🇼 Taiwan | Scloud Pte 1
+vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuYW1lIjoiPj5Ab25lY2xpY2t2cG5rZXlzOjpUVzo6VFciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6MzUwMzQsInBzIjoiXHVkODNjXHVkZmYzW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇹🇼 Taiwan | Scloud Pte 2
