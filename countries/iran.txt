@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJcmFuCuKaoSAyINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJcmFuCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://665b51bb-b60b-4653-dab5-cc7fc3125380@37.32.43.252:15717?security=none&encryption=none&headerType=none&type=tcp#🌍 Iran | Giti Secure Cloud 1
-vless://665b51bb-b60b-4653-dab5-cc7fc3125380@37.32.43.252:15717?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#🌍 Iran | Giti Secure Cloud 2
+vless://665b51bb-b60b-4653-dab5-cc7fc3125380@37.32.43.252:15717?encryption=none&flow=&type=#🌍 Iran | Giti Secure Cloud 1
