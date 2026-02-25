@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJcmFuCuKaoSAyINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://665b51bb-b60b-4653-dab5-cc7fc3125380@37.32.43.252:15717?encryption=none&type=tcp&security=none#🌍 Iran | Giti Secure Cloud 1
-vless://665b51bb-b60b-4653-dab5-cc7fc3125380@37.32.43.252:15717?encryption=none&type=tcp&security=none#🌍 Iran | Giti Secure Cloud 2
+vless://665b51bb-b60b-4653-dab5-cc7fc3125380@37.32.43.252:15717?security=none&encryption=none&headerType=none&type=tcp#🌍 Iran | Giti Secure Cloud 1
+vless://665b51bb-b60b-4653-dab5-cc7fc3125380@37.32.43.252:15717?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#🌍 Iran | Giti Secure Cloud 2
