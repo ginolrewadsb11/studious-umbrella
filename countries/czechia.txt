@@ -3,7 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://ff9035ba-4052-4fa5-8ccf-f9a6ca57407d@91.184.250.227:443?security=reality&encryption=none&pbk=avkEIU1rwN4LGd4t5DHRQwm3GzzDP723R8mUOwxNCE4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=d14f7150911e712d#🇨🇿 Czechia | SmartApe OU 1
-vless://ff9035ba-4052-4fa5-8ccf-f9a6ca57407d@91.184.250.227:443?security=reality&encryption=none&pbk=avkEIU1rwN4LGd4t5DHRQwm3GzzDP723R8mUOwxNCE4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=d14f7150911e712d#🇨🇿 Czechia | SmartApe OU 2
+vless://ff9035ba-4052-4fa5-8ccf-f9a6ca57407d@91.184.250.227:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.microsoft.com&pbk=avkEIU1rwN4LGd4t5DHRQwm3GzzDP723R8mUOwxNCE4&sid=d14f7150911e712d#🇨🇿 Czechia | SmartApe OU 1
+vless://ff9035ba-4052-4fa5-8ccf-f9a6ca57407d@91.184.250.227:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.microsoft.com&pbk=avkEIU1rwN4LGd4t5DHRQwm3GzzDP723R8mUOwxNCE4&sid=d14f7150911e712d#🇨🇿 Czechia | SmartApe OU 2
+vless://ff9035ba-4052-4fa5-8ccf-f9a6ca57407d@91.184.250.227:443?security=reality&encryption=none&pbk=avkEIU1rwN4LGd4t5DHRQwm3GzzDP723R8mUOwxNCE4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=d14f7150911e712d#🇨🇿 Czechia | SmartApe OU 3
+vless://ff9035ba-4052-4fa5-8ccf-f9a6ca57407d@91.184.250.227:443?security=reality&encryption=none&pbk=avkEIU1rwN4LGd4t5DHRQwm3GzzDP723R8mUOwxNCE4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=d14f7150911e712d#🇨🇿 Czechia | SmartApe OU 4
