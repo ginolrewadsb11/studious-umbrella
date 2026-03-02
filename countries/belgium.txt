@@ -3,9 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.163.213:2096/?type=ws&encryption=none&flow=&host=ems.arc-time.workers.dev&path=%2F88ailh3l64gh&security=tls&sni=EMS.Arc-Time.Workers.DEV&alpn=h3&allowInsecure=1&fp=chrome#🇧🇪 Belgium | Google 1
-vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@www.visa.com.sg:2052/?type=ws&encryption=none&flow=&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev&path=%2F%3Fed%3D2560#🇧🇪 Belgium | Google 2
-vless://224cfff1-d9d3-4d53-8234-8adff7f380bf@176.122.25.13:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=img.yandex.ru&pbk=fc7wwlzUfydHkCpOx0NTUCIScR0i66XtzGsoL_D4AVk&sid=960ae214db9f1604&spx=%2F#🇧🇪 Belgium | WorkTitans B.V. 1
-vless://224cfff1-d9d3-4d53-8234-8adff7f380bf@176.122.25.13:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.ru&pbk=fc7wwlzUfydHkCpOx0NTUCIScR0i66XtzGsoL_D4AVk&sid=3ec281ed&spx=%2F#🇧🇪 Belgium | WorkTitans B.V. 2
+vless://1218c022-dca8-49e5-b7d4-a04f3023db81@be-01.opsvpnvless.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cexzHzD6gpaxyxc9wSYv7D6xQScsnOSMl1_FJAoUTAc&sid=507df9a4&sni=stats.vk-portal.net#🇧🇪 Belgium | Global Connectivity So... 1
+vless://1218c022-dca8-49e5-b7d4-a04f3023db81@be-01.opsvpnvless.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cexzHzD6gpaxyxc9wSYv7D6xQScsnOSMl1_FJAoUTAc&sid=507df9a4&sni=stats.vk-portal.net#🇧🇪 Belgium | Global Connectivity So... 2
