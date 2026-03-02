@@ -3,9 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://0b019605-4150-4d75-882f-03b07f7fbb39@46.8.113.237:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=77.88.8.8&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇨🇿 Czechia | Host-Telecom.com s.r.o. 1
-vless://42a7df85-0739-4760-a248-32a491abfa2a@cze01-vlr01.tcp-reset-club.net:10443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=31#🇨🇿 Czechia | WorkTitans B.V. 1
-vless://c1dca28f-48a9-45b9-9c1b-e0b78707a26a@cze01-vlr01.tcp-reset-club.net:10443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&spx=%2F#🇨🇿 Czechia | WorkTitans B.V. 2
-vless://46c9a909-2e81-4f6f-b999-def280062188@cze01-vlr01.tcp-reset-club.net:10443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#🇨🇿 Czechia | WorkTitans B.V. 3
+vless://c1dca28f-48a9-45b9-9c1b-e0b78707a26a@cze01-vlr01.tcp-reset-club.net:10443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&spx=%2F#🇨🇿 Czechia | WorkTitans B.V. 1
+vless://46c9a909-2e81-4f6f-b999-def280062188@cze01-vlr01.tcp-reset-club.net:10443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#🇨🇿 Czechia | WorkTitans B.V. 2
+vless://42a7df85-0739-4760-a248-32a491abfa2a@cze01-vlr01.tcp-reset-club.net:10443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=31#🇨🇿 Czechia | WorkTitans B.V. 3
