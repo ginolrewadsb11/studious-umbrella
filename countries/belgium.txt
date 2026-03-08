@@ -3,10 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🇧🇪 Belgium | EDIS GmbH 1
-vless://9aa5e15f-513c-4aaa-839a-accd2f1977fa@51.250.83.167:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=ads.x5.ru&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI#🇧🇪 Belgium | FDCservers.net 1
-vless://9aa5e15f-513c-4aaa-839a-accd2f1977fa@51.250.10.213:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=ads.x5.ru&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI#🇧🇪 Belgium | FDCservers.net 2
-vless://d00a29d1-6e6c-4281-9e46-263caa77bb44@104.18.32.47:443?encryption=none&type=ws&security=tls&path=%2FeyJqdW5rIjoiYk9WYlJsYlFGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsibmltYS5uc2NsLmlyIl19&host=pedaratvpn.ar-ahmadiyan86.workers.dev&fp=chrome&sni=pEdaRAtVPn.ar-AhmadiYan86.WoRKers.dev#🇧🇪 Belgium | Google 1
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.13.140:2083?encryption=none&type=ws&security=tls&path=%2F9quSDGMroCZkFeWzTk&host=index.0x15.workers.dev&sni=index.0x15.workers.DEV&alpn=http%2F1.1#🇧🇪 Belgium | Google 2
+vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.163.213:2096/?type=ws&encryption=none&flow=&host=ems.arc-time.workers.dev&path=%2F88ailh3l64gh&security=tls&sni=EMS.Arc-Time.Workers.DEV&alpn=h3&allowInsecure=1&fp=chrome#🇧🇪 Belgium | Google 1
+vless://d00a29d1-6e6c-4281-9e46-263caa77bb44@172.64.155.209:443?security=tls&type=ws&host=pedaratvpn.ar-ahmadiyan86.workers.dev&path=/eyJqdW5rIjoiYk9WYlJsYlFGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsibmltYS5uc2NsLmlyIl19&sni=pEdaRAtVPn.ar-AhmadiYan86.WoRKers.dev&fp=chrome#🇧🇪 Belgium | Google 2
+vless://d00a29d1-6e6c-4281-9e46-263caa77bb44@chatgpt.com:443?type=ws&security=tls&encryption=none&sni=pEdaRAtVPn.ar-AhmadiYan86.WoRKers.dev&path=/eyJqdW5rIjoiYk9WYlJsYlFGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsibmltYS5uc2NsLmlyIl19&host=pedaratvpn.ar-ahmadiyan86.workers.dev#🇧🇪 Belgium | Google 3
