@@ -3,12 +3,29 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgMjQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇷🇴 Romania | Dotro Telecom SRL 1
-vless://d1209ffb-c159-48d5-b40d-542ce11fc768@1c.axinode.sbs:10121?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Y1Kv9pIslhh4NfHLjheDU--RYDfO6j9XGIw_gQ_yCxY&sid=6ee84570745a60d9&sni=deepl.com#🇷🇴 Romania | Serva ONE LTD 1
-vless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@1c.axinode.sbs:10121?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=Y1Kv9pIslhh4NfHLjheDU--RYDfO6j9XGIw_gQ_yCxY&sid=6ee84570745a60d9&sni=deepl.com#🇷🇴 Romania | Serva ONE LTD 2
-vless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@1c.axinode.sbs:10121?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Y1Kv9pIslhh4NfHLjheDU--RYDfO6j9XGIw_gQ_yCxY&sid=6ee84570745a60d9&sni=deepl.com#🇷🇴 Romania | Serva ONE LTD 3
-vless://d1209ffb-c159-48d5-b40d-542ce11fc768@1c.axinode.sbs:10121?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=Y1Kv9pIslhh4NfHLjheDU--RYDfO6j9XGIw_gQ_yCxY&sid=6ee84570745a60d9&sni=deepl.com#🇷🇴 Romania | Serva ONE LTD 4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇷🇴 Romania | Dotro Telecom SRL 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#🇷🇴 Romania | Dotro Telecom SRL 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇷🇴 Romania | Internet Magnate (Pty) 1
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@1c.axinode.sbs:10121?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=qq&pbk=Y1Kv9pIslhh4NfHLjheDU--RYDfO6j9XGIw_gQ_yCxY&sid=6ee84570745a60d9&type=tcp#🇷🇴 Romania | Serva ONE LTD 1
+vless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@1c.axinode.sbs:10121?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Y1Kv9pIslhh4NfHLjheDU--RYDfO6j9XGIw_gQ_yCxY&sid=6ee84570745a60d9&sni=deepl.com#🇷🇴 Romania | Serva ONE LTD 2
+vless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@1c.axinode.sbs:10121?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=Y1Kv9pIslhh4NfHLjheDU--RYDfO6j9XGIw_gQ_yCxY&sid=6ee84570745a60d9&sni=deepl.com#🇷🇴 Romania | Serva ONE LTD 3
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@1c.axinode.sbs:10121?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=qq&pbk=Y1Kv9pIslhh4NfHLjheDU--RYDfO6j9XGIw_gQ_yCxY&sid=6ee84570745a60d9&type=tcp&headerType=none#🇷🇴 Romania | Serva ONE LTD 4
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@1c.axinode.sbs:10121/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=chrome&security=reality&pbk=Y1Kv9pIslhh4NfHLjheDU--RYDfO6j9XGIw_gQ_yCxY&sid=6ee84570745a60d9#🇷🇴 Romania | Serva ONE LTD 5
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@1c.axinode.sbs:10121/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=qq&security=reality&pbk=Y1Kv9pIslhh4NfHLjheDU--RYDfO6j9XGIw_gQ_yCxY&sid=6ee84570745a60d9#🇷🇴 Romania | Serva ONE LTD 6
+vless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@1c.axinode.sbs:10121/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=chrome&security=reality&pbk=Y1Kv9pIslhh4NfHLjheDU--RYDfO6j9XGIw_gQ_yCxY&sid=6ee84570745a60d9#🇷🇴 Romania | Serva ONE LTD 7
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@1c.axinode.sbs:10121?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=Y1Kv9pIslhh4NfHLjheDU--RYDfO6j9XGIw_gQ_yCxY&sid=6ee84570745a60d9&sni=deepl.com#🇷🇴 Romania | Serva ONE LTD 8
+vless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@1c.axinode.sbs:10121?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=Y1Kv9pIslhh4NfHLjheDU--RYDfO6j9XGIw_gQ_yCxY&sid=6ee84570745a60d9&sni=deepl.com#🇷🇴 Romania | Serva ONE LTD 9
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@1c.axinode.sbs:10121?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=Y1Kv9pIslhh4NfHLjheDU--RYDfO6j9XGIw_gQ_yCxY&sid=6ee84570745a60d9&sni=deepl.com#🇷🇴 Romania | Serva ONE LTD 10
+vless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@1c.axinode.sbs:10121?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=qq&pbk=Y1Kv9pIslhh4NfHLjheDU--RYDfO6j9XGIw_gQ_yCxY&sid=6ee84570745a60d9&type=tcp&headerType=none#🇷🇴 Romania | Serva ONE LTD 11
+vless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@1c.axinode.sbs:10121?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=Y1Kv9pIslhh4NfHLjheDU--RYDfO6j9XGIw_gQ_yCxY&sid=6ee84570745a60d9&sni=deepl.com#🇷🇴 Romania | Serva ONE LTD 12
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@1c.axinode.sbs:10121?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Y1Kv9pIslhh4NfHLjheDU--RYDfO6j9XGIw_gQ_yCxY&sid=6ee84570745a60d9&sni=deepl.com#🇷🇴 Romania | Serva ONE LTD 13
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@1c.axinode.sbs:10121?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=Y1Kv9pIslhh4NfHLjheDU--RYDfO6j9XGIw_gQ_yCxY&sid=6ee84570745a60d9&sni=deepl.com#🇷🇴 Romania | Serva ONE LTD 14
+vless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@1c.axinode.sbs:10121/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=qq&security=reality&pbk=Y1Kv9pIslhh4NfHLjheDU--RYDfO6j9XGIw_gQ_yCxY&sid=6ee84570745a60d9#🇷🇴 Romania | Serva ONE LTD 15
+vless://855033d2-2b26-472b-aa48-becab56527af@ro-4.vpnd.io:56124?type=tcp&security=reality&encryption=none&pbk=2Z0MNhM9g7PSKLlPapkUt3G7sZfMhoemkV3JtRoS-Uo&fp=random&sni=yahoo.com&sid=2c0461&spx=%2F&flow=xtls-rprx-vision#🇷🇴 Romania | STYLISH BY A&L SRL 1
 vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&allowInsecure=1#🇷🇴 Romania | WorkTitans B.V. 1
-vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&allowInsecure=1#🇷🇴 Romania | WorkTitans B.V. 2
+vless://crghxqxyoy@crghxqxyoy-518237151-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=crghxqxyoy-518237151-direct.bahame.co#🇷🇴 Romania | WorkTitans B.V. 2
+vless://crghxqxyoy@crghxqxyoy-518237151-direct.bahame.co:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&alpn=h2%2Chttp%2F1.1&fp=chrome#🇷🇴 Romania | WorkTitans B.V. 3
+vless://31922c21-4292-5183-8e3b-52341ed80660@crghxqxyoy-518237151-direct.bahame.co:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&allowInsecure=1#🇷🇴 Romania | WorkTitans B.V. 4
