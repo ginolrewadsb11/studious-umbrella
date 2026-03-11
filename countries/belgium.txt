@@ -6,5 +6,5 @@
 #announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🇧🇪 Belgium | EDIS GmbH 1
-vless://d00a29d1-6e6c-4281-9e46-263caa77bb44@104.18.32.47:443?encryption=none&type=ws&security=tls&path=%2FeyJqdW5rIjoiYk9WYlJsYlFGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsibmltYS5uc2NsLmlyIl19&host=pedaratvpn.ar-ahmadiyan86.workers.dev&sni=pEdaRAtVPn.ar-AhmadiYan86.WoRKers.dev#🇧🇪 Belgium | Google 1
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.75.194:2083?encryption=none&type=ws&security=tls&path=%2F9quSDGMroCZkFeWzTk&host=index.0x15.workers.dev&sni=index.0x15.workers.DEV&alpn=http%2F1.1#🇧🇪 Belgium | Google 2
+vless://4cf1a3a0-7360-41ff-84ae-b621001e8376@104.21.91.46:443?encryption=none&type=ws&security=tls&path=/R8BFTroQ00j1&host=usa.correctcosette.workers.dev&sni=Usa.cORreCtCOsETTe.WOrKeRS.DeV&alpn=http/1.1#🇧🇪 Belgium | Google 1
+vless://4cf1a3a0-7360-41ff-84ae-b621001e8376@172.67.166.185:443?allowInsecure=1&alpn=http/1.1&encryption=none&host=usa.correctcosette.workers.dev&path=/R8BFTroQ00j1&security=tls&sni=Usa.cORreCtCOsETTe.WOrKeRS.DeV&type=ws#🇧🇪 Belgium | Google 2
