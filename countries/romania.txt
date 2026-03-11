@@ -3,21 +3,17 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgMTYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgMTIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://21915536-afb5-4a0c-b047-fcf549d3a173@bucharest-meow.nethcloud.top:443?type=tcp&security=reality&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4&sni=wikihow.com&path=&host=#🇷🇴 Romania | Baxet Group 1
-vless://21915536-afb5-4a0c-b047-fcf549d3a173@bucharest-meow.nethcloud.top:443?type=tcp&security=reality&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4&sni=wikihow.com&path=&host=#🇷🇴 Romania | Baxet Group 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇷🇴 Romania | Dotro Telecom SRL 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇷🇴 Romania | Internet Magnate (Pty) 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇷🇴 Romania | Internet Magnate (Pty) 2
 vless://855033d2-2b26-472b-aa48-becab56527af@ro-4.vpnd.io:56124?flow=xtls-rprx-vision&fp=random&pbk=2Z0MNhM9g7PSKLlPapkUt3G7sZfMhoemkV3JtRoS-Uo&security=reality&sid=2c0461&sni=yahoo.com&type=tcp#🇷🇴 Romania | STYLISH BY A&L SRL 1
-vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&allowInsecure=1#🇷🇴 Romania | WorkTitans B.V. 1
-vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&allowInsecure=1#🇷🇴 Romania | WorkTitans B.V. 2
-vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443?flow=xtls-rprx-vision&security=tls&encryption=none&sni=crghxqxyoy-518237151-direct.bahame.co&type=tcp&path=/#🇷🇴 Romania | WorkTitans B.V. 3
-vless://crghxqxyoy@crghxqxyoy-518237151-direct.bahame.co:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&alpn=h2%2Chttp%2F1.1&fp=chrome#🇷🇴 Romania | WorkTitans B.V. 4
-vless://crghxqxyoy@crghxqxyoy-518237151-direct.bahame.co:443?security=tls&alpn=h2%2Chttp/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=crghxqxyoy-518237151-direct.bahame.co#🇷🇴 Romania | WorkTitans B.V. 5
-vless://152ec5ab-387b-433f-8a66-8bb1718dfb12@89.208.85.202:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=NIzM9YlBycbKgbMr-e_CJYBCJ9pPn7NiGEJw5bn-ikk&sid=5d2675558954&spx=%2F#🇷🇴 Romania | WorkTitans B.V. 6
-vless://152ec5ab-387b-433f-8a66-8bb1718dfb12@89.208.85.202:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=music.yandex.ru&pbk=NIzM9YlBycbKgbMr-e_CJYBCJ9pPn7NiGEJw5bn-ikk&sid=5d2675558954&spx=%2F#🇷🇴 Romania | WorkTitans B.V. 7
-vless://152ec5ab-387b-433f-8a66-8bb1718dfb12@89.208.85.202:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=NIzM9YlBycbKgbMr-e_CJYBCJ9pPn7NiGEJw5bn-ikk&sid=e2578f45ea8bd4&spx=%2F#🇷🇴 Romania | WorkTitans B.V. 8
-vless://152ec5ab-387b-433f-8a66-8bb1718dfb12@89.208.85.202:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=music.yandex.ru&pbk=NIzM9YlBycbKgbMr-e_CJYBCJ9pPn7NiGEJw5bn-ikk&sid=5d2675558954&spx=%2F#🇷🇴 Romania | WorkTitans B.V. 9
-vless://152ec5ab-387b-433f-8a66-8bb1718dfb12@89.208.85.202:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=beeline.ru&pbk=NIzM9YlBycbKgbMr-e_CJYBCJ9pPn7NiGEJw5bn-ikk&sid=42260666&spx=%2F#🇷🇴 Romania | WorkTitans B.V. 10
-vless://152ec5ab-387b-433f-8a66-8bb1718dfb12@89.208.85.202:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.ru&pbk=NIzM9YlBycbKgbMr-e_CJYBCJ9pPn7NiGEJw5bn-ikk&sid=ecd6327aceef8147&spx=%2F#🇷🇴 Romania | WorkTitans B.V. 11
+vless://152ec5ab-387b-433f-8a66-8bb1718dfb12@89.208.85.202:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=NIzM9YlBycbKgbMr-e_CJYBCJ9pPn7NiGEJw5bn-ikk&sid=5d2675558954&spx=%2F#🇷🇴 Romania | WorkTitans B.V. 1
+vless://152ec5ab-387b-433f-8a66-8bb1718dfb12@89.208.85.202:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.ru&pbk=NIzM9YlBycbKgbMr-e_CJYBCJ9pPn7NiGEJw5bn-ikk&sid=ecd6327aceef8147&spx=%2F#🇷🇴 Romania | WorkTitans B.V. 2
+vless://152ec5ab-387b-433f-8a66-8bb1718dfb12@89.208.85.202:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=beeline.ru&pbk=NIzM9YlBycbKgbMr-e_CJYBCJ9pPn7NiGEJw5bn-ikk&sid=42260666&spx=/#🇷🇴 Romania | WorkTitans B.V. 3
+vless://152ec5ab-387b-433f-8a66-8bb1718dfb12@89.208.85.202:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=NIzM9YlBycbKgbMr-e_CJYBCJ9pPn7NiGEJw5bn-ikk&sid=e2578f45ea8bd4&spx=%2F#🇷🇴 Romania | WorkTitans B.V. 4
+vless://152ec5ab-387b-433f-8a66-8bb1718dfb12@89.208.85.202:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=music.yandex.ru&pbk=NIzM9YlBycbKgbMr-e_CJYBCJ9pPn7NiGEJw5bn-ikk&sid=5d2675558954&spx=%2F#🇷🇴 Romania | WorkTitans B.V. 5
+vless://crghxqxyoy@crghxqxyoy-518237151-direct.bahame.co:443?security=tls&alpn=h2%2Chttp/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=crghxqxyoy-518237151-direct.bahame.co#🇷🇴 Romania | WorkTitans B.V. 6
+vless://152ec5ab-387b-433f-8a66-8bb1718dfb12@89.208.85.202:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=music.yandex.ru&pbk=NIzM9YlBycbKgbMr-e_CJYBCJ9pPn7NiGEJw5bn-ikk&sid=5d2675558954&spx=/#🇷🇴 Romania | WorkTitans B.V. 7
+vless://crghxqxyoy@crghxqxyoy-518237151-direct.bahame.co:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&alpn=h2%2Chttp%2F1.1&fp=chrome#🇷🇴 Romania | WorkTitans B.V. 8
