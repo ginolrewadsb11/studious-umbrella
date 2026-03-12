@@ -3,7 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🇧🇪 Belgium | EDIS GmbH 1
-vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@www.visa.com.sg:2052/?type=ws&encryption=none&flow=&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev&path=%2F%3Fed%3D2560#🇧🇪 Belgium | Google 1
+vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.145.21:443?encryption=none&type=ws&security=tls&path=%2Fassets&host=index.arcane509.workers.dev&sni=index.arcane509.workers.dev&alpn=http%2F1.1#🇧🇪 Belgium | Google 1
+vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@104.18.32.47:2052?encryption=none&type=ws&security=none&path=%F0%9F%94%92&host=parking-nfchbwa1-v2.parking-1ab.workers.dev#🇧🇪 Belgium | Google 2
+vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@188.114.97.3:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560fp%3Dchrome&host=rAyAn-007.pArViN.DpDnS.OrG&sni=rAyAn-007.pArViN.DpDnS.OrG#🇧🇪 Belgium | Google 3
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.13.140:2083?encryption=none&type=ws&security=tls&path=%2F9quSDGMroCZkFeWzTk&host=index.0x15.workers.dev&sni=index.0x15.workers.DEV&alpn=http%2F1.1#🇧🇪 Belgium | Google 4
