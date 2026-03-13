@@ -3,26 +3,24 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBBbGJhbmlhCuKaoSAyMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBBbGJhbmlhCuKaoSAxOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://21915536-afb5-4a0c-b047-fcf549d3a173@meow-alban.nethcloud.top:443?type=tcp&security=reality&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4&sni=wikihow.com&path=&host=#🌍 Albania | Baxet Group 1
-vless://21915536-afb5-4a0c-b047-fcf549d3a173@meow-alban.nethcloud.top:443?security=reality&encryption=none&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&headerType=none&fp=chrome&type=tcp&sni=wikihow.com&sid=8bd29483ded126b4#🌍 Albania | Baxet Group 2
-vless://21915536-afb5-4a0c-b047-fcf549d3a173@meow-alban.nethcloud.top:443?encryption=none&security=reality&sni=wikihow.com&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4&type=tcp&headerType=none#🌍 Albania | Baxet Group 3
-vless://21915536-afb5-4a0c-b047-fcf549d3a173@meow-alban.nethcloud.top:443?type=tcp&security=reality&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4&sni=wikihow.com&path=&host=#🌍 Albania | Baxet Group 4
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=ads.x5.ru#🌍 Albania | Global Connectivity So... 1
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=ads.x5.ru#🌍 Albania | Global Connectivity So... 2
+vless://21915536-afb5-4a0c-b047-fcf549d3a173@meow-alban.nethcloud.top:443?security=reality&encryption=none&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&headerType=none&fp=chrome&type=tcp&sni=wikihow.com&sid=8bd29483ded126b4#🌍 Albania | Baxet Group 1
+vless://21915536-afb5-4a0c-b047-fcf549d3a173@meow-alban.nethcloud.top:443?encryption=none&security=reality&sni=wikihow.com&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4&type=tcp&headerType=none#🌍 Albania | Baxet Group 2
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=0&sni=ads.x5.ru#🌍 Albania | Global Connectivity So... 1
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=0&sni=ads.x5.ru#🌍 Albania | Global Connectivity So... 2
 vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@144.31.129.38:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=alcdn2.suio.me#🌍 Albania | H2nexus LTD 1
-vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@144.31.129.38:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=alcdn2.suio.me#🌍 Albania | H2nexus LTD 2
-vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@alcdn2.suio.me:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=alcdn2.suio.me#🌍 Albania | H2nexus LTD 3
-vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@144.31.129.38:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=alcdn2.suio.me#🌍 Albania | H2nexus LTD 4
-vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@144.31.131.42:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=alcdn1.suio.me#🌍 Albania | H2nexus LTD 5
-vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@144.31.131.42:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=alcdn1.suio.me#🌍 Albania | H2nexus LTD 6
-vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@144.31.131.42:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=alcdn1.suio.me#🌍 Albania | H2nexus LTD 7
-vless://2dd1a15d-1426-413a-a3b8-a645788bc844@144.31.131.32:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=alb.speedload.online&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🌍 Albania | H2nexus LTD 8
+vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@144.31.131.42:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=alcdn1.suio.me#🌍 Albania | H2nexus LTD 2
+vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@144.31.129.38:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=alcdn2.suio.me#🌍 Albania | H2nexus LTD 3
+vless://2dd1a15d-1426-413a-a3b8-a645788bc844@144.31.131.32:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=alb.speedload.online&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🌍 Albania | H2nexus LTD 4
+vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@144.31.129.38:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=alcdn2.suio.me#🌍 Albania | H2nexus LTD 5
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@maroka.axinode.sbs:10965?security=reality&encryption=none&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=9f3a7c6d2e8b41af#🌍 Albania | H2nexus LTD 6
+vless://2dd1a15d-1426-413a-a3b8-a645788bc844@144.31.131.32:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&sni=alb.speedload.online#🌍 Albania | H2nexus LTD 7
+vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@144.31.131.42:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=alcdn1.suio.me#🌍 Albania | H2nexus LTD 8
 vless://2dd1a15d-1426-413a-a3b8-a645788bc844@144.31.131.32:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=alb.speedload.online&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🌍 Albania | H2nexus LTD 9
-vless://2dd1a15d-1426-413a-a3b8-a645788bc844@144.31.131.32:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&sni=alb.speedload.online#🌍 Albania | H2nexus LTD 10
-vless://2dd1a15d-1426-413a-a3b8-a645788bc844@144.31.131.32:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=alb.speedload.online&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🌍 Albania | H2nexus LTD 11
+vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@144.31.131.42:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=alcdn1.suio.me#🌍 Albania | H2nexus LTD 10
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@maroka.axinode.sbs:10965?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&sid=9f3a7c6d2e8b41af&sni=deepl.com#🌍 Albania | H2nexus LTD 11
 vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@alcdn2.suio.me:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=alcdn2.suio.me#🌍 Albania | H2nexus LTD 12
-vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?security=none&encryption=none&type=ws&path=/vless/#🌍 Albania | WorkTitans B.V. 1
-vmess://eyJhZGQiOiI0NS4xNS4xNzAuMjM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwZWxhbmcub3JnIiwiaWQiOiI4MjBkNGI0Zi0zMzU3LTRkYzctOTM4MS02ZTVmZDUyYjVmMzkiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzXC8iLCJwb3J0IjoiODAiLCJwcyI6Ilx1ZDgzY1x1ZGRlNlx1ZDgzY1x1ZGRmMVt3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLUFMLTEyODA5MzU2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🌍 Albania | WorkTitans B.V. 2
-vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-Albania1.09vpn.com:80?path=/vless/&encryption=none&type=ws#🌍 Albania | WorkTitans B.V. 3
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@maroka.axinode.sbs:10965?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&sid=9f3a7c6d2e8b41af&sni=deepl.com#🌍 Albania | H2nexus LTD 13
+vless://2dd1a15d-1426-413a-a3b8-a645788bc844@144.31.131.32:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=alb.speedload.online&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#🌍 Albania | H2nexus LTD 14
+vmess://eyJhZGQiOiI0NS4xNS4xNzAuMjM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwZWxhbmcub3JnIiwiaWQiOiI4MjBkNGI0Zi0zMzU3LTRkYzctOTM4MS02ZTVmZDUyYjVmMzkiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzXC8iLCJwb3J0IjoiODAiLCJwcyI6Ilx1ZDgzY1x1ZGRlNlx1ZDgzY1x1ZGRmMVt3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLUFMLTEyODA5MzU2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🌍 Albania | WorkTitans B.V. 1
