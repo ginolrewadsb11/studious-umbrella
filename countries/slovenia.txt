@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HuPCfh64gQm9iaVZQTiDigJQgU2xvdmVuaWEK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#🇸🇮 Slovenia | Optimus IT d.o.o. 1
-vless://295ed7cc-3dee-4985-a81e-ecc2b741a1f1@45.83.129.31:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mJwq_1b4cJxWmLmeCh-9pmxMIFNUbZ7eayDZXpiA4Qo&sid=61e6e3b8&sni=www.microsoft.com&spx=/#🇸🇮 Slovenia | WorkTitans B.V. 1
+vless://00000000-0000-4000-8000-000000000000@89.208.97.165:3000?encryption=none&type=ws&security=tls&host=sub.mot.ip-ddns.com&sni=sub.mot.ip-ddns.com#🇸🇮 Slovenia | WorkTitans B.V. 1
 vless://295ed7cc-3dee-4985-a81e-ecc2b741a1f1@45.83.129.31:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mJwq_1b4cJxWmLmeCh-9pmxMIFNUbZ7eayDZXpiA4Qo&sid=61e6e3b8&sni=www.microsoft.com#🇸🇮 Slovenia | WorkTitans B.V. 2
+vless://00000000-0000-4000-8000-000000000000@62.60.156.158:8082?&security=tls&sni=sub.mot.ip-ddns.com&type=ws&headerType=none&host=sub.mot.ip-ddns.com&path=%2F#🇸🇮 Slovenia | WorkTitans B.V. 3
