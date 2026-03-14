@@ -3,10 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://831a278c-1d5d-11f1-a848-7fe291a49c6e@ua2.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#🇺🇦 Ukraine | Green Floid 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#🇺🇦 Ukraine | Meteverse . 1
 vless://5ac2d3b6-33cc-4442-9c0b-ae3909cabaae@31.42.190.76:443?encryption=none&path=%2F&security=none&type=ws#🇺🇦 Ukraine | Neth 1
 vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&encryption=none&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9d90d7ada8#🇺🇦 Ukraine | WorkTitans B.V. 1
-vless://4c9b944f-6637-4cc2-a71c-5213806084ae@cdn7.cloud-vk.com:443?type=tcp&security=reality&sni=m.vk.com&fp=chrome&flow=xtls-rprx-vision&pbk=xbS4eVahN5UjRzCJSx9xWZD3J5cQRK1_33lzC9doS3I&sid=4627#🇺🇦 Ukraine | WorkTitans B.V. 2
+vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&encryption=none&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9d90d7ada8#🇺🇦 Ukraine | WorkTitans B.V. 2
+vless://4c9b944f-6637-4cc2-a71c-5213806084ae@94.139.246.17:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rbc.ru&pbk=42f1Pxqxo5VTWZFuyf7oC2OFKbYKH96z7lmDqzYU5Sw&sid=f6d81a#🇺🇦 Ukraine | WorkTitans B.V. 3
+vless://4c9b944f-6637-4cc2-a71c-5213806084ae@95.163.182.218:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rbc.ru&pbk=42f1Pxqxo5VTWZFuyf7oC2OFKbYKH96z7lmDqzYU5Sw&sid=f6d81a#🇺🇦 Ukraine | WorkTitans B.V. 4
+vless://4c9b944f-6637-4cc2-a71c-5213806084ae@212.233.72.94:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=m.vk.com&pbk=xbS4eVahN5UjRzCJSx9xWZD3J5cQRK1_33lzC9doS3I&sid=4627#🇺🇦 Ukraine | WorkTitans B.V. 5
