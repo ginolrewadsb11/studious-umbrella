@@ -3,10 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇷🇴 Romania | Dotro Telecom SRL 1
 vless://855033d2-2b26-472b-aa48-becab56527af@ro-4.vpnd.io:56124?flow=xtls-rprx-vision&fp=random&pbk=2Z0MNhM9g7PSKLlPapkUt3G7sZfMhoemkV3JtRoS-Uo&security=reality&sid=2c0461&sni=yahoo.com&type=tcp#🇷🇴 Romania | STYLISH BY A&L SRL 1
-vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&allowInsecure=1#🇷🇴 Romania | WorkTitans B.V. 1
-vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&allowInsecure=1#🇷🇴 Romania | WorkTitans B.V. 2
-vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&type=tcp#🇷🇴 Romania | WorkTitans B.V. 3
-vless://crghxqxyoy@crghxqxyoy-518237151-direct.bahame.co:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&alpn=h2%2Chttp%2F1.1&fp=chrome#🇷🇴 Romania | WorkTitans B.V. 4
+vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&type=tcp#🇷🇴 Romania | WorkTitans B.V. 1
+vless://crghxqxyoy@crghxqxyoy-518237151-direct.bahame.co:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&alpn=h2%2Chttp%2F1.1&fp=chrome#🇷🇴 Romania | WorkTitans B.V. 2
