@@ -3,34 +3,42 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsfCfh7kgQm9iaVZQTiDigJQgTGl0aHVhbmlhCuKaoSAyOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsfCfh7kgQm9iaVZQTiDigJQgTGl0aHVhbmlhCuKaoSAzNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://a04c351d-3efc-43de-99db-b5188cd04531@93.115.26.56:22230?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=deepl.com&pbk=ajNtNrFThLn2_WyWnv1Zkf676_i95nCABb2gX7OlHEI&sid=a9725715bf4c62ff#🇱🇹 Lithuania | Cherry Servers 1
 vless://a04c351d-3efc-43de-99db-b5188cd04531@93.115.26.56:22230?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=deepl.com&pbk=ajNtNrFThLn2_WyWnv1Zkf676_i95nCABb2gX7OlHEI&sid=a9725715bf4c62ff#🇱🇹 Lithuania | Cherry Servers 2
 vless://a04c351d-3efc-43de-99db-b5188cd04531@93.115.26.56:22230?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=deepl.com&pbk=ajNtNrFThLn2_WyWnv1Zkf676_i95nCABb2gX7OlHEI&sid=a9725715bf4c62ff#🇱🇹 Lithuania | Cherry Servers 3
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.135.253.47:8443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40%40jdfxq&host=sni.111000.indevs.in#🇱🇹 Lithuania | Cloudflare, 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.16.233:8443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40%40jdfxq&host=sni.111000.indevs.in#🇱🇹 Lithuania | Cloudflare, 2
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.34.209.105:8443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=sni.111000.indevs.in#🇱🇹 Lithuania | Cloudflare, 3
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.34.209.139:2053?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=sni.111000.indevs.in#🇱🇹 Lithuania | Cloudflare, 4
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.197.0.63:443?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#🇱🇹 Lithuania | Cloudflare, 5
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.34.209.219:8443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=sni.111000.indevs.in#🇱🇹 Lithuania | Cloudflare, 6
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.128.207.194:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=sni.111000.indevs.in#🇱🇹 Lithuania | Cloudflare, 7
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&sni=8443.golden-cards.me&type=tcp#🇱🇹 Lithuania | Global Connectivity So... 1
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&sni=8443.golden-cards.me&type=tcp#🇱🇹 Lithuania | Global Connectivity So... 2
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=8443.golden-cards.me#🇱🇹 Lithuania | Global Connectivity So... 3
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#🇱🇹 Lithuania | Global Connectivity So... 4
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&sni=8443.golden-cards.me&type=tcp#🇱🇹 Lithuania | Global Connectivity So... 5
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&sni=8443.golden-cards.me&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇱🇹 Lithuania | Global Connectivity So... 6
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?sni=8443.golden-cards.me#🇱🇹 Lithuania | Global Connectivity So... 7
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls#🇱🇹 Lithuania | Global Connectivity So... 8
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me&fp=qq&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇱🇹 Lithuania | Global Connectivity So... 9
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me&fp=qq&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇱🇹 Lithuania | Global Connectivity So... 10
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me&fp=qq&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇱🇹 Lithuania | Global Connectivity So... 11
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me#🇱🇹 Lithuania | Global Connectivity So... 12
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443#🇱🇹 Lithuania | Global Connectivity So... 13
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.34.212.179:8443?security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&path=/?ed%3D2560&host=sni.111000.indevs.in&encryption=none#🇱🇹 Lithuania | Cloudflare, 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.32.185.253:8443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40%40jdfxq&host=sni.111000.indevs.in#🇱🇹 Lithuania | Cloudflare, 2
+vless://63d5022f-51b8-4e79-a67a-d71941961949@83.166.239.35:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#🇱🇹 Lithuania | Dedicated servers 1
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me&fp=qq&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇱🇹 Lithuania | Global Connectivity So... 1
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=8443.golden-cards.me#🇱🇹 Lithuania | Global Connectivity So... 2
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me#🇱🇹 Lithuania | Global Connectivity So... 3
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&sni=8443.golden-cards.me&type=tcp#🇱🇹 Lithuania | Global Connectivity So... 4
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&sni=8443.golden-cards.me&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇱🇹 Lithuania | Global Connectivity So... 5
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me#🇱🇹 Lithuania | Global Connectivity So... 6
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&sni=8443.golden-cards.me&type=tcp#🇱🇹 Lithuania | Global Connectivity So... 7
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&sni=8443.golden-cards.me&type=tcp#🇱🇹 Lithuania | Global Connectivity So... 8
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?sni=8443.golden-cards.me#🇱🇹 Lithuania | Global Connectivity So... 9
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?type=raw&headerType=none&security=tls#🇱🇹 Lithuania | Global Connectivity So... 10
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me#🇱🇹 Lithuania | Global Connectivity So... 11
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me&fp=qq&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇱🇹 Lithuania | Global Connectivity So... 12
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?type=raw&security=tls#🇱🇹 Lithuania | Global Connectivity So... 13
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?type=raw&security=tls#🇱🇹 Lithuania | Global Connectivity So... 14
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?type=raw&security=tls#🇱🇹 Lithuania | Global Connectivity So... 15
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls#🇱🇹 Lithuania | Global Connectivity So... 16
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?type=raw&headerType=none&security=tls#🇱🇹 Lithuania | Global Connectivity So... 17
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443#🇱🇹 Lithuania | Global Connectivity So... 18
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me#🇱🇹 Lithuania | Global Connectivity So... 19
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443#🇱🇹 Lithuania | Global Connectivity So... 15
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me#🇱🇹 Lithuania | Global Connectivity So... 16
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443#🇱🇹 Lithuania | Global Connectivity So... 17
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me&fp=qq&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇱🇹 Lithuania | Global Connectivity So... 18
+vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.5.46:8880?encryption=none&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&path=%2F%3F%40V2rayBaaz&security=none&type=ws#🇱🇹 Lithuania | ONEPROVIDER 1
+vless://4212680c-54fe-47e1-96b5-bf91717f0763@51.250.41.69:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=CO5ZMmvwKB31GucgfpEmCB2eRa19odYttq9lPm3kygA&sid=f9339c8842&spx=%2F#🇱🇹 Lithuania | WorkTitans B.V. 1
+vless://4212680c-54fe-47e1-96b5-bf91717f0763@51.250.41.69:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=megafon.ru&pbk=CO5ZMmvwKB31GucgfpEmCB2eRa19odYttq9lPm3kygA&sid=68d92898607fae&spx=%2F#🇱🇹 Lithuania | WorkTitans B.V. 2
+vless://4212680c-54fe-47e1-96b5-bf91717f0763@51.250.41.69:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=event.yandex.ru&pbk=CO5ZMmvwKB31GucgfpEmCB2eRa19odYttq9lPm3kygA&sid=7e&spx=%2F#🇱🇹 Lithuania | WorkTitans B.V. 3
+vless://4212680c-54fe-47e1-96b5-bf91717f0763@51.250.41.69:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=CO5ZMmvwKB31GucgfpEmCB2eRa19odYttq9lPm3kygA&sid=f9339c8842&spx=%2F#🇱🇹 Lithuania | WorkTitans B.V. 4
+vless://4212680c-54fe-47e1-96b5-bf91717f0763@51.250.41.69:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=CO5ZMmvwKB31GucgfpEmCB2eRa19odYttq9lPm3kygA&sid=9c4bd6be68b6&spx=%2F#🇱🇹 Lithuania | WorkTitans B.V. 5
+vless://4212680c-54fe-47e1-96b5-bf91717f0763@51.250.41.69:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=CO5ZMmvwKB31GucgfpEmCB2eRa19odYttq9lPm3kygA&sid=8d793b357d133d11&spx=%2F#🇱🇹 Lithuania | WorkTitans B.V. 6
+vless://4212680c-54fe-47e1-96b5-bf91717f0763@51.250.41.69:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=CO5ZMmvwKB31GucgfpEmCB2eRa19odYttq9lPm3kygA&sid=8d793b357d133d11&spx=%2F#🇱🇹 Lithuania | WorkTitans B.V. 7
+vless://4212680c-54fe-47e1-96b5-bf91717f0763@51.250.41.69:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=event.yandex.ru&pbk=CO5ZMmvwKB31GucgfpEmCB2eRa19odYttq9lPm3kygA&sid=7e&spx=%2F#🇱🇹 Lithuania | WorkTitans B.V. 8
+vless://4212680c-54fe-47e1-96b5-bf91717f0763@51.250.41.69:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=megafon.ru&pbk=CO5ZMmvwKB31GucgfpEmCB2eRa19odYttq9lPm3kygA&sid=68d92898607fae&spx=%2F#🇱🇹 Lithuania | WorkTitans B.V. 9
+vless://4212680c-54fe-47e1-96b5-bf91717f0763@51.250.41.69:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=CO5ZMmvwKB31GucgfpEmCB2eRa19odYttq9lPm3kygA&sid=8b631d86&spx=%2F#🇱🇹 Lithuania | WorkTitans B.V. 10
+vless://4212680c-54fe-47e1-96b5-bf91717f0763@51.250.41.69:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=CO5ZMmvwKB31GucgfpEmCB2eRa19odYttq9lPm3kygA&sid=9c4bd6be68b6&spx=%2F#🇱🇹 Lithuania | WorkTitans B.V. 11
+vless://4212680c-54fe-47e1-96b5-bf91717f0763@51.250.41.69:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=CO5ZMmvwKB31GucgfpEmCB2eRa19odYttq9lPm3kygA&sid=8b631d86&spx=%2F#🇱🇹 Lithuania | WorkTitans B.V. 12

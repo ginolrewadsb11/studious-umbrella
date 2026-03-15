@@ -3,8 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMTAg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🇧🇪 Belgium | EDIS GmbH 1
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.145.21:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=index.arcane509.workers.dev&path=%2Fassets&security=tls&sni=index.arcane509.workers.dev&type=ws#🇧🇪 Belgium | Google 1
-vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@104.18.32.47:2052?type=ws&security=none&encryption=none&path=%F0%9F%94%92&host=parking-nfchbwa1-v2.parking-1ab.workers.dev#🇧🇪 Belgium | Google 2
+vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@104.18.13.229:2052?encryption=none&type=ws&security=none&path=%F0%9F%94%92&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev#🇧🇪 Belgium | Google 1
+vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@172.66.43.117:443?allowInsecure=1&encryption=none&host=rAyAn-007.pArViN.DpDnS.OrG&path=%2F&security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&type=ws#🇧🇪 Belgium | Google 2
+vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@www.visa.com.sg:2052?type=ws&security=none&encryption=none&path=/%3Fed%3D2560&host=parking-nfchbwa1-v2.parking-1ab.workers.dev#🇧🇪 Belgium | Google 3
+vless://ee751c32-8f2a-4ae7-a350-2fecb6e7c073@176.122.25.17:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=img.yandex.ru&pbk=ARe9ElSmnx9fzXV2q9rbFaXjUQOteP2qa5ve5SFnHWE&sid=e55f&spx=%2F#🇧🇪 Belgium | WorkTitans B.V. 1
+vless://ee751c32-8f2a-4ae7-a350-2fecb6e7c073@176.122.25.17:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.ru&pbk=ARe9ElSmnx9fzXV2q9rbFaXjUQOteP2qa5ve5SFnHWE&sid=15cc9b9f&spx=%2F#🇧🇪 Belgium | WorkTitans B.V. 2
+vless://ee751c32-8f2a-4ae7-a350-2fecb6e7c073@176.122.25.17:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=st.vk.com&pbk=ARe9ElSmnx9fzXV2q9rbFaXjUQOteP2qa5ve5SFnHWE&sid=9a7f4cc0&spx=%2F#🇧🇪 Belgium | WorkTitans B.V. 3
+vless://ee751c32-8f2a-4ae7-a350-2fecb6e7c073@176.122.25.17:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=st.vk.com&pbk=ARe9ElSmnx9fzXV2q9rbFaXjUQOteP2qa5ve5SFnHWE&sid=9a7f4cc0&spx=%2F#🇧🇪 Belgium | WorkTitans B.V. 4
+vless://ee751c32-8f2a-4ae7-a350-2fecb6e7c073@176.122.25.17:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.ru&pbk=ARe9ElSmnx9fzXV2q9rbFaXjUQOteP2qa5ve5SFnHWE&sid=15cc9b9f&spx=%2F#🇧🇪 Belgium | WorkTitans B.V. 5
+vless://ee751c32-8f2a-4ae7-a350-2fecb6e7c073@176.122.25.17:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=img.yandex.ru&pbk=ARe9ElSmnx9fzXV2q9rbFaXjUQOteP2qa5ve5SFnHWE&sid=e55f&spx=%2F#🇧🇪 Belgium | WorkTitans B.V. 6
