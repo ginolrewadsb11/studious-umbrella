@@ -5,8 +5,8 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
+vless://64aa8b21-b0f9-27e6-a51c-3770a8aa6764@91.218.122.10:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=yom9KP2ytaVYsKof-Wp5-M78ykcF4RV8YmWYpiGKamI&sni=speed.cloudflare.com&echfq=none&allowinsecure=0#🇺🇦 Ukraine | Fast Servers (Pty) 1
 vless://831a278c-1d5d-11f1-a848-7fe291a49c6e@ua2.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#🇺🇦 Ukraine | Green Floid 1
-vless://5ac2d3b6-33cc-4442-9c0b-ae3909cabaae@31.42.190.76:443?encryption=none&path=/&security=none&type=ws#🇺🇦 Ukraine | Neth 1
-vless://5ac2d3b6-33cc-4442-9c0b-ae3909cabaae@31.42.190.76:443?encryption=none&path=/&security=none&type=ws#🇺🇦 Ukraine | Neth 2
-vless://5ac2d3b6-33cc-4442-9c0b-ae3909cabaae@31.42.190.76:443?encryption=none&path=%2F&security=none&type=ws#🇺🇦 Ukraine | Neth 3
+vless://5ac2d3b6-33cc-4442-9c0b-ae3909cabaae@31.42.190.76:443?path=/&security=none&encryption=none&type=ws#🇺🇦 Ukraine | Neth 1
+vless://5ac2d3b6-33cc-4442-9c0b-ae3909cabaae@31.42.190.76:443?path=/&security=none&encryption=none&type=ws#🇺🇦 Ukraine | Neth 2
 vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&encryption=none&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9d90d7ada8#🇺🇦 Ukraine | WorkTitans B.V. 1
