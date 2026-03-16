@@ -6,6 +6,6 @@
 #announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🇧🇪 Belgium | EDIS GmbH 1
-vless://4cf1a3a0-7360-41ff-84ae-b621001e8376@104.21.91.46:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=usa.correctcosette.workers.dev&path=%2FR8BFTroQ00j1&security=tls&sni=Usa.cORreCtCOsETTe.WOrKeRS.DeV&type=ws#🇧🇪 Belgium | Google 1
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.145.21:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=index.arcane509.workers.dev&path=%2Fassets&security=tls&sni=index.arcane509.workers.dev&type=ws#🇧🇪 Belgium | Google 2
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@chatgpt.com:2083?type=ws&security=tls&encryption=none&sni=index.0x15.workers.DEV&path=/9quSDGMroCZkFeWzTk&host=index.0x15.workers.dev&alpn=http/1.1#🇧🇪 Belgium | Google 3
+vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.21.64.250:2053?allowInsecure=1&encryption=none&host=INDEX.Arcane509.Workers.DEV&path=%2Fassets&security=tls&sni=INDEX.Arcane509.Workers.DEV&type=ws#🇧🇪 Belgium | Google 1
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.5.134:2086?type=ws&security=none&encryption=none&path=/PdgTMW8NBNZYo6L23v&host=index.0x15.workers.dev#🇧🇪 Belgium | Google 2
+vless://4cf1a3a0-7360-41ff-84ae-b621001e8376@104.21.91.46:443?allowInsecure=1&alpn=http/1.1&encryption=none&host=usa.correctcosette.workers.dev&path=/R8BFTroQ00j1&security=tls&sni=Usa.cORreCtCOsETTe.WOrKeRS.DeV&type=ws#🇧🇪 Belgium | Google 3
