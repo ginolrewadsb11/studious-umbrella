@@ -3,15 +3,24 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMTAg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMTkg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@109.61.39.28:990#🇰🇿 Kazakhstan | G-Core Labs S.A. 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#🇰🇿 Kazakhstan | G-Core Labs S.A. 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#🇰🇿 Kazakhstan | G-Core Labs S.A. 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#🇰🇿 Kazakhstan | G-Core Labs S.A. 4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#🇰🇿 Kazakhstan | G-Core Labs S.A. 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#🇰🇿 Kazakhstan | G-Core Labs S.A. 4
 vless://23fc7ec9-9ed2-481f-9fbe-825dab872017@82.41.30.168:8433?type=grpc&security=reality&encryption=none&fp=firefox&pbk=VxwNTNYfY-3LDgEOixkvRleNmRCJZpXvLLG_5-Jeflk&sid=f28c46&sni=www.api-maps.yandex.ru&serviceName=&spx=/&authority=#🇰🇿 Kazakhstan | Newserverlife 1
 vless://23fc7ec9-9ed2-481f-9fbe-825dab872017@82.41.30.168:8433?type=grpc&security=reality&encryption=none&fp=firefox&pbk=VxwNTNYfY-3LDgEOixkvRleNmRCJZpXvLLG_5-Jeflk&sid=f28c46&sni=www.api-maps.yandex.ru&serviceName=&spx=/&authority=#🇰🇿 Kazakhstan | Newserverlife 2
 vless://23fc7ec9-9ed2-481f-9fbe-825dab872017@82.41.30.168:8433?type=grpc&security=reality&encryption=none&fp=firefox&pbk=VxwNTNYfY-3LDgEOixkvRleNmRCJZpXvLLG_5-Jeflk&sid=f28c46&sni=www.api-maps.yandex.ru&serviceName=&spx=/&authority=#🇰🇿 Kazakhstan | Newserverlife 3
-vless://23fc7ec9-9ed2-481f-9fbe-825dab872017@82.41.30.168:8433?type=grpc&security=reality&encryption=none&fp=firefox&pbk=VxwNTNYfY-3LDgEOixkvRleNmRCJZpXvLLG_5-Jeflk&sid=f28c46&sni=www.api-maps.yandex.ru&serviceName=&spx=/&authority=#🇰🇿 Kazakhstan | Newserverlife 4
-vless://0509acee-63e3-4364-95cc-21c601f059be@kz-general.vps-m.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&sni=booking.com#🇰🇿 Kazakhstan | Newserverlife 5
-vless://0509acee-63e3-4364-95cc-21c601f059be@kz-general.vps-m.ru:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇰🇿 Kazakhstan | Newserverlife 6
+vless://bf263367-bb63-4663-b4a1-34946107a72e@82.41.30.168:8433?type=grpc&security=reality&encryption=none&fp=firefox&pbk=VxwNTNYfY-3LDgEOixkvRleNmRCJZpXvLLG_5-Jeflk&sid=f28c46&sni=www.api-maps.yandex.ru&serviceName=&spx=/&authority=#🇰🇿 Kazakhstan | Newserverlife 4
+vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@82.41.30.168:8433?type=grpc&security=reality&encryption=none&fp=firefox&pbk=VxwNTNYfY-3LDgEOixkvRleNmRCJZpXvLLG_5-Jeflk&sid=f28c46&sni=www.api-maps.yandex.ru&serviceName=&spx=/&authority=#🇰🇿 Kazakhstan | Newserverlife 5
+vless://4f54064f-de70-4bbf-9e67-95034fd0dde9@82.41.30.168:8433?type=grpc&security=reality&encryption=none&fp=firefox&pbk=VxwNTNYfY-3LDgEOixkvRleNmRCJZpXvLLG_5-Jeflk&sid=f28c46&sni=www.api-maps.yandex.ru&serviceName=&spx=/&authority=#🇰🇿 Kazakhstan | Newserverlife 6
+vless://d04c41ee-2e89-4666-990e-608d5066c6d2@82.41.30.168:8433?type=grpc&security=reality&encryption=none&fp=firefox&pbk=VxwNTNYfY-3LDgEOixkvRleNmRCJZpXvLLG_5-Jeflk&sid=f28c46&sni=www.api-maps.yandex.ru&serviceName=&spx=/&authority=#🇰🇿 Kazakhstan | Newserverlife 7
+vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@82.41.30.168:8433?type=grpc&security=reality&encryption=none&fp=firefox&pbk=VxwNTNYfY-3LDgEOixkvRleNmRCJZpXvLLG_5-Jeflk&sid=f28c46&sni=www.api-maps.yandex.ru&serviceName=&spx=/&authority=#🇰🇿 Kazakhstan | Newserverlife 8
+vless://bf263367-bb63-4663-b4a1-34946107a72e@82.41.30.168:8433?type=grpc&security=reality&encryption=none&fp=firefox&pbk=VxwNTNYfY-3LDgEOixkvRleNmRCJZpXvLLG_5-Jeflk&sid=f28c46&sni=www.api-maps.yandex.ru&serviceName=&spx=/&authority=#🇰🇿 Kazakhstan | Newserverlife 9
+vless://23fc7ec9-9ed2-481f-9fbe-825dab872017@82.41.30.168:8433?type=grpc&security=reality&encryption=none&fp=firefox&pbk=VxwNTNYfY-3LDgEOixkvRleNmRCJZpXvLLG_5-Jeflk&sid=f28c46&sni=www.api-maps.yandex.ru&serviceName=&spx=/&authority=#🇰🇿 Kazakhstan | Newserverlife 10
+vless://4f54064f-de70-4bbf-9e67-95034fd0dde9@82.41.30.168:8433?type=grpc&security=reality&encryption=none&fp=firefox&pbk=VxwNTNYfY-3LDgEOixkvRleNmRCJZpXvLLG_5-Jeflk&sid=f28c46&sni=www.api-maps.yandex.ru&serviceName=&spx=/&authority=#🇰🇿 Kazakhstan | Newserverlife 11
+vless://d04c41ee-2e89-4666-990e-608d5066c6d2@82.41.30.168:8433?type=grpc&security=reality&encryption=none&fp=firefox&pbk=VxwNTNYfY-3LDgEOixkvRleNmRCJZpXvLLG_5-Jeflk&sid=f28c46&sni=www.api-maps.yandex.ru&serviceName=&spx=/&authority=#🇰🇿 Kazakhstan | Newserverlife 12
+vless://23fc7ec9-9ed2-481f-9fbe-825dab872017@82.41.30.168:8433?type=grpc&security=reality&encryption=none&fp=firefox&pbk=VxwNTNYfY-3LDgEOixkvRleNmRCJZpXvLLG_5-Jeflk&sid=f28c46&sni=www.api-maps.yandex.ru&serviceName=&spx=/&authority=#🇰🇿 Kazakhstan | Newserverlife 13
+vless://0509acee-63e3-4364-95cc-21c601f059be@kz-general.vps-m.ru:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇰🇿 Kazakhstan | Newserverlife 14
+vless://70ea6634-c619-4cc5-b0ba-547544887eaf@86.104.73.42:8083?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=SziXMkSTuvedEFS4DE-WY0a4Hb87Y22VW0TgE9IPDjA&sid=425ba80cd1a821a8&sni=www.apple.com&path=&host=#🇰🇿 Kazakhstan | WorkTitans B.V. 1
