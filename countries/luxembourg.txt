@@ -3,8 +3,19 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsfCfh7ogQm9iaVZQTiDigJQgTHV4ZW1ib3VyZwrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsfCfh7ogQm9iaVZQTiDigJQgTHV4ZW1ib3VyZwrimqEgMTQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?allowInsecure=1&host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&type=ws#🇱🇺 Luxembourg | FranTech Solutions 1
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?security=tls&type=ws&path=/tjwsLhx0SFASG4l9FERJ1g&host=mfyousheng.nl.eu.org#🇱🇺 Luxembourg | FranTech Solutions 2
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&type=ws#🇱🇺 Luxembourg | FranTech Solutions 3
+trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&type=ws#🇱🇺 Luxembourg | FranTech Solutions 2
+trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?security=tls&type=ws&path=/tjwsLhx0SFASG4l9FERJ1g&host=mfyousheng.nl.eu.org#🇱🇺 Luxembourg | FranTech Solutions 3
+vless://f9b2e891-cca2-45e9-a11b-007607fdae86@83.166.232.83:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=2LPaukNMwProvYAqXX3x1LgyKQG9ADWm5tlCsEtrjSI&sid=4a4e&spx=%2F#🇱🇺 Luxembourg | WorkTitans B.V. 1
+vless://f9b2e891-cca2-45e9-a11b-007607fdae86@83.166.232.83:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.com&pbk=2LPaukNMwProvYAqXX3x1LgyKQG9ADWm5tlCsEtrjSI&sid=fcacdfd63a&spx=%2F#🇱🇺 Luxembourg | WorkTitans B.V. 2
+vless://f9b2e891-cca2-45e9-a11b-007607fdae86@83.166.232.83:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=2LPaukNMwProvYAqXX3x1LgyKQG9ADWm5tlCsEtrjSI&sid=4a4e&spx=%2F#🇱🇺 Luxembourg | WorkTitans B.V. 3
+vless://f9b2e891-cca2-45e9-a11b-007607fdae86@83.166.232.83:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=2LPaukNMwProvYAqXX3x1LgyKQG9ADWm5tlCsEtrjSI&sid=24b7319a7f&spx=%2F#🇱🇺 Luxembourg | WorkTitans B.V. 4
+vless://f9b2e891-cca2-45e9-a11b-007607fdae86@83.166.232.83:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=event.yandex.ru&pbk=2LPaukNMwProvYAqXX3x1LgyKQG9ADWm5tlCsEtrjSI&sid=9c75&spx=%2F#🇱🇺 Luxembourg | WorkTitans B.V. 5
+vless://f9b2e891-cca2-45e9-a11b-007607fdae86@83.166.232.83:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.com&pbk=2LPaukNMwProvYAqXX3x1LgyKQG9ADWm5tlCsEtrjSI&sid=fcacdfd63a&spx=%2F#🇱🇺 Luxembourg | WorkTitans B.V. 6
+vless://f9b2e891-cca2-45e9-a11b-007607fdae86@83.166.232.83:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=event.yandex.ru&pbk=2LPaukNMwProvYAqXX3x1LgyKQG9ADWm5tlCsEtrjSI&sid=9c75&spx=%2F#🇱🇺 Luxembourg | WorkTitans B.V. 7
+vless://f9b2e891-cca2-45e9-a11b-007607fdae86@83.166.232.83:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=event.yandex.ru&pbk=2LPaukNMwProvYAqXX3x1LgyKQG9ADWm5tlCsEtrjSI&sid=9c75&spx=%2F#🇱🇺 Luxembourg | WorkTitans B.V. 8
+vless://f9b2e891-cca2-45e9-a11b-007607fdae86@83.166.232.83:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=event.yandex.ru&pbk=2LPaukNMwProvYAqXX3x1LgyKQG9ADWm5tlCsEtrjSI&sid=9c75&spx=%2F#🇱🇺 Luxembourg | WorkTitans B.V. 9
+vless://f9b2e891-cca2-45e9-a11b-007607fdae86@83.166.232.83:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.com&pbk=2LPaukNMwProvYAqXX3x1LgyKQG9ADWm5tlCsEtrjSI&sid=fcacdfd63a&spx=%2F#🇱🇺 Luxembourg | WorkTitans B.V. 10
+vless://f9b2e891-cca2-45e9-a11b-007607fdae86@83.166.232.83:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=2LPaukNMwProvYAqXX3x1LgyKQG9ADWm5tlCsEtrjSI&sid=24b7319a7f&spx=%2F#🇱🇺 Luxembourg | WorkTitans B.V. 11
