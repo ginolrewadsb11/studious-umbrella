@@ -3,18 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgMTMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇷🇴 Romania | Dotro Telecom SRL 1
-vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&allowInsecure=1#🇷🇴 Romania | WorkTitans B.V. 1
-vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&allowInsecure=1#🇷🇴 Romania | WorkTitans B.V. 2
-vless://29ec6e75-6293-464b-8560-d039f6c4502a@90.156.218.28:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.ru&pbk=7xYeHeCE_ZTFDJg4YiE5uTd1gt4fbr_T1lk0UwtTVDM&sid=27f5&spx=%2F#🇷🇴 Romania | WorkTitans B.V. 3
-vless://29ec6e75-6293-464b-8560-d039f6c4502a@90.156.218.28:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=music.yandex.ru&pbk=7xYeHeCE_ZTFDJg4YiE5uTd1gt4fbr_T1lk0UwtTVDM&sid=170cfc66ef816f&spx=%2F#🇷🇴 Romania | WorkTitans B.V. 4
-vless://29ec6e75-6293-464b-8560-d039f6c4502a@90.156.218.28:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=7xYeHeCE_ZTFDJg4YiE5uTd1gt4fbr_T1lk0UwtTVDM&sid=8972e6094a2b8439&spx=%2F#🇷🇴 Romania | WorkTitans B.V. 5
-vless://29ec6e75-6293-464b-8560-d039f6c4502a@90.156.218.28:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=beeline.ru&pbk=7xYeHeCE_ZTFDJg4YiE5uTd1gt4fbr_T1lk0UwtTVDM&sid=27f5&spx=%2F#🇷🇴 Romania | WorkTitans B.V. 6
-vless://29ec6e75-6293-464b-8560-d039f6c4502a@90.156.218.28:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=7xYeHeCE_ZTFDJg4YiE5uTd1gt4fbr_T1lk0UwtTVDM&sid=8972e6094a2b8439&spx=%2F#🇷🇴 Romania | WorkTitans B.V. 7
-vless://29ec6e75-6293-464b-8560-d039f6c4502a@90.156.218.28:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=beeline.ru&pbk=7xYeHeCE_ZTFDJg4YiE5uTd1gt4fbr_T1lk0UwtTVDM&sid=27f5&spx=%2F#🇷🇴 Romania | WorkTitans B.V. 8
-vless://29ec6e75-6293-464b-8560-d039f6c4502a@90.156.218.28:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=music.yandex.ru&pbk=7xYeHeCE_ZTFDJg4YiE5uTd1gt4fbr_T1lk0UwtTVDM&sid=170cfc66ef816f&spx=%2F#🇷🇴 Romania | WorkTitans B.V. 9
-vless://29ec6e75-6293-464b-8560-d039f6c4502a@90.156.218.28:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=7xYeHeCE_ZTFDJg4YiE5uTd1gt4fbr_T1lk0UwtTVDM&sid=8972e6094a2b8439&spx=%2F#🇷🇴 Romania | WorkTitans B.V. 10
-vless://29ec6e75-6293-464b-8560-d039f6c4502a@90.156.218.28:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=beeline.ru&pbk=7xYeHeCE_ZTFDJg4YiE5uTd1gt4fbr_T1lk0UwtTVDM&sid=27f5&spx=%2F#🇷🇴 Romania | WorkTitans B.V. 11
-vless://crghxqxyoy@crghxqxyoy-518237151-direct.bahame.co:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&alpn=h2%2Chttp%2F1.1&fp=chrome#🇷🇴 Romania | WorkTitans B.V. 12
+vless://4d5a2d2a-1453-4b29-93ac-ca531516a548@51.250.91.178:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=oKUXRPqFuYbc_PpapM7QOM6l5qM6gTEQYzISIniXiWY&sid=38a6&spx=%2F#🇷🇴 Romania | M247 Europe SRL 1
+vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&allowInsecure=1#🇷🇴 Romania | WorkTitans B.V. 1
+vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&allowInsecure=1#🇷🇴 Romania | WorkTitans B.V. 2
+vless://crghxqxyoy@crghxqxyoy-518237151-direct.bahame.co:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&alpn=h2%2Chttp%2F1.1&fp=chrome#🇷🇴 Romania | WorkTitans B.V. 3
