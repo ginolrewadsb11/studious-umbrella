@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://3710a4cf-e2c2-40c6-a93a-32bbc1d05737@lv.fluxorvpn.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ozone.ru&fp=randomized&security=reality&pbk=pQYGdr-ee0TotzdikPWnqJgKbX8OYcPNkJpH9scxjB0&sid=3decb73e&packetEncoding=xudp#🇨🇿 Czechia | FDCservers.net 1
 vless://0ead14bf-0ad9-4d5e-9fc2-df7c52db6a1b@lv0.mambo-jambo.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=store.steampowered.com&fp=qq&security=reality&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1a111&packetEncoding=xudp#🇨🇿 Czechia | FDCservers.net 2
+vless://623d675e-8748-4881-ac0f-dc1a10b595b1@104.18.5.46:8880?encryption=none&host=vahidasd1988-se08ot-3.vahidasd1988.workers.dev&path=%2F&security=none&type=ws#🇨🇿 Czechia | INTERNET CZ, a.s. 1
