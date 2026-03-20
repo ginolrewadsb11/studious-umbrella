@@ -3,20 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgMTUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgMTAg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇷🇴 Romania | Dotro Telecom SRL 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇷🇴 Romania | FlokiNET 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇷🇴 Romania | FlokiNET 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇷🇴 Romania | FlokiNET 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇷🇴 Romania | FlokiNET 4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇷🇴 Romania | FlokiNET 5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇷🇴 Romania | FlokiNET 6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇷🇴 Romania | FlokiNET 7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇷🇴 Romania | FlokiNET 8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇷🇴 Romania | Internet Magnate (Pty) 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇷🇴 Romania | Internet Magnate (Pty) 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇷🇴 Romania | Internet Magnate (Pty) 3
+vless://e8d06b09-acd9-448c-9874-3c36151d36ee@104.26.3.125:2052/?type=ws&encryption=none&flow=&host=icy-wildflower-2590.lihuifeng595.workers.dev&path=%2F#🇷🇴 Romania | Freakhosting LTD 1
+vless://22620697-6fba-4b71-a348-0cef2f7bec1e@172.64.146.153:443?encryption=none&type=ws&security=tls&path=/?ed=2048&host=do88.cmddo.ggff.net&fp=chrome&sni=do88.cmddo.ggff.net#🇷🇴 Romania | Freakhosting LTD 2
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.164:80?encryption=none&type=ws&security=none&path=%2F&host=vip.yaml7.ggff.net#🇷🇴 Romania | Freakhosting LTD 3
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.145.59:80?flow=&host=vip.yaml7.ggff.net&path=%2F&type=ws#🇷🇴 Romania | Freakhosting LTD 4
 vless://855033d2-2b26-472b-aa48-becab56527af@ro-4.vpnd.io:56124?flow=xtls-rprx-vision&fp=random&pbk=2Z0MNhM9g7PSKLlPapkUt3G7sZfMhoemkV3JtRoS-Uo&security=reality&sid=2c0461&sni=yahoo.com&type=tcp#🇷🇴 Romania | STYLISH BY A&L SRL 1
 vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&type=tcp#🇷🇴 Romania | WorkTitans B.V. 1
-vless://crghxqxyoy@crghxqxyoy-518237151-direct.bahame.co:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=crghxqxyoy-518237151-direct.bahame.co&alpn=h2%2Chttp/1.1#🇷🇴 Romania | WorkTitans B.V. 2
+vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&allowInsecure=1#🇷🇴 Romania | WorkTitans B.V. 2
+vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&allowInsecure=1#🇷🇴 Romania | WorkTitans B.V. 3
+vless://crghxqxyoy@crghxqxyoy-518237151-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=crghxqxyoy-518237151-direct.bahame.co#🇷🇴 Romania | WorkTitans B.V. 4

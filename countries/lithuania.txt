@@ -5,13 +5,13 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsfCfh7kgQm9iaVZQTiDigJQgTGl0aHVhbmlhCuKaoSAxMCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.128.205.47:443?security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&path=/?ed%3D2560&host=sni.111000.indevs.in&encryption=none#🇱🇹 Lithuania | Cloudflare, 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.135.253.47:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#🇱🇹 Lithuania | Cloudflare, 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5aHJITURnWjJlZ0tmdHZyZWN2a3BVUHFwVVR5YWM3cQ==@195.66.25.220:8388#🇱🇹 Lithuania | Global Connectivity So... 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5aHJITURnWjJlZ0tmdHZyZWN2a3BVUHFwVVR5YWM3cQ==@195.66.25.220:8388#🇱🇹 Lithuania | Global Connectivity So... 2
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&sni=8443.golden-cards.me&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇱🇹 Lithuania | Global Connectivity So... 3
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me#🇱🇹 Lithuania | Global Connectivity So... 4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5aHJITURnWjJlZ0tmdHZyZWN2a3BVUHFwVVR5YWM3cQ==@195.66.25.220:8388#🇱🇹 Lithuania | Global Connectivity So... 3
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&sni=8443.golden-cards.me&insecure=1&allowInsecure=1&type=tcp&headerType=none#🇱🇹 Lithuania | Global Connectivity So... 4
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me#🇱🇹 Lithuania | Global Connectivity So... 5
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me&fp=qq&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇱🇹 Lithuania | Global Connectivity So... 6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5aHJITURnWjJlZ0tmdHZyZWN2a3BVUHFwVVR5YWM3cQ==@195.66.25.220:8388#🇱🇹 Lithuania | Global Connectivity So... 7
-vless://e4c78e8e-7fa6-4b32-a0c1-d3abeb57c987@84.32.110.224:7443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=chat.deepseek.com&fp=chrome&security=reality&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&packetEncoding=xudp#🇱🇹 Lithuania | UAB Cherry Servers 1
-vless://e4c78e8e-7fa6-4b32-a0c1-d3abeb57c987@5.199.173.206:7443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=chat.deepseek.com&fp=chrome&security=reality&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&packetEncoding=xudp#🇱🇹 Lithuania | UAB Cherry Servers 2
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#🇱🇹 Lithuania | Global Connectivity So... 6
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me#🇱🇹 Lithuania | Global Connectivity So... 7
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me&fp=qq&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇱🇹 Lithuania | Global Connectivity So... 8
+vless://630011ef-3dbb-767d-53dd-7f7d72dd915f@lit1.subsvdragontoo.online:443?type=ws&security=tls&encryption=none&sni=lit1.subsvdragontoo.online&host=lit1.subsvdragontoo.online#🇱🇹 Lithuania | Global Connectivity So... 9

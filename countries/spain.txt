@@ -5,10 +5,10 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqvCfh7ggQm9iaVZQTiDigJQgU3BhaW4K4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://656bb400-3b7a-47e3-94b0-0362f3865072@172.64.153.235:8443?encryption=none&type=ws&security=tls&path=%2Fsocks5%3A%2F%2F128.140.46.169%3A13482&host=socks5.revil-time3.workers.dev&sni=socks5.revil-time3.workers.dev#🇪🇸 Spain | Google 1
+vless://656bb400-3b7a-47e3-94b0-0362f3865072@104.18.34.21:8443?encryption=none&type=ws&security=tls&path=%2Fsocks5%3A%2F%2F128.140.46.169%3A13482&host=socks5.revil-time3.workers.dev&sni=socks5.revil-time3.workers.dev#🇪🇸 Spain | Google 1
+vless://656bb400-3b7a-47e3-94b0-0362f3865072@172.64.153.235:8443?encryption=none&type=ws&security=tls&path=%2Fsocks5%3A%2F%2F128.140.46.169%3A13482&host=socks5.revil-time3.workers.dev&fp=chrome&sni=socks5.revil-time3.workers.dev#🇪🇸 Spain | Google 2
 vless://438f81f8-aa18-4261-820a-87ee42122d0e@212.227.95.106:443?encryption=none&fp=chrome&pbk=XxphGtGbyJegOM0QIy65eyC8g3dzlKOMY0tWFBnTCWc&security=reality&sid=a0cb&sni=yahoo.com&type=tcp#🇪🇸 Spain | IONOS SE 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#🇪🇸 Spain | ONEPROVIDER 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#🇪🇸 Spain | ONEPROVIDER 2
+vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.3.11:2082?encryption=none&type=ws&security=none&path=%2F&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev#🇪🇸 Spain | OVH SAS 1
 vless://ecc97810-557a-44ef-9957-ba078d0ac414@45.12.150.145:15470?type=tcp&security=reality&encryption=none&fp=chrome&pbk=Io59wtB0RP01ty3SWv8Hn-z84vrckaEPVJi6SRBqFXY&sid=e08a28&sni=yahoo.com#🇪🇸 Spain | WorkTitans B.V. 1
-vless://ecc97810-557a-44ef-9957-ba078d0ac414@45.12.150.145:15470?type=tcp&security=reality&encryption=none&fp=chrome&pbk=Io59wtB0RP01ty3SWv8Hn-z84vrckaEPVJi6SRBqFXY&sid=e08a28&sni=yahoo.com#🇪🇸 Spain | WorkTitans B.V. 2
-vless://ecc97810-557a-44ef-9957-ba078d0ac414@45.12.150.145:15470?type=tcp&security=reality&encryption=none&fp=chrome&pbk=Io59wtB0RP01ty3SWv8Hn-z84vrckaEPVJi6SRBqFXY&sid=e08a28&sni=yahoo.com#🇪🇸 Spain | WorkTitans B.V. 3
