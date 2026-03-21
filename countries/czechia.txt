@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://b620c3fc-c684-4442-bf57-80a4dc5bb955@cze.katanavpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=cze.katanavpn.ru&fp=firefox&pbk=gGnBn3VWyNgN7fhQ7WrxgWsfmdkrodPZ1_pf2BdQnlw&sid=82978722b1a42ddb#🇨🇿 Czechia | Host-Telecom.com s.r.o. 1
+vless://b620c3fc-c684-4442-bf57-80a4dc5bb955@cze.katanavpn.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=gGnBn3VWyNgN7fhQ7WrxgWsfmdkrodPZ1_pf2BdQnlw&sid=82978722b1a42ddb&sni=cze.katanavpn.ru#🇨🇿 Czechia | Host-Telecom.com s.r.o. 2
+vless://b620c3fc-c684-4442-bf57-80a4dc5bb955@cze.katanavpn.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=gGnBn3VWyNgN7fhQ7WrxgWsfmdkrodPZ1_pf2BdQnlw&sid=82978722b1a42ddb&sni=cze.katanavpn.ru#🇨🇿 Czechia | Host-Telecom.com s.r.o. 3
+vless://b620c3fc-c684-4442-bf57-80a4dc5bb955@cze.katanavpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=cze.katanavpn.ru&fp=firefox&pbk=gGnBn3VWyNgN7fhQ7WrxgWsfmdkrodPZ1_pf2BdQnlw&sid=82978722b1a42ddb#🇨🇿 Czechia | Host-Telecom.com s.r.o. 4
