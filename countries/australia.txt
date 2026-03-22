@@ -3,22 +3,21 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7ogQm9iaVZQTiDigJQgQXVzdHJhbGlhCuKaoSAxNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7ogQm9iaVZQTiDigJQgQXVzdHJhbGlhCuKaoSAxNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&sni=enhanced-crayfish.rooster465.autos#🇦🇺 Australia | G-Core Labs S.A. 1
-trojan://IL37892054@engaged-ram.rooster465.autos:443?security=tls#🇦🇺 Australia | G-Core Labs S.A. 2
+trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&sni=enhanced-crayfish.rooster465.autos#🇦🇺 Australia | G-Core Labs S.A. 2
 trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&sni=enhanced-crayfish.rooster465.autos#🇦🇺 Australia | G-Core Labs S.A. 3
 trojan://IL37892054@engaged-ram.rooster465.autos:443?security=tls#🇦🇺 Australia | G-Core Labs S.A. 4
-trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&sni=enhanced-crayfish.rooster465.autos#🇦🇺 Australia | G-Core Labs S.A. 5
+trojan://IL37892054@engaged-ram.rooster465.autos:443?security=tls#🇦🇺 Australia | G-Core Labs S.A. 5
 trojan://IL37892054@engaged-ram.rooster465.autos:443?security=tls#🇦🇺 Australia | G-Core Labs S.A. 6
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhW3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtQVUtMTEzMzc3MjMiLCJhZGQiOiIxODguMTE0Ljk2LjMiLCJwb3J0Ijo0NDMsImlkIjoiNTE2ZDhhN2EtM2YwYi00MWQzLWJhZDAtMjQ2MTE2MzgxNTE2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InN5NC42MjA3MjAueHl6IiwicGF0aCI6IlwvIiwidGxzIjoidGxzIiwic25pIjoic3k0LjYyMDcyMC54eXoiLCJhbHBuIjoiIiwiZnAiOiIiLCJuYW1lIjoiVk0tMTEyOS0wMSIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇦🇺 Australia | Oracle 1
-vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@159.13.36.110:2443?security=reality&type=tcp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=ae377cba&pbk=uzRnmrb_UXbDNz5_IeFrC-PJfnuoUIsyaSEy1FgdPho#🇦🇺 Australia | Oracle 2
-vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@159.13.36.110:2443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.microsoft.com&pbk=uzRnmrb_UXbDNz5_IeFrC-PJfnuoUIsyaSEy1FgdPho&sid=ae377cba#🇦🇺 Australia | Oracle 3
-vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@159.13.36.110:2443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.microsoft.com&pbk=uzRnmrb_UXbDNz5_IeFrC-PJfnuoUIsyaSEy1FgdPho&sid=ae377cba#🇦🇺 Australia | Oracle 4
-vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@159.13.36.110:2443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=uzRnmrb_UXbDNz5_IeFrC-PJfnuoUIsyaSEy1FgdPho&sid=ae377cba&sni=www.microsoft.com#🇦🇺 Australia | Oracle 5
-vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@159.13.36.110:2443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.microsoft.com&pbk=uzRnmrb_UXbDNz5_IeFrC-PJfnuoUIsyaSEy1FgdPho&sid=ae377cba#🇦🇺 Australia | Oracle 6
-vless://7a169e43-ff85-4572-9843-ba7207d07319@192.9.162.122:1443?security=reality&sni=swdist.apple.com&fp=chrome&pbk=ZIBYUH_qQSeI1T6xImXG6MEZXP2yZW3NqGa8W69Cfyk&sid=dde50f55d81116&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇦🇺 Australia | Oracle 7
-vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@159.13.36.110:2443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.microsoft.com&pbk=uzRnmrb_UXbDNz5_IeFrC-PJfnuoUIsyaSEy1FgdPho&sid=ae377cba#🇦🇺 Australia | Oracle 8
-vless://7a169e43-ff85-4572-9843-ba7207d07319@192.9.162.122:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=swdist.apple.com&pbk=ZIBYUH_qQSeI1T6xImXG6MEZXP2yZW3NqGa8W69Cfyk&sid=dde50f55d81116#🇦🇺 Australia | Oracle 9
-vless://7a169e43-ff85-4572-9843-ba7207d07319@192.9.162.122:1443?security=reality&sni=swdist.apple.com&fp=chrome&pbk=ZIBYUH_qQSeI1T6xImXG6MEZXP2yZW3NqGa8W69Cfyk&sid=dde50f55d81116&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇦🇺 Australia | Oracle 10
+vmess://eyJhZGQiOiIxODguMTE0Ljk2LjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InN5NC42MjA3MjAueHl6IiwiaWQiOiI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLCJuYW1lIjoiQGNoaWxsZ3V5X3ZwbiIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlNlx1ZDgzY1x1ZGRmYVt3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLUFVLTExMzM3NzIzIiwic2N5IjoiYXV0byIsInNuaSI6InN5NC42MjA3MjAueHl6IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇦🇺 Australia | Oracle 1
+vless://7a169e43-ff85-4572-9843-ba7207d07319@192.9.162.122:1443?security=reality&sni=swdist.apple.com&fp=chrome&pbk=ZIBYUH_qQSeI1T6xImXG6MEZXP2yZW3NqGa8W69Cfyk&sid=dde50f55d81116&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇦🇺 Australia | Oracle 2
+vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@159.13.36.110:2443?security=reality&type=tcp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=ae377cba&pbk=uzRnmrb_UXbDNz5_IeFrC-PJfnuoUIsyaSEy1FgdPho#🇦🇺 Australia | Oracle 3
+vless://7a169e43-ff85-4572-9843-ba7207d07319@192.9.162.122:1443?security=reality&sni=swdist.apple.com&fp=chrome&pbk=ZIBYUH_qQSeI1T6xImXG6MEZXP2yZW3NqGa8W69Cfyk&sid=dde50f55d81116&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇦🇺 Australia | Oracle 4
+vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@159.13.36.110:2443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.microsoft.com&pbk=uzRnmrb_UXbDNz5_IeFrC-PJfnuoUIsyaSEy1FgdPho&sid=ae377cba#🇦🇺 Australia | Oracle 5
+vless://7a169e43-ff85-4572-9843-ba7207d07319@192.9.162.122:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=swdist.apple.com&pbk=ZIBYUH_qQSeI1T6xImXG6MEZXP2yZW3NqGa8W69Cfyk&sid=dde50f55d81116#🇦🇺 Australia | Oracle 6
+vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@159.13.36.110:2443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.microsoft.com&pbk=uzRnmrb_UXbDNz5_IeFrC-PJfnuoUIsyaSEy1FgdPho&sid=ae377cba#🇦🇺 Australia | Oracle 7
+vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@159.13.36.110:2443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=uzRnmrb_UXbDNz5_IeFrC-PJfnuoUIsyaSEy1FgdPho&sid=ae377cba&sni=www.microsoft.com#🇦🇺 Australia | Oracle 8
+vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@159.13.36.110:2443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.microsoft.com&pbk=uzRnmrb_UXbDNz5_IeFrC-PJfnuoUIsyaSEy1FgdPho&sid=ae377cba#🇦🇺 Australia | Oracle 9
 vless://d042a74a-c305-4eec-a89f-39a348022c92@104.24.34.193:443?flow=&host=dry-butterfly-8eb9.tmpgnacio83.workers.dev&path=ws&security=tls&sni=dry-butterfly-8eb9.tmpgnacio83.workers.dev&type=ws#🇦🇺 Australia | The Constant Company 1
