@@ -3,22 +3,26 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgMTcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgMjEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇷🇴 Romania | Dotro Telecom SRL 1
-vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@ro01.zqwerty.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=music.yandex.ru&path=&host=#🇷🇴 Romania | WorkTitans B.V. 1
-vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&type=tcp#🇷🇴 Romania | WorkTitans B.V. 2
-vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&allowInsecure=1#🇷🇴 Romania | WorkTitans B.V. 3
-vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&allowInsecure=1#🇷🇴 Romania | WorkTitans B.V. 4
-vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@5.253.40.7:2053?encryption=none&type=tcp&security=reality&fp=chrome&sni=music.yandex.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#🇷🇴 Romania | WorkTitans B.V. 5
-vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@ro01.zqwerty.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=music.yandex.ru&path=&host=#🇷🇴 Romania | WorkTitans B.V. 6
-vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@5.253.40.7:2053?encryption=none&type=tcp&security=reality&fp=chrome&sni=music.yandex.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#🇷🇴 Romania | WorkTitans B.V. 7
-vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@5.253.40.7:2053?encryption=none&type=tcp&security=reality&fp=chrome&sni=music.yandex.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#🇷🇴 Romania | WorkTitans B.V. 8
-vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@95.163.183.206:2053?encryption=none&type=tcp&security=reality&fp=chrome&sni=music.yandex.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#🇷🇴 Romania | WorkTitans B.V. 9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇷🇴 Romania | Dotro Telecom SRL 2
+vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@5.253.40.7:2053?encryption=none&type=tcp&security=reality&fp=chrome&sni=music.yandex.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#🇷🇴 Romania | WorkTitans B.V. 1
+vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@ro01.zqwerty.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=music.yandex.ru&path=&host=#🇷🇴 Romania | WorkTitans B.V. 2
+vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@5.253.40.7:2053?encryption=none&type=tcp&security=reality&fp=chrome&sni=music.yandex.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#🇷🇴 Romania | WorkTitans B.V. 3
+vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@5.253.40.7:2053?encryption=none&type=tcp&security=reality&fp=chrome&sni=music.yandex.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#🇷🇴 Romania | WorkTitans B.V. 4
+vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@95.163.183.206:2053?encryption=none&type=tcp&security=reality&fp=chrome&sni=music.yandex.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#🇷🇴 Romania | WorkTitans B.V. 5
+vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@95.163.183.206:2053?encryption=none&type=tcp&security=reality&fp=chrome&sni=music.yandex.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#🇷🇴 Romania | WorkTitans B.V. 6
+vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@95.163.183.206:2053?encryption=none&type=tcp&security=reality&fp=chrome&sni=music.yandex.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#🇷🇴 Romania | WorkTitans B.V. 7
+vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@vk2.zqwerty.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=music.yandex.ru&path=&host=#🇷🇴 Romania | WorkTitans B.V. 8
+vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@ro01.zqwerty.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=music.yandex.ru&path=&host=#🇷🇴 Romania | WorkTitans B.V. 9
 vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@ro01.zqwerty.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=music.yandex.ru&path=&host=#🇷🇴 Romania | WorkTitans B.V. 10
 vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@ro01.zqwerty.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=music.yandex.ru&path=&host=#🇷🇴 Romania | WorkTitans B.V. 11
 vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@ro01.zqwerty.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=music.yandex.ru&path=&host=#🇷🇴 Romania | WorkTitans B.V. 12
 vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@ro01.zqwerty.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=music.yandex.ru&path=&host=#🇷🇴 Romania | WorkTitans B.V. 13
 vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@ro01.zqwerty.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=music.yandex.ru&path=&host=#🇷🇴 Romania | WorkTitans B.V. 14
 vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@ro01.zqwerty.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=music.yandex.ru&path=&host=#🇷🇴 Romania | WorkTitans B.V. 15
-vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@ro01.zqwerty.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=music.yandex.ru&path=&host=#🇷🇴 Romania | WorkTitans B.V. 16
+vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@vk2.zqwerty.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=music.yandex.ru&path=&host=#🇷🇴 Romania | WorkTitans B.V. 16
+vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@vk2.zqwerty.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=music.yandex.ru&path=&host=#🇷🇴 Romania | WorkTitans B.V. 17
+vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@ro01.zqwerty.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=music.yandex.ru&path=&host=#🇷🇴 Romania | WorkTitans B.V. 18
+vless://077a96d9-2f23-4522-b6ff-61f3793aac29@194.5.248.39:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=V1vIrExX3-oHy5vJNlsazYhVdkKyt9rtt4CDADBeFFo&sid=0bbd0f101ee82d47&sni=www.deepl.com&path=&host=#🇷🇴 Romania | Zergrush SRL 1

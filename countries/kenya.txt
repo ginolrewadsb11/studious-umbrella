@@ -3,9 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBLZW55YQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBLZW55YQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://77605116-fc3d-4d30-827b-da4338cca255@102.214.69.105:19938?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=amazon.com&pbk=_nqSXF5ujl6eQd687N9Q3ClknW8BEQmI4vO2dFpS2l8&sid=2adf17&spx=%2F#🌍 Kenya | Servercore Africa 1
 vless://77605116-fc3d-4d30-827b-da4338cca255@ke-1.vpnd.io:19938?flow=xtls-rprx-vision&fp=random&pbk=_nqSXF5ujl6eQd687N9Q3ClknW8BEQmI4vO2dFpS2l8&security=reality&sid=2adf17&sni=amazon.com&type=tcp#🌍 Kenya | Servercore Africa 2
 vless://77605116-fc3d-4d30-827b-da4338cca255@ke-1.vpnd.io:19938?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_nqSXF5ujl6eQd687N9Q3ClknW8BEQmI4vO2dFpS2l8&security=reality&sid=2adf17&sni=amazon.com&type=tcp#🌍 Kenya | Servercore Africa 3
-vless://77605116-fc3d-4d30-827b-da4338cca255@ke-1.vpnd.io:19938?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_nqSXF5ujl6eQd687N9Q3ClknW8BEQmI4vO2dFpS2l8&security=reality&sid=2adf17&sni=amazon.com&type=tcp#🌍 Kenya | Servercore Africa 4
