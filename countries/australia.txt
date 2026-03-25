@@ -6,16 +6,16 @@
 #announce: base64:8J+HpvCfh7ogQm9iaVZQTiDigJQgQXVzdHJhbGlhCuKaoSAxNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&sni=enhanced-crayfish.rooster465.autos#🇦🇺 Australia | G-Core Labs S.A. 1
-trojan://IL37892054@steady-lemming.rooster465.autos:443?security=tls&sni=steady-lemming.rooster465.autos#🇦🇺 Australia | G-Core Labs S.A. 2
-trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls#🇦🇺 Australia | G-Core Labs S.A. 3
+trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?sni=enhanced-crayfish.rooster465.autos&peer=enhanced-crayfish.rooster465.autos&security=tls#🇦🇺 Australia | G-Core Labs S.A. 2
+trojan://IL37892054@steady-lemming.rooster465.autos:443?security=tls&sni=steady-lemming.rooster465.autos#🇦🇺 Australia | G-Core Labs S.A. 3
 trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&sni=enhanced-crayfish.rooster465.autos#🇦🇺 Australia | G-Core Labs S.A. 4
-trojan://IL37892054@steady-lemming.rooster465.autos:443?security=tls&sni=steady-lemming.rooster465.autos#🇦🇺 Australia | G-Core Labs S.A. 5
-trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&sni=enhanced-crayfish.rooster465.autos#🇦🇺 Australia | G-Core Labs S.A. 6
-trojan://IL37892054@enhanced-crayfish.rooster465.autos:443/?type=tcp&security=tls&sni=enhanced-crayfish.rooster465.autos#🇦🇺 Australia | G-Core Labs S.A. 7
-trojan://IL37892054@steady-lemming.rooster465.autos:443?security=tls#🇦🇺 Australia | G-Core Labs S.A. 8
+trojan://IL37892054@enhanced-crayfish.rooster465.autos:443/?type=tcp&security=tls&sni=enhanced-crayfish.rooster465.autos#🇦🇺 Australia | G-Core Labs S.A. 5
+trojan://IL37892054@steady-lemming.rooster465.autos:443?security=tls&sni=steady-lemming.rooster465.autos#🇦🇺 Australia | G-Core Labs S.A. 6
+trojan://IL37892054@steady-lemming.rooster465.autos:443?security=tls#🇦🇺 Australia | G-Core Labs S.A. 7
+trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls#🇦🇺 Australia | G-Core Labs S.A. 8
 trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&sni=enhanced-crayfish.rooster465.autos#🇦🇺 Australia | G-Core Labs S.A. 9
-trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?sni=enhanced-crayfish.rooster465.autos&peer=enhanced-crayfish.rooster465.autos&security=tls#🇦🇺 Australia | G-Core Labs S.A. 10
-trojan://IL37892054@steady-lemming.rooster465.autos:443?security=tls&sni=steady-lemming.rooster465.autos#🇦🇺 Australia | G-Core Labs S.A. 11
-vmess://eyJhZGQiOiJzeTQuNjIwNzIwLnh5eiIsImFpZCI6MCwiaG9zdCI6InN5NC42MjA3MjAueHl6IiwiaWQiOiI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZTZcdWQ4M2NcdWRkZmFbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1BVS0xMTMzNzcyMyIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIn0=#🇦🇺 Australia | Oracle 1
+trojan://IL37892054@steady-lemming.rooster465.autos:443?security=tls&sni=steady-lemming.rooster465.autos#🇦🇺 Australia | G-Core Labs S.A. 10
+trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?allowInsecure=0&sni=enhanced-crayfish.rooster465.autos#🇦🇺 Australia | G-Core Labs S.A. 11
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhW3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtQVUtMTEzMzc3MjMiLCJhZGQiOiIxODguMTE0Ljk2LjMiLCJwb3J0Ijo0NDMsImlkIjoiNTE2ZDhhN2EtM2YwYi00MWQzLWJhZDAtMjQ2MTE2MzgxNTE2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InN5NC42MjA3MjAueHl6IiwicGF0aCI6IlwvIiwidGxzIjoidGxzIiwic25pIjoic3k0LjYyMDcyMC54eXoiLCJhbHBuIjoiIiwiZnAiOiIiLCJuYW1lIjoiVk0tMTEyOS0wMSIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇦🇺 Australia | Oracle 1
 vless://7a169e43-ff85-4572-9843-ba7207d07319@192.9.162.122:1443?security=reality&sni=swdist.apple.com&fp=chrome&pbk=ZIBYUH_qQSeI1T6xImXG6MEZXP2yZW3NqGa8W69Cfyk&sid=dde50f55d81116&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇦🇺 Australia | Oracle 2
 vless://d042a74a-c305-4eec-a89f-39a348022c92@104.24.34.193:443?flow=&host=dry-butterfly-8eb9.tmpgnacio83.workers.dev&path=ws&security=tls&sni=dry-butterfly-8eb9.tmpgnacio83.workers.dev&type=ws#🇦🇺 Australia | The Constant Company 1
