@@ -6,5 +6,5 @@
 #announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🇧🇪 Belgium | EDIS GmbH 1
-vless://656bb400-3b7a-47e3-94b0-0362f3865072@172.64.153.235:8443?encryption=none&type=ws&security=tls&path=%2Fsocks5%3A%2F%2F128.140.46.169%3A13482&host=socks5.revil-time3.workers.dev&sni=socks5.revil-time3.workers.dev#🇧🇪 Belgium | Google 1
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.19.222.169:2082?encryption=none&host=index.arcane509.workers.dev&path=%2Fgfdn0yadxgfr&security=none&type=ws#🇧🇪 Belgium | Google 2
+vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.19.222.169:2082?encryption=none&host=index.arcane509.workers.dev&path=%2Fgfdn0yadxgfr&security=none&type=ws#🇧🇪 Belgium | Google 1
+vless://4cf1a3a0-7360-41ff-84ae-b621001e8376@172.67.166.185:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=usa.correctcosette.workers.dev&path=%2FR8BFTroQ00j1&security=tls&sni=Usa.cORreCtCOsETTe.WOrKeRS.DeV&type=ws#🇧🇪 Belgium | Google 2
