@@ -3,18 +3,20 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMTMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMTUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://41808414-6496-4d3c-89d6-9442f76a155a@94.131.86.204:443?type=tcp&security=reality&fp=random&pbk=pl0X8gUdDuJlCmJkPIgVL3HIbD8pL9LHGVUMgqQIlio&sid=c6&sni=www.google.com&spx=/#🇰🇿 Kazakhstan | "Cloud Services Kazakh... 1
 vless://41808414-6496-4d3c-89d6-9442f76a155a@94.131.86.204:443?encryption=none&fp=chrome&pbk=pl0X8gUdDuJlCmJkPIgVL3HIbD8pL9LHGVUMgqQIlio&security=reality&sid=c6&sni=www.google.com&type=tcp#🇰🇿 Kazakhstan | "Cloud Services Kazakh... 2
 vless://41808414-6496-4d3c-89d6-9442f76a155a@94.131.86.204:443?encryption=none&fp=chrome&pbk=pl0X8gUdDuJlCmJkPIgVL3HIbD8pL9LHGVUMgqQIlio&security=reality&sid=c6&sni=www.google.com&type=tcp#🇰🇿 Kazakhstan | "Cloud Services Kazakh... 3
 vless://c08d880e-106f-4366-9d00-cc9355d99abc@45.82.31.155:443?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=web.max.ru&fp=chrome&pbk=EA-Sxh4tF7Iym27iYccYI5aCrc796cBJgRv9_maBbl4&spx=%2F&sid=097b27#🇰🇿 Kazakhstan | G-Core Labs S.A. 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#🇰🇿 Kazakhstan | G-Core Labs S.A. 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#🇰🇿 Kazakhstan | G-Core Labs S.A. 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#🇰🇿 Kazakhstan | G-Core Labs S.A. 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@109.61.39.28:990#🇰🇿 Kazakhstan | G-Core Labs S.A. 3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#🇰🇿 Kazakhstan | G-Core Labs S.A. 4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@109.61.39.28:990#🇰🇿 Kazakhstan | G-Core Labs S.A. 5
-vless://f165ea66-6229-4919-9f82-913e02895571@91.224.74.174:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=kz.de-nfast.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&spx=%2F#🇰🇿 Kazakhstan | Newserverlife 1
-vless://f165ea66-6229-4919-9f82-913e02895571@91.224.74.174:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=kz.de-nfast.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&spx=%2F#🇰🇿 Kazakhstan | Newserverlife 2
-vless://f165ea66-6229-4919-9f82-913e02895571@5ktelvkeld4.country-25.de-nfast.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&sni=kz.de-nfast.com&spx=/#🇰🇿 Kazakhstan | Newserverlife 3
-vless://f165ea66-6229-4919-9f82-913e02895571@5ktelvkeld4.country-25.de-nfast.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&sni=kz.de-nfast.com&spx=/#🇰🇿 Kazakhstan | Newserverlife 4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#🇰🇿 Kazakhstan | G-Core Labs S.A. 5
+vless://7722d56f-3ae8-404a-8882-2541bb47673b@82.41.30.105:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&sni=kzt.overload.ovh#🇰🇿 Kazakhstan | Newserverlife 1
+vless://f165ea66-6229-4919-9f82-913e02895571@5ktelvkeld4.country-25.de-nfast.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&sni=kz.de-nfast.com&spx=/#🇰🇿 Kazakhstan | Newserverlife 2
+vless://f165ea66-6229-4919-9f82-913e02895571@5ktelvkeld4.country-25.de-nfast.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&sni=kz.de-nfast.com&spx=/#🇰🇿 Kazakhstan | Newserverlife 3
+vless://f165ea66-6229-4919-9f82-913e02895571@5ktelvkeld4.country-25.de-nfast.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&sni=kz.de-nfast.com&spx=/#🇰🇿 Kazakhstan | Newserverlife 4
+vless://f165ea66-6229-4919-9f82-913e02895571@5ktelvkeld4.country-25.de-nfast.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&sni=kz.de-nfast.com&spx=/#🇰🇿 Kazakhstan | Newserverlife 5
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Kazakhstan | NLS ASTANA LLP 1
+vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Kazakhstan | NLS ASTANA LLP 2
