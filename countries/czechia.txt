@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMTAg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://6cabb434-f480-478a-9586-a5667167eeb1@cdn-cz-cf.barryvpn.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM&sid=ae&sni=images.apple.com#🇨🇿 Czechia | Cogent Communications 1
-vless://6cabb434-f480-478a-9586-a5667167eeb1@149.33.38.41:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=images.apple.com&pbk=tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM&sid=ae#🇨🇿 Czechia | Cogent Communications 2
-vless://3d737761-5951-462e-86c1-ff921d9f9999@cdn-cz-cf.barryvpn.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM&sid=ae&sni=images.apple.com#🇨🇿 Czechia | Cogent Communications 3
-vless://3d737761-5951-462e-86c1-ff921d9f9999@176.97.75.22:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=images.apple.com&pbk=tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM&sid=ae#🇨🇿 Czechia | M247 Europe SRL 1
-vless://3d737761-5951-462e-86c1-ff921d9f9999@cdn-cz-cf.barryvpn.com:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM&sid=ae&sni=images.apple.com&path=&host=#🇨🇿 Czechia | M247 Europe SRL 2
-vless://5e8f2b4a-2a5a-45ce-b302-53ac79f2f903@45.15.162.166:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=secondjatest.mooo.com&pbk=nDixLNMuYlt-c5JKbHFS068Q4eBSrfs8oWwPJqEUhww&sid=928f032052803ebf#🇨🇿 Czechia | WorkTitans B.V. 1
-vless://243203a9-77f5-4f55-b0b0-5f4ca08d3b1a@83.166.248.73:9887?encryption=none&type=tcp&security=none#🇨🇿 Czechia | WorkTitans B.V. 2
-vless://243203a9-77f5-4f55-b0b0-5f4ca08d3b1a@83.166.248.73:9887?encryption=none&type=tcp&security=none#🇨🇿 Czechia | WorkTitans B.V. 3
-vless://243203a9-77f5-4f55-b0b0-5f4ca08d3b1a@83.166.248.73:9887?type=tcp&security=none&encryption=none#🇨🇿 Czechia | WorkTitans B.V. 4
-vless://5e8f2b4a-2a5a-45ce-b302-53ac79f2f903@firstjaptest.mooo.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=nDixLNMuYlt-c5JKbHFS068Q4eBSrfs8oWwPJqEUhww&sid=928f032052803ebf&sni=secondjatest.mooo.com#🇨🇿 Czechia | WorkTitans B.V. 5
+vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.5.46:8880?type=ws&encryption=none&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&path=/?ed=2560Join---V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz#🇨🇿 Czechia | INTERNET CZ, a.s. 1

@@ -3,8 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#🇩🇰 Denmark | M247 Europe SRL 1
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?security=&type=ws&path=/&encryption=none#🇩🇰 Denmark | Webdock.io ApS 1
+vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.21.7.133:80?encryption=none&host=lucky-voice-d6f3.difat89954-0c6.workers.dev&path=%2F&security=none&type=ws#🇩🇰 Denmark | SERV.HOST GROUP LTD 1
+vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@172.66.40.139:443?allowInsecure=1&encryption=none&host=rAyAn-007.pArViN.DpDnS.OrG&path=/&security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&type=ws#🇩🇰 Denmark | Webdock.io ApS 1
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&security=none&path=/#🇩🇰 Denmark | Webdock.io ApS 2
+vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?security=&type=ws&path=/&encryption=none#🇩🇰 Denmark | Webdock.io ApS 3
