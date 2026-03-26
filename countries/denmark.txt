@@ -3,10 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#🇩🇰 Denmark | M247 Europe SRL 1
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855/?type=ws&encryption=none&flow=&path=%2F#🇩🇰 Denmark | Webdock.io ApS 1
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?security=&type=ws&path=/&encryption=none#🇩🇰 Denmark | Webdock.io ApS 2
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&security=none&path=/#🇩🇰 Denmark | Webdock.io ApS 3
-vless://4ae2bf83-5caf-4ed3-9348-df02a2712c22@72.56.4.232:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=YrmzoeFK--soTmNhpJQ8FgYsCu4imPKji07dCHSkhV4&sid=d9f09b30f406&sni=nloop.fasssst.ru&spx=/#🇩🇰 Denmark | WorkTitans B.V. 1
+vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?security=&type=ws&path=/&encryption=none#🇩🇰 Denmark | Webdock.io ApS 1
+vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&security=none&path=/#🇩🇰 Denmark | Webdock.io ApS 2
