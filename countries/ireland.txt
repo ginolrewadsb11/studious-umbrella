@@ -3,8 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 trojan://WF42809561@genuine-cougar.rooster465.autos:443?sni=genuine-cougar.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 1
 vless://4dde0df3-aa67-417c-882e-28beb3886961@78.17.13.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ge.pinkweb.one&pbk=Zzl9Tz58jFMTnqHQPnQk9AQ4p05Jurdhk3opFRgZ22U&sid=5931256bb93953af#🇮🇪 Ireland | BT Communications Ireland 1
+vless://4dde0df3-aa67-417c-882e-28beb3886961@78.17.13.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ge.pinkweb.one&pbk=Zzl9Tz58jFMTnqHQPnQk9AQ4p05Jurdhk3opFRgZ22U&sid=5931256bb93953af#🇮🇪 Ireland | BT Communications Ireland 2
+vless://4dde0df3-aa67-417c-882e-28beb3886961@78.17.13.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ge.pinkweb.one&pbk=Zzl9Tz58jFMTnqHQPnQk9AQ4p05Jurdhk3opFRgZ22U&sid=5931256bb93953af#🇮🇪 Ireland | BT Communications Ireland 3
+vless://4dde0df3-aa67-417c-882e-28beb3886961@78.17.13.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ge.pinkweb.one&pbk=Zzl9Tz58jFMTnqHQPnQk9AQ4p05Jurdhk3opFRgZ22U&sid=5931256bb93953af#🇮🇪 Ireland | BT Communications Ireland 4
+vless://4dde0df3-aa67-417c-882e-28beb3886961@nld.pinkweb.one:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nld.pinkweb.one&fp=chrome&security=reality&pbk=MlAC3MfcDZsPdQJ_lRzrJ95pY07GPy1GgCILbFyRMWk&sid=7aedbcb49ddbb4c1#🇮🇪 Ireland | BT Communications Ireland 5
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🇮🇪 Ireland | M247 Europe SRL 1
