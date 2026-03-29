@@ -3,18 +3,22 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgMTMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgMTcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇷🇴 Romania | Dotro Telecom SRL 1
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.117.255.37:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#🇷🇴 Romania | Green Floid 1
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.117.255.37:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#🇷🇴 Romania | Green Floid 2
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.117.255.37:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#🇷🇴 Romania | Green Floid 3
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.117.255.37:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#🇷🇴 Romania | Green Floid 2
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.117.255.37:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#🇷🇴 Romania | Green Floid 3
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.117.255.37:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#🇷🇴 Romania | Green Floid 4
 vless://24402528-1d11-4c87-aa4d-ebe7569aa484@193.233.251.27:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=E0-zQJFOxoOKg0L17Q2dWf5HftWOTpuRFJuDrFoxW1I&sid=95&spx=/#🇷🇴 Romania | M247 Europe SRL 1
-vless://24402528-1d11-4c87-aa4d-ebe7569aa484@193.233.251.27:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=E0-zQJFOxoOKg0L17Q2dWf5HftWOTpuRFJuDrFoxW1I&sid=95&spx=%2F#🇷🇴 Romania | M247 Europe SRL 2
+vless://24402528-1d11-4c87-aa4d-ebe7569aa484@rete.buzzapi.site:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&pbk=E0-zQJFOxoOKg0L17Q2dWf5HftWOTpuRFJuDrFoxW1I&fp=chrome&sni=max.ru&sid=95&spx=%2F#🇷🇴 Romania | M247 Europe SRL 2
 vless://24402528-1d11-4c87-aa4d-ebe7569aa484@193.233.251.27:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=E0-zQJFOxoOKg0L17Q2dWf5HftWOTpuRFJuDrFoxW1I&sid=95&spx=%2F#🇷🇴 Romania | M247 Europe SRL 3
 vless://24402528-1d11-4c87-aa4d-ebe7569aa484@193.233.251.27:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=E0-zQJFOxoOKg0L17Q2dWf5HftWOTpuRFJuDrFoxW1I&sid=95&spx=%2F#🇷🇴 Romania | M247 Europe SRL 4
 vless://24402528-1d11-4c87-aa4d-ebe7569aa484@rete.buzzapi.site:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=E0-zQJFOxoOKg0L17Q2dWf5HftWOTpuRFJuDrFoxW1I&sid=95&spx=%2F&type=tcp&headerType=none#🇷🇴 Romania | M247 Europe SRL 5
-vless://24402528-1d11-4c87-aa4d-ebe7569aa484@rete.buzzapi.site:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&pbk=E0-zQJFOxoOKg0L17Q2dWf5HftWOTpuRFJuDrFoxW1I&fp=chrome&sni=max.ru&sid=95&spx=%2F#🇷🇴 Romania | M247 Europe SRL 6
-vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&allowInsecure=1#🇷🇴 Romania | WorkTitans B.V. 1
+vless://24402528-1d11-4c87-aa4d-ebe7569aa484@193.233.251.27:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=E0-zQJFOxoOKg0L17Q2dWf5HftWOTpuRFJuDrFoxW1I&sid=95&spx=%2F#🇷🇴 Romania | M247 Europe SRL 6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇷🇴 Romania | NAV COMMUNICATIONS S.R.L 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇷🇴 Romania | NAV COMMUNICATIONS S.R.L 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇷🇴 Romania | NAV COMMUNICATIONS S.R.L 3
+vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&type=tcp#🇷🇴 Romania | WorkTitans B.V. 1
 vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&allowInsecure=1#🇷🇴 Romania | WorkTitans B.V. 2
-vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&type=tcp#🇷🇴 Romania | WorkTitans B.V. 3
+vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&allowInsecure=1#🇷🇴 Romania | WorkTitans B.V. 3
