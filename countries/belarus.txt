@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh74gQm9iaVZQTiDigJQgQmVsYXJ1cwrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh74gQm9iaVZQTiDigJQgQmVsYXJ1cwrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://14a5c48e-fa5f-4682-ab40-a32507f9277d@78.140.253.16:443?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&fp=chrome&pbk=RFf_Ieq44N_yBFzqNUmnsJtHMzQ2UC7HYyr99HsksFk&sni=translate.yandex.ru#🇧🇾 Belarus | Itglobalcom BEL 1
-vless://14a5c48e-fa5f-4682-ab40-a32507f9277d@78.140.253.16:443?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&fp=chrome&pbk=RFf_Ieq44N_yBFzqNUmnsJtHMzQ2UC7HYyr99HsksFk&sni=translate.yandex.ru#🇧🇾 Belarus | Itglobalcom BEL 2
+vless://c6af0348-6835-4bf0-88a5-7e77bc56458f@by.x8lab.org:443?flow=xtls-rprx-vision&sni=storage.yandexcloud.net&security=reality&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&sid=cd0b563c7e0ea754&fp=randomized#🇧🇾 Belarus | DataHata 1
