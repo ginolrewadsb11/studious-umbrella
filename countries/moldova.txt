@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.5.46:8880?encryption=none&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&path=%2F%3F%40V2rayBaaz&security=none&type=ws#🇲🇩 Moldova | Alexhost SRL 1
 vless://a91b9d7f-eca5-43a5-9524-2201817225d6@45.12.135.55:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=R0vqUSlp1GerdnpdaoDCBIJ-mlEup4M64Wmiz4dyNyo&sid=71e3cd13&sni=google.com#🇲🇩 Moldova | Weiss Hosting Group S.R.L 1
+vless://43e322c8-e044-4625-a560-9bfec45e0eae@91.132.142.69:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=yandex.net&sid=6ba85179e30d4fc2#🇲🇩 Moldova | Weiss Hosting Group S.R.L 2
+vless://5b77fb18-cece-4759-9a81-571f1be53e0c@fin5.frostbot.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w&sid=92463ae1603044&sni=vk.com&path=&host=#🇲🇩 Moldova | Weiss Hosting Group S.R.L 3
