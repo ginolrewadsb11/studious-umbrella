@@ -3,8 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vmess://eyJhZGQiOiI0NS45Mi43MC4yMzYiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjIyMzI0IiwicHMiOiJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjlbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1JVC0xMzQ2MzQxOCIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#🇮🇹 Italy | G-Core Labs S.A. 1
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.118.16.61:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&type=tcp&headerType=none#🇮🇹 Italy | Green Floid 1
+vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@104.18.13.229:2052?encryption=none&host=parking-nfchbwa1-v2.parking-1ab.workers.dev&path=%2F&security=none&type=ws#🇮🇹 Italy | Aruba S.p.A. 1
+vless://6ad543d1-4bdd-4fed-9730-8a465e781ee2@95.163.208.115:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=f32140952ba18e18#🇮🇹 Italy | DataCamp 1
+vmess://eyJhZGQiOiI0NS45Mi43MC4yMzYiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjIyMzI0IiwicHMiOiJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjlbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1JVC0xMzQ2MzQxOCIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#🇮🇹 Italy | G-Core Labs S.A. 1
+vmess://eyJhZGQiOiI0NS45Mi43MC4yMzYiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjIyMzI0IiwicHMiOiJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjlbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUlUIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#🇮🇹 Italy | G-Core Labs S.A. 2
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.118.16.61:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#🇮🇹 Italy | Green Floid 1
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.118.16.61:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#🇮🇹 Italy | Green Floid 2
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.118.16.61:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&type=tcp&headerType=none#🇮🇹 Italy | Green Floid 3

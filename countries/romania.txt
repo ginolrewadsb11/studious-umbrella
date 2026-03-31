@@ -3,14 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://5db4fb64-d99f-4745-b550-9e937bd2f448@172.66.202.57:443/?type=ws&encryption=none&flow=&host=steep-poetry-829c.false-mossy-caucus.workers.dev&path=%2F&security=tls&sni=steep-poetry-829c.false-mossy-caucus.workers.dev&allowInsecure=1#🇷🇴 Romania | Freakhosting LTD 1
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.152.254:80?encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#🇷🇴 Romania | Freakhosting LTD 2
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.117.255.37:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#🇷🇴 Romania | Green Floid 1
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.117.255.37:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#🇷🇴 Romania | Green Floid 2
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.117.255.37:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#🇷🇴 Romania | Green Floid 3
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.117.255.37:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#🇷🇴 Romania | Green Floid 3
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.117.255.37:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#🇷🇴 Romania | Green Floid 4
-vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&allowInsecure=1#🇷🇴 Romania | WorkTitans B.V. 1
-vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&allowInsecure=1#🇷🇴 Romania | WorkTitans B.V. 2
-vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=crghxqxyoy-518237151-direct.bahame.co#🇷🇴 Romania | WorkTitans B.V. 3
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.117.255.37:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#🇷🇴 Romania | Green Floid 5
+vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=crghxqxyoy-518237151-direct.bahame.co#🇷🇴 Romania | WorkTitans B.V. 1
+vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=crghxqxyoy-518237151-direct.bahame.co#🇷🇴 Romania | WorkTitans B.V. 2
+vless://31922c21-4292-5183-8e3b-52341ed80660@5.182.37.151:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=crghxqxyoy-518237151-direct.bahame.co&type=tcp#🇷🇴 Romania | WorkTitans B.V. 3
