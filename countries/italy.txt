@@ -3,20 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDE1INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDEwINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://81afc754-96c8-4cca-8d5e-3fc993b9afb9@213.109.192.104:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=0tdW1rG8MLZRG0TjFeFAGADyWZEbfckouBuZ8e9jCjA&sid=7c2e8b41f9a6d0b3&sni=it.shadowshroom.ru&path=&host=#🇮🇹 Italy | BlueVPS OU 1
-vless://81afc754-96c8-4cca-8d5e-3fc993b9afb9@213.109.192.104:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=0tdW1rG8MLZRG0TjFeFAGADyWZEbfckouBuZ8e9jCjA&sid=7c2e8b41f9a6d0b3&sni=it.shadowshroom.ru&path=&host=#🇮🇹 Italy | BlueVPS OU 2
-vless://81afc754-96c8-4cca-8d5e-3fc993b9afb9@213.109.192.104:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=0tdW1rG8MLZRG0TjFeFAGADyWZEbfckouBuZ8e9jCjA&sid=7c2e8b41f9a6d0b3&sni=it.shadowshroom.ru#🇮🇹 Italy | BlueVPS OU 3
+vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@www.visa.com.sg:2052/?type=ws&encryption=none&flow=&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev&path=%2F%3Fed%3D2560#🇮🇹 Italy | Aruba S.p.A. 1
 vmess://eyJhZGQiOiI0NS45Mi43MC4yMzYiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjIyMzI0IiwicHMiOiJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjlbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1JVC0xMzQ2MzQxOCIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#🇮🇹 Italy | G-Core Labs S.A. 1
 vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@147.45.51.114:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.vk.com&type=tcp#🇮🇹 Italy | Global Connectivity So... 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇮🇹 Italy | Global Connectivity So... 2
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.6:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=/222.167.202.6:7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#🇮🇹 Italy | GlobalTeleHost Corp. 1
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.16:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.16%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#🇮🇹 Italy | GlobalTeleHost Corp. 2
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.16:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=/222.167.202.16:7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#🇮🇹 Italy | GlobalTeleHost Corp. 3
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.16:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=/222.167.202.16:7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#🇮🇹 Italy | GlobalTeleHost Corp. 4
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.6:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.6%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#🇮🇹 Italy | GlobalTeleHost Corp. 5
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.4:7443?&security=tls&sni=2026.hhhhh.eu.org&type=ws&headerType=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.4%3A7443#🇮🇹 Italy | GlobalTeleHost Corp. 6
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.21:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=/222.167.202.21:7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#🇮🇹 Italy | GlobalTeleHost Corp. 7
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.21:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.21%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#🇮🇹 Italy | GlobalTeleHost Corp. 8
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.16:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=/222.167.202.16:7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#🇮🇹 Italy | GlobalTeleHost Corp. 1
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.6:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.6%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#🇮🇹 Italy | GlobalTeleHost Corp. 2
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.21:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=/222.167.202.21:7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#🇮🇹 Italy | GlobalTeleHost Corp. 3
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.14:7443?encryption=none&security=tls&sni=2026.hhhhh.eu.org&type=ws&host=2026.hhhhh.eu.org&path=%2F222.167.202.14%3A7443#🇮🇹 Italy | GlobalTeleHost Corp. 4
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.36:7443?encryption=none&security=tls&sni=2026.hhhhh.eu.org&type=ws&host=2026.hhhhh.eu.org&path=%2F222.167.202.36%3A7443#🇮🇹 Italy | GlobalTeleHost Corp. 5
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.21:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.21%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#🇮🇹 Italy | GlobalTeleHost Corp. 6
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.118.16.61:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&type=tcp&headerType=none#🇮🇹 Italy | Green Floid 1
