@@ -5,34 +5,34 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HuPCfh6wgQm9iaVZQTiDigJQgU2luZ2Fwb3JlCuKaoSAzMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vmess://ewogICAgImFkZCI6ICJjZi4wOTAyMjcueHl6IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAic2dhbC5kYWdyYXRlLmV1Lm9yZyIsCiAgICAiaWQiOiAiMjkwY2M2OTEtM2FjNi00Mzg3LTk4YTEtMjVjOGViOGNhMmVhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjE4LjQyLjk4LTAzMTAiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJzZ2FsLmRhZ3JhdGUuZXUub3JnIgp9#🇸🇬 Singapore | Alibaba Cloud (Singapo... 1
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@103.136.68.175:23357?security=tls&fp=chrome&type=tcp&sni=www.node-resource.click#🇸🇬 Singapore | Baxet Group 1
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@192.124.176.50:23357/?type=tcp&security=tls&sni=sgp7.node-resource.click&fp=chrome#🇸🇬 Singapore | Baxet Group 2
+vmess://eyJhZGQiOiJjZi4wOTAyMjcueHl6IiwiYWlkIjowLCJob3N0Ijoic2dhbC5kYWdyYXRlLmV1Lm9yZyIsImlkIjoiMjkwY2M2OTEtM2FjNi00Mzg3LTk4YTEtMjVjOGViOGNhMmVhIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjW3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtU0ctMTEzOTE2NDUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6InNnYWwuZGFncmF0ZS5ldS5vcmcifQ==#🇸🇬 Singapore | Alibaba Cloud (Singapo... 1
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.29:23357?security=tls&fp=chrome&type=tcp&sni=sgp8.node-resource.click#🇸🇬 Singapore | Baxet Group 1
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?sni=sgp9.node-resource.click#🇸🇬 Singapore | Baxet Group 2
 trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@192.124.176.50:23357?security=tls&fp=chrome&type=tcp&sni=sgp7.node-resource.click#🇸🇬 Singapore | Baxet Group 3
-trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@192.124.176.50:23357?security=tls&fp=chrome&type=tcp&sni=sgp7.node-resource.click#🇸🇬 Singapore | Baxet Group 4
-trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@103.136.68.175:23357?security=tls&fp=chrome&type=tcp&sni=www.node-resource.click#🇸🇬 Singapore | Baxet Group 5
-trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@103.136.68.175:23357?security=tls&sni=www.node-resource.click&fp=chrome&type=tcp#🇸🇬 Singapore | Baxet Group 6
-trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@194.87.10.29:23357?security=tls&fp=chrome&type=tcp&sni=sgp8.node-resource.click#🇸🇬 Singapore | Baxet Group 7
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?security=tls&fp=chrome&type=tcp&sni=sgp9.node-resource.click#🇸🇬 Singapore | Baxet Group 8
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.29:23357?security=tls&fp=chrome&type=tcp&sni=sgp8.node-resource.click#🇸🇬 Singapore | Baxet Group 9
-trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@194.87.10.31:23357?security=tls&fp=chrome&type=tcp&sni=sgp9.node-resource.click#🇸🇬 Singapore | Baxet Group 10
-vless://26524cce-d514-4014-a426-365fb266a14d@static.shopify.com:443?&security=tls&fp=chrome&sni=kod4t259zf.fgfw.qzz.io&type=ws&headerType=none&host=kod4t259zf.fgfw.qzz.io&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 1
-vless://26524cce-d514-4014-a426-365fb266a14d@www.gov.se:2053?&security=tls&fp=chrome&sni=kod4t259zf.fgfw.qzz.io&type=ws&headerType=none&host=kod4t259zf.fgfw.qzz.io&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 2
-vless://26524cce-d514-4014-a426-365fb266a14d@blog.646474.xyz:2053?&security=tls&fp=chrome&sni=kod4t259zf.fgfw.qzz.io&type=ws&headerType=none&host=kod4t259zf.fgfw.qzz.io&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 3
-vless://26524cce-d514-4014-a426-365fb266a14d@blog.646474.xyz:2053?&security=tls&fp=chrome&sni=kod4t259zf.fgfw.qzz.io&type=ws&headerType=none&host=kod4t259zf.fgfw.qzz.io&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 4
-vless://26524cce-d514-4014-a426-365fb266a14d@www.gov.se:2053?&security=tls&fp=chrome&sni=kod4t259zf.fgfw.qzz.io&type=ws&headerType=none&host=kod4t259zf.fgfw.qzz.io&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 5
+trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@194.87.10.31:23357?security=tls&fp=chrome&type=tcp&sni=sgp9.node-resource.click#🇸🇬 Singapore | Baxet Group 4
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@192.124.176.50:23357/?type=tcp&security=tls&sni=sgp7.node-resource.click&fp=chrome#🇸🇬 Singapore | Baxet Group 5
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@103.136.68.175:23357?security=tls&fp=chrome&type=tcp&sni=www.node-resource.click#🇸🇬 Singapore | Baxet Group 6
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?allowInsecure=0&sni=sgp9.node-resource.click#🇸🇬 Singapore | Baxet Group 7
+trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@192.124.176.50:23357?security=tls&fp=chrome&type=tcp&sni=sgp7.node-resource.click#🇸🇬 Singapore | Baxet Group 8
+trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@103.136.68.175:23357?security=tls&fp=chrome&type=tcp&sni=www.node-resource.click#🇸🇬 Singapore | Baxet Group 9
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?allowInsecure=0&sni=sgp9.node-resource.click#🇸🇬 Singapore | Baxet Group 10
+trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@103.136.68.175:23357?security=tls&sni=www.node-resource.click&fp=chrome&type=tcp#🇸🇬 Singapore | Baxet Group 11
+trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@194.87.10.29:23357?security=tls&fp=chrome&type=tcp&sni=sgp8.node-resource.click#🇸🇬 Singapore | Baxet Group 12
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?security=tls&fp=chrome&type=tcp&sni=sgp9.node-resource.click#🇸🇬 Singapore | Baxet Group 13
+vless://26524cce-d514-4014-a426-365fb266a14d@www.gov.se:2053?&security=tls&fp=chrome&sni=kod4t259zf.fgfw.qzz.io&type=ws&headerType=none&host=kod4t259zf.fgfw.qzz.io&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 1
 ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80#🇸🇬 Singapore | Contabo Asia Private 1
 ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80#🇸🇬 Singapore | Contabo Asia Private 2
-trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#🇸🇬 Singapore | DigitalOcean, 1
-vless://ca73d911-29f4-42d8-ada5-81dee679e96a@vps.zakir.web.id:80?encryption=none&host=vps.zakir.web.id&path=vless&security=none&type=ws#🇸🇬 Singapore | DigitalOcean, 2
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1TRyIsImFkZCI6InYxMi5oZGFjZC5jb20iLCJwb3J0IjoiMzA4MTIiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZGRERkhoai45MjI5MjIuU2hvcCIsInBhdGgiOiJcL1JrVVVicWhBOUdKWkJST2pMM1E1dlR5bXIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇸🇬 Singapore | LINODE 1
+vless://ca73d911-29f4-42d8-ada5-81dee679e96a@206.189.147.22:80?encryption=none&host=vps.zakir.web.id&path=vless&security=none&type=ws#🇸🇬 Singapore | DigitalOcean, 1
+trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#🇸🇬 Singapore | DigitalOcean, 2
+vless://ca73d911-29f4-42d8-ada5-81dee679e96a@vps.zakir.web.id:80?encryption=none&host=vps.zakir.web.id&path=vless&security=none&type=ws#🇸🇬 Singapore | DigitalOcean, 3
+vmess://eyJhZGQiOiJ2MTIuaGRhY2QuY29tIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlY1t3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLVNHLTEzNDczMDQ4IiwicG9ydCI6MzA4MTIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇸🇬 Singapore | LINODE 1
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4W3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtVVMtMTIyNDM5NzciLCJhZGQiOiJ2MTIuaGRhY2QuY29tIiwicG9ydCI6IjMwODEyIiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6Im9uZS5jZi5jZG4uaHlsaS54eXoiLCJwYXRoIjoiXC8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇸🇬 Singapore | LINODE 2
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjW3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtU0ctMTM0NzMwNDgiLCJhZGQiOiJ2MTIuaGRhY2QuY29tIiwicG9ydCI6IjMwODEyIiwidHlwZSI6Im5vbmUiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC92YyIsImhvc3QiOiJ2Yy5mbHkuZGV2IiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇸🇬 Singapore | LINODE 3
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1TRyIsImFkZCI6InYxMi5oZGFjZC5jb20iLCJwb3J0IjoiMzA4MTIiLCJ0eXBlIjoibm9uZSIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcL3ZjIiwiaG9zdCI6InZjLmZseS5kZXYiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#🇸🇬 Singapore | LINODE 3
 trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.85.33:4674?security=tls&sni=www.nintendogames.net#🇸🇬 Singapore | M247 Europe SRL 1
-trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.85.33:4674?security=tls&sni=www.nintendogames.net#🇸🇬 Singapore | M247 Europe SRL 2
-trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.85.33:4674?security=tls&sni=www.nintendogames.net#🇸🇬 Singapore | M247 Europe SRL 3
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.106.99:4674?security=tls&sni=www.nintendogames.net#🇸🇬 Singapore | M247 Europe SRL 2
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.124.17:4674?security=tls&sni=www.nintendogames.net#🇸🇬 Singapore | M247 Europe SRL 3
 trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.106.99:4674?security=tls&sni=www.nintendogames.net#🇸🇬 Singapore | M247 Europe SRL 4
-trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.124.17:4674?security=tls&sni=www.nintendogames.net#🇸🇬 Singapore | M247 Europe SRL 5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.89.142.56:990#🇸🇬 Singapore | Ultahost, 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#🇸🇬 Singapore | Ultahost, 2
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.72.205:4674?allowInsecure=0&sni=www.nintendogames.net#🇸🇬 Singapore | M247 Europe SRL 5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#🇸🇬 Singapore | Ultahost, 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.89.142.56:990#🇸🇬 Singapore | Ultahost, 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#🇸🇬 Singapore | Ultahost, 3
