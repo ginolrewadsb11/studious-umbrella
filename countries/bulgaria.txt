@@ -3,20 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDE2INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://8b65efc9-03a3-4758-8a2e-4b66a1e75062@89.208.230.166:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=L9-Bva1kUloZdyX9vReDLSfUsKXulAxSL37LscocqFE&sid=0f4dacf08721e29f&sni=ads.x5.ru#🇧🇬 Bulgaria | FDCservers.net 1
-vless://8b65efc9-03a3-4758-8a2e-4b66a1e75062@89.208.230.166:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=L9-Bva1kUloZdyX9vReDLSfUsKXulAxSL37LscocqFE&sid=0f4dacf08721e29f#🇧🇬 Bulgaria | FDCservers.net 2
-vless://8b65efc9-03a3-4758-8a2e-4b66a1e75062@container-truck-branch-ru1.api-yandex.net:443?security=reality&sni=ads.x5.ru&fp=qq&pbk=L9-Bva1kUloZdyX9vReDLSfUsKXulAxSL37LscocqFE&sid=0f4dacf08721e29f&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇦🇩 Андорра | White List | Fast | EaveVPN | #🇧🇬 Bulgaria | FDCservers.net 3
-vless://8b65efc9-03a3-4758-8a2e-4b66a1e75062@container-truck-branch-ru1.api-yandex.net:443?security=reality&sni=ads.x5.ru&fp=qq&pbk=L9-Bva1kUloZdyX9vReDLSfUsKXulAxSL37LscocqFE&sid=0f4dacf08721e29f&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇧🇬 Bulgaria | FDCservers.net 4
-vless://8b65efc9-03a3-4758-8a2e-4b66a1e75062@51.250.86.34:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=L9-Bva1kUloZdyX9vReDLSfUsKXulAxSL37LscocqFE&sid=0f4dacf08721e29f#🇧🇬 Bulgaria | FDCservers.net 5
-vless://8b65efc9-03a3-4758-8a2e-4b66a1e75062@51.250.74.39:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=L9-Bva1kUloZdyX9vReDLSfUsKXulAxSL37LscocqFE&sid=0f4dacf08721e29f#🇧🇬 Bulgaria | FDCservers.net 6
-vless://8b65efc9-03a3-4758-8a2e-4b66a1e75062@51.250.76.143:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=L9-Bva1kUloZdyX9vReDLSfUsKXulAxSL37LscocqFE&sid=0f4dacf08721e29f#🇧🇬 Bulgaria | FDCservers.net 7
-vless://8b65efc9-03a3-4758-8a2e-4b66a1e75062@51.250.76.143:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=L9-Bva1kUloZdyX9vReDLSfUsKXulAxSL37LscocqFE&sid=0f4dacf08721e29f#🇧🇬 Bulgaria | FDCservers.net 8
-vless://8b65efc9-03a3-4758-8a2e-4b66a1e75062@51.250.86.34:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=L9-Bva1kUloZdyX9vReDLSfUsKXulAxSL37LscocqFE&sid=0f4dacf08721e29f#🇧🇬 Bulgaria | FDCservers.net 9
-vless://8b65efc9-03a3-4758-8a2e-4b66a1e75062@51.250.16.118:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=L9-Bva1kUloZdyX9vReDLSfUsKXulAxSL37LscocqFE&sid=0f4dacf08721e29f#🇧🇬 Bulgaria | FDCservers.net 10
-vless://8b65efc9-03a3-4758-8a2e-4b66a1e75062@51.250.22.74:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=L9-Bva1kUloZdyX9vReDLSfUsKXulAxSL37LscocqFE&sid=0f4dacf08721e29f#🇧🇬 Bulgaria | FDCservers.net 11
-vless://8b65efc9-03a3-4758-8a2e-4b66a1e75062@51.250.86.34:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=L9-Bva1kUloZdyX9vReDLSfUsKXulAxSL37LscocqFE&sid=0f4dacf08721e29f#🇦🇩 Андорра | White List | Fast | EaveVPN | #🇧🇬 Bulgaria | FDCservers.net 12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw=@89.44.197.181:31348#🇧🇬 Bulgaria | G-Core Labs S.A. 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw=@89.44.197.181:31348#🇧🇬 Bulgaria | G-Core Labs S.A. 2
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#🇧🇬 Bulgaria | M247 Europe SRL 1
