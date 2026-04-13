@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://9768f619-9505-42d2-bd21-0d2be1de125d@md-alex-01.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rbc.ru&fp=qq&security=reality&pbk=NtsJnsHr8a9mPDr0SPxdJlSRbdUVmR_-Rq5RVT-3KzA&sid=58a6be9762c769f2&packetEncoding=xudp&headerType=none#🇲🇩 Moldova | Alexhost SRL 1
-vless://9768f619-9505-42d2-bd21-0d2be1de125d@md-alex-01.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rbc.ru&fp=qq&security=reality&pbk=NtsJnsHr8a9mPDr0SPxdJlSRbdUVmR_-Rq5RVT-3KzA&sid=58a6be9762c769f2&packetEncoding=xudp&headerType=none#🇲🇩 Moldova | Alexhost SRL 2
+vless://2e638d5f-dfe6-4bd8-ad9a-1a638db5ed6a@176.123.8.17:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=T58992iW3y2gNSo1bnEs4ZFBxljg9CFPACPwIErsu0w&sid=8ac90e6663622667&sni=mold.memeplanet.net&path=&host=#🇲🇩 Moldova | Alexhost SRL 1
