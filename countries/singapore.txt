@@ -3,94 +3,68 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuPCfh6wgQm9iaVZQTiDigJQgU2luZ2Fwb3JlCuKaoSA4OSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuPCfh6wgQm9iaVZQTiDigJQgU2luZ2Fwb3JlCuKaoSA2MyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@122.10.119.252:443?type=ws&security=tls&encryption=none&fp=chrome&sni=1-axj.pages.dev&host=1-axj.pages.dev&serviceName=&quicSecurity=none#🇸🇬 Singapore | Akamai Technologies 1
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@103.136.68.175:23357?fp=chrome&sni=www.node-resource.click#🇸🇬 Singapore | Baxet Group 1
-trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@103.136.68.175:23357?security=tls&fp=chrome&type=tcp&sni=www.node-resource.click#🇸🇬 Singapore | Baxet Group 2
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@192.124.176.50:23357/?type=tcp&security=tls&sni=sgp7.node-resource.click#🇸🇬 Singapore | Baxet Group 3
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?fp=chrome&sni=sgp9.node-resource.click#🇸🇬 Singapore | Baxet Group 4
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.29:23357?fp=chrome&sni=sgp8.node-resource.click#🇸🇬 Singapore | Baxet Group 5
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@103.136.68.175:23357?security=tls&fp=chrome&type=tcp&sni=www.node-resource.click#🇸🇬 Singapore | Baxet Group 6
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@192.124.176.50:23357?sni=sgp7.node-resource.click#🇸🇬 Singapore | Baxet Group 7
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.29:23357/?type=tcp&security=tls&sni=sgp8.node-resource.click&fp=chrome#🇸🇬 Singapore | Baxet Group 8
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?security=tls&fp=chrome&type=tcp&sni=sgp9.node-resource.click#🇸🇬 Singapore | Baxet Group 9
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@192.124.176.50:23357?security=tls&fp=chrome&type=tcp&sni=sgp7.node-resource.click#🇸🇬 Singapore | Baxet Group 10
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?security=tls&sni=sgp9.node-resource.click#🇸🇬 Singapore | Baxet Group 11
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@192.124.176.50:23357?fp=chrome&sni=sgp7.node-resource.click#🇸🇬 Singapore | Baxet Group 12
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.29:23357?sni=sgp8.node-resource.click#🇸🇬 Singapore | Baxet Group 13
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@125.227.233.197:2083?type=ws&security=tls&encryption=none&fp=chrome&sni=1-axj.pages.dev&host=1-axj.pages.dev#🇸🇬 Singapore | Akamai Technologies 1
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@125.227.233.197:2083?type=ws&security=tls&encryption=none&sni=1-axj.pages.dev&host=1-axj.pages.dev#🇸🇬 Singapore | Akamai Technologies 2
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@124.156.202.172:443?type=ws&security=tls&encryption=none&sni=3-2ll.pages.dev&host=3-2ll.pages.dev#🇸🇬 Singapore | Akamai Technologies 3
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@124.156.202.172:443?type=ws&security=tls&encryption=none&fp=chrome&sni=3-2ll.pages.dev&host=3-2ll.pages.dev#🇸🇬 Singapore | Akamai Technologies 4
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@129.226.150.167:443?type=ws&security=tls&encryption=none&fp=chrome&sni=1-brc.pages.dev&host=1-brc.pages.dev#🇸🇬 Singapore | Akamai Technologies 5
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@101.32.116.73:443?type=ws&security=tls&encryption=none&fp=chrome&sni=2-ee1.pages.dev&host=2-ee1.pages.dev#🇸🇬 Singapore | Akamai Technologies 6
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@129.150.46.113:443?type=ws&security=tls&encryption=none&fp=chrome&sni=1-brc.pages.dev&host=1-brc.pages.dev#🇸🇬 Singapore | Akamai Technologies 7
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@101.32.116.73:443?type=ws&security=tls&encryption=none&sni=2-ee1.pages.dev&host=2-ee1.pages.dev#🇸🇬 Singapore | Akamai Technologies 8
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@129.226.150.167:443?type=ws&security=tls&encryption=none&sni=1-brc.pages.dev&host=1-brc.pages.dev#🇸🇬 Singapore | Akamai Technologies 9
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@18.143.76.130:443?type=ws&security=tls&encryption=none&fp=chrome&sni=3-2h8.pages.dev&host=3-2h8.pages.dev#🇸🇬 Singapore | Akamai Technologies 10
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@129.150.46.113:443?type=ws&security=tls&encryption=none&sni=1-brc.pages.dev&host=1-brc.pages.dev#🇸🇬 Singapore | Akamai Technologies 11
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@188.239.9.91:443?type=ws&security=tls&encryption=none&fp=chrome&sni=3-93f.pages.dev&host=3-93f.pages.dev#🇸🇬 Singapore | Akamai Technologies 12
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@188.239.9.91:443?type=ws&security=tls&encryption=none&sni=3-93f.pages.dev&host=3-93f.pages.dev#🇸🇬 Singapore | Akamai Technologies 13
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@18.143.76.130:443?type=ws&security=tls&encryption=none&sni=3-2h8.pages.dev&host=3-2h8.pages.dev#🇸🇬 Singapore | Akamai Technologies 14
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@129.150.46.113:443?type=ws&security=tls&encryption=none&fp=chrome&sni=1-brc.pages.dev&host=1-brc.pages.dev&serviceName=&quicSecurity=none#🇸🇬 Singapore | Akamai Technologies 15
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@122.10.119.252:443?type=ws&security=tls&encryption=none&fp=chrome&sni=1-axj.pages.dev&host=1-axj.pages.dev#🇸🇬 Singapore | Akamai Technologies 16
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@122.10.119.252:443?type=ws&security=tls&encryption=none&sni=1-axj.pages.dev&host=1-axj.pages.dev#🇸🇬 Singapore | Akamai Technologies 17
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@144.172.88.117:443?type=ws&security=tls&encryption=none&sni=1-aym.pages.dev&host=1-aym.pages.dev#🇸🇬 Singapore | Akamai Technologies 18
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@144.172.88.117:443?type=ws&security=tls&encryption=none&fp=chrome&sni=1-aym.pages.dev&host=1-aym.pages.dev#🇸🇬 Singapore | Akamai Technologies 19
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@122.10.119.252:443?type=ws&security=tls&encryption=none&fp=chrome&sni=1-axj.pages.dev&host=1-axj.pages.dev&serviceName=&quicSecurity=none#🇸🇬 Singapore | Akamai Technologies 20
+vmess://eyJhZGQiOiJjZi4wOTAyMjcueHl6IiwiYWlkIjowLCJob3N0Ijoic2dhbC5kYWdyYXRlLmV1Lm9yZyIsImlkIjoiMjkwY2M2OTEtM2FjNi00Mzg3LTk4YTEtMjVjOGViOGNhMmVhIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjW3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtU0ctMTEzOTE2NDUiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiJzZ2FsLmRhZ3JhdGUuZXUub3JnIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==#🇸🇬 Singapore | Alibaba Cloud (Singapo... 1
+trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@194.87.10.29:23357?security=tls&fp=chrome&type=tcp&sni=sgp8.node-resource.click#🇸🇬 Singapore | Baxet Group 1
+trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@103.136.68.175:23357?security=tls&sni=www.node-resource.click&fp=chrome&type=tcp#🇸🇬 Singapore | Baxet Group 2
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@192.124.176.50:23357?sni=sgp7.node-resource.click#🇸🇬 Singapore | Baxet Group 3
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@192.124.176.50:23357/?type=tcp&security=tls&sni=sgp7.node-resource.click#🇸🇬 Singapore | Baxet Group 4
+trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@192.124.176.50:23357?security=tls&fp=chrome&type=tcp&sni=sgp7.node-resource.click#🇸🇬 Singapore | Baxet Group 5
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@192.124.176.50:23357/?type=tcp&security=tls&sni=sgp7.node-resource.click&fp=chrome#🇸🇬 Singapore | Baxet Group 6
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@103.136.68.175:23357?fp=chrome&sni=www.node-resource.click#🇸🇬 Singapore | Baxet Group 7
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@192.124.176.50:23357?security=tls&fp=chrome&type=tcp&sni=sgp7.node-resource.click#🇸🇬 Singapore | Baxet Group 8
+trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@103.136.68.175:23357?security=tls&fp=chrome&type=tcp&sni=www.node-resource.click#🇸🇬 Singapore | Baxet Group 9
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@192.124.176.50:23357?fp=chrome&sni=sgp7.node-resource.click#🇸🇬 Singapore | Baxet Group 10
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.29:23357?security=tls&fp=chrome&type=tcp&sni=sgp8.node-resource.click#🇸🇬 Singapore | Baxet Group 11
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.29:23357/?type=tcp&security=tls&sni=sgp8.node-resource.click&fp=chrome#🇸🇬 Singapore | Baxet Group 12
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@103.136.68.175:23357?security=tls&fp=chrome&type=tcp&sni=www.node-resource.click#🇸🇬 Singapore | Baxet Group 13
 trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?security=tls&sni=sgp9.node-resource.click#🇸🇬 Singapore | Baxet Group 14
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@192.124.176.50:23357/?type=tcp&security=tls&sni=sgp7.node-resource.click&fp=chrome#🇸🇬 Singapore | Baxet Group 15
-trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@192.124.176.50:23357?security=tls&fp=chrome&type=tcp&sni=sgp7.node-resource.click#🇸🇬 Singapore | Baxet Group 16
-trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@194.87.10.31:23357?security=tls&fp=chrome&type=tcp&sni=sgp9.node-resource.click#🇸🇬 Singapore | Baxet Group 17
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@103.136.68.175:23357?sni=www.node-resource.click#🇸🇬 Singapore | Baxet Group 18
-trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@194.87.10.29:23357?security=tls&fp=chrome&type=tcp&sni=sgp8.node-resource.click#🇸🇬 Singapore | Baxet Group 19
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.29:23357?security=tls&fp=chrome&type=tcp&sni=sgp8.node-resource.click#🇸🇬 Singapore | Baxet Group 20
-trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?sni=sgp9.node-resource.click#🇸🇬 Singapore | Baxet Group 21
-trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@103.136.68.175:23357?security=tls&sni=www.node-resource.click&fp=chrome&type=tcp#🇸🇬 Singapore | Baxet Group 22
-vless://26524cce-d514-4014-a426-365fb266a14d@172.174.233.94:53413?alpn=http%2F1.1&fp=chrome&host=snippet.danfeng.rr.kg&path=%2Fdanfeng&security=tls&sni=snippet.danfeng.rr.kg&type=ws#🇸🇬 Singapore | CDS Global Cloud Co., 1
+trojan://fQmMJwOLMlqHednu2SVED8gi-%2BH-db9kbg@194.87.10.31:23357?security=tls&fp=chrome&type=tcp&sni=sgp9.node-resource.click#🇸🇬 Singapore | Baxet Group 15
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?sni=sgp9.node-resource.click#🇸🇬 Singapore | Baxet Group 16
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?security=tls&sni=sgp9.node-resource.click#🇸🇬 Singapore | Baxet Group 17
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.29:23357?fp=chrome&sni=sgp8.node-resource.click#🇸🇬 Singapore | Baxet Group 18
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?fp=chrome&sni=sgp9.node-resource.click#🇸🇬 Singapore | Baxet Group 19
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.29:23357?sni=sgp8.node-resource.click#🇸🇬 Singapore | Baxet Group 20
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@103.136.68.175:23357?sni=www.node-resource.click#🇸🇬 Singapore | Baxet Group 21
+vless://26524cce-d514-4014-a426-365fb266a14d@docker.1panel.live:2053?&security=tls&fp=chrome&sni=jkl3gix3qz.danfeng.qzz.io&type=ws&headerType=none&host=jkl3gix3qz.danfeng.qzz.io&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 1
 vless://26524cce-d514-4014-a426-365fb266a14d@docker.1panel.live:2053?&security=tls&fp=chrome&sni=jkl3gix3qz.danfeng.qzz.io&type=ws&headerType=none&host=jkl3gix3qz.danfeng.qzz.io&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 2
-vless://26524cce-d514-4014-a426-365fb266a14d@158.101.5.169:443?encryption=none&security=tls&sni=gavorbhj.chinam.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gavorbhj.chinam.indevs.in&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 3
-vless://26524cce-d514-4014-a426-365fb266a14d@64.81.25.70:443?encryption=none&security=tls&sni=gavorbhj.chinam.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gavorbhj.chinam.indevs.in&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 4
-vless://26524cce-d514-4014-a426-365fb266a14d@158.101.5.169:443?encryption=none&security=tls&sni=gavorbhj.chinam.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gavorbhj.chinam.indevs.in&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 5
-vless://26524cce-d514-4014-a426-365fb266a14d@38.22.237.79:39738?encryption=none&security=tls&sni=gavorbhj.chinam.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gavorbhj.chinam.indevs.in&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 6
-vless://26524cce-d514-4014-a426-365fb266a14d@38.22.237.79:39738?encryption=none&security=tls&sni=gavorbhj.chinam.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gavorbhj.chinam.indevs.in&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 7
-vless://26524cce-d514-4014-a426-365fb266a14d@157.245.178.181:2096?encryption=none&security=tls&sni=gavorbhj.chinam.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gavorbhj.chinam.indevs.in&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 8
-vless://26524cce-d514-4014-a426-365fb266a14d@152.42.140.20:2087?encryption=none&security=tls&sni=gavorbhj.chinam.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gavorbhj.chinam.indevs.in&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 9
-vless://26524cce-d514-4014-a426-365fb266a14d@188.226.133.127:2087?encryption=none&security=tls&sni=gavorbhj.chinam.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gavorbhj.chinam.indevs.in&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 10
-vless://26524cce-d514-4014-a426-365fb266a14d@188.226.161.57:443?encryption=none&security=tls&sni=gavorbhj.chinam.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gavorbhj.chinam.indevs.in&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 11
-vless://26524cce-d514-4014-a426-365fb266a14d@82.196.14.60:20202?encryption=none&security=tls&sni=gavorbhj.chinam.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gavorbhj.chinam.indevs.in&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 12
-vless://26524cce-d514-4014-a426-365fb266a14d@155.117.155.253:37572?alpn=http%2F1.1&fp=chrome&host=snippet.danfeng.rr.kg&path=%2Fdanfeng&security=tls&sni=snippet.danfeng.rr.kg&type=ws#🇸🇬 Singapore | CDS Global Cloud Co., 13
-vless://26524cce-d514-4014-a426-365fb266a14d@203.168.131.110:3389?encryption=none&security=tls&sni=gavorbhj.chinam.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gavorbhj.chinam.indevs.in&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 14
-vless://26524cce-d514-4014-a426-365fb266a14d@203.168.131.110:3389?encryption=none&security=tls&sni=gavorbhj.chinam.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gavorbhj.chinam.indevs.in&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 15
-vless://26524cce-d514-4014-a426-365fb266a14d@38.180.37.96:2053?encryption=none&security=tls&sni=gavorbhj.chinam.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gavorbhj.chinam.indevs.in&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 16
-vless://26524cce-d514-4014-a426-365fb266a14d@82.152.91.80:22931?encryption=none&security=tls&sni=gavorbhj.chinam.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gavorbhj.chinam.indevs.in&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 17
-vless://26524cce-d514-4014-a426-365fb266a14d@38.180.37.96:2053?encryption=none&security=tls&sni=gavorbhj.chinam.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gavorbhj.chinam.indevs.in&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 18
-vless://26524cce-d514-4014-a426-365fb266a14d@130.162.131.60:9?encryption=none&security=tls&sni=gavorbhj.chinam.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gavorbhj.chinam.indevs.in&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 19
-vless://26524cce-d514-4014-a426-365fb266a14d@43.165.195.160:443?encryption=none&security=tls&sni=gavorbhj.chinam.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gavorbhj.chinam.indevs.in&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 20
-vless://26524cce-d514-4014-a426-365fb266a14d@23.111.15.137:443?encryption=none&security=tls&sni=gavorbhj.chinam.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gavorbhj.chinam.indevs.in&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 21
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@144.172.88.117:443?type=ws&security=tls&encryption=none&fp=chrome&sni=1-aym.pages.dev&host=1-aym.pages.dev#🇸🇬 Singapore | Cloudflare, 1
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@144.172.88.117:443?type=ws&security=tls&encryption=none&sni=1-aym.pages.dev&host=1-aym.pages.dev#🇸🇬 Singapore | Cloudflare, 2
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@125.227.233.197:2083?type=ws&security=tls&encryption=none&fp=chrome&sni=1-axj.pages.dev&host=1-axj.pages.dev#🇸🇬 Singapore | Cloudflare, 3
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@125.227.233.197:2083?type=ws&security=tls&encryption=none&sni=1-axj.pages.dev&host=1-axj.pages.dev#🇸🇬 Singapore | Cloudflare, 4
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@124.156.202.172:443?type=ws&security=tls&encryption=none&fp=chrome&sni=3-2ll.pages.dev&host=3-2ll.pages.dev#🇸🇬 Singapore | Cloudflare, 5
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@18.143.76.130:443?type=ws&security=tls&encryption=none&fp=chrome&sni=3-2h8.pages.dev&host=3-2h8.pages.dev#🇸🇬 Singapore | Cloudflare, 6
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@129.226.150.167:443?type=ws&security=tls&encryption=none&sni=1-brc.pages.dev&host=1-brc.pages.dev#🇸🇬 Singapore | Cloudflare, 7
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@129.226.150.167:443?type=ws&security=tls&encryption=none&fp=chrome&sni=1-brc.pages.dev&host=1-brc.pages.dev#🇸🇬 Singapore | Cloudflare, 8
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@129.150.46.113:443?type=ws&security=tls&encryption=none&fp=chrome&sni=1-brc.pages.dev&host=1-brc.pages.dev#🇸🇬 Singapore | Cloudflare, 9
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@129.150.46.113:443?type=ws&security=tls&encryption=none&fp=chrome&sni=1-brc.pages.dev&host=1-brc.pages.dev&serviceName=&quicSecurity=none#🇸🇬 Singapore | Cloudflare, 10
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@150.109.11.223:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=sni.111000.dynv6.net&path=%2F#🇸🇬 Singapore | Cloudflare, 11
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@188.239.9.91:443?type=ws&security=tls&encryption=none&fp=chrome&sni=3-93f.pages.dev&host=3-93f.pages.dev#🇸🇬 Singapore | Cloudflare, 12
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@124.156.202.172:443?type=ws&security=tls&encryption=none&sni=3-2ll.pages.dev&host=3-2ll.pages.dev#🇸🇬 Singapore | Cloudflare, 13
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@188.239.9.91:443?type=ws&security=tls&encryption=none&sni=3-93f.pages.dev&host=3-93f.pages.dev#🇸🇬 Singapore | Cloudflare, 14
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@101.32.116.73:443?type=ws&security=tls&encryption=none&sni=2-ee1.pages.dev&host=2-ee1.pages.dev#🇸🇬 Singapore | Cloudflare, 15
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@18.143.76.130:443?type=ws&security=tls&encryption=none&sni=3-2h8.pages.dev&host=3-2h8.pages.dev#🇸🇬 Singapore | Cloudflare, 16
+vless://26524cce-d514-4014-a426-365fb266a14d@docker.1panel.live:2053?&security=tls&fp=chrome&sni=jkl3gix3qz.danfeng.qzz.io&type=ws&headerType=none&host=jkl3gix3qz.danfeng.qzz.io&path=%2Fdanfeng%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 3
+vless://26524cce-d514-4014-a426-365fb266a14d@155.117.155.253:37572?alpn=http%2F1.1&fp=chrome&host=snippet.danfeng.rr.kg&path=%2Fdanfeng&security=tls&sni=snippet.danfeng.rr.kg&type=ws#🇸🇬 Singapore | CDS Global Cloud Co., 4
 ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80#🇸🇬 Singapore | Contabo Asia Private 1
-ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80#🇸🇬 Singapore | Contabo Asia Private 2
-vless://39eb8c33-ee7f-4980-b3e5-684aaf390f56@ev.zoom.us:8443?encryption=none&host=darknet-free.alexid.org&path=/&security=tls&sni=darknet-free.alexid.org&type=ws#🇸🇬 Singapore | DigitalOcean, 1
-vless://39eb8c33-ee7f-4980-b3e5-684aaf390f56@news.zoom.us:8443?type=ws&security=tls&encryption=none&fp=chrome&sni=darknet-free.alexid.org&host=darknet-free.alexid.org#🇸🇬 Singapore | DigitalOcean, 2
+vless://39eb8c33-ee7f-4980-b3e5-684aaf390f56@news.zoom.us:8443?&security=tls&fp=chrome&alpn=h2&sni=darknet-free.alexid.org&type=ws&headerType=none&host=darknet-free.alexid.org&path=%2F#🇸🇬 Singapore | DigitalOcean, 1
+vless://39eb8c33-ee7f-4980-b3e5-684aaf390f56@ev.zoom.us:8443?encryption=none&host=darknet-free.alexid.org&path=/&security=tls&sni=darknet-free.alexid.org&type=ws#🇸🇬 Singapore | DigitalOcean, 2
 vless://39eb8c33-ee7f-4980-b3e5-684aaf390f56@news.zoom.us:8443?fp=chrome&headerType=none&host=darknet-free.alexid.org&path=/&security=tls&sni=darknet-free.alexid.org&type=ws#🇸🇬 Singapore | DigitalOcean, 3
-vless://39eb8c33-ee7f-4980-b3e5-684aaf390f56@news.zoom.us:8443?&security=tls&fp=chrome&alpn=h2&sni=darknet-free.alexid.org&type=ws&headerType=none&host=darknet-free.alexid.org&path=%2F#🇸🇬 Singapore | DigitalOcean, 4
-vless://39eb8c33-ee7f-4980-b3e5-684aaf390f56@ev.zoom.us:8443?type=ws&security=tls&encryption=none&sni=darknet-free.alexid.org&host=darknet-free.alexid.org#🇸🇬 Singapore | DigitalOcean, 5
-vless://39eb8c33-ee7f-4980-b3e5-684aaf390f56@news.zoom.us:8443?type=ws&security=tls&encryption=none&fp=chrome&sni=darknet-free.alexid.org&host=darknet-free.alexid.org#🇸🇬 Singapore | DigitalOcean, 6
-vless://39eb8c33-ee7f-4980-b3e5-684aaf390f56@news.zoom.us:8443?type=ws&security=tls&encryption=none&sni=darknet-free.alexid.org&host=darknet-free.alexid.org#🇸🇬 Singapore | DigitalOcean, 7
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@129.150.46.113:443?type=ws&security=tls&encryption=none&sni=1-brc.pages.dev&host=1-brc.pages.dev#🇸🇬 Singapore | DigitalOcean, 8
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@101.32.116.73:443?type=ws&security=tls&encryption=none&fp=chrome&sni=2-ee1.pages.dev&host=2-ee1.pages.dev#🇸🇬 Singapore | DigitalOcean, 9
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@122.10.119.252:443?type=ws&security=tls&encryption=none&fp=chrome&sni=1-axj.pages.dev&host=1-axj.pages.dev#🇸🇬 Singapore | DigitalOcean, 10
-trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#🇸🇬 Singapore | DigitalOcean, 11
-trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#🇸🇬 Singapore | DigitalOcean, 12
-vless://653d9e84-3d3d-4613-9b3b-2297f7a1512b@darknet-free.alexid.org:443?security=tls&type=tcp&sni=darknet-free.alexid.org&fp=chrome&encryption=none#🇸🇬 Singapore | DigitalOcean, 13
-trojan://R8kaB0JYLv@happynewyear.sahanwickramasinghevip.shop:443?security=tls&alpn=h2,http/1.1&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=m.youtube.com#🇸🇬 Singapore | DigitalOcean, 14
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1TRyIsImFkZCI6Im0uY25tamluLm5ldCIsInBvcnQiOiIxNjYxOCIsInR5cGUiOiJub25lIiwiaWQiOiJiNjg4Y2UwZi05MjAxLTRlOGUtYTY3YS1mM2JlMmM2YWEyMDEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJob3N0IjoiN2EyOTc5NjRhMmIzMWRhZmQzNTI5ZWY0ZDE0NTc0YjkubW9iZ3NsYi50YmNhY2hlLmNvbSIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇸🇬 Singapore | FDCservers.net 1
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjW3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtU0ctMTM0Njk0NzEiLCJhZGQiOiJtLmNubWppbi5uZXQiLCJwb3J0IjoiMTY2MTgiLCJ0eXBlIjoibm9uZSIsImlkIjoiYjY4OGNlMGYtOTIwMS00ZThlLWE2N2EtZjNiZTJjNmFhMjAxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6IjdhMjk3OTY0YTJiMzFkYWZkMzUyOWVmNGQxNDU3NGI5Lm1vYmdzbGIudGJjYWNoZS5jb20iLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#🇸🇬 Singapore | FDCservers.net 2
-vmess://eyJhZGQiOiJ2MTIuaGRhY2QuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJ3d3cubmludGVuZG9nYW1lcy5uZXQiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiIzMDgxMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjW3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtU0ctMTM0NzMwNDgiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇸🇬 Singapore | LINODE 1
-vmess://eyJhZGQiOiJ2MTIuaGRhY2QuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJ3d3cubmludGVuZG9nYW1lcy5uZXQiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiIzMDgxMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1TRyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#🇸🇬 Singapore | LINODE 2
-vless://603e7eca-fe4d-48f8-a4f8-bc832d7d37ce@5.199.164.117:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=sg.denditop.site&spx=/#🇸🇬 Singapore | UAB Cherry Servers 1
-vless://603e7eca-fe4d-48f8-a4f8-bc832d7d37ce@5.199.164.117:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=sg.denditop.site#🇸🇬 Singapore | UAB Cherry Servers 2
-vless://603e7eca-fe4d-48f8-a4f8-bc832d7d37ce@5.199.164.117:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=sg.denditop.site&spx=/#🇸🇮 Словения | Black List | Fast | EaveVPN | #🇸🇬 Singapore | UAB Cherry Servers 3
-vless://603e7eca-fe4d-48f8-a4f8-bc832d7d37ce@5.199.164.117:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=sg.denditop.site#🇸🇬 Singapore | UAB Cherry Servers 4
-vless://603e7eca-fe4d-48f8-a4f8-bc832d7d37ce@5.199.164.117:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=sg.denditop.site&spx=/#🇸🇮 Словения | Black List | Fast | EaveVPN | #🇸🇬 Singapore | UAB Cherry Servers 5
-vless://603e7eca-fe4d-48f8-a4f8-bc832d7d37ce@5.199.164.117:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=sg.denditop.site&spx=/#🇸🇬 Singapore | UAB Cherry Servers 6
-vless://603e7eca-fe4d-48f8-a4f8-bc832d7d37ce@5.199.164.117:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=sg.denditop.site#🇸🇬 Singapore | UAB Cherry Servers 7
+vless://39eb8c33-ee7f-4980-b3e5-684aaf390f56@news.zoom.us:8443?fp=chrome&headerType=none&host=darknet-free.alexid.org&path=/&security=tls&sni=darknet-free.alexid.org&type=ws#🇸🇬 Singapore | DigitalOcean, 4
+vless://653d9e84-3d3d-4613-9b3b-2297f7a1512b@darknet-free.alexid.org:443?security=tls&type=tcp&sni=darknet-free.alexid.org&fp=chrome&encryption=none#🇸🇬 Singapore | DigitalOcean, 5
+trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#🇸🇬 Singapore | DigitalOcean, 6
+vmess://eyJhZGQiOiJ2MTIuaGRhY2QuY29tIiwiYWlkIjoiMCIsImhvc3QiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjEiLCJwb3J0IjoiMzA4MTIiLCJwcyI6Ilx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlY1tvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtU0ciLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇸🇬 Singapore | LINODE 1
+vmess://eyJhZGQiOiJ2MTIuaGRhY2QuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJ2MTIuaGRhY2QuY29tIiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMzA4MTIiLCJwcyI6Ilx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlY1t3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLVNHLTEzNDczMDQ4IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇸🇬 Singapore | LINODE 2
+vless://603e7eca-fe4d-48f8-a4f8-bc832d7d37ce@5.199.164.117:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=sg.denditop.site#🇸🇬 Singapore | UAB Cherry Servers 1
+vless://603e7eca-fe4d-48f8-a4f8-bc832d7d37ce@5.199.164.117:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=sg.denditop.site&spx=/#🇸🇮 Словения | Black List | Fast | EaveVPN | #🇸🇬 Singapore | UAB Cherry Servers 2
+vless://603e7eca-fe4d-48f8-a4f8-bc832d7d37ce@5.199.164.117:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=sg.denditop.site#🇸🇬 Singapore | UAB Cherry Servers 3
+vless://603e7eca-fe4d-48f8-a4f8-bc832d7d37ce@5.199.164.117:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=sg.denditop.site&spx=/#🇸🇮 Словения | Black List | Fast | EaveVPN | #🇸🇬 Singapore | UAB Cherry Servers 4
+vless://603e7eca-fe4d-48f8-a4f8-bc832d7d37ce@5.199.164.117:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=sg.denditop.site&spx=/#🇸🇬 Singapore | UAB Cherry Servers 5
+vless://603e7eca-fe4d-48f8-a4f8-bc832d7d37ce@5.199.164.117:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=sg.denditop.site&spx=/#🇸🇬 Singapore | UAB Cherry Servers 6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#🇸🇬 Singapore | Ultahost, 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.89.142.56:990#🇸🇬 Singapore | Ultahost, 2
