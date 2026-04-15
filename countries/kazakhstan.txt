@@ -3,17 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMTMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMTEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://41808414-6496-4d3c-89d6-9442f76a155a@94.131.86.204:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.google.com&pbk=pl0X8gUdDuJlCmJkPIgVL3HIbD8pL9LHGVUMgqQIlio&sid=c6&spx=/#🇰🇿 Kazakhstan | "Cloud Services Kazakh... 1
-vless://41808414-6496-4d3c-89d6-9442f76a155a@94.131.86.204:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.google.com&pbk=pl0X8gUdDuJlCmJkPIgVL3HIbD8pL9LHGVUMgqQIlio&sid=c6&spx=/#🇰🇿 Kazakhstan | "Cloud Services Kazakh... 2
-vless://41808414-6496-4d3c-89d6-9442f76a155a@94.131.86.204:443?type=tcp&security=reality&encryption=none&fp=&pbk=pl0X8gUdDuJlCmJkPIgVL3HIbD8pL9LHGVUMgqQIlio&sid=c6&sni=www.google.com#🇰🇿 Kazakhstan | "Cloud Services Kazakh... 3
-vless://41808414-6496-4d3c-89d6-9442f76a155a@94.131.86.204:443?type=tcp&security=reality&fp=random&pbk=pl0X8gUdDuJlCmJkPIgVL3HIbD8pL9LHGVUMgqQIlio&sid=c6&sni=www.google.com&spx=/#🇰🇿 Kazakhstan | "Cloud Services Kazakh... 4
-vless://41808414-6496-4d3c-89d6-9442f76a155a@94.131.86.204:443?security=reality&encryption=none&sni=www.google.com&fp=chrome&pbk=pl0X8gUdDuJlCmJkPIgVL3HIbD8pL9LHGVUMgqQIlio&sid=c6&spx=/&type=tcp&path=/#🇰🇿 Kazakhstan | "Cloud Services Kazakh... 5
-vless://41808414-6496-4d3c-89d6-9442f76a155a@94.131.86.204:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=pl0X8gUdDuJlCmJkPIgVL3HIbD8pL9LHGVUMgqQIlio&sid=c6&sni=www.google.com#🇰🇿 Kazakhstan | "Cloud Services Kazakh... 6
+vless://41808414-6496-4d3c-89d6-9442f76a155a@94.131.86.204:443?type=tcp&security=reality&fp=random&pbk=pl0X8gUdDuJlCmJkPIgVL3HIbD8pL9LHGVUMgqQIlio&sid=c6&sni=www.google.com&spx=/#🇰🇿 Kazakhstan | "Cloud Services Kazakh... 1
+vless://41808414-6496-4d3c-89d6-9442f76a155a@94.131.86.204:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=pl0X8gUdDuJlCmJkPIgVL3HIbD8pL9LHGVUMgqQIlio&sid=c6&sni=www.google.com#🇰🇿 Kazakhstan | "Cloud Services Kazakh... 2
+vless://41808414-6496-4d3c-89d6-9442f76a155a@94.131.86.204:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.google.com&pbk=pl0X8gUdDuJlCmJkPIgVL3HIbD8pL9LHGVUMgqQIlio&sid=c6&spx=/#🇰🇿 Kazakhstan | "Cloud Services Kazakh... 3
+vless://41808414-6496-4d3c-89d6-9442f76a155a@94.131.86.204:443?type=tcp&security=reality&encryption=none&fp=&pbk=pl0X8gUdDuJlCmJkPIgVL3HIbD8pL9LHGVUMgqQIlio&sid=c6&sni=www.google.com#🇰🇿 Kazakhstan | "Cloud Services Kazakh... 4
+vless://41808414-6496-4d3c-89d6-9442f76a155a@94.131.86.204:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.google.com&pbk=pl0X8gUdDuJlCmJkPIgVL3HIbD8pL9LHGVUMgqQIlio&sid=c6&spx=/#🇰🇿 Kazakhstan | "Cloud Services Kazakh... 5
+vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa&type=tcp&headerType=none#🇰🇿 Kazakhstan | BEGET 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#🇰🇿 Kazakhstan | G-Core Labs S.A. 1
-vless://2e41a334-e0dc-4d3f-86d5-b2c24fff8f2a@213.171.26.10:11443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc-ss&fp=random&sni=ads.x5.ru&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=abcdef0123456789#🇰🇿 Kazakhstan | JSC "TIMEWEB" 1
-vless://2e41a334-e0dc-4d3f-86d5-b2c24fff8f2a@213.171.26.10:11443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc-ss&fp=random&sni=ads.x5.ru&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=ab#🇰🇿 Kazakhstan | JSC "TIMEWEB" 2
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&packetEncoding=xudp#🇰🇿 Kazakhstan | NLS ASTANA LLP 1
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&packetEncoding=xudp#🇰🇿 Kazakhstan | NLS ASTANA LLP 2
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Kazakhstan | NLS ASTANA LLP 3
