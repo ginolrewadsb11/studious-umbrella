@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://b3a1c2d6-6965-428e-8897-29cfa26bf2d1@md-alex-01.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=NtsJnsHr8a9mPDr0SPxdJlSRbdUVmR_-Rq5RVT-3KzA&sid=58a6be9762c769f2&sni=rbc.ru#🇲🇩 Moldova | Alexhost SRL 1
-vless://4cf61f41-14d5-459b-927e-d960ae035c1e@45.84.1.123:443?security=reality&encryption=none&pbk=YFfz76RnULla7CbfuMpkCmaUF3RVhu5JRYb6HAR95Ak&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=4b#🇲🇩 Moldova | Global Connectivity So... 1
 vless://c09b4aa0-0c15-5b97-9b12-3fba93c24112@45.140.146.101:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=KENPtmbbf5JFn5bj05EF0M--b1F5yRZNEw72i2Kiv2I&sid=198822f7&sni=ads.x5.ru#🇲🇩 Moldova | WorkTitans B.V. 1
