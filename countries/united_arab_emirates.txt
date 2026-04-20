@@ -3,8 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
+vless://abc6dd72-c3da-43cd-a3e7-6cd828af92f5@217.16.27.124:993?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=5d1FknwpCrOGvqiSnlCg0JuVx3BptawN1BDen38bLho&sid=ad7dab462a323a#🇦🇪 United Arab Emirates | GoldIPv 1
 vless://f47b5d3c-4051-476d-8280-89b1125b4467@154.90.55.174:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=aws.amazon.com&pbk=wimys8nxAefdZ0dEMJ8v7R8sMjQ2Y-hX6H_p7uQPPDo&fp=chrome#🇦🇪 United Arab Emirates | Kaopu Cloud HK 1
 vless://15da07d5-7f72-0310-9bd1-e122e9698d24@hub.needforspeed.online:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=53uSdzNGhzfnYHDo36vX49LZo2XD87yNnIQIL-8Sp04&sid=7f7fa27a3ab45d3b&sni=hub.needforspeed.online#🇦🇪 United Arab Emirates | LeaseWeb Netherlands B.V. 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#🇦🇪 United Arab Emirates | ONEPROVIDER 1
