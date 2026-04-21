@@ -5,14 +5,14 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Hs/Cfh7QgQm9iaVZQTiDigJQgTm9yd2F5CuKaoSAxMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-trojan://wVN6Y89zgluoY+eGD=nIeTeVJuzkbZ_4Tv@81.29.149.184:11424?sni=osl5.table-firewall.click#🇳🇴 Norway | Baxet Group 1
-trojan://wVN6Y89zgluoY+eGD=nIeTeVJuzkbZ_4Tv@81.29.149.158:11424?sni=osl3.table-firewall.click#🇳🇴 Norway | Baxet Group 2
-vless://2c564cf2-2291-4c8a-ad02-d8db601c41f9@5.180.47.159:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Bg1P8Pv18fdeezfJWpqfUScMYHUUInCgdXsXEWBNBFo&security=reality&sid=9edc548e1e284d84&sni=google.com&type=tcp#🇳🇴 Norway | Fast GEO Hosting S.R.L. 1
-vless://2c564cf2-2291-4c8a-ad02-d8db601c41f9@5.180.47.159:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=&pbk=Bg1P8Pv18fdeezfJWpqfUScMYHUUInCgdXsXEWBNBFo&sid=9edc548e1e284d84&sni=google.com#🇳🇴 Norway | Fast GEO Hosting S.R.L. 2
-vless://2c564cf2-2291-4c8a-ad02-d8db601c41f9@5.180.47.159:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Bg1P8Pv18fdeezfJWpqfUScMYHUUInCgdXsXEWBNBFo&sid=9edc548e1e284d84&sni=google.com#🇳🇴 Norway | Fast GEO Hosting S.R.L. 3
-vless://2c564cf2-2291-4c8a-ad02-d8db601c41f9@5.180.47.159:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Bg1P8Pv18fdeezfJWpqfUScMYHUUInCgdXsXEWBNBFo&security=reality&sid=9edc548e1e284d84&sni=google.com&type=tcp#🇳🇴 Norway | Fast GEO Hosting S.R.L. 4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇳🇴 Norway | Gigahost 1
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&allowinsecure=1&type=tcp#🇳🇴 Norway | ServeTheWorld 1
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0#🇳🇴 Norway | ServeTheWorld 2
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1#🇳🇴 Norway | ServeTheWorld 3
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&allowInsecure=1&type=tcp#🇳🇴 Norway | ServeTheWorld 4
+trojan://wVN6Y89zgluoY+eGD=nIeTeVJuzkbZ_4Tv@81.29.149.158:11424?sni=osl3.table-firewall.click#🇳🇴 Norway | Baxet Group 1
+trojan://wVN6Y89zgluoY+eGD=nIeTeVJuzkbZ_4Tv@81.29.149.184:11424?sni=osl5.table-firewall.click#🇳🇴 Norway | Baxet Group 2
+vless://2c564cf2-2291-4c8a-ad02-d8db601c41f9@5.180.47.159:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=&pbk=Bg1P8Pv18fdeezfJWpqfUScMYHUUInCgdXsXEWBNBFo&sid=9edc548e1e284d84&sni=google.com#🇳🇴 Norway | Fast GEO Hosting S.R.L. 1
+vless://2c564cf2-2291-4c8a-ad02-d8db601c41f9@5.180.47.159:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Bg1P8Pv18fdeezfJWpqfUScMYHUUInCgdXsXEWBNBFo&security=reality&sid=9edc548e1e284d84&sni=google.com&type=tcp#🇳🇴 Norway | Fast GEO Hosting S.R.L. 2
+vless://2c564cf2-2291-4c8a-ad02-d8db601c41f9@5.180.47.159:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Bg1P8Pv18fdeezfJWpqfUScMYHUUInCgdXsXEWBNBFo&security=reality&sid=9edc548e1e284d84&sni=google.com&type=tcp#🇳🇴 Norway | Fast GEO Hosting S.R.L. 3
+vless://2c564cf2-2291-4c8a-ad02-d8db601c41f9@5.180.47.159:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Bg1P8Pv18fdeezfJWpqfUScMYHUUInCgdXsXEWBNBFo&sid=9edc548e1e284d84&sni=google.com#🇳🇴 Norway | Fast GEO Hosting S.R.L. 4
+vless://6d524f6e-deea-4f8a-a71d-f32a952e23e5@85.93.10.211:443?type=grpc&security=reality&encryption=none&fp=chrome&pbk=Duxwa0WD9RhAy4EsGdWgo2ALlOUWGfZ2KCVLKEP_214&sid=1a7f3b9e2c40&sni=www.bing.com&serviceName=google.pubsub.v1.Subscriber#🇳🇴 Norway | Ghita Telekom 1
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0#🇳🇴 Norway | ServeTheWorld 1
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&allowInsecure=1&type=tcp#🇳🇴 Norway | ServeTheWorld 2
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&allowinsecure=1&type=tcp#🇳🇴 Norway | ServeTheWorld 3
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1#🇳🇴 Norway | ServeTheWorld 4
