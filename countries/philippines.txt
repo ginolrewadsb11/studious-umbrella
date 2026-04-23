@@ -3,16 +3,35 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBQaGlsaXBwaW5lcwrimqEgMTEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBQaGlsaXBwaW5lcwrimqEgMzAg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.126:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-other-1.firstvideocdn.ru#🌍 Philippines | Hosting Industry 1
-vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.126:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-other-1.firstvideocdn.ru#🌍 Philippines | Hosting Industry 2
-vless://75807638-6f19-0898-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=cluster-other-1.firstvideocdn.ru#🌍 Philippines | Hosting Industry 3
-vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.134:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome#🌍 Philippines | Hosting Industry 4
-vless://75807638-6f19-0898-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=cluster-other-1.firstvideocdn.ru#🇨🇦 Канада | Black List | Fast | EaveVPN | #🌍 Philippines | Hosting Industry 5
-vless://75807638-6f19-0898-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#🇨🇦 Канада | Black List | Fast | EaveVPN | #🌍 Philippines | Hosting Industry 6
-vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.134:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-other-1.firstvideocdn.ru#🌍 Philippines | Hosting Industry 7
-vless://75807638-6f19-0898-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#🌍 Philippines | Hosting Industry 8
-vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.134:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=cluster-other-1.firstvideocdn.ru#🌍 Philippines | Hosting Industry 9
-vless://75807638-6f19-0898-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=cluster-other-1.firstvideocdn.ru#🇨🇦 Канада | White List | Fast | EaveVPN | #🌍 Philippines | Hosting Industry 10
-vless://75807638-6f19-0898-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#🇨🇦 Канада | White List | Fast | EaveVPN | #🌍 Philippines | Hosting Industry 11
+vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.126:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome#🌍 Philippines | Hosting Industry 1
+vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.127:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=cluster-other-1.firstvideocdn.ru#🌍 Philippines | Hosting Industry 2
+vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.127:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=cluster-other-1.firstvideocdn.ru#🌍 Philippines | Hosting Industry 3
+vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.127:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=cluster-other-1.firstvideocdn.ru#🌍 Philippines | Hosting Industry 4
+vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.134:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=cluster-other-1.firstvideocdn.ru#🌍 Philippines | Hosting Industry 5
+vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.126:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-other-1.firstvideocdn.ru#🌍 Philippines | Hosting Industry 6
+vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.162.146:52006?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=cluster-other-1.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision#🌍 Philippines | Hosting Industry 7
+vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.126:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-other-1.firstvideocdn.ru#🌍 Philippines | Hosting Industry 8
+vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.126:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-other-1.firstvideocdn.ru#🌍 Philippines | Hosting Industry 9
+vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.126:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=cluster-other-1.firstvideocdn.ru#🌍 Philippines | Hosting Industry 10
+vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.126:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#🌍 Philippines | Hosting Industry 11
+vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.134:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=cluster-other-1.firstvideocdn.ru#🌍 Philippines | Hosting Industry 12
+vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.134:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-other-1.firstvideocdn.ru#🌍 Philippines | Hosting Industry 13
+vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.127:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-other-1.firstvideocdn.ru#🌍 Philippines | Hosting Industry 14
+vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.126:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-other-1.firstvideocdn.ru#🌍 Philippines | Hosting Industry 15
+vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.130:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=cluster-other-1.firstvideocdn.ru#🌍 Philippines | Hosting Industry 16
+vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.126:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls#🌍 Philippines | Hosting Industry 17
+vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.126:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-other-1.firstvideocdn.ru#🌍 Philippines | Hosting Industry 18
+vless://75807638-6f19-0898-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=cluster-other-1.firstvideocdn.ru#🇨🇦 Канада | White List | Fast | EaveVPN | #🌍 Philippines | Hosting Industry 19
+vless://75807638-6f19-0898-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#🌍 Philippines | Hosting Industry 20
+vless://75807638-6f19-0898-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#🇨🇦 Канада | Black List | Fast | EaveVPN | #🌍 Philippines | Hosting Industry 21
+vless://75807638-6f19-0898-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#🌍 Philippines | Hosting Industry 22
+vless://75807638-6f19-0898-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-other-1.firstvideocdn.ru#🌍 Philippines | Hosting Industry 23
+vless://75807638-6f19-0898-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=cluster-other-1.firstvideocdn.ru#🌍 Philippines | Hosting Industry 24
+vless://75807638-6f19-0898-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#🇨🇦 Канада | Black List | Fast | EaveVPN | #🌍 Philippines | Hosting Industry 25
+vless://75807638-6f19-0898-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#🇨🇦 Канада | White List | Fast | EaveVPN | #🌍 Philippines | Hosting Industry 26
+vless://75807638-6f19-0898-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=cluster-other-1.firstvideocdn.ru#🇨🇦 Канада | White List | Fast | EaveVPN | #🌍 Philippines | Hosting Industry 27
+vless://75807638-6f19-0898-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#🇨🇦 Канада | White List | Fast | EaveVPN | #🌍 Philippines | Hosting Industry 28
+vless://75807638-6f19-0898-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?allowInsecure=1&type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=cluster-other-1.firstvideocdn.ru#🌍 Philippines | Hosting Industry 29
+vless://75807638-6f19-0898-ae08-38492ee85c88@cluster-other-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=cluster-other-1.firstvideocdn.ru#🇨🇦 Канада | Black List | Fast | EaveVPN | #🌍 Philippines | Hosting Industry 30
