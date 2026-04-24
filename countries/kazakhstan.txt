@@ -3,7 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://b504bb7d-8b8c-4a3a-91fe-863ed1fca259@kz4.nfnpx.online:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=kz4.nfnpx.online&fp=chrome&security=reality&pbk=dtNbSE_g8j7maCUvjpFgaqn9X7040zWVorfne-0s418&sid=be20ccdfa585cadf&packetEncoding=xudp#🇰🇿 Kazakhstan | JSC "TIMEWEB" 1
-vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Kazakhstan | NLS ASTANA LLP 1
+vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&sid=69a2#🇰🇿 Kazakhstan | NLS ASTANA LLP 1
+vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Kazakhstan | NLS ASTANA LLP 2
+vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv31.towersflowerss.com:443?type=ws&security=none&encryption=none&fp=randomized#🇰🇿 Kazakhstan | PS Internet Company LLP 1
+vless://19ef3d02-1c55-4fec-9794-6def8cbac396@2.56.177.219:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=50YV33F0uOrBN7ugFb8LFnSoe3FC305uGBOf2Hpn3A0&sid=a1b4e8d2&sni=www.nur.kz#🇰🇿 Kazakhstan | WorkTitans B.V. 1
+vless://19ef3d02-1c55-4fec-9794-6def8cbac396@2.56.177.219:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=50YV33F0uOrBN7ugFb8LFnSoe3FC305uGBOf2Hpn3A0&sid=a1b4e8d2&sni=www.nur.kz#🇰🇿 Kazakhstan | WorkTitans B.V. 2
