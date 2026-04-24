@@ -3,11 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@176.123.8.28:443?type=grpc&security=reality&encryption=none&fp=chrome&pbk=h7CCbT_1gwxhQGM-4_pZkNRbAe_I6YFQM6jO9x6uORw&sni=hcaptcha.com#🇲🇩 Moldova | Alexhost SRL 1
-vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@176.123.8.28:443?encryption=none&fp=chrome&packetEncoding=xudp&pbk=h7CCbT_1gwxhQGM-4_pZkNRbAe_I6YFQM6jO9x6uORw&security=reality&sni=hcaptcha.com&type=grpc#🇲🇩 Moldova | Alexhost SRL 2
+vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@176.123.8.28:443?encryption=none&fp=chrome&packetEncoding=xudp&pbk=h7CCbT_1gwxhQGM-4_pZkNRbAe_I6YFQM6jO9x6uORw&security=reality&sni=hcaptcha.com&type=grpc#🇨🇭 Швейцария | Black List | Fast | EaveVPN | #🇲🇩 Moldova | Alexhost SRL 2
 vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@176.123.8.28:443?type=grpc&security=reality&encryption=none&fp=chrome&pbk=h7CCbT_1gwxhQGM-4_pZkNRbAe_I6YFQM6jO9x6uORw&sni=hcaptcha.com#🇲🇩 Moldova | Alexhost SRL 3
-vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@176.123.8.28:443?encryption=none&fp=chrome&packetEncoding=xudp&pbk=h7CCbT_1gwxhQGM-4_pZkNRbAe_I6YFQM6jO9x6uORw&security=reality&sni=hcaptcha.com&type=grpc#🇨🇭 Швейцария | Black List | Fast | EaveVPN | #🇲🇩 Moldova | Alexhost SRL 4
-vless://45542962-4a06-4576-a6ca-3a56773555fd@51.250.68.13:7443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=8aMhNTzVgGITdDPmhXVqhZz6ePSR5nXERbrK1xc7CSc#🇲🇩 Moldova | Global Connectivity So... 1
-vless://45542962-4a06-4576-a6ca-3a56773555fd@51.250.71.251:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=iAVdNYlfxiijr5lvxTcjs9SjLQnB65LoZoW8T2o-hW8#🇲🇩 Moldova | Global Connectivity So... 2
