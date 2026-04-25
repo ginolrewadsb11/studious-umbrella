@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrfCfh7ogQm9iaVZQTiDigJQgSHVuZ2FyeQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrfCfh7ogQm9iaVZQTiDigJQgSHVuZ2FyeQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://6a30f559-b99d-497f-858a-3002b33c9a95@158.160.224.161:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=2KNFgiiz1UwgoiPucEKStE02LuOH7-gQsaEEBkFbDlA&sid=4e74b8802a5e4ad1&spx=%2F#🇭🇺 Hungary | M247 Europe SRL 1
-vless://6a30f559-b99d-497f-858a-3002b33c9a95@158.160.224.161:40443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=chrome&sni=max.ru&pbk=2KNFgiiz1UwgoiPucEKStE02LuOH7-gQsaEEBkFbDlA&sid=4e74b8802a5e4ad1&spx=%2F#🇭🇺 Hungary | M247 Europe SRL 2
-vless://8f56e017-196c-4644-bc45-d0fe6b9b03ae@217.13.105.4:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=m.vkvideo.cs7777.vk.ru&pbk=dfpjZXFTymcxlvi1QnQwuja8AVmTBtHiKMOecY3_l2E#🇭🇺 Hungary | Rackhost Zrt. 1
-vless://ed0e05af-49ab-4ea8-a39c-634855811b03@104.24.68.193:443?allowInsecure=1&encryption=none&host=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev&path=ws&security=tls&sni=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev&type=ws#🇭🇺 Hungary | WorkTitans B.V. 1
+vless://178da4c4-e535-45a1-9b95-1544febdf3da@217.13.105.4:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=m.vkvideo.cs7777.vk.ru&pbk=dfpjZXFTymcxlvi1QnQwuja8AVmTBtHiKMOecY3_l2E#🇭🇺 Hungary | Rackhost Zrt. 1
