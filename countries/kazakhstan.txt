@@ -3,17 +3,24 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMTIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMTkg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@kz.appav.online:2083/?type=grpc&encryption=none&flow=&serviceName=UpdateService&sni=apple.com&fp=qq&security=reality&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&packetEncoding=xudp#🇰🇿 Kazakhstan | "EDGEAM" 1
+vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@5.101.36.75:2083?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=apple.com&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#🇰🇿 Kazakhstan | "EDGEAM" 1
 vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@kz.appav.online:2083?type=grpc&security=reality&encryption=none&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&sni=apple.com&serviceName=UpdateService#🇰🇿 Kazakhstan | "EDGEAM" 2
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@104.238.24.247:443?type=ws&security=tls&encryption=none&fp=chrome&sni=3-7v4.pages.dev&host=3-7v4.pages.dev&serviceName=&quicSecurity=none#🇰🇿 Kazakhstan | Cloudflare, 1
-vless://4a244438-8775-43b8-8b5c-4d3bb89d342c@test.soft-blade.test-cdn-kkk.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&sni=tradingview.com#🇰🇿 Kazakhstan | Newserverlife 1
-vless://90620657-58a2-441a-a4ce-cdb0503bb9f5@tcpkz1.figurapn.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tcpkz1.figurapn.ru&fp=firefox&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&packetEncoding=xudp#🇰🇿 Kazakhstan | Newserverlife 2
+vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@5.101.36.149:2083?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=apple.com&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#🇰🇿 Kazakhstan | "EDGEAM" 3
+vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@kz.appav.online:2083?type=grpc&security=reality&encryption=none&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&sni=apple.com&serviceName=UpdateService#🇰🇿 Kazakhstan | "EDGEAM" 4
+vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@kz.appav.online:2083/?type=grpc&encryption=none&flow=&serviceName=UpdateService&sni=apple.com&fp=qq&security=reality&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&packetEncoding=xudp#🇰🇿 Kazakhstan | "EDGEAM" 5
+vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@kz.appav.online:2083?type=grpc&security=reality&encryption=none&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&sni=apple.com&serviceName=UpdateService#🇰🇿 Kazakhstan | "EDGEAM" 6
+vless://b345f1db-e3ac-41c2-b1fa-d7f28d3a49c9@kz.appav.online:2083?type=grpc&security=reality&encryption=none&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&sni=apple.com&serviceName=UpdateService#🇰🇿 Kazakhstan | "EDGEAM" 7
+vless://90620657-58a2-441a-a4ce-cdb0503bb9f5@tcpkz1.figurapn.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tcpkz1.figurapn.ru&fp=firefox&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&packetEncoding=xudp#🇰🇿 Kazakhstan | Newserverlife 1
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Kazakhstan | NLS ASTANA LLP 1
 vless://163731d3-8466-4405-acdb-ccd45d971254@kz.furkbalancer.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kz.furkbalancer.net&fp=chrome#🇰🇿 Kazakhstan | PS Internet Company 1
-vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv31.towersflowerss.com:443?type=ws&security=none&encryption=none&fp=randomized#🇰🇿 Kazakhstan | PS Internet Company LLP 1
-vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv31.towersflowerss.com:443?type=ws&encryption=#🇰🇿 Kazakhstan | PS Internet Company LLP 2
-vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv31.towersflowerss.com:443?type=ws&security=none&encryption=none#🇰🇿 Kazakhstan | PS Internet Company LLP 3
-vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv31.towersflowerss.com:443?type=ws&security=none&encryption=none#🇰🇿 Kazakhstan | PS Internet Company LLP 4
-vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv31.towersflowerss.com:443?type=ws&sni=srv31.towersflowerss.com&fp=randomized#🇰🇿 Kazakhstan | PS Internet Company LLP 5
+vless://163731d3-8466-4405-acdb-ccd45d971254@kz.furkbalancer.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kz.furkbalancer.net&fp=chrome#🇰🇿 Казахстан | White List | Fast | EaveVPN | #🇰🇿 Kazakhstan | PS Internet Company 2
+vless://163731d3-8466-4405-acdb-ccd45d971254@kz.furkbalancer.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kz.furkbalancer.net&fp=chrome#🇰🇿 Kazakhstan | PS Internet Company 3
+vless://163731d3-8466-4405-acdb-ccd45d971254@kz.furkbalancer.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kz.furkbalancer.net&fp=chrome#🇰🇿 Казахстан | White List | Fast | EaveVPN | #🇰🇿 Kazakhstan | PS Internet Company 4
+vless://163731d3-8466-4405-acdb-ccd45d971254@kz.furkbalancer.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=kz.furkbalancer.net&fp=chrome#🇰🇿 Kazakhstan | PS Internet Company 5
+vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv31.towersflowerss.com:443?type=ws&security=none&encryption=none#🇰🇿 Kazakhstan | PS Internet Company LLP 1
+vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv31.towersflowerss.com:443?type=ws&security=none&encryption=none&fp=randomized#🇰🇿 Kazakhstan | PS Internet Company LLP 2
+vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv31.towersflowerss.com:443?type=ws&sni=srv31.towersflowerss.com&fp=randomized#🇰🇿 Kazakhstan | PS Internet Company LLP 3
+vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv31.towersflowerss.com:443?type=ws&sni=srv31.towersflowerss.com#🇰🇿 Kazakhstan | PS Internet Company LLP 4
+vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv31.towersflowerss.com:443?type=ws&encryption=#🇰🇿 Kazakhstan | PS Internet Company LLP 5
