@@ -3,11 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://145df7ce-90ed-4ead-b49e-fd62928ad59a@158.160.224.149:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=HrpJCQYwa1o0bC0QeoPw0FzoQwGdxuiVRCfr-L4tgh0&sid=d4a8fe1ddf764c0d&spx=%2F#🇧🇬 Bulgaria | BlueVPS OU 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.98.115.65:8443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.rocks&host=sni.111000.v6.rocks#🇧🇬 Bulgaria | Cloudflare, 1
-vless://35597e43-1738-473f-8611-57418b4f67a0@84.201.151.181:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#🇧🇬 Bulgaria | FDCservers.net 1
-vless://da4a70c7-69ce-402e-923f-196f5d570676@158.160.251.31:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#🇧🇬 Bulgaria | FDCservers.net 2
-vless://da4a70c7-69ce-402e-923f-196f5d570676@158.160.218.153:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#🇧🇬 Bulgaria | FDCservers.net 3
-vless://40b71143-deb4-4252-bb75-e62554216fed@158.160.254.27:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#🇧🇬 Bulgaria | FDCservers.net 4
+vless://314f8ee9-112c-4589-92cc-bcb149faeb40@158.160.142.40:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#🇧🇬 Bulgaria | FDCservers.net 1
+vless://314f8ee9-112c-4589-92cc-bcb149faeb40@158.160.170.80:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#🇧🇬 Bulgaria | FDCservers.net 2
+vless://314f8ee9-112c-4589-92cc-bcb149faeb40@158.160.248.32:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#🇧🇬 Bulgaria | FDCservers.net 3
+vless://314f8ee9-112c-4589-92cc-bcb149faeb40@158.160.233.46:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#🇧🇬 Bulgaria | FDCservers.net 4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw=@89.44.197.181:31348#🇧🇬 Bulgaria | G-Core Labs S.A. 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw=@89.44.197.181:31348#🇧🇬 Bulgaria | G-Core Labs S.A. 2
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#🇧🇬 Bulgaria | M247 Europe SRL 1
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#🇧🇬 Bulgaria | M247 Europe SRL 2
