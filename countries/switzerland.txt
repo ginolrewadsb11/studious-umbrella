@@ -3,10 +3,22 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDkg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDIxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://41e72698-f09a-4617-8f1b-33359c2473cc@178.17.62.81:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&sni=max.ru#🇨🇭 Switzerland | MHost 1
-vless://41e72698-f09a-4617-8f1b-33359c2473cc@178.17.62.81:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&sni=max.ru#🇨🇭 Switzerland | MHost 2
+vless://41e72698-f09a-4617-8f1b-33359c2473cc@95.85.239.96:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&sni=max.ru#🇨🇭 Switzerland | MHost 1
+vless://41e72698-f09a-4617-8f1b-33359c2473cc@95.85.239.96:443?alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&security=reality&sid=a0f2b4232e34f664&sni=max.ru&type=tcp#🇨🇭 Switzerland | MHost 2
+vless://41e72698-f09a-4617-8f1b-33359c2473cc@95.85.239.96:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&sni=max.ru#🇨🇭 Switzerland | MHost 3
+vless://41e72698-f09a-4617-8f1b-33359c2473cc@95.85.239.96:443?&security=reality&flow=xtls-rprx-vision&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&fp=chrome&sni=max.ru&type=tcp&headerType=none&host=max.ru&path=%2F#🇨🇭 Switzerland | MHost 4
+vless://41e72698-f09a-4617-8f1b-33359c2473cc@95.85.239.96:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&sni=max.ru#🇨🇭 Switzerland | MHost 5
+vless://41e72698-f09a-4617-8f1b-33359c2473cc@95.85.239.96:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&sni=max.ru#🇨🇭 Switzerland | MHost 6
+vless://41e72698-f09a-4617-8f1b-33359c2473cc@178.17.62.81:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&sni=max.ru#🇨🇭 Switzerland | MHost 7
+vless://41e72698-f09a-4617-8f1b-33359c2473cc@178.17.62.81:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&sni=max.ru#🇨🇭 Switzerland | MHost 8
+vless://41e72698-f09a-4617-8f1b-33359c2473cc@178.17.62.81:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&sni=max.ru#🇨🇭 Switzerland | MHost 9
+vless://41e72698-f09a-4617-8f1b-33359c2473cc@95.85.239.240:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&sni=max.ru#🇨🇭 Switzerland | MHost 10
+vless://41e72698-f09a-4617-8f1b-33359c2473cc@95.85.239.240:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&sni=max.ru#🇨🇭 Switzerland | MHost 11
+vless://41e72698-f09a-4617-8f1b-33359c2473cc@95.85.239.240:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&sni=max.ru#🇨🇭 Switzerland | MHost 12
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@sw1tzerl4nd.gxcore.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY&sid=a1ab5a56bc42&sni=sw1tzerl4nd.gxcore.net#🇨🇭 Switzerland | MHost 13
+vless://41e72698-f09a-4617-8f1b-33359c2473cc@95.85.239.96:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=QcYJtyoXm01O0DbwCc_sXDqa0Y9D6detbg07HovecSg&sid=a0f2b4232e34f664&sni=max.ru#🇨🇭 Switzerland | MHost 14
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#🇨🇭 Switzerland | Private Layer INC 1
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#🇨🇭 Switzerland | Private Layer INC 2
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@45.15.167.17:443?allowInsecure=1&encryption=none&host=2-eox.pages.dev&security=tls&sni=2-eox.pages.dev&type=ws#🇨🇭 Switzerland | RouterHosting 1
