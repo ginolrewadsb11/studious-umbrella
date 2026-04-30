@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGluYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGluYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@149.104.4.243:43290?allow_insecure=0&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🌍 China | 263 Global Communications 1
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@217.60.248.94:2053?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev&allow_insecure=0#🌍 China | 263 Global Communications 1
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@217.60.38.182:8443?type=ws&security=tls&fp=chrome&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#🌍 China | 263 Global Communications 2
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@217.60.38.182:8443?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev&allow_insecure=0#🌍 China | 263 Global Communications 3
