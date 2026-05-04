@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrPCfh6ogQm9iaVZQTiDigJQgR2VvcmdpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrPCfh6ogQm9iaVZQTiDigJQgR2VvcmdpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.62.253:22231?type=tcp&security=tls&flow=xtls-rprx-vision&fp=edge&sni=r1.mizulina.top&host=r1.mizulina.top#🇬🇪 Georgia | AkhaliNet 1
-vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@193.219.99.196:8443?&security=tls&sni=edt2-lgy.pages.dev&type=ws&headerType=none&host=edt2-lgy.pages.dev&path=/#🇬🇪 Georgia | WorkTitans B.V. 1
