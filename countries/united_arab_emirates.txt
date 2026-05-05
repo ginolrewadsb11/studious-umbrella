@@ -5,18 +5,18 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDE1INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@31.59.39.125:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=nlety.ksnodes.net#🇦🇪 United Arab Emirates | GoldIPv 1
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@31.59.39.125:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=🔒#🇦🇪 United Arab Emirates | GoldIPv 1
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@31.59.39.125:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=nlety.ksnodes.net&alpn=http%2F1.1%2Ch2#🇦🇪 United Arab Emirates | GoldIPv 2
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@31.59.39.125:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=nlety.ksnodes.net#🇦🇪 United Arab Emirates | GoldIPv 3
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@31.59.39.125:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=nlety.ksnodes.net&alpn=http/1.1,h2#🇦🇪 United Arab Emirates | GoldIPv 4
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@31.59.39.125:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=nlety.ksnodes.net&alpn=http%2F1.1%2Ch2#🇦🇪 United Arab Emirates | GoldIPv 5
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@31.59.39.125:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=nlety.ksnodes.net&alpn=http%2F1.1%2Ch2#🇦🇪 United Arab Emirates | GoldIPv 3
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@31.59.39.125:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=nlety.ksnodes.net#🇦🇪 United Arab Emirates | GoldIPv 4
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@31.59.39.125:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=nlety.ksnodes.net#🇦🇪 United Arab Emirates | GoldIPv 5
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@31.59.39.125:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=nlety.ksnodes.net#🇦🇪 United Arab Emirates | GoldIPv 6
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@31.59.39.125:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=🔒#🇦🇪 United Arab Emirates | GoldIPv 7
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@nlety.ksnodes.net:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=&alpn=http/1.1,h2&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#🇦🇪 United Arab Emirates | GoldIPv 8
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@nlety.ksnodes.net:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=nlety.ksnodes.net&alpn=http/1.1%2Ch2#🇦🇪 United Arab Emirates | GoldIPv 7
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@nlety.ksnodes.net:443?security=tls&flow=xtls-rprx-vision&fp=chrome&sni=nlety.ksnodes.net#🇦🇪 United Arab Emirates | GoldIPv 8
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@nlety.ksnodes.net:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=nlety.ksnodes.net&alpn=http/1.1,h2#🇦🇪 United Arab Emirates | GoldIPv 9
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@nlety.ksnodes.net:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=nlety.ksnodes.net&alpn=http/1.1%2Ch2#🇦🇪 United Arab Emirates | GoldIPv 10
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@nlety.ksnodes.net:443?security=tls&flow=xtls-rprx-vision&fp=chrome&sni=nlety.ksnodes.net&path=/#🇦🇪 United Arab Emirates | GoldIPv 11
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@nlety.ksnodes.net:443?security=tls&flow=xtls-rprx-vision&fp=chrome&sni=nlety.ksnodes.net#🇦🇪 United Arab Emirates | GoldIPv 12
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@nlety.ksnodes.net:443?security=tls&flow=xtls-rprx-vision&fp=chrome&sni=nlety.ksnodes.net&path=/#🇦🇪 United Arab Emirates | GoldIPv 10
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@31.59.39.125:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=nlety.ksnodes.net&alpn=http/1.1,h2#🇦🇪 United Arab Emirates | GoldIPv 11
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@nlety.ksnodes.net:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=&alpn=http/1.1,h2&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#🇦🇪 United Arab Emirates | GoldIPv 12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.57.251.240:990#🇦🇪 United Arab Emirates | M247 Europe SRL 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#🇦🇪 United Arab Emirates | ONEPROVIDER 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#🇦🇪 United Arab Emirates | ONEPROVIDER 2
