@@ -5,13 +5,13 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMTAg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?type=tcp&security=reality&fp=chrome&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa&sni=yahoo.com#🇰🇿 Kazakhstan | BEGET 1
+vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@kz1.pineappled.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23&sni=www.apple.com&spx=/#🇰🇿 Kazakhstan | Newserverlife 1
+vless://e0b7e535-ecef-47cb-92e6-afc586f66307@kz.monkeyisland.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=kz.monkeyisland.xyz&fp=chrome&security=reality&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=4755f5d76eb68ffe&packetEncoding=xudp#🇰🇿 Kazakhstan | Newserverlife 2
+vless://3a2fe7d4-24fa-48bd-91e7-983816b14b9b@tcpkz1.figurapn.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tcpkz1.figurapn.ru&fp=firefox&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&packetEncoding=xudp#🇰🇿 Kazakhstan | Newserverlife 3
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Kazakhstan | NLS ASTANA LLP 1
-vless://bcae455a-efd6-018e-bead-4b173b8e5e5a@111.88.96.70:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg#🇰🇿 Kazakhstan | Scalaxy B.V. 1
-vless://bcae455a-efd6-018e-bead-4b173b8e5e5a@111.88.96.69:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg#🇰🇿 Kazakhstan | Scalaxy B.V. 2
-vless://bcae455a-efd6-018e-bead-4b173b8e5e5a@176.114.85.117:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg#🇰🇿 Kazakhstan | Scalaxy B.V. 3
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@91.132.143.33:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=kz.keepsecurevpn.com&alpn=http/1.1,h2#🇰🇿 Kazakhstan | WorkTitans B.V. 1
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@91.132.143.33:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=kz.keepsecurevpn.com&alpn=http%2F1.1%2Ch2#🇰🇿 Kazakhstan | WorkTitans B.V. 2
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@91.132.143.33:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=kz.keepsecurevpn.com&alpn=http%2F1.1%2Ch2#🇰🇿 Kazakhstan | WorkTitans B.V. 1
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@91.132.143.33:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=kz.keepsecurevpn.com&alpn=http/1.1,h2#🇰🇿 Kazakhstan | WorkTitans B.V. 2
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@91.132.143.33:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=kz.keepsecurevpn.com&alpn=http%2F1.1%2Ch2#🇰🇿 Kazakhstan | WorkTitans B.V. 3
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@kz.keepsecurevpn.com:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=kz.keepsecurevpn.com&alpn=http/1.1%2Ch2#🇰🇿 Kazakhstan | WorkTitans B.V. 4
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@kz.keepsecurevpn.com:443?security=tls&flow=xtls-rprx-vision&sni=kz.keepsecurevpn.com&alpn=http/1.1,h2#🇰🇿 Kazakhstan | WorkTitans B.V. 4
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@kz.keepsecurevpn.com:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=kz.keepsecurevpn.com&alpn=http/1.1,h2#🇰🇿 Kazakhstan | WorkTitans B.V. 5
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@kz.keepsecurevpn.com:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=kz.keepsecurevpn.com&alpn=http/1.1%2Ch2#🇰🇿 Kazakhstan | WorkTitans B.V. 6
