@@ -3,8 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGluYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGluYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@185.216.118.63:443?security=tls&type=ws&path=%2F&host=gogo10.kmj.qzz.io&sni=gogo10.kmj.qzz.io&fp=chrome#🌍 China | Light Node 1
-vless://07050e47-3484-4062-bd62-845968e062ad@137.175.93.121:19352?type=raw&security=reality&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&sni=www.icloud.com#🌍 China | PEG TECH INC 1
+vless://07050e47-3484-4062-bd62-845968e062ad@137.175.93.121:19352?type=tcp&security=reality&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&sid=&sni=www.icloud.com&path=&host=&serviceName=&quicSecurity=none#🌍 China | PEG TECH INC 1
 vless://07050e47-3484-4062-bd62-845968e062ad@137.175.93.121:19352?type=tcp&security=reality&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&sni=www.icloud.com#🌍 China | PEG TECH INC 2
