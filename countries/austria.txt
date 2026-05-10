@@ -3,15 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgNDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMzcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://39e282e0-5ae4-4ff4-8848-4b9346505c78@217.16.21.98:27472?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.samsung.com&pbk=tfBYj32NRb7oc8lmVjr0nlote_rqpe_vd367HlcwxVs&sid=b0#🇦🇹 Austria | Aeza International LTD 1
-vless://39e282e0-5ae4-4ff4-8848-4b9346505c78@217.16.21.98:27472?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.samsung.com&pbk=tfBYj32NRb7oc8lmVjr0nlote_rqpe_vd367HlcwxVs&sid=b0#🇦🇹 Austria | Aeza International LTD 2
-vless://39e282e0-5ae4-4ff4-8848-4b9346505c78@217.16.21.98:27472?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.samsung.com&pbk=tfBYj32NRb7oc8lmVjr0nlote_rqpe_vd367HlcwxVs&sid=b0&spx=%2F#🇦🇹 Austria | Aeza International LTD 3
-vless://39e282e0-5ae4-4ff4-8848-4b9346505c78@217.16.21.98:27472?security=reality&encryption=none&pbk=tfBYj32NRb7oc8lmVjr0nlote_rqpe_vd367HlcwxVs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=b0#🇦🇹 Austria | Aeza International LTD 4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.235.56.69:990#🇦🇹 Austria | EDIS GmbH 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.235.56.69:990#🇦🇹 Austria | EDIS GmbH 2
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.56.69:989#🇦🇹 Austria | EDIS GmbH 3
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.56.69:989#🇦🇹 Austria | EDIS GmbH 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.235.56.69:990#🇦🇹 Austria | EDIS GmbH 3
 vless://f2a806c6-f36b-4cd9-8bb6-7addb218ad2d@91.244.70.205:443?encryption=none&path=/&security=none&type=ws#🇦🇹 Austria | Evolus IT Solutions GmbH 1
 vless://f2a806c6-f36b-4cd9-8bb6-7addb218ad2d@91.244.70.205:443?encryption=none&path=/&security=none&type=ws#🇦🇹 Austria | Evolus IT Solutions GmbH 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇦🇹 Austria | Foundation for Applied... 1
@@ -21,28 +18,27 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇦🇹 Austria | Foundation for Applied... 5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇦🇹 Austria | Foundation for Applied... 6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇦🇹 Austria | Foundation for Applied... 7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.135.174.135:990#🇦🇹 Austria | Foundation for Applied... 8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.135.174.135:990#🇦🇹 Austria | Foundation for Applied... 9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇦🇹 Austria | Foundation for Applied... 8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇦🇹 Austria | Foundation for Applied... 9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇦🇹 Austria | Foundation for Applied... 10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇦🇹 Austria | Foundation for Applied... 11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.135.174.135:990#🇦🇹 Austria | Foundation for Applied... 12
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.135.174.135:990#🇦🇹 Austria | Foundation for Applied... 11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇦🇹 Austria | Foundation for Applied... 12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.135.174.135:990#🇦🇹 Austria | Foundation for Applied... 13
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇦🇹 Austria | Foundation for Applied... 14
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇦🇹 Austria | Foundation for Applied... 15
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇦🇹 Austria | Foundation for Applied... 16
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇦🇹 Austria | Foundation for Applied... 17
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.135.174.135:990#🇦🇹 Austria | Foundation for Applied... 14
+vmess://eyJhZGQiOiI6OmZmZmY6YmM3Mjo2MjAwIiwiYWlkIjoiMCIsImFscG4iOiJoMyIsImZwIjoiY2hyb21lIiwiaG9zdCI6Ind3dy5teWRyaXZlcmxpY2VuY2UuY29tIiwiaWQiOiJmZmVjZTJhOS0wMjk2LTQ2YTktOGRiOC03NDJkMjlkMjQwZmYiLCJuZXQiOiJ3cyIsInBhdGgiOiJFMmNpV3loMlBGbGJJek5YSTA4cVJGdDBaMVFSU0NjeFZpeE5CVmRaQlRjaE9Yc3dmMjB4TFgwSFIyWkdGeGgwIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZGU2XHVkODNjXHVkZGY5W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1BVCIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3d3cubXlkcml2ZXJsaWNlbmNlLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#🇦🇹 Austria | Hohl IT e.U. 1
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.180.197.41:8080#🇦🇹 Austria | M247 Europe SRL 1
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.180.197.41:8080#🇦🇹 Austria | M247 Europe SRL 2
-vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@152.53.1.32:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#🇦🇹 Austria | netcup GmbH 1
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site&spx=/#🇦🇹 Austria | netcup GmbH 2
-vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@152.53.1.32:7443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&sni=chat.deepseek.com&path=&host=#🇦🇹 Austria | netcup GmbH 3
-vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@152.53.1.32:7443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&sni=chat.deepseek.com#🇦🇹 Austria | netcup GmbH 4
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@152.53.47.91:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site&spx=/#🇦🇹 Austria | netcup GmbH 5
-vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@152.53.1.32:7443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&sni=chat.deepseek.com#🇦🇹 Austria | netcup GmbH 6
-vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@152.53.1.32:7443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=chat.deepseek.com&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#🇦🇹 Austria | netcup GmbH 7
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site#🇦🇹 Austria | netcup GmbH 8
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@152.53.46.104:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site&spx=/#🇦🇹 Austria | netcup GmbH 9
-vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@152.53.1.32:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#🇦🇹 Austria | netcup GmbH 10
+vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@152.53.1.32:7443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&sni=chat.deepseek.com&path=&host=#🇦🇹 Austria | netcup GmbH 1
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@152.53.47.91:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site&spx=/#🇦🇹 Austria | netcup GmbH 2
+vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@152.53.1.32:7443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&sni=chat.deepseek.com#🇦🇹 Austria | netcup GmbH 3
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@152.53.46.104:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site&spx=/#🇦🇹 Austria | netcup GmbH 4
+vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@152.53.1.32:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#🇦🇹 Austria | netcup GmbH 5
+vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@152.53.1.32:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#🇦🇹 Austria | netcup GmbH 6
+vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@152.53.1.32:7443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&sni=chat.deepseek.com#🇦🇹 Austria | netcup GmbH 7
+vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@152.53.1.32:7443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=chat.deepseek.com&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#🇦🇹 Austria | netcup GmbH 8
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site&spx=/#🇦🇹 Austria | netcup GmbH 9
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site#🇦🇹 Austria | netcup GmbH 10
 vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site&spx=/#🇦🇹 Austria | netcup GmbH 11
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site&spx=/#🇦🇹 Austria | netcup GmbH 12
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site&spx=/#🇦🇹 Austria | netcup GmbH 13
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site&spx=/#🇦🇹 Austria | netcup GmbH 12
+vless://18f88fb7-470f-fade-8da9-b57f35009c6d@195.209.88.216:443?encryption=none&type=ws&security=tls&path=%2F&host=s28233.cdn.ngenix.net&fp=qq&sni=s28233.cdn.ngenix.net&alpn=h2%2Chttp%2F1.1#🇦🇹 Austria | netcup GmbH 13
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site&spx=/#🇦🇹 Austria | netcup GmbH 14
