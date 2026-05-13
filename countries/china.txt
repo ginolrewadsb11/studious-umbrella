@@ -3,14 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGluYQrimqEgOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGluYQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@70.39.206.152:443?security=tls&type=ws&path=%2F&host=gogo.wknm.qzz.io&sni=gogo.wknm.qzz.io&fp=chrome&encryption=none#🌍 China | Light Node 1
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@45.125.33.207:443?flow=&fp=chrome&headertype=none&host=gogo.vks.dpdns.org&path=%2F&quicsecurity=none&security=tls&servicename=&sni=gogo.vks.dpdns.org&type=ws#🌍 China | Light Node 2
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@159.65.15.18:443?allow_insecure=0&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🌍 China | Light Node 3
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@47.84.95.77:443?allowInsecure=1&type=ws&security=tls&sni=gogo3.kmj.qzz.io&host=gogo3.kmj.qzz.io#🌍 China | Light Node 4
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@47.84.95.77:443?type=ws&security=tls&fp=chrome&sni=gogo8.kmj.qzz.io&host=gogo8.kmj.qzz.io#🌍 China | Light Node 5
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@122.10.119.252:443?type=ws&security=tls&sni=gogo10.kmj.qzz.io&host=gogo10.kmj.qzz.io&allow_insecure=0#🌍 China | Light Node 6
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@116.251.217.63:443?allowInsecure=0&type=ws&security=tls&fp=chrome&sni=1-jk1.pages.dev&host=1-jk1.pages.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🌍 China | Light Node 7
-vless://07050e47-3484-4062-bd62-845968e062ad@137.175.93.121:19352?type=raw&security=reality&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&sni=www.icloud.com#🌍 China | PEG TECH INC 1
-vless://07050e47-3484-4062-bd62-845968e062ad@137.175.93.121:19352?type=tcp&security=reality&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&sni=www.icloud.com#🌍 China | PEG TECH INC 2
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@102.134.55.53:20082?type=ws&security=tls&sni=babayaga-6i7.pages.dev&host=babayaga-6i7.pages.dev#🌍 China | Light Node 1
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@122.10.119.252:443?type=ws&security=tls&sni=gogo10.kmj.qzz.io&host=gogo10.kmj.qzz.io&allow_insecure=0#🌍 China | Light Node 2
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@122.10.119.252:443?type=ws&security=tls&fp=chrome&sni=gogo10.kmj.qzz.io&host=gogo10.kmj.qzz.io&allow_insecure=0#🌍 China | Light Node 3
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@185.243.240.111:443?type=ws&security=tls&sni=gogo7.kmj.qzz.io&host=gogo7.kmj.qzz.io&allow_insecure=0#🌍 China | Light Node 4
+vless://07050e47-3484-4062-bd62-845968e062ad@137.175.93.121:19352?type=tcp&security=reality&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&sni=www.icloud.com#🌍 China | PEG TECH INC 1
+vless://07050e47-3484-4062-bd62-845968e062ad@137.175.93.121:19352?type=raw&security=reality&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&sni=www.icloud.com#🌍 China | PEG TECH INC 2
