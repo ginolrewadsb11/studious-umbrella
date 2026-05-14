@@ -3,10 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh74gQm9iaVZQTiDigJQgQmVsYXJ1cwrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh74gQm9iaVZQTiDigJQgQmVsYXJ1cwrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@78.140.253.16:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=BW_FxW0FchsCbs0sPySSVTnwuS9UogUC_Tq1Xb1JR2Q&sni=gvt2-cn.com#🇧🇾 Belarus | Itglobalcom BEL 1
-vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@78.140.253.16:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=BW_FxW0FchsCbs0sPySSVTnwuS9UogUC_Tq1Xb1JR2Q&sni=gvt2-cn.com#🇧🇾 Belarus | Itglobalcom BEL 2
-vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@78.140.253.16:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=BW_FxW0FchsCbs0sPySSVTnwuS9UogUC_Tq1Xb1JR2Q&sni=gvt2-cn.com#🇧🇾 Belarus | Itglobalcom BEL 3
-vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@78.140.253.16:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=BW_FxW0FchsCbs0sPySSVTnwuS9UogUC_Tq1Xb1JR2Q&sni=googleadservices-cn.com#🇧🇾 Belarus | Itglobalcom BEL 4
-vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@78.140.253.16:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=gvt2-cn.com&pbk=BW_FxW0FchsCbs0sPySSVTnwuS9UogUC_Tq1Xb1JR2Q#🇧🇾 Belarus | Itglobalcom BEL 5
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ru113.mechvpn.online:443?flow=xtls-rprx-vision&alpn=h3,h2,http/1.1&type=tcp&security=tls&__rand=4577ea1f#🇧🇾 Belarus | H2nexus LTD 1
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ru113.mechvpn.online:443?flow=xtls-rprx-vision&alpn=h3,h2,http/1.1&type=tcp&security=tls&__rand=4577ea1f#🇧🇾 Belarus | H2nexus LTD 2
