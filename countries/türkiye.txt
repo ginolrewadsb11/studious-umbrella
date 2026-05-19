@@ -5,20 +5,20 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDE3INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@194.87.39.215:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2&sni=www.google.com#🇹🇷 Türkiye | Baxet Group 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@194.87.39.215:8388#🇹🇷 Türkiye | Baxet Group 2
-trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#🇹🇷 Türkiye | Baxet Group 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@194.87.39.215:8388#🇹🇷 Türkiye | Baxet Group 4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@194.87.39.215:8388#🇹🇷 Türkiye | Baxet Group 1
+vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@194.87.39.215:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2&sni=www.google.com#🇹🇷 Türkiye | Baxet Group 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@194.87.39.215:8388#🇹🇷 Türkiye | Baxet Group 3
+trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls&sni=creativecommons.org&allowInsecure=1&type=tcp#🇹🇷 Türkiye | Baxet Group 4
 trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#🇹🇷 Türkiye | Baxet Group 5
-trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls&sni=creativecommons.org&allowInsecure=1&type=tcp#🇹🇷 Türkiye | Baxet Group 6
+trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#🇹🇷 Türkiye | Baxet Group 6
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.192.6.219:8443?encryption=none&security=tls&sni=sni.111000.dns.army&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dns.army&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇹🇷 Türkiye | Cloudflare, 1
-vmess://eyJhZGQiOiI1LjE4OC4xOTAuMjUyIiwiYWlkIjoiMSIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiIyMjMyNCIsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1UUiIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#🇹🇷 Türkiye | G-Core Labs S.A. 1
+vmess://eyJ2IjoiMiIsInBzIjoiVGVsZWdyYW06WW91dHViZVVuQmxvY2tSdSIsImFkZCI6IjUuMTg4LjE5MC4yNTIiLCJwb3J0IjoiMjIzMjQiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjEiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJza2lwLWNlcnQtdmVyaWZ5IjoiVHJ1ZSJ9#🇹🇷 Türkiye | G-Core Labs S.A. 1
+vmess://eyJhZGQiOiI1LjE4OC4xOTAuMjUyIiwiYWlkIjoiMSIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiIyMjMyNCIsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1UUiIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#🇹🇷 Türkiye | G-Core Labs S.A. 2
+vmess://eyJhZGQiOiI1LjE4OC4xOTAuMjUyIiwiYWlkIjoiMSIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiIyMjMyNCIsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3W3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtVFItMTM2NTUzOTAiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#🇹🇷 Türkiye | G-Core Labs S.A. 3
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#🇹🇷 Türkiye | Iksir Internet Hizmetl... 1
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#🇹🇷 Türkiye | Scalaxy B.V. 1
-vless://53821f3c-5b03-456a-89f3-f8379f130752@77.92.145.222:443?encryption=none&fp=chrome&pbk=sSD0sNHv6R3VC1zy_etv-mOTLAurVq3xid4xWne3TxI&security=reality&sid=4730242d&sni=www.vk.com&type=tcp#🇹🇷 Türkiye | Ultahost, 1
-vless://53821f3c-5b03-456a-89f3-f8379f130752@77.92.145.222:443?encryption=none&fp=chrome&pbk=sSD0sNHv6R3VC1zy_etv-mOTLAurVq3xid4xWne3TxI&security=reality&sid=4730242d&sni=www.vk.com&type=tcp#🇹🇷 Türkiye | Ultahost, 2
-vless://53821f3c-5b03-456a-89f3-f8379f130752@77.92.145.222:443?type=tcp&security=reality&fp=chrome&pbk=sSD0sNHv6R3VC1zy_etv-mOTLAurVq3xid4xWne3TxI&sid=4730242d&sni=www.vk.com#🇹🇷 Türkiye | Ultahost, 3
-vless://53821f3c-5b03-456a-89f3-f8379f130752@77.92.145.222:443?encryption=none&fp=chrome&pbk=sSD0sNHv6R3VC1zy_etv-mOTLAurVq3xid4xWne3TxI&security=reality&sid=4730242d&sni=www.vk.com&type=tcp#🇹🇷 Türkiye | Ultahost, 4
-vless://53821f3c-5b03-456a-89f3-f8379f130752@77.92.145.222:443?type=tcp&security=reality&fp=chrome&pbk=sSD0sNHv6R3VC1zy_etv-mOTLAurVq3xid4xWne3TxI&sid=4730242d&sni=www.vk.com&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#🇹🇷 Türkiye | Ultahost, 5
 vless://43488128-319e-f480-64ea-0acdc712e2a8@2.56.127.207:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=XkRQUOLTBAiIXB1MK9oJwlfn-9XnH53ykk5UE6rDyFc&sid=d4356669ea880400&sni=store.steampowered.com#🇹🇷 Türkiye | WorkTitans B.V. 1
 vless://43488128-319e-f480-64ea-0acdc712e2a8@2.56.127.207:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=XkRQUOLTBAiIXB1MK9oJwlfn-9XnH53ykk5UE6rDyFc&sid=d4356669ea880400&sni=store.steampowered.com#🇹🇷 Türkiye | WorkTitans B.V. 2
+vless://43488128-319e-f480-64ea-0acdc712e2a8@2.56.127.207:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=XkRQUOLTBAiIXB1MK9oJwlfn-9XnH53ykk5UE6rDyFc&security=reality&sid=d4356669ea880400&sni=store.steampowered.com&type=tcp#🇹🇷 Türkiye | WorkTitans B.V. 3
+vless://43488128-319e-f480-64ea-0acdc712e2a8@2.56.127.207:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=XkRQUOLTBAiIXB1MK9oJwlfn-9XnH53ykk5UE6rDyFc&security=reality&sid=d4356669ea880400&sni=store.steampowered.com&type=tcp#🇹🇷 Türkiye | WorkTitans B.V. 4
+vless://43488128-319e-f480-64ea-0acdc712e2a8@2.56.127.207:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=XkRQUOLTBAiIXB1MK9oJwlfn-9XnH53ykk5UE6rDyFc&sid=d4356669ea880400&sni=store.steampowered.com#🇹🇷 Türkiye | WorkTitans B.V. 5
