@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrPCfh6ogQm9iaVZQTiDigJQgR2VvcmdpYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.30:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=edge&sni=r1.mizulina.top#🇬🇪 Georgia | AkhaliNet 1
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.30:22231?type=tcp&security=tls&flow=xtls-rprx-vision&fp=edge&sni=r1.mizulina.top#🇬🇪 Georgia | AkhaliNet 2
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.30:22231?type=tcp&security=tls&flow=xtls-rprx-vision&fp=edge&sni=r1.mizulina.top#🇬🇪 Georgia | AkhaliNet 1
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.30:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=edge&sni=r1.mizulina.top#🇬🇪 Georgia | AkhaliNet 2
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?type=tcp&security=tls&flow=xtls-rprx-vision&fp=edge&sni=r1.mizulina.top&path=&host=r1.mizulina.top#🇬🇪 Georgia | AkhaliNet 3
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?security=tls&flow=xtls-rprx-vision#🇬🇪 Georgia | AkhaliNet 4
