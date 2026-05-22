@@ -3,13 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://5859d0d9-22f0-4c44-b881-3403723c02fb@158.160.186.150:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=d995792afeb193#🇨🇿 Czechia | FDCservers.net 1
-vless://5859d0d9-22f0-4c44-b881-3403723c02fb@188.124.37.156:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=web.max.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=d995792afeb193#🇨🇿 Czechia | FDCservers.net 2
-vless://5859d0d9-22f0-4c44-b881-3403723c02fb@158.160.249.158:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8#🇨🇿 Czechia | FDCservers.net 3
-vless://5859d0d9-22f0-4c44-b881-3403723c02fb@158.160.186.150:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=d995792afeb193#🇨🇿 Czechia | FDCservers.net 4
-vless://5859d0d9-22f0-4c44-b881-3403723c02fb@158.160.170.111:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=672ff0#🇨🇿 Czechia | FDCservers.net 5
-vless://5859d0d9-22f0-4c44-b881-3403723c02fb@158.160.241.119:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=c4caf3f1848a#🇨🇿 Czechia | FDCservers.net 6
-vless://5859d0d9-22f0-4c44-b881-3403723c02fb@188.124.37.156:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=web.max.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=d995792afeb193#🇨🇿 Czechia | FDCservers.net 7
-vless://5859d0d9-22f0-4c44-b881-3403723c02fb@158.160.150.233:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=cf4d#🇨🇿 Czechia | FDCservers.net 8
+vless://5859d0d9-22f0-4c44-b881-3403723c02fb@158.160.241.119:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=c4caf3f1848a#🇨🇿 Czechia | FDCservers.net 1
+vless://5859d0d9-22f0-4c44-b881-3403723c02fb@158.160.150.233:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=cf4d#🇨🇿 Czechia | FDCservers.net 2
+vless://5859d0d9-22f0-4c44-b881-3403723c02fb@158.160.241.119:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=c4caf3f1848a#🇨🇿 Czechia | FDCservers.net 3
+vless://5859d0d9-22f0-4c44-b881-3403723c02fb@158.160.170.111:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=672ff0#🇨🇿 Czechia | FDCservers.net 4
+vless://5859d0d9-22f0-4c44-b881-3403723c02fb@158.160.22.127:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=api-maps.yandex.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=71f0b07a98c840c7#🇨🇿 Czechia | FDCservers.net 5
