@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuPCfh64gQm9iaVZQTiDigJQgU2xvdmVuaWEK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HuPCfh64gQm9iaVZQTiDigJQgU2xvdmVuaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#🇸🇮 Slovenia | Optimus IT d.o.o. 1
-vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@slovenia.cloudpath.live:443?type=tcp&security=reality&sni=microsoft.com&pbk=-9ubngsmQNbnIihwlVPfAlnMfqsLShGOTLHJ5E6HZi0&sid=0f74641a&fp=chrome&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇸🇮 Slovenia | WorkTitans B.V. 1
-vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@slovenia.cloudpath.live:443?fp=chrome&fragment=100-200%2C10-20%2Ctlshello&mux=true&muxconcurrency=8&pbk=-9ubngsmQNbnIihwlVPfAlnMfqsLShGOTLHJ5E6HZi0&security=reality&sid=0f74641a&sni=microsoft.com&type=tcp#🇸🇮 Slovenia | WorkTitans B.V. 2
-vless://5e1083b9-4d4f-50ef-93e7-6e966dfce1f9@multi2.cloudpath.live:443?type=tcp&security=reality&sni=microsoft.com&pbk=C1pAUeCLCrMr4vbPN_85e9AS2tJIcgh8qKxlFcub93k&sid=fa6f50da&fp=chrome&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇸🇮 Slovenia | WorkTitans B.V. 3
