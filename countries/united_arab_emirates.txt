@@ -5,8 +5,8 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://d7790b85-9659-4558-a405-e0ab57d32984@ae.s3-rus.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=edge&pbk=x274vAATjQyRHChXL5coeXJB4ZuGx_-4Q_918Rw6lWA&sid=372c05b48fe83e5b&spx=%2F&type=tcp&headerType=none#🇦🇪 United Arab Emirates | BFB ONE FZ- 1
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@download.spectrum.vu:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=sXC7sPCzHG_uYfvk3GSUdYQKfHAwirOVWMhO50Y9Pn8&sid=d1e9faa1b2c3&sni=download.spectrum.vu#🇦🇪 United Arab Emirates | GoldIPv 1
+vless://7a685dc5-f93c-4e19-8b9b-b77998feb042@31.59.39.192:443?type=tcp&headerType=none&security=tls&encryption=none&sni=www.amd.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1#🇦🇪 United Arab Emirates | GoldIPv 1
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@download.spectrum.vu:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=sXC7sPCzHG_uYfvk3GSUdYQKfHAwirOVWMhO50Y9Pn8&sid=d1e9faa1b2c3&sni=download.spectrum.vu#🇦🇪 United Arab Emirates | GoldIPv 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.57.251.240:990#🇦🇪 United Arab Emirates | M247 Europe SRL 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#🇦🇪 United Arab Emirates | ONEPROVIDER 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#🇦🇪 United Arab Emirates | ONEPROVIDER 2
