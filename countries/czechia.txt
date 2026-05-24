@@ -3,11 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://34e713a7-777d-491f-be44-9413c44a6ba9@158.160.150.233:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=d995792afeb193#🇨🇿 Czechia | FDCservers.net 1
-vless://34e713a7-777d-491f-be44-9413c44a6ba9@158.160.150.233:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=d995792afeb193#🇨🇿 Czechia | FDCservers.net 2
-vless://34e713a7-777d-491f-be44-9413c44a6ba9@158.160.150.233:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=d995792afeb193#🇨🇿 Czechia | FDCservers.net 3
-vless://34e713a7-777d-491f-be44-9413c44a6ba9@158.160.249.158:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=d995792afeb193#🇨🇿 Czechia | FDCservers.net 4
-vless://34e713a7-777d-491f-be44-9413c44a6ba9@158.160.249.158:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=d995792afeb193#🇨🇿 Czechia | FDCservers.net 5
-vless://34e713a7-777d-491f-be44-9413c44a6ba9@158.160.249.158:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=d995792afeb193#🇨🇿 Czechia | FDCservers.net 6
+vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@czech-warp.cloudpath.live:443?type=tcp&headerType=none&security=reality&encryption=none&sni=microsoft.com&fp=chrome&pbk=3XP2gLc4YK1ZXdgrDd0octFn5WyTu1EeAu0-SesfWQY&sid=d75c5ad2#🇨🇿 Czechia | Green Floid 1
+vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@czech.cloudpath.live:443?type=tcp&headerType=none&security=reality&encryption=none&sni=microsoft.com&fp=chrome&pbk=34gATkr8QhXe26zX625mas0MbhhG-1XSISJxwLtdt1k&sid=17ee7ac1#🇨🇿 Czechia | WorkTitans B.V. 1
