@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@czech-warp.cloudpath.live:443?type=tcp&headerType=none&security=reality&encryption=none&sni=microsoft.com&fp=chrome&pbk=3XP2gLc4YK1ZXdgrDd0octFn5WyTu1EeAu0-SesfWQY&sid=d75c5ad2#🇨🇿 Czechia | Green Floid 1
-vless://7b522d56-e758-4391-af42-8e9eb19de583@146.185.197.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.yandex.ru&pbk=tLIY95WzJpGsi02rk_G2SwMOiy10H0-5fGCh6fGDimI&sid=e1&spx=%2F#🇨🇿 Czechia | WorkTitans B.V. 1
-vless://7b522d56-e758-4391-af42-8e9eb19de583@146.185.197.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.ru&pbk=tLIY95WzJpGsi02rk_G2SwMOiy10H0-5fGCh6fGDimI&sid=d554&spx=%2F#🇨🇿 Czechia | WorkTitans B.V. 2
-vless://7b522d56-e758-4391-af42-8e9eb19de583@146.185.197.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vashsender.ru&pbk=tLIY95WzJpGsi02rk_G2SwMOiy10H0-5fGCh6fGDimI&sid=b931fc8272&spx=%2F#🇨🇿 Czechia | WorkTitans B.V. 3
-vless://7b522d56-e758-4391-af42-8e9eb19de583@146.185.197.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.yandex.ru&pbk=tLIY95WzJpGsi02rk_G2SwMOiy10H0-5fGCh6fGDimI&sid=e1&spx=%2F#🇨🇿 Czechia | WorkTitans B.V. 4
+vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@czech.cloudpath.live:443?type=tcp&headerType=none&security=reality&encryption=none&sni=microsoft.com&fp=chrome&pbk=34gATkr8QhXe26zX625mas0MbhhG-1XSISJxwLtdt1k&sid=17ee7ac1#🇨🇿 Czechia | WorkTitans B.V. 1
