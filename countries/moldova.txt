@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://78d894b7-8391-0064-9369-509a882a9f23@185.91.52.231:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=bucket-ru-6.extravpn.io&fp=randomized&sni=bucket-ru-6.extravpn.io&pbk=qmj3LynPhFqW4pVQf47vfPx-nnykWXxuzNoWmw_DEyc#🇲🇩 Moldova | S.C. INFOTECH-GRUP S.R.L 1
-vless://78d894b7-8391-0064-9369-509a882a9f23@5.178.85.238:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=bucket-ru-2.extravpn.io&fp=randomized&sni=bucket-ru-2.extravpn.io&pbk=sOx7AkBNtLuAdWCzqYPxjOErfqI5CeDzbJleGJqp8WU#🇲🇩 Moldova | S.C. INFOTECH-GRUP S.R.L 2
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.23.63:989#🇲🇩 Moldova | Trabia SRL 1
+vless://14644d67-fc0d-4599-9cb2-617f41c56e46@185.91.54.208:5443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=e67fb918ed6b9ffb#🇲🇩 Moldova | H2nexus LTD 1
