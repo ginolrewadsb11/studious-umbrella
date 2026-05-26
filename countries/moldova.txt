@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@102.177.189.30:8880?encryption=none&host=vms.lifetime29.workers.dev&security=none&type=ws#🇲🇩 Moldova | Alexhost SRL 1
 vless://7aadebf1-300c-4c07-b8d1-390bbee9d6c0@217.156.66.121:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=BrGL0gTKK_Ir2VwJOa91Vd8870DswnOXhA6-F92RBGI&sid=a987b6bd1781daa3&sni=eh.vk.com#🇲🇩 Moldova | AVA HOST SRL 1
-vless://6880d08b-04de-4f93-b0a2-fe4ca8d76e14@84.201.141.0:5443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=e67fb918ed6b9ffb#🇲🇩 Moldova | H2nexus LTD 1
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@ru-dch.dataload-cdn.ru:8443?flow=xtls-rprx-vision&fp=chrome&pbk=RpB5c3RXN12fp9odK5E47XDQT3nf7AY0TtVbXU9vUS8&security=reality&sid=dfc739&sni=www.vk.com&type=tcp#🇲🇩 Moldova | IWIHOST 1
+vless://7aadebf1-300c-4c07-b8d1-390bbee9d6c0@217.156.66.121:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=BrGL0gTKK_Ir2VwJOa91Vd8870DswnOXhA6-F92RBGI&sid=a987b6bd1781daa3&sni=eh.vk.com#🇲🇩 Moldova | AVA HOST SRL 2
+vless://7aadebf1-300c-4c07-b8d1-390bbee9d6c0@217.156.66.121:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=BrGL0gTKK_Ir2VwJOa91Vd8870DswnOXhA6-F92RBGI&sid=a987b6bd1781daa3&sni=eh.vk.com#🇲🇩 Moldova | AVA HOST SRL 3
+vless://7aadebf1-300c-4c07-b8d1-390bbee9d6c0@217.156.66.121:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=BrGL0gTKK_Ir2VwJOa91Vd8870DswnOXhA6-F92RBGI&sid=a987b6bd1781daa3&sni=eh.vk.com#🇲🇩 Moldova | AVA HOST SRL 4
