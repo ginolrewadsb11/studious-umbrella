@@ -5,42 +5,42 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HuPCfh6wgQm9iaVZQTiDigJQgU2luZ2Fwb3JlCuKaoSAzOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@3.1.116.161:8443?allow_insecure=0&host=sni.skylee4.cloudns.ch&path=%2Fproxyip%3DProxyIP.CMLiussss.net&security=tls&sni=sni.skylee4.cloudns.ch&type=ws#🇸🇬 Singapore | Aceville Pte.ltd 1
 vless://39039c78-41a2-45f1-a64d-f6818efcae03@172.104.161.138:27420?path=/FREE By Tharuwa (0767597317)&security=none&encryption=none&host=m.zoom.us&type=ws#🇸🇬 Singapore | Akamai Technologies 1
 vless://39039c78-41a2-45f1-a64d-f6818efcae03@172.104.161.138:27420?path=/FREE By Tharuwa (0767597317)&security=none&encryption=none&host=m.zoom.us&type=ws#🇸🇬 Singapore | Akamai Technologies 2
 vless://a6dd0cc9-eeb0-4226-9623-b3fc6e1b0b98@172.237.90.117:14573?type=ws&host=m.zoom.us&path=/FREE By Tharuwa (0767597317)#🇸🇬 Singapore | Akamai Technologies, 1
-vless://73bcd72f-9545-4cb8-8daf-7d004501880d@83.229.126.127:32237?&security=tls&sni=dcsrzh.ccwu.cc&type=ws&headerType=none&host=dcsrzh.ccwu.cc&path=%2Ffp%3Dchromefp%3Dchrome#🇸🇬 Singapore | Alibaba (US) Technolog... 1
-vless://73bcd72f-9545-4cb8-8daf-7d004501880d@83.229.126.127:32237?encryption=none&security=tls&sni=dcsrzh.ccwu.cc&type=ws&host=dcsrzh.ccwu.cc&path=%2F%3Fed%3D2560#🇸🇬 Singapore | CDS Global Cloud Co., 1
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.219.213.195:10032?type=raw#🇸🇬 Singapore | Alibaba Cloud (Singapo... 1
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.219.213.195:10032?type=tcp#🇸🇬 Singapore | Alibaba Cloud (Singapo... 2
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.219.213.195:10032?security=none&encryption=none&headerType=none&type=tcp#🇸🇬 Singapore | Alibaba Cloud (Singapo... 3
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.219.213.195:10032?type=tcp&security=&fp=chrome&path=&host=&serviceName=&quicSecurity=none#🇸🇬 Singapore | Alibaba Cloud (Singapo... 4
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@143.42.66.91:443?encryption=none&security=tls&sni=sn1.skylee5.cloudns.ch&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sn1.skylee5.cloudns.ch&path=%2F#🇸🇬 Singapore | Cloudflare, 1
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@38.180.9.18:8443?sni=sn1.skylee5.cloudns.ch&type=ws&host=sn1.skylee5.cloudns.ch&path=/proxyip=ProxyIP.CMLiussss.netfp=chrome&security=tls#🇸🇬 Singapore | Cloudflare, 2
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@3.1.116.161:2053?allow_insecure=0&host=sni.skylee4.cloudns.ch&path=%2Fproxyip%3DProxyIP.CMLiussss.net&security=tls&sni=sni.skylee4.cloudns.ch&type=ws#🇸🇬 Singapore | Cloudflare, 2
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@143.42.66.91:443?encryption=none&security=tls&sni=sn1.skylee5.cloudns.ch&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sn1.skylee5.cloudns.ch&path=%2F#🇸🇬 Singapore | Cloudflare, 3
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@165.22.99.110:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇸🇬 Singapore | Cloudflare, 4
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.172.65.175:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&insecure=1&allowInsecure=1&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇸🇬 Singapore | Cloudflare, 5
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@178.128.58.101:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇸🇬 Singapore | Cloudflare, 6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplTFBsSVZ1Ulo2VUp5YXBWRGVUKytsN2ZZQzB1b3dYSkZsYjlxaG50QWQ0PQ==@154.18.239.126:37425#🇸🇬 Singapore | Cogent Communications 1
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@38.180.9.18:8443?sni=sn1.skylee5.cloudns.ch&type=ws&host=sn1.skylee5.cloudns.ch&path=/proxyip=ProxyIP.CMLiussss.netfp=chrome&security=tls#🇸🇬 Singapore | Cloudflare, 4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplTFBsSVZ1Ulo2VUp5YXBWRGVUKytsN2ZZQzB1b3dYSkZsYjlxaG50QWQ0PQ@154.18.239.126:37425#🇸🇬 Singapore | Cogent Communications 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplTFBsSVZ1Ulo2VUp5YXBWRGVUKytsN2ZZQzB1b3dYSkZsYjlxaG50QWQ0PQ@154.18.239.126:37425#🇸🇬 Singapore | Cogent Communications 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplTFBsSVZ1Ulo2VUp5YXBWRGVUKytsN2ZZQzB1b3dYSkZsYjlxaG50QWQ0PQ==@154.18.239.126:37425#🇸🇬 Singapore | Cogent Communications 3
-trojan://gcuCpQfaiVeDBdWG@211.76.176.99:19128?security=tls&sni=yazhou10.dynu.net&type=tcp&headerType=none#🇸🇬 Singapore | Contabo Asia Private 1
-trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?security=tls&sni=yazhou10.dynu.net&type=tcp&headerType=none#🇸🇬 Singapore | Contabo Asia Private 2
-ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg==@194.233.94.119:80#🇸🇬 Singapore | Contabo Asia Private 3
+trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?security=tls&sni=yazhou10.dynu.net&type=tcp&headerType=none#🇸🇬 Singapore | Contabo Asia Private 1
+trojan://gcuCpQfaiVeDBdWG@211.76.176.99:19128?security=tls&sni=yazhou10.dynu.net&type=tcp&headerType=none#🇸🇬 Singapore | Contabo Asia Private 2
+ss://YWVzLTI1Ni1nY206cUt2Zlg3eVFuVDk5T011Mw@194.233.75.190:80#🇸🇬 Singapore | Contabo Asia Private 3
 ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg==@194.233.94.119:80#🇸🇬 Singapore | Contabo Asia Private 4
-ss://YWVzLTI1Ni1nY206cUt2Zlg3eVFuVDk5T011Mw@194.233.75.190:80#🇸🇬 Singapore | Contabo Asia Private 5
+ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80#🇸🇬 Singapore | Contabo Asia Private 5
 trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net#🇸🇬 Singapore | Contabo Asia Private 6
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjpudWxsLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuYW1lIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFNHIDEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoxODAwMCwicHMiOiJcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWNbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1TRy03MzE0MDkwIiwic2N5IjpudWxsLCJzbmkiOm51bGwsInRscyI6IiIsInR5cGUiOm51bGwsInYiOm51bGwsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇸🇬 Singapore | Datacamp 1
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjpudWxsLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuYW1lIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFNHIDMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoxODAwMCwicHMiOiJcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWNbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1TRy03Mjk3MjI1Iiwic2N5IjpudWxsLCJzbmkiOm51bGwsInRscyI6IiIsInR5cGUiOm51bGwsInYiOm51bGwsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇸🇬 Singapore | Datacamp 2
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?type=tcp&security=tls#🇸🇬 Singapore | DigitalOcean, 1
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?security=tls&fp=chrome&sni=node1.nanonet.host#🇸🇬 Singapore | DigitalOcean, 2
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?security=tls#🇸🇬 Singapore | DigitalOcean, 3
+vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiIxODAwMCIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjW3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtU0ctNzI5NzIyNSIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#🇸🇬 Singapore | Datacamp 1
+vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjpudWxsLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuYW1lIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFNHIDEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoxODAwMCwicHMiOiJcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWNbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1TRy03MzE0MDkwIiwic2N5IjpudWxsLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOm51bGwsInRscyI6IiIsInR5cGUiOm51bGwsInYiOm51bGx9#🇸🇬 Singapore | Datacamp 2
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@3.1.116.161:8443?allow_insecure=0&host=sni.skylee4.cloudns.ch&path=%2Fproxyip%3DProxyIP.CMLiussss.net&security=tls&sni=sni.skylee4.cloudns.ch&type=ws#🇸🇬 Singapore | DigitalOcean, 1
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?type=tcp&security=tls&fp=chrome&sni=node1.nanonet.host#🇸🇬 Singapore | DigitalOcean, 2
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?type=tcp&security=tls#🇸🇬 Singapore | DigitalOcean, 3
 vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?type=raw&security=tls&fp=chrome&sni=node1.nanonet.host#🇸🇬 Singapore | DigitalOcean, 4
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?type=tcp&security=tls&fp=chrome&sni=node1.nanonet.host#🇸🇬 Singapore | DigitalOcean, 5
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@188.239.9.91:443?type=ws&security=tls&fp=chrome&sni=3-2ll.pages.dev&host=3-2ll.pages.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🇸🇬 Singapore | DigitalOcean, 6
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@3.1.116.161:8443?allow_insecure=0&host=sni.skylee4.cloudns.ch&path=%2Fproxyip%3DProxyIP.CMLiussss.net&security=tls&sni=sni.skylee4.cloudns.ch&type=ws#🇸🇬 Singapore | DigitalOcean, 7
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@116.251.216.12:8443?type=ws&security=tls&fp=chrome&sni=2-ee1.pages.dev&host=2-ee1.pages.dev#🇸🇬 Singapore | DigitalOcean, 8
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@116.251.216.12:8443?type=ws&security=tls&fp=chrome&sni=1-axj.pages.dev&host=1-axj.pages.dev#🇸🇬 Singapore | DigitalOcean, 9
-vless://73bcd72f-9545-4cb8-8daf-7d004501880d@83.229.126.127:32237?&security=tls&sni=dcsrzh.ccwu.cc&type=ws&headerType=none&host=dcsrzh.ccwu.cc&path=%2Ffp%3Dchromefp%3Dchrome#🇸🇬 Singapore | M1 LIMITED 1
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@3.1.116.161:8443?allow_insecure=0&host=sni.skylee4.cloudns.ch&path=%2Fproxyip%3DProxyIP.CMLiussss.net&security=tls&sni=sni.skylee4.cloudns.ch&type=ws#🇸🇬 Singapore | Oracle 1
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?security=tls#🇸🇬 Singapore | DigitalOcean, 5
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?security=tls&fp=chrome&sni=node1.nanonet.host#🇸🇬 Singapore | DigitalOcean, 6
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@188.239.9.91:443?type=ws&security=tls&fp=chrome&sni=3-2ll.pages.dev&host=3-2ll.pages.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🇸🇬 Singapore | DigitalOcean, 7
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@38.190.210.250:443?allow_insecure=0&host=sni.skylee4.cloudns.ch&path=%2Fproxyip%3DProxyIP.CMLiussss.net&security=tls&sni=sni.skylee4.cloudns.ch&type=ws#🇸🇬 Singapore | DigitalOcean, 8
+vless://73bcd72f-9545-4cb8-8daf-7d004501880d@83.229.126.127:32237?&security=tls&sni=dcsrzh.ccwu.cc&type=ws&headerType=none&host=dcsrzh.ccwu.cc&path=%2Ffp%3Dchromefp%3Dchrome#🇸🇬 Singapore | DigitalOcean, 9
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@116.251.216.12:8443?type=ws&security=tls&fp=chrome&sni=1-axj.pages.dev&host=1-axj.pages.dev#🇸🇬 Singapore | Huawei International P... 1
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@188.239.9.91:443?type=ws&security=tls&sni=3-2ll.pages.dev&host=3-2ll.pages.dev#🇸🇬 Singapore | Huawei International P... 2
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@116.251.216.12:8443?type=ws&security=tls&fp=chrome&sni=2-ee1.pages.dev&host=2-ee1.pages.dev#🇸🇬 Singapore | Huawei International P... 3
 hysteria2://e2b63581-849f-405e-9a9c-53c61b5d94b3@51.79.176.33:8262?sni=www.bing.com&insecure=1#🇸🇬 Singapore | OVH SAS 1
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@3.1.116.161:2053?allow_insecure=0&host=sni.skylee4.cloudns.ch&path=%2Fproxyip%3DProxyIP.CMLiussss.net&security=tls&sni=sni.skylee4.cloudns.ch&type=ws#🇸🇬 Singapore | Shenzhen Tencent Compu... 1
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@188.239.9.91:443?type=ws&security=tls&sni=3-2ll.pages.dev&host=3-2ll.pages.dev#🇸🇬 Singapore | The Constant Company 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#🇸🇬 Singapore | Ultahost, 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.89.142.56:990#🇸🇬 Singapore | Ultahost, 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#🇸🇬 Singapore | Ultahost, 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.89.142.56:990#🇸🇬 Singapore | Ultahost, 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#🇸🇬 Singapore | Ultahost, 3
