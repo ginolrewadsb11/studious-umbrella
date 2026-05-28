@@ -5,32 +5,32 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Hq/Cfh7cgQm9iaVZQTiDigJQgRnJhbmNlCuKaoSAyOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-trojan://telegram-id-privatevpns@15.224.91.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | Amazon.com, 1
-trojan://telegram-id-privatevpns@51.44.95.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | Amazon.com, 2
+vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sid=ead3d6f82a9d&sni=yahoo.com&spx=/#🇫🇷 France | Amazon.com, 1
+vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sid=ead3d6f82a9d&sni=yahoo.com&spx=/#🇫🇷 France | Amazon.com, 2
 vless://53821f3c-5b03-456a-89f3-f8379f130752@57.128.81.193:443?security=reality&fp=firefox&pbk=fXdtB8vImCUJMQBLcCNK7p1v3rVzx6HllaDLk8Vc4EU&sid=239dcd11&sni=www.samsung.com#🇫🇷 France | Cloudflare, 1
 vless://53821f3c-5b03-456a-89f3-f8379f130752@57.128.81.193:443?type=tcp&security=reality&fp=firefox&pbk=fXdtB8vImCUJMQBLcCNK7p1v3rVzx6HllaDLk8Vc4EU&sid=239dcd11&sni=www.samsung.com&spx=/#🇫🇷 France | Cloudflare, 2
-vless://8bf735b7-0bed-4cc2-8c19-be901572df15@104.26.8.155:443?hiddify=1&sni=cloud2.shayan.cyou&type=ws&alpn=http/1.1&muxtype=smux&muxmaxc=4&mux=4&muxsmax=0&muxpad=False&path=/YAIb93ZcNf9TH3l8ioeuFbwmvjL2y&host=cloud2.shayan.cyou&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&ech=AEX+DQBBnQAgACAYpxQ3puFUr7dCpSEJKR/eY4Q+KC4nijhLsrPaa7/eZQAEAAEAAQASY2xvdWRmbGFyZS1lY2guY29tAAA=#🇫🇷 France | Contabo GmbH 1
+vless://53821f3c-5b03-456a-89f3-f8379f130752@57.128.81.193:443?type=raw&security=reality&fp=firefox&pbk=fXdtB8vImCUJMQBLcCNK7p1v3rVzx6HllaDLk8Vc4EU&sid=239dcd11&sni=www.samsung.com#🇫🇷 France | Cloudflare, 3
 vless://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?allowInsecure=0&alpn=h2&security=tls#🇫🇷 France | Datacamp 1
-vless://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?allowInsecure=0&alpn=h2&security=tls#🇫🇷 France | Datacamp 2
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@212.22.94.213:443/?type=grpc&encryption=none&flow=&serviceName=vless&sni=down.spectrumproxy.shop&fp=chrome&security=reality&pbk=ckd_LwbbFo8BYf9vT84B20P6EL1n6vl2yMxoXc6X4SA&sid=a1c1d7e2f9b3#🇫🇷 France | Dedik Services 1
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@185.171.202.38:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=fr.denditop.site#🇫🇷 France | Dyjix SAS 1
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@185.171.202.38:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.denditop.site&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&type=tcp&headerType=none#🇫🇷 France | Dyjix SAS 2
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@fr.denditop.site:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb#🇫🇷 France | Dyjix SAS 3
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@fr.denditop.site:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=fr.denditop.site&spx=/#🇫🇷 France | Dyjix SAS 4
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@185.171.202.38:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.denditop.site&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&type=tcp&headerType=none#🇫🇷 France | Dyjix SAS 1
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@185.171.202.38:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=fr.denditop.site#🇫🇷 France | Dyjix SAS 2
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@fr.denditop.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.denditop.site&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&spx=%2F&type=tcp&headerType=none#🇫🇷 France | Dyjix SAS 3
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@fr.denditop.site:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb#🇫🇷 France | Dyjix SAS 4
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@fr.denditop.site:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=fr.denditop.site&spx=/#🇫🇷 France | Dyjix SAS 5
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#🇫🇷 France | OVH SAS 1
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@205.237.105.111:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru#🇫🇷 France | PUSHPKT OU 1
-trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&path=/assignment#🇫🇷 France | SCALEWAY 1
-trojan://humanity@www.ignitelimit.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 France | SCALEWAY 2
-trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&path=/assignment#🇫🇷 France | SCALEWAY 3
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇫🇷 France | Scaleway SAS 1
-hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#🇫🇷 France | Scaleway SAS 2
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇫🇷 France | Scaleway SAS 3
+trojan://humanity@www.ignitelimit.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 France | SCALEWAY 1
+trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&type=ws#🇫🇷 France | Scaleway SAS 1
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&path=/assignment#🇫🇷 France | Scaleway SAS 2
+hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#🇫🇷 France | Scaleway SAS 3
 hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#🇫🇷 France | Scaleway SAS 4
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&sni=fuck.rkn#🇫🇷 France | Scaleway SAS 5
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇫🇷 France | Scaleway SAS 5
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&sni=fuck.rkn#🇫🇷 France | Scaleway SAS 6
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇫🇷 France | Scaleway SAS 7
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇫🇷 France | Scaleway SAS 7
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&sni=fuck.rkn&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#🇫🇷 France | Scaleway SAS 8
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇫🇷 France | Scaleway SAS 9
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇫🇷 France | Scaleway SAS 10
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&sni=fuck.rkn#🇫🇷 France | Scaleway SAS 11
 vless://fae3277c-0541-4ae9-bbbb-8247453ea652@194.226.169.36:443?security=reality&type=raw&sni=yahoo.com&fp=chrome&sid=b8aa&pbk=i4Mx_tDND0Xxac3WyA7HgT9rvXdZlXpm5m1EGiQF-Uk&encryption=none#🇫🇷 France | xorek.cloud Internatio... 1
-vless://701bab46-9453-41e6-ad47-009aa3df47e9@194.226.169.189:443?flow=xtls-rprx-vision&fp=chrome&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&security=reality&sid=3c6fc84d&sni=stats.vk-portal.net#🇫🇷 France | xorek.cloud Internatio... 2
+vless://fae3277c-0541-4ae9-bbbb-8247453ea652@194.226.169.36:443?type=tcp&security=reality&fp=chrome&pbk=i4Mx_tDND0Xxac3WyA7HgT9rvXdZlXpm5m1EGiQF-Uk&sid=b8aa&sni=yahoo.com#🇫🇷 France | xorek.cloud Internatio... 2
 vless://701bab46-9453-41e6-ad47-009aa3df47e9@194.226.169.189:443?flow=xtls-rprx-vision&fp=chrome&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&security=reality&sid=3c6fc84d&sni=stats.vk-portal.net#🇫🇷 France | xorek.cloud Internatio... 3
-vless://fae3277c-0541-4ae9-bbbb-8247453ea652@194.226.169.36:443?type=tcp&security=reality&fp=chrome&pbk=i4Mx_tDND0Xxac3WyA7HgT9rvXdZlXpm5m1EGiQF-Uk&sid=b8aa&sni=yahoo.com#🇫🇷 France | xorek.cloud Internatio... 4
+vless://701bab46-9453-41e6-ad47-009aa3df47e9@194.226.169.189:443?flow=xtls-rprx-vision&fp=chrome&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&security=reality&sid=3c6fc84d&sni=stats.vk-portal.net#🇫🇷 France | xorek.cloud Internatio... 4
