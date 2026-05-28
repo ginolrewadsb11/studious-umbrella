@@ -3,9 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrPCfh6ogQm9iaVZQTiDigJQgR2VvcmdpYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrPCfh6ogQm9iaVZQTiDigJQgR2VvcmdpYQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top&type=tcp#🇬🇪 Georgia | AkhaliNet 1
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=r1.mizulina.top&type=tcp&headerType=none&host=r1.mizulina.top&path=%2F#🇬🇪 Georgia | AkhaliNet 2
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?type=tcp&security=tls&flow=xtls-rprx-vision&fp=edge&sni=r1.mizulina.top&path=&host=r1.mizulina.top#🇬🇪 Georgia | AkhaliNet 3
-vless://a2bb8987-a8aa-46f9-9c28-e0a998e2f23b@77.91.97.234:2083/?type=tcp&encryption=none&sni=www.microsoft.com&security=reality&pbk=t_7D9Igy232LaH3Ds5L4QHaVeY4nUMlSmuJgjaF5Bl4&sid=16#🇬🇪 Georgia | Neon Core Network 1
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?allowInsecure=0&flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#🇬🇪 Georgia | AkhaliNet 1
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top&type=tcp#🇬🇪 Georgia | AkhaliNet 2
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=r1.mizulina.top&type=tcp&headerType=none&path=%2F#🇬🇪 Georgia | AkhaliNet 3
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?allowInsecure=0&flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#🇬🇪 Georgia | AkhaliNet 4
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?allowInsecure=0&flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#🇬🇪 Georgia | AkhaliNet 5
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?security=tls&type=raw&sni=r1.mizulina.top&fp=edge&flow=xtls-rprx-vision&encryption=none#🇬🇪 Georgia | AkhaliNet 6
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?type=tcp&security=tls&flow=xtls-rprx-vision&fp=edge&sni=r1.mizulina.top&path=&host=r1.mizulina.top#🇬🇪 Georgia | AkhaliNet 7
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=r1.mizulina.top&type=tcp&headerType=none&host=r1.mizulina.top&path=%2F#🇬🇪 Georgia | AkhaliNet 8
