@@ -3,22 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMTcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://83f7aa17-37b7-42b8-a265-d5528dd2705f@85.192.42.234:1021?fp=chrome&pbk=adI4uGaYC3zGQJmMqQND7yiUpARLpKn0gzLlHDSH9UU&security=reality&sid=a9d1a34fceee7440&sni=yandex.ru&type=tcp#🇦🇹 Austria | Aeza International LTD 1
-vless://58f2d0b3-71c1-4b25-a723-155ec1e13725@45.152.202.52:64534?path=/&encryption=none&type=ws#🇦🇹 Austria | Lunory Cloud Solutions... 1
-vless://58f2d0b3-71c1-4b25-a723-155ec1e13725@srv154.towersflowerss.com:64534?type=ws&headerType=none&security=none&encryption=none&path=%2F#🇦🇹 Austria | Lunory Cloud Solutions... 2
-vless://58f2d0b3-71c1-4b25-a723-155ec1e13725@srv154.towersflowerss.com:64534?&security=false&fp=chrome&type=ws&headerType=none&host=srv154.towersflowerss.com&path=%2F#🇦🇹 Austria | Lunory Cloud Solutions... 3
-vless://58f2d0b3-71c1-4b25-a723-155ec1e13725@srv154.towersflowerss.com:64534?path=%2F&security=&encryption=none&type=ws#🇦🇹 Austria | Lunory Cloud Solutions... 4
-vless://58f2d0b3-71c1-4b25-a723-155ec1e13725@srv154.towersflowerss.com:64534?type=ws&path=%2F&sni=srv154.towersflowerss.com#🇦🇹 Austria | Lunory Cloud Solutions... 5
-vless://58f2d0b3-71c1-4b25-a723-155ec1e13725@srv154.towersflowerss.com:64534?path=%2F&security=&encryption=none&type=ws#🇦🇹 Austria | Lunory Cloud Solutions... 6
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.180.197.41:8080#🇦🇹 Austria | M247 Europe SRL 1
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.41:10443?security=reality&encryption=none&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#🇦🇹 Austria | Matteo Fruhwald tradin... 1
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.41:10443?security=reality&encryption=none&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#🇦🇹 Austria | Matteo Fruhwald tradin... 2
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-at-ph.ray-balance.space:10443?security=reality&encryption=none&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#🇦🇹 Austria | Matteo Fruhwald tradin... 3
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@152.53.46.104:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site&spx=/#🇦🇹 Austria | netcup GmbH 1
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site#🇦🇹 Austria | netcup GmbH 2
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site&spx=/#🇦🇹 Austria | netcup GmbH 3
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site&spx=/#🇦🇹 Austria | netcup GmbH 4
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site&spx=/#🇦🇹 Austria | netcup GmbH 5
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site&spx=/#🇦🇹 Austria | netcup GmbH 6
