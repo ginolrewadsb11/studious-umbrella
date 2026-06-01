@@ -3,9 +3,16 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMTEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://e5bd13cc-f546-42eb-b64b-55797a0bb9ab@89.127.218.251:443?type=tcp&headerType=none&security=reality&encryption=none&sni=github.com&fp=chrome&pbk=YJ9I6GzZ_xT_Rk8We8iR1CwEMbzF4I30i_EH2VOVY0Y&sid=abab34c40ed6c10a#🇮🇪 Ireland | IBIS 1
-vless://7625adbb-52f7-4ff4-95f8-677471071a77@89.127.207.188:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&sid=92d0c4089b6c1da3&sni=io.ozone.ru#🇮🇪 Ireland | IBIS 2
+vless://7625adbb-52f7-4ff4-95f8-677471071a77@89.127.207.188:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&sid=92d0c4089b6c1da3&sni=io.ozone.ru#🇮🇪 Ireland | IBIS 1
+vless://274fe3eb-20de-45dd-bb3e-c32534b63494@89.127.207.188:11443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&sid=92d0c4089b6c1da3&sni=io.ozone.ru#🇮🇪 Ireland | IBIS 2
 vless://7625adbb-52f7-4ff4-95f8-677471071a77@89.127.207.188:11443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&sid=92d0c4089b6c1da3&sni=io.ozone.ru#🇮🇪 Ireland | IBIS 3
-vless://7625adbb-52f7-4ff4-95f8-677471071a77@89.127.207.188:11443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&sni=io.ozone.ru&sid=92d0c4089b6c1da3#🇮🇪 Ireland | IBIS 4
+vless://7625adbb-52f7-4ff4-95f8-677471071a77@89.127.207.188:11443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&sid=92d0c4089b6c1da3&sni=io.ozone.ru#🇮🇪 Ireland | IBIS 4
+vless://7625adbb-52f7-4ff4-95f8-677471071a77@89.127.207.188:11443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&sid=92d0c4089b6c1da3&sni=io.ozone.ru#🇮🇪 Ireland | IBIS 5
+vless://7625adbb-52f7-4ff4-95f8-677471071a77@89.127.207.188:11443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&sid=92d0c4089b6c1da3&sni=io.ozone.ru#🇮🇪 Ireland | IBIS 6
+vless://1cbfb9ea-2a50-4c25-adea-3fd8065e21bc@196.196.192.10:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&security=reality&sid=7755e972daf8eec8&sni=video.intfreed.ru&type=tcp#🇮🇪 Ireland | Orion Network 1
+vless://1cbfb9ea-2a50-4c25-adea-3fd8065e21bc@196.196.192.10:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&security=reality&sid=7755e972daf8eec8&sni=video.intfreed.ru&type=tcp#🇮🇪 Ireland | Orion Network 2
+vless://1cbfb9ea-2a50-4c25-adea-3fd8065e21bc@196.196.192.10:443?type=tcp&headerType=none&security=reality&encryption=none&sni=video.intfreed.ru&fp=chrome&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8&flow=xtls-rprx-vision#🇮🇪 Ireland | Orion Network 3
+vless://1cbfb9ea-2a50-4c25-adea-3fd8065e21bc@196.196.192.10:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&security=reality&sid=7755e972daf8eec8&sni=video.intfreed.ru&type=tcp#🇮🇪 Ireland | Orion Network 4
+vless://1cbfb9ea-2a50-4c25-adea-3fd8065e21bc@196.196.192.10:443?type=tcp&headerType=none&security=reality&encryption=none&sni=video.intfreed.ru&fp=chrome&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8&flow=xtls-rprx-vision#🇮🇪 Ireland | Orion Network 5
