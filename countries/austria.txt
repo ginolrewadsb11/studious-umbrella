@@ -3,12 +3,17 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMTIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.180.197.41:8080#🇦🇹 Austria | M247 Europe SRL 1
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.180.197.41:8080#🇦🇹 Austria | M247 Europe SRL 2
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.41:10443?security=reality&encryption=none&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#🇦🇹 Austria | Matteo Fruhwald tradin... 1
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.42:10443?security=reality&encryption=none&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#🇦🇹 Austria | Matteo Fruhwald tradin... 2
-vless://d1aa0bc6-8b4f-45a8-8917-4664b3cab074@ctt.phantom.direct:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=MvulKIGlZrkM65ni5qzHCtoECLxj1vqbKHA5831RGnk&sni=yandex.ru&sid=f83fd840aa1e1bc6&spx=%2F#🇦🇹 Austria | netcup GmbH 1
-vless://d1aa0bc6-8b4f-45a8-8917-4664b3cab074@ctt.phantom.direct:443?security=reality&encryption=none&pbk=MvulKIGlZrkM65ni5qzHCtoECLxj1vqbKHA5831RGnk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=f83fd840aa1e1bc6#🇦🇹 Austria | netcup GmbH 2
-vless://d1aa0bc6-8b4f-45a8-8917-4664b3cab074@ctt.phantom.direct:443?security=reality&encryption=none&pbk=MvulKIGlZrkM65ni5qzHCtoECLxj1vqbKHA5831RGnk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=f83fd840aa1e1bc6#🇦🇹 Austria | netcup GmbH 3
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.41:10443?security=reality&encryption=none&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#🇦🇹 Austria | Matteo Fruhwald tradin... 3
+vless://d1aa0bc6-8b4f-45a8-8917-4664b3cab074@46.8.209.84:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=yandex.ru&pbk=MvulKIGlZrkM65ni5qzHCtoECLxj1vqbKHA5831RGnk&sid=f83fd840aa1e1bc6#🇦🇹 Austria | netcup GmbH 1
+vless://d1aa0bc6-8b4f-45a8-8917-4664b3cab074@ctt.phantom.direct:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=MvulKIGlZrkM65ni5qzHCtoECLxj1vqbKHA5831RGnk&sni=yandex.ru&sid=f83fd840aa1e1bc6&spx=%2F#🇦🇹 Austria | netcup GmbH 2
+vless://d1aa0bc6-8b4f-45a8-8917-4664b3cab074@ctt.phantom.direct:443?flow=xtls-rprx-vision&fp=qq&pbk=MvulKIGlZrkM65ni5qzHCtoECLxj1vqbKHA5831RGnk&security=reality&sid=f83fd840aa1e1bc6&sni=yandex.ru&spx=%2F&type=tcp#🇦🇹 Austria | netcup GmbH 3
+vless://d1aa0bc6-8b4f-45a8-8917-4664b3cab074@ctt.phantom.direct:443?security=reality&encryption=none&pbk=MvulKIGlZrkM65ni5qzHCtoECLxj1vqbKHA5831RGnk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=f83fd840aa1e1bc6#🇦🇹 Austria | netcup GmbH 4
+vless://d1aa0bc6-8b4f-45a8-8917-4664b3cab074@ctt.phantom.direct:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=MvulKIGlZrkM65ni5qzHCtoECLxj1vqbKHA5831RGnk&sid=f83fd840aa1e1bc6&sni=yandex.ru&spx=/#🇦🇹 Austria | netcup GmbH 5
+vless://d1aa0bc6-8b4f-45a8-8917-4664b3cab074@ctt.phantom.direct:443?security=reality&encryption=none&pbk=MvulKIGlZrkM65ni5qzHCtoECLxj1vqbKHA5831RGnk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=f83fd840aa1e1bc6#🇦🇹 Austria | netcup GmbH 6
+trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?type=tcp&security=tls&headerType=none&sni=www.mesaly.click&fp=chrome&allowInsecure=1#🇦🇹 Austria | ONEPROVIDER 1
