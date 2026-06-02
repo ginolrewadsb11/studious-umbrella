@@ -3,13 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://9232a847-8f7d-4548-a23a-a8b3550e0f15@188.114.97.6:443?path=/id-tksi&security=tls&encryption=none&host=grabacademyportal.grab.com.cyylr.eu.cc&type=ws&sni=grabacademyportal.grab.com.cyylr.eu.cc#🌍 Indonesia | PT. Telekomunikasi Ind... 1
-vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?&security=tls&fp=chrome&alpn=http/1.1&sni=m.udemy.com.cyylr.eu.cc&type=ws&headerType=none&host=m.udemy.com.cyylr.eu.cc&path=%2Fid-tksi#🌍 Indonesia | PT. Telekomunikasi Ind... 2
 vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@103.18.49.100:443?path=%2Fid-pusat&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#🌍 Indonesia | PUSATMEDIA 1
 vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@103.18.49.100:443?path=%2Fid-pusat&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#🌍 Indonesia | PUSATMEDIA 2
-vless://6e593426-1a8e-4226-984f-0ea174e218c7@103.18.49.100:443?path=%2Fid-pusat&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=dl.cvs.freefiremobile.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=dl.cvs.freefiremobile.com.cyylr.eu.cc#🌍 Indonesia | PUSATMEDIA 3
-vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@103.18.49.100:443?path=%2Fid-pusat&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#🌍 Indonesia | PUSATMEDIA 4
-vless://565b50d4-604d-4a60-9fc2-d9d3dac0aec6@216.24.57.1:443?security=tls&type=ws&path=/id-pusat&host=dl.cvs.freefiremobile.com.cyylr.eu.cc&alpn=http/1.1&sni=dl.cvs.freefiremobile.com.cyylr.eu.cc&fp=chrome&encryption=none#🌍 Indonesia | PUSATMEDIA 5
-vless://67bd5517-7fdb-4642-b56f-d7380567cc95@188.114.97.6:443?security=tls&type=ws&path=/id-pusat&host=blog.webex.com.cyylr.eu.cc&sni=blog.webex.com.cyylr.eu.cc&fp=chrome&encryption=none#🌍 Indonesia | PUSATMEDIA 6
+vless://6e593426-1a8e-4226-984f-0ea174e218c7@103.18.49.100:443?security=tls&type=ws&path=/id-pusat&host=dl.cvs.freefiremobile.com.cyylr.eu.cc&alpn=http/1.1&sni=dl.cvs.freefiremobile.com.cyylr.eu.cc&fp=chrome&encryption=none#🌍 Indonesia | PUSATMEDIA 3
+vless://6e593426-1a8e-4226-984f-0ea174e218c7@103.18.49.100:443?path=%2Fid-pusat&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=dl.cvs.freefiremobile.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=dl.cvs.freefiremobile.com.cyylr.eu.cc#🌍 Indonesia | PUSATMEDIA 4
+vless://6e593426-1a8e-4226-984f-0ea174e218c7@103.18.49.100:443?path=%2Fid-pusat&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=dl.cvs.freefiremobile.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=dl.cvs.freefiremobile.com.cyylr.eu.cc#🌍 Indonesia | PUSATMEDIA 5
