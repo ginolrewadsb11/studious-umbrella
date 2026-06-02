@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://1fa64e54-fc80-4fc7-af49-d09f3227ab04@176.122.25.48:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.ru&pbk=JH1FteoTVW6inmHDUgZATEXXxctafAXV2i7AFq352kc&sid=3877079df74f61&spx=%2F#🇧🇪 Belgium | WorkTitans B.V. 1
-vless://1fa64e54-fc80-4fc7-af49-d09f3227ab04@176.122.25.48:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=img.yandex.ru&pbk=JH1FteoTVW6inmHDUgZATEXXxctafAXV2i7AFq352kc&sid=e93a&spx=%2F#🇧🇪 Belgium | WorkTitans B.V. 2
-vless://dc48f1af-fb9a-42e2-8171-bc5bede371d1@176.122.25.48:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=JH1FteoTVW6inmHDUgZATEXXxctafAXV2i7AFq352kc&sid=53095f58d13a6503&spx=%2F#🇧🇪 Belgium | WorkTitans B.V. 3
+vless://48d7e2e5-6ddc-434f-a5e5-c53b9e2f6301@109.69.218.212:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=ns.passwd.space&fp=randomized&flow=xtls-rprx-vision&pbk=KfKYcURcfQ207VZCXG4g2cxltWvG2Zk7j3WCjvpa8Sg#🇧🇪 Belgium | VERIXI SA 1

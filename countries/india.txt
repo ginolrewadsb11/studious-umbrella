@@ -3,31 +3,26 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh7MgQm9iaVZQTiDigJQgSW5kaWEK4pqhIDI2INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+HrvCfh7MgQm9iaVZQTiDigJQgSW5kaWEK4pqhIDIxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
 vmess://eyJhZGQiOiIxNzIuMjMyLjEwMy4xODYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1JTiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇮🇳 India | Akamai Technologies, 1
 vmess://eyJhZGQiOiIxNzIuMjMyLjEwMy4xODYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzW3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtSU4tMTQwMDY4MDYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇮🇳 India | Akamai Technologies, 2
 vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?type=tcp&security=reality&fp=chrome&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&sid=972e3378&sni=microsoft.com&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇮🇳 India | Baxet Group 1
 vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?type=tcp&security=reality&fp=chrome&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&sid=972e3378&sni=microsoft.com&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇮🇳 India | Baxet Group 2
-vless://8667cb55-c70a-5461-a213-5c038241abc2@45.89.106.4:443?security=reality&type=raw&sni=microsoft.com&fp=chrome&sid=972e3378&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&encryption=none#🇮🇳 India | Baxet Group 3
-vless://5e1083b9-4d4f-50ef-93e7-6e966dfce1f9@45.89.106.4:443?security=reality&type=tcp&sni=microsoft.com&fp=chrome&sid=972e3378&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw#🇮🇳 India | Baxet Group 4
-vless://8667cb55-c70a-5461-a213-5c038241abc2@45.89.106.4:443?security=reality&type=tcp&sni=microsoft.com&fp=chrome&sid=972e3378&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&encryption=none#🇮🇳 India | Baxet Group 5
-vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?type=tcp&security=reality&fp=chrome&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&sid=972e3378&sni=microsoft.com&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇮🇳 India | Baxet Group 6
 vless://d2992c0d-53cb-489c-85af-5eb80e6d9e79@141.193.213.30:443?encryption=none&type=ws&security=tls&path=%2Fin-do&host=blog.webex.com.cyylr.eu.cc&sni=blog.webex.com.cyylr.eu.cc&allowInsecure=0#🇮🇳 India | DigitalOcean, 1
 vless://d2992c0d-53cb-489c-85af-5eb80e6d9e79@141.193.213.30:443?encryption=none&type=ws&security=tls&path=%2Fin-do&host=blog.webex.com.cyylr.eu.cc&sni=blog.webex.com.cyylr.eu.cc&allowInsecure=0#🇮🇳 India | DigitalOcean, 2
-vless://d2992c0d-53cb-489c-85af-5eb80e6d9e79@141.193.213.30:443?encryption=none&type=ws&security=tls&path=%2Fin-do&host=blog.webex.com.cyylr.eu.cc&sni=blog.webex.com.cyylr.eu.cc&allowInsecure=0#🇮🇳 India | DigitalOcean, 3
-vless://559ab675-567f-4d61-a742-877bfd51d87c@188.114.97.6:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#🇮🇳 India | DigitalOcean, 4
-trojan://cf3d48cf-750c-4f18-89a7-f81d2e153fbe@cyylr.eu.cc:443?allowInsecure=0&sni=blog.webex.com.cyylr.eu.cc&type=ws&path=/in-do#🇮🇳 India | DigitalOcean, 5
-trojan://cf3d48cf-750c-4f18-89a7-f81d2e153fbe@cyylr.eu.cc:443?security=tls&sni=blog.webex.com.cyylr.eu.cc&type=ws&host=blog.webex.com.cyylr.eu.cc&path=%2Fin-do#🇮🇳 India | DigitalOcean, 6
-vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?security=reality&type=tcp&sni=microsoft.com&fp=chrome&sid=972e3378&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw#🇮🇳 India | NETRANEX TECHNOLOGIES ... 1
-vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=microsoft.com&fp=chrome&sid=972e3378&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw#🇮🇳 India | NETRANEX TECHNOLOGIES ... 2
-vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?type=tcp&security=reality&fp=chrome&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&sid=972e3378&sni=microsoft.com&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇮🇳 India | NETRANEX TECHNOLOGIES ... 3
-vless://5e1083b9-4d4f-50ef-93e7-6e966dfce1f9@45.89.106.4:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=microsoft.com&fp=chrome&sid=972e3378&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw#🇮🇳 India | NETRANEX TECHNOLOGIES ... 4
+vless://559ab675-567f-4d61-a742-877bfd51d87c@188.114.97.6:443?path=%2Fin-do&security=tls&encryption=none&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#🇮🇳 India | DigitalOcean, 3
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-25.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&type=tcp#🇮🇳 India | DigitalOcean, 4
+trojan://cf3d48cf-750c-4f18-89a7-f81d2e153fbe@cyylr.eu.cc:443?security=tls&sni=blog.webex.com.cyylr.eu.cc&type=ws&host=blog.webex.com.cyylr.eu.cc&path=%2Fin-do#🇮🇳 India | DigitalOcean, 5
+vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?type=tcp&security=reality&fp=chrome&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&sid=972e3378&sni=microsoft.com&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇮🇳 India | NETRANEX TECHNOLOGIES ... 1
+vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?type=tcp&security=reality&fp=chrome&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&sid=972e3378&sni=microsoft.com&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇮🇳 India | NETRANEX TECHNOLOGIES ... 2
 vless://8df10d83-3963-446d-a4e3-8bc043bda561@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/in-pdr&security=tls&encryption=none&host=space.byu.id.cyylr.eu.cc&type=ws&sni=space.byu.id.cyylr.eu.cc#🇮🇳 India | PDRSOLUTIONSFZC 1
-trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?allowInsecure=0&sni=www.sandbox-cloud.click#🇮🇳 India | The Constant Company 1
+vless://8df10d83-3963-446d-a4e3-8bc043bda561@188.114.97.6:443?security=tls&type=ws&path=/in-pdr&host=space.byu.id.cyylr.eu.cc&sni=space.byu.id.cyylr.eu.cc&fp=chrome&encryption=none#🇮🇳 India | PDRSOLUTIONSFZC 2
+trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?security=tls&sni=www.sandbox-cloud.click&fp=chrome&type=tcp#🇮🇳 India | The Constant Company 1
 trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?security=tls&sni=www.sandbox-cloud.click#🇮🇳 India | The Constant Company 2
-trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?security=tls&sni=www.sandbox-cloud.click#🇮🇳 India | The Constant Company 3
-trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?security=tls&sni=www.sandbox-cloud.click&fp=chrome&type=tcp#🇮🇳 India | The Constant Company 4
-trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?security=tls&sni=www.sandbox-cloud.click&fp=chrome&type=tcp#🇮🇳 India | The Constant Company 5
-trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?allowInsecure=0&sni=www.sandbox-cloud.click#🇮🇳 India | The Constant Company 6
-trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?fp=chrome&sni=www.sandbox-cloud.click#🇮🇳 India | The Constant Company 7
+trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?allowInsecure=0&sni=www.sandbox-cloud.click#🇮🇳 India | The Constant Company 3
+trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?security=tls&sni=www.sandbox-cloud.click#🇮🇳 India | The Constant Company 4
+trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?fp=chrome&sni=www.sandbox-cloud.click#🇮🇳 India | The Constant Company 5
+trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?security=tls&sni=www.sandbox-cloud.click#🇮🇳 India | The Constant Company 6
+trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?allowInsecure=0&sni=www.sandbox-cloud.click#🇮🇳 India | The Constant Company 7
+trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?security=tls&sni=www.sandbox-cloud.click&fp=chrome&type=tcp#🇮🇳 India | The Constant Company 8
