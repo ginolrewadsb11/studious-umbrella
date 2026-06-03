@@ -3,8 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuPCfh7AgQm9iaVZQTiDigJQgU2xvdmFraWEK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HuPCfh7AgQm9iaVZQTiDigJQgU2xvdmFraWEK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&type=tcp#🇸🇰 Slovakia | DataCamp 1
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&type=tcp#🇸🇰 Slovakia | DataCamp 2
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&type=tcp#🇸🇰 Slovakia | DataCamp 3
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443?security=tls&type=tcp&sni=cdn7-39.vk-cdnvideo.com&fp=chrome#🇸🇰 Slovakia | DataCamp 1
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&type=tcp#🇸🇰 Slovakia | DataCamp 2
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&type=tcp#🇸🇰 Slovakia | DataCamp 3
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&type=tcp#🇸🇰 Slovakia | DataCamp 4
