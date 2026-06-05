@@ -3,13 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVHVya2V5CuKaoSA4INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVHVya2V5CuKaoSA2INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://edc33a23-0574-480a-9b72-ab5b97497200@93.115.10.160:443?security=reality&type=tcp&sni=www.microsoft.com&fp=firefox&flow=xtls-rprx-vision&sid=8755d3406d69&pbk=UNmXDP41M-gwlnBgRgtt6Pw3LwI1-wFmbIDa-CNRejA&encryption=none#🇹🇷 Turkey | 2E TELEKOMUNIKASYON LT... 1
 vless://b85b1e90-b5ed-0002-b433-bf9d2eca0e42@ru9.aimodelhub.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru9.aimodelhub.top&fp=chrome&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&sid=a73cf719b624&type=tcp&headerType=none#🇹🇷 Turkey | 365.partners INC 1
 vmess://eyJhZGQiOiI1LjE4OC4xOTAuMjUyIiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmFtZSI6Ilx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmNyBUUiAxIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6MjIzMjQsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3W3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtVFItMTM2NTUzOTAiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjpudWxsLCJ0bHMiOiIiLCJ0eXBlIjpudWxsLCJ2IjpudWxsfQ==#🇹🇷 Turkey | G-Core Labs S.A. 1
-vless://71310f0a-1c4f-492d-8dec-fd755639d08a@185.181.211.81:37141?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 Turkey | Hostigger INC. 1
-vless://71310f0a-1c4f-492d-8dec-fd755639d08a@185.181.211.81:37141?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 Turkey | Hostigger INC. 2
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#🇹🇷 Turkey | Iksir Internet Hizmetl... 1
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#🇹🇷 Turkey | Scalaxy B.V. 1
-vless://bcc094e4-1a85-8a25-f8e1-5b08b9af841c@213.142.132.169:443?security=reality&type=tcp&sni=www.stackoverflow.com&fp=chrome&flow=xtls-rprx-vision&sid=c410508e9721512b&pbk=LaGTRJ1CJnnYV7FnyqQnU28I0xFTPFKI8xmUFwig5ic#🇹🇷 Turkey | Teknosos Bilisim Hizme... 1
+vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@45.92.219.119:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=d82fb387#🇹🇷 Turkey | YottaSrc 1
+vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@45.92.219.119:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=d82fb387#🇹🇷 Turkey | YottaSrc 2
