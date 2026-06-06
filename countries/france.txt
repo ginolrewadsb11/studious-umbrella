@@ -3,55 +3,56 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hq/Cfh7cgQm9iaVZQTiDigJQgRnJhbmNlCuKaoSA1MCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hq/Cfh7cgQm9iaVZQTiDigJQgRnJhbmNlCuKaoSA1MSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://391ff971-a901-415e-b0f1-e0c0047e7a24@194.33.34.167:443?security=reality&encryption=none&pbk=enBIOTqlP6CHTvic3CLgpUd_AcJAAbAQIa-oFIk4dVU&headerType=none&fp=chrome&spx=/&allowinsecure=0&type=tcp&sni=yahoo.com&sid=302e#🇫🇷 France | Aeza International LTD 1
-vless://9bc4a008-bc91-4ec2-aa3d-589584511965@158.160.197.192:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=fr.hatvpn.org&pbk=5f7Qx1uealNy3mUg8kV9R_npeYTogZwOsA-9bZtEfD0&sid=b2ba734eff38baa9#🇫🇷 France | Aeza International LTD 2
-vless://9bc4a008-bc91-4ec2-aa3d-589584511965@158.160.197.192:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=fr.hatvpn.org&pbk=5f7Qx1uealNy3mUg8kV9R_npeYTogZwOsA-9bZtEfD0&sid=b2ba734eff38baa9#🇫🇷 France | Aeza International LTD 3
+vless://391ff971-a901-415e-b0f1-e0c0047e7a24@194.33.34.167:443?security=reality&encryption=none&pbk=enBIOTqlP6CHTvic3CLgpUd_AcJAAbAQIa-oFIk4dVU&headerType=none&fp=chrome&spx=/&allowinsecure=0&type=tcp&sni=yahoo.com&sid=302e#🇫🇷 France | Aeza International LTD 2
+trojan://telegram-id-privatevpns@52.47.65.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | Amazon Technologies 1
+trojan://telegram-id-privatevpns@13.36.204.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 France | Amazon Technologies 2
 vless://acd726d3-0128-44d8-a575-21013ff7740a@51.44.25.250:44520?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=MrLRcU_2S2CpUc7VT3ajIavX5NYUiQdP6J5QTDFNGFU&sid=8897c56a495b26cc&sni=yahoo.com&spx=/#🇫🇷 France | Amazon.com, 1
 vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sid=ead3d6f82a9d&sni=yahoo.com&spx=/#🇫🇷 France | Amazon.com, 2
 vless://acd726d3-0128-44d8-a575-21013ff7740a@51.44.25.250:44520?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=MrLRcU_2S2CpUc7VT3ajIavX5NYUiQdP6J5QTDFNGFU&sid=8897c56a495b26cc&sni=yahoo.com&spx=/#🇫🇷 France | Amazon.com, 3
-vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?alpn=http/1.1&encryption=none&security=tls&sni=cdg-1.fromblancwithlove.com&type=tcp#🇫🇷 France | Datacamp 1
-vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?type=tcp&encryption=none&security=tls&sni=cdg-1.fromblancwithlove.com&alpn=h2&allowInsecure=1#🇫🇷 France | Datacamp 2
-vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443/?type=tcp&encryption=none&flow=&security=tls&sni=cdg-1.fromblancwithlove.com&alpn=h2&allowInsecure=1#🇫🇷 France | Datacamp 3
-vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=cdg-1.fromblancwithlove.com#🇫🇷 France | Datacamp 4
-vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#🇫🇷 France | Datacamp 5
-vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdg-1.fromblancwithlove.com&allowInsecure=0#🇫🇷 France | Datacamp 6
-vless://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇫🇷 France | Datacamp 7
-vless://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇫🇷 France | Datacamp 8
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=cdg-1.fromblancwithlove.com#🇫🇷 France | Datacamp 1
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?alpn=http/1.1&encryption=none&security=tls&sni=cdg-1.fromblancwithlove.com&type=tcp#🇫🇷 France | Datacamp 2
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?alpn=http%2F1.1&encryption=none&security=tls&sni=cdg-1.fromblancwithlove.com&type=tcp#🇫🇷 France | Datacamp 3
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443/?type=tcp&encryption=none&flow=&security=tls&sni=cdg-1.fromblancwithlove.com&alpn=h2&allowInsecure=1#🇫🇷 France | Datacamp 4
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdg-1.fromblancwithlove.com&allowInsecure=0#🇫🇷 France | Datacamp 5
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&encryption=none&sni=cdg-1.fromblancwithlove.com&alpn=h2&type=tcp&headerType=none&path=/&allow_insecure=1#🇫🇷 France | Datacamp 6
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?type=tcp&encryption=none&security=tls&sni=cdg-1.fromblancwithlove.com&alpn=h2&allowInsecure=1#🇫🇷 France | Datacamp 7
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#🇫🇷 France | Datacamp 8
+vless://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇫🇷 France | Datacamp 9
+vless://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇫🇷 France | Datacamp 10
+vless://6422cd50-ebf9-49d9-a9f3-ff21fa1a2325@45.95.233.82:443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&security=reality&encryption=none&fm=%7B%22fragment%22%3A%7B%22length%22%3A%2250-100%22%2C%22packets%22%3A%22tlshello%22%2C%22interval%22%3A%2210-20%22%7D%7D&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=6ba85179e30d4fc2#🇫🇷 France | Global Connectivity So... 1
 vless://35762c02-ff2b-4526-b41b-e96e5d99528b@151.241.228.254:34754?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=eMijZKuJlNEciXbhyzdbewk-ot_JLMZVaA42bxKFcBM&security=reality&sid=c9eb0359fac0c345&sni=yahoo.com&type=tcp#🇫🇷 France | Hostkey B.V. 1
 vless://7b241232-208d-4d36-857e-913f91b044f4@fr.noooo.win:443?type=tcp&headerType=none&security=tls&encryption=none&sni=api-6a20f558.noooo.win&fp=edge&alpn=h2&flow=xtls-rprx-vision&insecure=0#🇫🇷 France | InterConnects 1
-vless://7b241232-208d-4d36-857e-913f91b044f4@fr.noooo.win:443?type=tcp&headerType=none&security=tls&encryption=none&sni=api-6a20f558.noooo.win&fp=edge&alpn=h2&flow=xtls-rprx-vision&insecure=0#🇫🇷 France | InterConnects 2
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?encryption=none&path=/vless/&security=none&type=ws#🇫🇷 France | OVH SAS 1
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=bab-6.site&path=/vws/&sni=bab-6.site&fp=chrome#🇫🇷 France | OVH SAS 2
-vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&host=akamaized.net&path=%2Fvless%2F&security=none&type=ws#🇫🇷 France | OVH SAS 3
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#🇫🇷 France | OVH SAS 4
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#🇫🇷 France | OVH SAS 5
-ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#🇫🇷 France | OVH SAS 6
-ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#🇫🇷 France | OVH SAS 7
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&security=none&encryption=none&type=ws#🇫🇷 France | OVH SAS 8
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=%2Fvws%2F&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#🇫🇷 France | OVH SAS 9
-ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0=@51.254.128.106:2083#🇫🇷 France | OVH SAS 10
-vmess://eyJhZGQiOiJub2RlLWZyLmNvbm5lY3RzdWl0ZS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHBcLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiMmY0MjM0ZjktOGYzMy00YzdmLTk1MmYtNTY1ZmZhNWY1ZmI3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDUzIiwicHMiOiJcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjdbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1GUi0xMjc2NzQ1OSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇫🇷 France | OVH SAS 11
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@80.87.200.175:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=vk&allowInsecure=0&sni=ru-vk-2.1001notes.ru#🇫🇷 France | Petrosky Cloud 1
+vless://7b241232-208d-4d36-857e-913f91b044f4@fr.noooo.win:443?type=tcp&headerType=none&security=tls&encryption=none&sni=api-6a20f558.noooo.win&fp=edge&alpn=h2&flow=xtls-rprx-vision&insecure=0#🇫🇷 France | Orion Network 1
+vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=bab-6.site&path=/vws/&sni=bab-6.site&fp=chrome#🇫🇷 France | OVH SAS 1
+ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#🇫🇷 France | OVH SAS 2
+ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#🇫🇷 France | OVH SAS 3
+ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0=@51.254.128.106:2083#🇫🇷 France | OVH SAS 4
+vless://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ESRdmody9xdWVTaCtyGLg_LDopyMm9bUYDWH8NVWtjE&security=reality&sid=c906f73d3ba8211f&sni=www.leboncoin.fr&type=tcp#🇫🇷 France | OVH SAS 5
+vmess://eyJhZGQiOiJub2RlLWZyLmNvbm5lY3RzdWl0ZS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHBcLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiMmY0MjM0ZjktOGYzMy00YzdmLTk1MmYtNTY1ZmZhNWY1ZmI3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDUzIiwicHMiOiJcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjdbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1GUi0xMjc2NzQ1OSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇫🇷 France | OVH SAS 6
+vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=%2Fvws%2F&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#🇫🇷 France | OVH SAS 7
+vless://d2ce0b49-2b2c-46f6-9b43-4829d0075654@white77.alexanderoff.ru:1210?type=tcp&security=none&encryption=none#🇫🇷 France | OVH SAS 8
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@80.87.200.175:443?encryption=none&type=grpc&security=tls&mode=gun&serviceName=vk&fp=chrome&sni=ru-vk-2.1001notes.ru#🇫🇷 France | Petrosky Cloud 1
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@80.87.200.175:443?encryption=none&type=grpc&security=tls&mode=gun&serviceName=vk&sni=ru-vk-2.1001notes.ru#🇫🇷 France | Petrosky Cloud 2
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@80.87.200.175:443?encryption=none&type=grpc&security=tls&mode=gun&serviceName=vk&sni=ru-vk-2.1001notes.ru#🇫🇷 France | Petrosky Cloud 3
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@80.87.200.175:443?encryption=none&type=grpc&security=tls&mode=multi&serviceName=vk&fp=chrome&sni=ru-vk-2.1001notes.ru#🇫🇷 France | Petrosky Cloud 4
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=grpc&headerType=none&security=tls&encryption=none&sni=ru-vk-2.1001notes.ru&fp=chrome&serviceName=vk&insecure=0#🇫🇷 France | Petrosky Cloud 5
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=grpc&security=tls&fp=chrome&sni=ru-vk-2.1001notes.ru&mode=multi&serviceName=vk#🇫🇷 France | Petrosky Cloud 6
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&insecure=1&sni=www.microsoft.com#🇫🇷 France | Scaleway SAS 1
-hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#🇫🇷 France | Scaleway SAS 2
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=grpc&headerType=none&security=tls&encryption=none&sni=ru-vk-2.1001notes.ru&fp=chrome&serviceName=vk&insecure=0#🇫🇷 France | Petrosky Cloud 3
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=grpc&security=tls&fp=chrome&sni=ru-vk-2.1001notes.ru&mode=multi&serviceName=vk#🇫🇷 France | Petrosky Cloud 4
+trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&host=www.calmlunch.com#🇫🇷 France | SCALEWAY 1
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&path=/assignment#🇫🇷 France | SCALEWAY 2
+trojan://humanity@www.ignitelimit.com:443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&security=tls&type=ws#🇫🇷 France | SCALEWAY 3
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&path=/assignment#🇫🇷 France | SCALEWAY 4
+trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&type=ws#🇫🇷 France | SCALEWAY 5
+trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=%2Fassignment&security=tls&type=ws#🇫🇷 France | SCALEWAY 6
+hysteria2://dongtaiwang.com@62.210.124.146:22000?security=tls&sni=www.microsoft.com&allowInsecure=true#🇫🇷 France | Scaleway SAS 1
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇫🇷 France | Scaleway SAS 2
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#🇫🇷 France | Scaleway SAS 3
 hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#🇫🇷 France | Scaleway SAS 4
-hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#🇫🇷 France | Scaleway SAS 5
-hysteria2://dongtaiwang.com@62.210.124.146:22000?security=tls&sni=www.microsoft.com&allowInsecure=true#🇫🇷 France | Scaleway SAS 6
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#🇫🇷 France | Scaleway SAS 7
-hysteria2://dongtaiwang.com@62.210.124.146:22000?security=tls&insecure=1&sni=www.microsoft.com#🇫🇷 France | Scaleway SAS 8
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&type=ws#🇫🇷 France | Scaleway SAS 9
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&insecure=1&sni=www.microsoft.com#🇫🇷 France | Scaleway SAS 5
+hysteria2://dongtaiwang.com@62.210.124.146:22000?security=tls&insecure=1&sni=www.microsoft.com#🇫🇷 France | Scaleway SAS 6
+hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#🇫🇷 France | Scaleway SAS 7
+hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#🇫🇷 France | Scaleway SAS 8
 trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click#🇫🇷 France | The Constant Company, 1
 trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click#🇫🇷 France | The Constant Company, 2
 trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click#🇫🇷 France | The Constant Company, 3
-vless://e277ac9b-3225-4381-a9fb-3585419f7142@kobe.ns.cloudflare.com:443?&security=tls&fp=firefox&alpn=http/1.1&sni=35cdnws.frnstatic.info&type=ws&headerType=none&host=35cdnws.frnstatic.info&path=%2F35cdnws#🇫🇷 France | YottaSrc 1
-vless://e277ac9b-3225-4381-a9fb-3585419f7142@162.159.44.193:443?encryption=none&fp=chrome&host=35cdnws.frnstatic.info&path=%2F35cdnws&security=tls&sni=35cdnws.frnstatic.info&type=ws#🇫🇷 France | YottaSrc 2
-vless://e277ac9b-3225-4381-a9fb-3585419f7142@kobe.ns.cloudflare.com:443?&security=tls&fp=firefox&alpn=http/1.1&sni=35cdnws.frnstatic.info&type=ws&headerType=none&host=35cdnws.frnstatic.info&path=%2F35cdnws#🇫🇷 France | YottaSrc 3
-vless://10484bee-8516-400a-9b1e-efb5144ad324@45.67.139.54:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ya.ru&fp=qq&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&type=tcp&headerType=none#🇫🇷 France | YottaSrc 4
+vless://10484bee-8516-400a-9b1e-efb5144ad324@45.67.139.54:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ya.ru&fp=qq&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&type=tcp&headerType=none#🇫🇷 France | YottaSrc 1
