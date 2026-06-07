@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh74gQm9iaVZQTiDigJQgQmVsYXJ1cwrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh74gQm9iaVZQTiDigJQgQmVsYXJ1cwrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
+vless://e93998e0-dd6a-4234-be21-362bcc66f926@95.128.71.74:443?echfq=none&flow=xtls-rprx-vision&fp=random&headertype=none&pbk=rfed3aqchLeWtXyEl3AsbPGODbqXdx-3Mq41JVPQWVY&security=reality&sni=fastsync.xyz&type=tcp#🇧🇾 Belarus | "Vash internet partner" 1
 vless://9778a597-c81f-4459-9754-140b2ba8f784@rb01.bearvpn.win:443?type=grpc&security=reality&sni=5post-gate.x5.ru&fp=chrome&pbk=R-G0TgsAJZEFB4gEJ0bzScm0xJiO9bGgfGmt-X2IhAo&sid=#🇧🇾 Belarus | ITGLOBAL-SERVERSPACE 1
+vless://9778a597-c81f-4459-9754-140b2ba8f784@rb01.bearvpn.win:443?type=grpc&security=reality&sni=5post-gate.x5.ru&fp=chrome&pbk=R-G0TgsAJZEFB4gEJ0bzScm0xJiO9bGgfGmt-X2IhAo&sid=#🇧🇾 Belarus | ITGLOBAL-SERVERSPACE 2

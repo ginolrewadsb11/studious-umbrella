@@ -3,17 +3,18 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh6YgQm9iaVZQTiDigJQgQ2FuYWRhCuKaoSAxMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqPCfh6YgQm9iaVZQTiDigJQgQ2FuYWRhCuKaoSAxMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.60.99.199:443#🇨🇦 Canada | Amazon Technologies 1
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.96.152.83:443#🇨🇦 Canada | Amazon Technologies 2
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.156.47.96:8443?type=tcp&security=tls&encryption=none&sni=yyz-ca-01.fromblancwithlove.com#🇨🇦 Canada | Datacamp 1
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.156.47.96:8443?type=tcp&headerType=none&security=tls&encryption=none&sni=yyz-ca-01.fromblancwithlove.com&insecure=0#🇨🇦 Canada | Datacamp 2
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.156.47.96:8443?type=tcp&security=tls&fp=chrome&sni=yyz-ca-01.fromblancwithlove.com#🇨🇦 Canada | Datacamp 3
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 Canada | Datacamp 4
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 Canada | Datacamp 5
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.96.152.83:443#🇨🇦 Canada | Amazon Technologies 1
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.60.99.199:443#🇨🇦 Canada | Amazon Technologies 2
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 Canada | Datacamp 1
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 Canada | Datacamp 2
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.156.47.96:8443?type=tcp&headerType=none&security=tls&encryption=none&sni=yyz-ca-01.fromblancwithlove.com&insecure=0#🇨🇦 Canada | Datacamp 3
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.156.47.96:8443?encryption=none&security=tls&sni=yyz-ca-01.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇨🇦 Canada | Datacamp 4
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.156.47.96:8443?type=tcp&security=tls&fp=chrome&sni=yyz-ca-01.fromblancwithlove.com#🇨🇦 Canada | Datacamp 5
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#🇨🇦 Canada | DigitalOcean, 1
 vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6IjAiLCJhbHBuIjpudWxsLCJmcCI6bnVsbCwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmFtZSI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBDQSAyIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6MTgwMDAsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2W3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtQ0EtMTQwMzEwNTgiLCJzY3kiOm51bGwsInNuaSI6bnVsbCwidGxzIjoiIiwidHlwZSI6bnVsbCwidiI6bnVsbCwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇨🇦 Canada | GLOBALTELEHOST Corp 1
 vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOm51bGwsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOjE4MDAwLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNlt3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLUNBLTE0MDMxMDYyIiwic2N5IjpudWxsLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOm51bGwsInRscyI6IiIsInR5cGUiOm51bGwsInYiOm51bGx9#🇨🇦 Canada | GLOBALTELEHOST Corp. 1
 vmess://eyJhZGQiOiIxMzQuMTk1LjE5OC4xNDciLCJhaWQiOjAsImhvc3QiOiJpbm5hLmNmZCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNlt3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLUNBLTgzODI0NCIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=#🇨🇦 Canada | GLOBALTELEHOST Corp. 2
+vmess://ewogICAgImFkZCI6ICIxMzQuMTk1LjE5OC4xNDciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJpbm5hLmNmZCIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqPCfh6ZDQS0xMzQuMTk1LjE5OC4xNDctNjQ5MiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9#🇨🇦 Canada | GLOBALTELEHOST Corp. 3
 vless://0752b610-6fd0-4382-a40c-39d59b416a1e@ca.gsupport.support:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8&sni=video.intfreed.ru#🇨🇦 Canada | HZ Hosting 1
