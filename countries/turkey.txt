@@ -3,16 +3,24 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVHVya2V5CuKaoSAxMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVHVya2V5CuKaoSAxOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://b85b1e90-b5ed-0002-b433-bf9d2eca0e42@ru9.aimodelhub.top:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&sni=ru9.aimodelhub.top&sid=a73cf719b624#🇹🇷 Turkey | 365.partners INC 1
-vless://7dc6455b-09d5-43f4-a515-0ffa846b52db@onnevpn.dibaux.ir:80?type=ws&security=none&path=/stream#🇹🇷 Turkey | BIGCORE-US 1
-vless://7dc6455b-09d5-43f4-a515-0ffa846b52db@onnevpn.dibaux.ir:80?path=/stream&security=none&encryption=none&host=onnevpn.dibaux.ir&type=ws#🇹🇷 Turkey | BIGCORE-US 2
-vless://7dc6455b-09d5-43f4-a515-0ffa846b52db@onnevpn.dibaux.ir:80?type=ws&security=none&path=/stream#🇹🇷 Turkey | BIGCORE-US 3
+vless://b85b1e90-b5ed-0002-b433-bf9d2eca0e42@ru9.aimodelhub.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru9.aimodelhub.top&fp=chrome&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&sid=a73cf719b624&type=tcp&headerType=none#🇹🇷 Turkey | 365.partners INC 2
+vless://7dc6455b-09d5-43f4-a515-0ffa846b52db@onnevpn.dibaux.ir:80?type=ws&path=%2Fstream&host=onnevpn.dibaux.ir&sni=onnevpn.dibaux.ir#🇹🇷 Turkey | BIGCORE-US 1
+vless://7dc6455b-09d5-43f4-a515-0ffa846b52db@onnevpn.dibaux.ir:80?encryption=none&type=ws&path=%2Fstream&security=none#🇹🇷 Turkey | BIGCORE-US 2
+vless://3098d602-5103-4bc3-b3bd-7dda94c26af0@onnevpn.dibaux.ir:80?type=ws&security=none&path=/stream#🇹🇷 Turkey | BIGCORE-US 3
 vless://7dc6455b-09d5-43f4-a515-0ffa846b52db@onnevpn.dibaux.ir:80?type=ws&path=%2Fstream&host=onnevpn.dibaux.ir&sni=onnevpn.dibaux.ir#🇹🇷 Turkey | BIGCORE-US 4
-vless://7dc6455b-09d5-43f4-a515-0ffa846b52db@onnevpn.dibaux.ir:80?type=ws&path=%2Fstream&host=onnevpn.dibaux.ir&sni=onnevpn.dibaux.ir#🇹🇷 Turkey | BIGCORE-US 5
-vless://7dc6455b-09d5-43f4-a515-0ffa846b52db@onnevpn.dibaux.ir:80?path=%2Fstream&security=none&encryption=none&host=onnevpn.dibaux.ir&type=ws#🇹🇷 Turkey | BIGCORE-US 6
-vless://7dc6455b-09d5-43f4-a515-0ffa846b52db@onnevpn.dibaux.ir:80?path=/stream&security=none&encryption=none&host=onnevpn.dibaux.ir&type=ws#🇹🇷 Turkey | BIGCORE-US 7
+vless://7dc6455b-09d5-43f4-a515-0ffa846b52db@onnevpn.dibaux.ir:80?encryption=none&type=ws&path=%2Fstream&security=none#🇹🇷 Turkey | BIGCORE-US 5
+vless://3098d602-5103-4bc3-b3bd-7dda94c26af0@onnevpn.dibaux.ir:80?&security=false&fp=chrome&type=ws&headerType=none&host=onnevpn.dibaux.ir&path=%2Fstream#🇹🇷 Turkey | BIGCORE-US 6
+vless://3098d602-5103-4bc3-b3bd-7dda94c26af0@onnevpn.dibaux.ir:80?type=ws&security=none&path=/stream#🇹🇷 Turkey | BIGCORE-US 7
+vless://7dc6455b-09d5-43f4-a515-0ffa846b52db@onnevpn.dibaux.ir:80?path=/stream&security=&encryption=none&host=onnevpn.dibaux.ir&type=ws#🇹🇷 Turkey | BIGCORE-US 8
+vless://7dc6455b-09d5-43f4-a515-0ffa846b52db@onnevpn.dibaux.ir:80?&security=false&fp=chrome&type=ws&headerType=none&host=onnevpn.dibaux.ir&path=%2Fstream#🇹🇷 Turkey | BIGCORE-US 9
+vless://3098d602-5103-4bc3-b3bd-7dda94c26af0@onnevpn.dibaux.ir:80?&security=false&fp=chrome&type=ws&headerType=none&host=onnevpn.dibaux.ir&path=%2Fstream#🇹🇷 Turkey | BIGCORE-US 10
+vless://3098d602-5103-4bc3-b3bd-7dda94c26af0@onnevpn.dibaux.ir:80?encryption=none&host=onnevpn.dibaux.ir&path=/stream&security=none&type=ws#🇹🇷 Turkey | BIGCORE-US 11
+vless://7dc6455b-09d5-43f4-a515-0ffa846b52db@onnevpn.dibaux.ir:80?path=/stream&security=&encryption=none&host=onnevpn.dibaux.ir&type=ws#🇹🇷 Turkey | BIGCORE-US 12
+vless://7dc6455b-09d5-43f4-a515-0ffa846b52db@onnevpn.dibaux.ir:80?&security=false&fp=chrome&type=ws&headerType=none&host=onnevpn.dibaux.ir&path=%2Fstream#🇹🇷 Turkey | BIGCORE-US 13
+vless://3098d602-5103-4bc3-b3bd-7dda94c26af0@onnevpn.dibaux.ir:80?encryption=none&host=onnevpn.dibaux.ir&path=/stream&security=none&type=ws#🇹🇷 Turkey | BIGCORE-US 14
 vmess://eyJhZGQiOiI1LjE4OC4xOTAuMjUyIiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmFtZSI6Ilx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmNyBUUiAxIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6MjIzMjQsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3W3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtVFItMTM2NTUzOTAiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjpudWxsLCJ0bHMiOiIiLCJ0eXBlIjpudWxsLCJ2IjpudWxsfQ==#🇹🇷 Turkey | G-Core Labs S.A. 1
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#🇹🇷 Turkey | Iksir Internet Hizmetl... 1
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#🇹🇷 Turkey | Scalaxy B.V. 1
