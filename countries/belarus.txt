@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh74gQm9iaVZQTiDigJQgQmVsYXJ1cwrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh74gQm9iaVZQTiDigJQgQmVsYXJ1cwrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://f4df3096-8568-4c86-83d2-985623035724@185.66.68.90:10444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=praGYag8YPbz_rcd_Pa6Fqsi_IiQtO3e1AosYBcu6h4&sid=378086fbdb7c61cd&type=tcp&headerType=none#🇧🇾 Belarus | Beros 1
-vless://f4df3096-8568-4c86-83d2-985623035724@185.66.68.90:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=praGYag8YPbz_rcd_Pa6Fqsi_IiQtO3e1AosYBcu6h4&sid=378086fbdb7c61cd&sni=max.ru#🇧🇾 Belarus | Beros 2
+vless://9778a597-c81f-4459-9754-140b2ba8f784@rb01.bearvpn.win:443?type=grpc&headerType=none&security=reality&encryption=none&sni=5post-gate.x5.ru&pbk=R-G0TgsAJZEFB4gEJ0bzScm0xJiO9bGgfGmt-X2IhAo#🇧🇾 Belarus | ITGLOBAL-SERVERSPACE 1
