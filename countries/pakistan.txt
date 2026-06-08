@@ -3,10 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBQYWtpc3RhbgrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBQYWtpc3RhbgrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?security=tls&sni=www.registry-monitor.click#🌍 Pakistan | Kaopu Cloud HK 1
-vless://82162b75-5d5b-f8ec-896a-813170210c26@140.235.169.7:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=speed.cloudflare.com&fp=firefox&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#🌍 Pakistan | PureVoltage Hosting 1
-vless://82162b75-5d5b-f8ec-896a-813170210c26@140.235.169.7:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=speed.cloudflare.com&fp=firefox&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#🌍 Pakistan | PureVoltage Hosting 2
-vless://82162b75-5d5b-f8ec-896a-813170210c26@140.235.169.7:8443?type=grpc&headerType=none&security=reality&encryption=none&sni=speed.cloudflare.com&fp=firefox&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&serviceName=TunService#🌍 Pakistan | PureVoltage Hosting 3
-vless://82162b75-5d5b-f8ec-896a-813170210c26@140.235.169.7:8443?type=grpc&security=reality&fp=chrome&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&sni=speed.cloudflare.com&serviceName=TunService#🌍 Pakistan | PureVoltage Hosting 4
+trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?security=tls&sni=www.registry-monitor.click#🌍 Pakistan | Kaopu Cloud HK 2

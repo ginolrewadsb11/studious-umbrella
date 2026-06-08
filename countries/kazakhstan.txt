@@ -3,11 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://1df80689-3d1f-4222-a951-68f19bb3cb07@185.5.74.78:8443?type=grpc&security=reality&fp=qq&pbk=m86_ns3h8h5oTZRBDmOsG-kNDkB6hmON146AEcZQhkM&sni=ads.x5.ru&serviceName=grpc#🇰🇿 Kazakhstan | Newserverlife 1
-vless://738a43fa-b9d5-52f2-afb1-de4f5cd97753@kazakhstan.cloudpath.live:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=hs6qhK0bHKDbTBM9K_kcIeJbnCN5kiMcR_UFWTfVPGQ&sid=c4bd3737&sni=microsoft.com&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇰🇿 Kazakhstan | NLS ASTANA LLP 1
-vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Kazakhstan | NLS ASTANA LLP 2
-vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&fp=chrome&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&sid=83&sni=yahoo.com#🇰🇿 Kazakhstan | PE Fedinyak Sergey Vya... 1
+vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Kazakhstan | NLS ASTANA LLP 1
 vless://e8d0f687-b369-4071-9c9b-eb6c4359bf26@94.139.251.7:11443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WLGNuDVWlkss4TANQ6pBedJyLV-VM8CisOLWngsIzx0&sid=3ee506a4&sni=www.microsoft.com#🇰🇿 Kazakhstan | PS Internet Company 1
-vless://e8d0f687-b369-4071-9c9b-eb6c4359bf26@213.155.22.205:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WLGNuDVWlkss4TANQ6pBedJyLV-VM8CisOLWngsIzx0&sid=3ee506a4&sni=www.microsoft.com#🇰🇿 Kazakhstan | PS Internet Company 2
+vless://e8d0f687-b369-4071-9c9b-eb6c4359bf26@94.139.251.7:11443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WLGNuDVWlkss4TANQ6pBedJyLV-VM8CisOLWngsIzx0&sid=3ee506a4&sni=www.microsoft.com#🇰🇿 Kazakhstan | PS Internet Company 2
