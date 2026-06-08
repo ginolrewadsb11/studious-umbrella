@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.194:57452?security=tls&sni=www.vk.com&allowInsecure=true#🇮🇪 Ireland | M247 Europe SRL 1
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🇮🇪 Ireland | M247 Europe SRL 2
+vless://738a43fa-b9d5-52f2-afb1-de4f5cd97753@ireland.cloudpath.live:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=tQhDG2dne36AOrx4oQBItqltCR-gXrIrKz1PgAFvZTU&sid=533c56d7&sni=microsoft.com&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇮🇪 Ireland | Baxet Group Inc 1
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🇮🇪 Ireland | M247 Europe SRL 1

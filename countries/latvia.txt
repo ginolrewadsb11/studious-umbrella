@@ -3,15 +3,17 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsfCfh7sgQm9iaVZQTiDigJQgTGF0dmlhCuKaoSAxMCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsfCfh7sgQm9iaVZQTiDigJQgTGF0dmlhCuKaoSAxMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.4.46:8880?type=ws&security=none&encryption=none&path=%2F%3Fed%3D2560Join---V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev#🇱🇻 Latvia | EstNOC OU 1
-vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33f2#🇱🇻 Latvia | RETN 1
-vless://079c1b04-7ef9-4c49-8a7a-849a18ba7b9b@83.222.20.64:17910?security=reality&encryption=none&pbk=KUhrhiJBplVCVCrAKP2KjIA_asOgkkvEEAxUJVofjgc&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=8c09fb78b12f#🇱🇻 Latvia | RETN 2
-vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?security=reality&encryption=none&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f71c22#🇱🇻 Latvia | RETN 3
-vless://4b8d8d7f-a8b4-4e44-80a9-6f13c3149b52@45.130.214.192:53231?type=tcp&security=reality&fp=chrome&pbk=3mRweaWR6pK4HsbEtu874rNG9qBgdOMmSsKE4RkWSmk&sid=4ffbd0f3117c6f&sni=yahoo.com#🇱🇻 Latvia | RETN 4
-vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?type=tcp&security=reality&fp=chrome&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c&sni=yahoo.com#🇱🇻 Latvia | RETN 5
-vless://51d1be04-4cf1-4aad-9030-991cc54f550a@147.45.44.234:8443?type=tcp&security=none&encryption=none#🇱🇻 Latvia | SIA GOOD 1
-vless://51d1be04-4cf1-4aad-9030-991cc54f550a@147.45.44.210:8443?type=tcp&security=none&encryption=none#🇱🇻 Latvia | SIA GOOD 2
-vless://bee8df77-2780-5a7b-b005-9da84fcb7aaf@ru-lv.illusion-vpn.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ru-lv.illusion-vpn.ru&fp=chrome&pbk=86DiKd_LyZ_9L4WyaADZsNJH5wnaTGoZyywz0CGFYwg&sid=9ec378e393a94f&spx=/&flow=xtls-rprx-vision#🇱🇻 Latvia | Virtual Data Center Inc 1
-vless://bee8df77-2780-5a7b-b005-9da84fcb7aaf@ru-lv.illusion-vpn.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ru-lv.illusion-vpn.ru&fp=firefox&pbk=86DiKd_LyZ_9L4WyaADZsNJH5wnaTGoZyywz0CGFYwg&sid=9ec378e393a94f&spx=%2F&flow=xtls-rprx-vision#🇱🇻 Latvia | Virtual Data Center Inc 2
+vless://27cab83e-e48c-467a-a641-32eb070c03ac@31.56.28.52:14862?type=tcp&security=none&fp=chrome#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
+vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e&spx=%2F&type=tcp&headerType=none#🇱🇻 Latvia | RETN 1
+vless://4b8d8d7f-a8b4-4e44-80a9-6f13c3149b52@45.130.214.192:53231?type=tcp&security=reality&fp=chrome&pbk=3mRweaWR6pK4HsbEtu874rNG9qBgdOMmSsKE4RkWSmk&sid=4ffbd0f3117c6f&sni=yahoo.com#🇱🇻 Latvia | RETN 2
+vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?type=tcp&security=reality&fp=chrome&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c&sni=yahoo.com#🇱🇻 Latvia | RETN 3
+vless://079c1b04-7ef9-4c49-8a7a-849a18ba7b9b@83.222.20.64:17910?security=reality&encryption=none&pbk=KUhrhiJBplVCVCrAKP2KjIA_asOgkkvEEAxUJVofjgc&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=8c09fb78b12f#🇱🇻 Latvia | RETN 4
+vless://f2e9df1b-e0ba-4b37-a301-6aab8662c926@77.73.238.191:16622?security=reality&encryption=none&pbk=E5N_ckakvqgTOjiQ6Rmuwz1fchiT1-J3tH4cbzcH_GQ&headerType=&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=1c01d60ea915#🇱🇻 Latvia | RETN 5
+vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?security=reality&encryption=none&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f71c22#🇱🇻 Latvia | RETN 6
+vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33f2#🇱🇻 Latvia | RETN 7
+vless://ce068d3e-5c3c-4014-b464-b776ef95e778@d.lv-cdn.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=fHNZm9NrW_3Bp9xzCZhhoPuL4DFLqfaPu-uBhPE6dW4&sid=7a3f9e2b1c8d4f6a&sni=d.lv-cdn.ru#🇱🇻 Latvia | SIA GOOD 1
+vless://9a69c281-b698-4d4e-b76c-42ba116d9f74@kaede.ther0ck.top:443?type=tcp&headerType=none&security=reality&encryption=none&sni=kaede.ther0ck.top&fp=randomized&pbk=5QXpxeHfTVceMg_7LnkJFP4rfout2kZieA6TJaRYemo&flow=xtls-rprx-vision#🇱🇻 Latvia | SIA VEESP 1
+vless://bee8df77-2780-5a7b-b005-9da84fcb7aaf@ru-lv.illusion-vpn.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ru-lv.illusion-vpn.ru&fp=firefox&pbk=86DiKd_LyZ_9L4WyaADZsNJH5wnaTGoZyywz0CGFYwg&sid=9ec378e393a94f&spx=%2F&flow=xtls-rprx-vision#🇱🇻 Latvia | Virtual Data Center Inc 1
+vless://bee8df77-2780-5a7b-b005-9da84fcb7aaf@ru-lv.illusion-vpn.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ru-lv.illusion-vpn.ru&fp=chrome&pbk=86DiKd_LyZ_9L4WyaADZsNJH5wnaTGoZyywz0CGFYwg&sid=9ec378e393a94f&spx=/&flow=xtls-rprx-vision#🇱🇻 Latvia | Virtual Data Center Inc 2
