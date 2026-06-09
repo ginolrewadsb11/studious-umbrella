@@ -5,8 +5,8 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.249:443?security=tls&fp=chrome&sni=top707762634.mwscdn.ru&type=ws&headerType=none&host=top707762634.mwscdn.ru&path=/livestreamcontent/#🇲🇩 Moldova | Alexhost SRL 1
-vless://888403d1-621b-481a-b5dc-7aca518a787b@5.35.85.51:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.kinopoisk.ru&fp=qq&pbk=BrGL0gTKK_Ir2VwJOa91Vd8870DswnOXhA6-F92RBGI&sid=a987b6bd1781daa3&flow=xtls-rprx-vision#🇲🇩 Moldova | AVA HOST SRL 1
+vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.249:443?path=%2Flivestreamcontent%2F&security=tls&encryption=none&insecure=0&host=top707762634.mwscdn.ru&fp=chrome&type=ws&allowInsecure=0&sni=top707762634.mwscdn.ru#🇲🇩 Moldova | Alexhost SRL 1
+vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.249:443?&security=tls&fp=chrome&sni=top707762634.mwscdn.ru&type=ws&headerType=none&host=top707762634.mwscdn.ru&path=/livestreamcontent/#🇲🇩 Moldova | Alexhost SRL 2
 vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?type=tcp&security=reality&fp=chrome&pbk=RCp37oAO4E30SKBraaFaeUXeqvLGS7yH40VHl5a_6RE&sid=87ab&sni=yahoo.com&spx=/#🇲🇩 Moldova | OOO FREEnet Group 1
 vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?type=tcp&security=reality&fp=chrome&pbk=RCp37oAO4E30SKBraaFaeUXeqvLGS7yH40VHl5a_6RE&sid=87ab&sni=yahoo.com&spx=/#🇲🇩 Moldova | OOO FREEnet Group 2
 vless://838e036b-f229-480b-b0ef-86b1dc711add@193.233.202.1:443?type=tcp&security=reality&fp=chrome&pbk=RCp37oAO4E30SKBraaFaeUXeqvLGS7yH40VHl5a_6RE&sid=87ab&sni=yahoo.com&spx=/#🇲🇩 Moldova | OOO FREEnet Group 3
