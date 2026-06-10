@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://7e62f6ba-dfef-4ae6-9aba-81b5a2323aee@185.91.52.217:1443?encryption=none&type=grpc&security=reality&mode=multi&serviceName=grpc-vk&fp=qq&sni=avatars.mds.yandex.net&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=844352756c1fabba#🇧🇬 Bulgaria | Delta TV Rousse BG 1
 vless://8bb2d0ca-259b-46d0-8055-d6ecbb36f306@87.229.34.23:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&headerType=none#🇧🇬 Bulgaria | Serva ONE LTD 1
-vless://8bb2d0ca-259b-46d0-8055-d6ecbb36f306@87.229.34.23:443?security=reality&encryption=none&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com#🇧🇬 Bulgaria | Serva ONE LTD 2
