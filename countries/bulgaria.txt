@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://8bb2d0ca-259b-46d0-8055-d6ecbb36f306@87.229.34.23:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&headerType=none#🇧🇬 Bulgaria | Serva ONE LTD 1
+vless://a30bc003-9449-4035-9904-c7a2ef8b7bec@13.140.29.123:443?flow=xtls-rprx-vision&fp=firefox&pbk=8eP4hunZeynHEGlONFchnyVPffyWcIWOrxefwK-Bw38&security=reality&sid=5fbc3141&sni=bg1.americanprime.vip&type=tcp#🇧🇬 Bulgaria | DA International Group 1
+vless://a30bc003-9449-4035-9904-c7a2ef8b7bec@13.140.29.123:443?flow=xtls-rprx-vision&fp=firefox&pbk=8eP4hunZeynHEGlONFchnyVPffyWcIWOrxefwK-Bw38&security=reality&sid=5fbc3141&sni=bg1.americanprime.vip&spx=/&type=tcp#🇧🇬 Bulgaria | DA International Group 2
+vless://5b7223dd-da46-42fd-97be-39768b1ab9e3@185.246.131.242:6690?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=chrome&pbk=DPik2bQO_b9PyTkHFg9rtCw1Yh7FtdeYQtL8jZ1wkQA&sid=23c116fba570ca97#🇧🇬 Bulgaria | ONEPROVIDER 1

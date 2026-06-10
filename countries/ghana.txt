@@ -3,10 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBHaGFuYQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBHaGFuYQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:48697?security=tls&sni=gh.01.naiun.bilibili.com#🌍 Ghana | Datacamp 1
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.86:48697?security=tls&sni=gh.01.naiun.bilibili.com#🌍 Ghana | Datacamp 2
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.89:48697/?type=tcp&security=tls&sni=gh.01.naiun.bilibili.com&allowInsecure=1#🌍 Ghana | Datacamp 3
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.86:48697?security=tls&sni=gh.01.naiun.bilibili.com#🌍 Ghana | Datacamp 4
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.97:48697/?type=tcp&security=tls&sni=gh.01.naiun.bilibili.com&allowInsecure=1#🌍 Ghana | Datacamp 5
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.89:48697/?type=tcp&security=tls&sni=gh.01.naiun.bilibili.com&allowInsecure=1#🌍 Ghana | Datacamp 1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:48697?security=tls&sni=gh.01.naiun.bilibili.com#🌍 Ghana | Datacamp 2
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:48697?security=tls&sni=gh.01.naiun.bilibili.com#🌍 Ghana | Datacamp 3
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:48697?security=tls&sni=gh.01.naiun.bilibili.com#🌍 Ghana | Datacamp 4
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:48697/?type=tcp&security=tls&sni=gh.01.naiun.bilibili.com&allowInsecure=1#🌍 Ghana | Datacamp 5
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:48697?security=tls&sni=gh.01.naiun.bilibili.com#🌍 Ghana | Datacamp 6
