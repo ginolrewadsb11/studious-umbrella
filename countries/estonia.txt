@@ -3,8 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqvCfh6ogQm9iaVZQTiDigJQgRXN0b25pYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqvCfh6ogQm9iaVZQTiDigJQgRXN0b25pYQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#🇪🇪 Estonia | Aktsiaselts WaveCom 1
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#🇪🇪 Estonia | Aktsiaselts WaveCom 2
-vless://d4d234ea-80ea-4820-ac5e-05d653960579@132.243.65.0:443?security=reality&type=tcp&packetEncoding=xudp&sni=ee.cdn-global.pro&fp=chrome&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=RO5YMxxtJmZo2w370qG-seJ41toowHPbz6i2uXJ2gG0&encryption=none#🇪🇪 Estonia | Qwins LTD 1
+vless://3bf0c8ba-657a-11f1-a103-aef63c7126b0@155.212.215.179:2053?fp=firefox&pbk=eskKUMw6Dwq1x4OL0VWvnxVAI_XDTTNSpJV5u-N9XzA&security=reality&serviceName=grpc-direct&sid=e4073bc670efdc0c&sni=vk.com&type=grpc#🇪🇪 Estonia | BlueVPS OU 1
+vless://58d3d960-dfba-4f6d-908d-f4696686867f@51.250.43.93:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=MXpxhnU1ctGMXbGGjIrtDfjRX-BbbpsjnS4-SUv3OFs#🇪🇪 Estonia | Intezio Worldwide 1
+vless://58d3d960-dfba-4f6d-908d-f4696686867f@51.250.43.93:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=MXpxhnU1ctGMXbGGjIrtDfjRX-BbbpsjnS4-SUv3OFs#🇪🇪 Estonia | Intezio Worldwide 2
+vless://bfc2ca36-d503-2328-9472-ef50afa266ab@89.208.231.191:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1#🇪🇪 Estonia | OC NETWORKS LIMITED 1
+vless://10360c23-9847-4508-b50e-7ada85fbb0a7@212.113.120.126:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ru7.cdn-global.pro&fp=firefox&pbk=h18Rbgv9RV558p-9Pl4g_--jJjXlTZL0-jHqNK5M_n4&sid=2b8c3e90e14740d2&flow=xtls-rprx-vision#🇪🇪 Estonia | Qwins LTD 1
+vless://10360c23-9847-4508-b50e-7ada85fbb0a7@212.113.120.126:443?flow=xtls-rprx-vision&fp=firefox&pbk=h18Rbgv9RV558p-9Pl4g_--jJjXlTZL0-jHqNK5M_n4&security=reality&sid=2b8c3e90e14740d2&sni=ru7.cdn-global.pro&type=tcp#🇪🇪 Estonia | Qwins LTD 2
