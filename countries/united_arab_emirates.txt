@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://dc22c1b5-ea27-4d89-89ae-c0580ed94ca5@217.60.35.125:443?flow=xtls-rprx-vision&fp=firefox&pbk=7hCw9x8kRkAnLKO3FBwPLSM_6Qs5TOir31_TT050OxU&security=reality&sid=c9b0c990b745646d&sni=nl-cdn.ru&type=tcp#🇦🇪 United Arab Emirates | GoldIPv 1
-vless://dc22c1b5-ea27-4d89-89ae-c0580ed94ca5@217.60.35.125:443?flow=xtls-rprx-vision&fp=firefox&pbk=7hCw9x8kRkAnLKO3FBwPLSM_6Qs5TOir31_TT050OxU&security=reality&sid=c9b0c990b745646d&sni=nl-cdn.ru&type=tcp#🇦🇪 United Arab Emirates | GoldIPv 2
-vless://dc22c1b5-ea27-4d89-89ae-c0580ed94ca5@217.60.35.125:443?flow=xtls-rprx-vision&fp=firefox&pbk=7hCw9x8kRkAnLKO3FBwPLSM_6Qs5TOir31_TT050OxU&security=reality&sid=c9b0c990b745646d&sni=nl-cdn.ru&type=tcp#🇦🇪 United Arab Emirates | GoldIPv 3
-vless://dc22c1b5-ea27-4d89-89ae-c0580ed94ca5@185.244.41.59:443?flow=xtls-rprx-vision&fp=firefox&pbk=yUC3xJ5Pz3XI0oZKn3y4q8f6P9WR2TZ-HP-Cj_dRkRI&security=reality&sid=9de56f61d93cb685&sni=ru3.cdn-global.pro&type=tcp#🇦🇪 United Arab Emirates | GoldIPv 4
-vless://dc22c1b5-ea27-4d89-89ae-c0580ed94ca5@185.244.41.59:443?flow=xtls-rprx-vision&fp=firefox&pbk=yUC3xJ5Pz3XI0oZKn3y4q8f6P9WR2TZ-HP-Cj_dRkRI&security=reality&sid=9de56f61d93cb685&sni=ru3.cdn-global.pro&type=tcp#🇦🇪 United Arab Emirates | GoldIPv 5
-vless://dc22c1b5-ea27-4d89-89ae-c0580ed94ca5@185.244.41.59:443?flow=xtls-rprx-vision&fp=firefox&pbk=yUC3xJ5Pz3XI0oZKn3y4q8f6P9WR2TZ-HP-Cj_dRkRI&security=reality&sid=9de56f61d93cb685&sni=ru3.cdn-global.pro&type=tcp#🇦🇪 United Arab Emirates | GoldIPv 6
+vless://6e41151e-ae07-4ea6-910e-7a3986b7bc0d@31.56.188.60:7443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=mi.com&fp=firefox&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#🇦🇪 United Arab Emirates | GoldIPv 1
