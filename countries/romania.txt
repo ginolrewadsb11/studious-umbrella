@@ -3,21 +3,17 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgMTYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgMTIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://0d428036-c734-4d06-bcd5-48af4330d258@64.7.199.242:50949?type=ws&security=none&fp=chrome&path=/#🇷🇴 Romania | BL Networks 1
-vless://c0d445a7-4f33-446f-a113-2180ef25ed2d@64.7.199.242:14342?type=ws&fp=chrome#🇷🇴 Romania | BL Networks 2
-vless://c0d445a7-4f33-446f-a113-2180ef25ed2d@64.7.199.242:14342?encryption=none&security=none&type=ws&path=/#🇷🇴 Romania | BL Networks 3
-vless://c0d445a7-4f33-446f-a113-2180ef25ed2d@64.7.199.242:14342?encryption=none&security=none&type=ws&path=/#🇷🇴 Romania | BL Networks 4
+vless://c0d445a7-4f33-446f-a113-2180ef25ed2d@64.7.199.242:14342?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#🇷🇴 Romania | BL Networks 1
+vless://c0d445a7-4f33-446f-a113-2180ef25ed2d@64.7.199.242:14342?encryption=none&security=none&type=ws&path=/#🇷🇴 Romania | BL Networks 2
+vless://0d428036-c734-4d06-bcd5-48af4330d258@64.7.199.242:50949?type=ws&security=none&fp=chrome&path=/#🇷🇴 Romania | BL Networks 3
+vless://c0d445a7-4f33-446f-a113-2180ef25ed2d@64.7.199.242:14342?type=ws&fp=chrome#🇷🇴 Romania | BL Networks 4
 vless://c0d445a7-4f33-446f-a113-2180ef25ed2d@64.7.199.242:14342?type=ws#🇷🇴 Romania | BL Networks 5
 vless://c0d445a7-4f33-446f-a113-2180ef25ed2d@64.7.199.242:14342?type=ws#🇷🇴 Romania | BL Networks 6
-vless://c0d445a7-4f33-446f-a113-2180ef25ed2d@64.7.199.242:14342?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#🇷🇴 Romania | BL Networks 7
+vless://c0d445a7-4f33-446f-a113-2180ef25ed2d@64.7.199.242:14342/?type=ws&encryption=none&flow=&path=%2F#🇷🇴 Romania | BL Networks 7
 vless://c0d445a7-4f33-446f-a113-2180ef25ed2d@64.7.199.242:14342?type=ws&security=none&fp=chrome&path=/#🇷🇴 Romania | BL Networks 8
-vless://0d428036-c734-4d06-bcd5-48af4330d258@64.7.199.242:50949?type=ws&security=none&path=/#🇷🇴 Romania | BL Networks 9
+vless://0d428036-c734-4d06-bcd5-48af4330d258@64.7.199.242:50949?type=ws&path=%2F#🇷🇴 Romania | BL Networks 9
+vless://c0d445a7-4f33-446f-a113-2180ef25ed2d@64.7.199.242:14342?encryption=none&security=none&type=ws&path=/#🇷🇴 Romania | BL Networks 10
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.80:8443?encryption=none&security=tls&sni=buh-ro-01.fromblancwithlove.com&type=tcp#🇷🇴 Romania | Datacamp 1
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.80:8443?encryption=none&security=tls&sni=buh-ro-01.fromblancwithlove.com&type=tcp#🇷🇴 Romania | Datacamp 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇷🇴 Romania | Dotro Telecom SRL 1
-vless://394433c2-b5e9-4c9e-b976-24d29114f830@178.248.238.91:2001?security=reality&encryption=none&pbk=8vv7cXbTCJ3lzSDuwyt3THqTe2Hmq9SjqyHmSeVe62Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=148cb4094a#🇷🇴 Romania | M247 Europe SRL 1
-vless://394433c2-b5e9-4c9e-b976-24d29114f830@178.248.238.91:2001?security=reality&encryption=none&pbk=8vv7cXbTCJ3lzSDuwyt3THqTe2Hmq9SjqyHmSeVe62Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=148cb4094a#🇷🇴 Romania | M247 Europe SRL 2
-vless://394433c2-b5e9-4c9e-b976-24d29114f830@178.248.238.91:2001?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=ads.x5.ru&pbk=8vv7cXbTCJ3lzSDuwyt3THqTe2Hmq9SjqyHmSeVe62Y&sid=148cb4094a#🇷🇴 Romania | M247 Europe SRL 3
-vless://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.alibaba.com&fp=chrome&security=reality&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&sid=c906f73d3ba8211f#🇷🇴 Romania | Netrouting 1
