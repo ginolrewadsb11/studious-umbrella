@@ -3,7 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://4a4025f2-d75a-48c5-b593-e05103193870@176.123.4.214:8443?flow=xtls-rprx-vision&fp=firefox&pbk=NtsJnsHr8a9mPDr0SPxdJlSRbdUVmR_-Rq5RVT-3KzA&security=reality&sid=9f4263b353817e73&sni=rbc.ru&type=tcp#🇲🇩 Moldova | Alexhost SRL 1
 vless://4a4025f2-d75a-48c5-b593-e05103193870@176.123.4.214:8443?flow=xtls-rprx-vision&fp=firefox&pbk=NtsJnsHr8a9mPDr0SPxdJlSRbdUVmR_-Rq5RVT-3KzA&security=reality&sid=9f4263b353817e73&sni=rbc.ru&type=tcp#🇲🇩 Moldova | Alexhost SRL 2
+vless://3314aee8-9420-440c-bc3c-a0daa545517b@md.riotvpn.eu:8443?mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=grpc&serviceName=grpc-yandex&sni=avatars.mds.yandex.net&sid=e67fb918ed6b9ffb#🇲🇩 Moldova | H2nexus LTD 1
+vless://3314aee8-9420-440c-bc3c-a0daa545517b@md.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=avatars.mds.yandex.net&sid=b76dcf9e1183fe1b#🇲🇩 Moldova | H2nexus LTD 2
