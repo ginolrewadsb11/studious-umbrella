@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://738a43fa-b9d5-52f2-afb1-de4f5cd97753@germany-warp.cloudpath.live:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=m2R0jWgGdqaDuDzOFejStwGZbDX8i1G6Rw6oOUYksQE&sid=b8f03829&sni=microsoft.com&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇺🇦 Ukraine | Green Floid 1
-vless://738a43fa-b9d5-52f2-afb1-de4f5cd97753@ukraine.cloudpath.live:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=6ObbnVoyJ5NGk-UtOjR0oBwmIdoA98e8nVpiutOAMlQ&sid=8a23c1f2&sni=microsoft.com&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇺🇦 Ukraine | Green Floid 2
+hysteria2://723af53a-b131-3270-8ce0-13f8ecaaa322@88.151.195.254:443?sni=u723828us282.okgfwbackxyz.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#🇺🇦 Ukraine | Baxet Group 1
