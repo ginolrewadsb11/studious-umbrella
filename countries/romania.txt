@@ -3,9 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://f68435e2-ac00-4374-8c03-c1d36e171088@31.14.40.121:1443?flow=xtls-rprx-vision&fp=firefox&pbk=poY0RYff_huOMS_JWLfko7nAw6neo3QPGD2InLlJuh0&security=reality&sid=0911f3e34348cb95&sni=buha.snowfalls.top&type=tcp#🇷🇴 Romania | Data Room, Inc 1
 vless://f68435e2-ac00-4374-8c03-c1d36e171088@31.14.40.67:1443?flow=xtls-rprx-vision&fp=firefox&pbk=poY0RYff_huOMS_JWLfko7nAw6neo3QPGD2InLlJuh0&security=reality&sid=0911f3e34348cb95&sni=buha.snowfalls.top&type=tcp#🇷🇴 Romania | Data Room, Inc 2
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.80:8443?encryption=none&security=tls&sni=buh-ro-01.fromblancwithlove.com&type=tcp#🇷🇴 Romania | Datacamp 1
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.80:8443?encryption=none&security=tls&sni=buh-ro-01.fromblancwithlove.com&type=tcp#🇷🇴 Romania | Datacamp 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#🇷🇴 Romania | Dotro Telecom SRL 1
+vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@151.242.191.161:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4#🇷🇴 Romania | Serva ONE LTD 1
