@@ -3,13 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://29c7dbcb-168c-4835-ac75-a498c8b2ed0a@153.75.85.24:2054?fp=firefox&pbk=_szzUaXQ0DaEFrNoJ4wDl9f9QRnz7IgZ34vynT1sm0s&security=reality&serviceName=grpc&sid=160702e5604b613f&sni=www.ibm.com&type=grpc#🇦🇪 United Arab Emirates | Cloudzy A I Informatio... 1
-vless://29c7dbcb-168c-4835-ac75-a498c8b2ed0a@153.75.85.24:2054?fp=firefox&pbk=_szzUaXQ0DaEFrNoJ4wDl9f9QRnz7IgZ34vynT1sm0s&security=reality&serviceName=grpc&sid=2d592453d820c399&sni=www.ibm.com&type=grpc#🇦🇪 United Arab Emirates | Cloudzy A I Informatio... 2
-vless://29c7dbcb-168c-4835-ac75-a498c8b2ed0a@153.75.85.24:2054?fp=firefox&pbk=_szzUaXQ0DaEFrNoJ4wDl9f9QRnz7IgZ34vynT1sm0s&security=reality&serviceName=grpc&sid=681dd49b630dd334&sni=www.ibm.com&type=grpc#🇦🇪 United Arab Emirates | Cloudzy A I Informatio... 3
-vless://29c7dbcb-168c-4835-ac75-a498c8b2ed0a@153.75.85.24:8443?flow=xtls-rprx-vision&fp=firefox&pbk=XYKAewRz7tRumcTI-uJZAcwGsT_9f5e9L1nnKrOwjHg&security=reality&sid=f1f947f8ce9a2f65&sni=www.apple.com&type=tcp#🇦🇪 United Arab Emirates | Cloudzy A I Informatio... 4
-vless://29c7dbcb-168c-4835-ac75-a498c8b2ed0a@153.75.85.24:8443?flow=xtls-rprx-vision&fp=firefox&pbk=XYKAewRz7tRumcTI-uJZAcwGsT_9f5e9L1nnKrOwjHg&security=reality&sid=f1f947f8ce9a2f65&sni=www.apple.com&type=tcp#🇦🇪 United Arab Emirates | Cloudzy A I Informatio... 5
-vless://4e817899-2466-425c-a671-7ab5f25d08e8@130.94.45.81:443?flow=xtls-rprx-vision&fp=firefox&pbk=eJlKZq9C1kDSoLaod29cDbS0OFBx9nOGsSQNwq2-fyk&security=reality&sid=ad041ff6&sni=www.microsoft.com&type=tcp#🇦🇪 United Arab Emirates | Light Node 1
+vless://4e817899-2466-425c-a671-7ab5f25d08e8@130.94.45.81:443?security=reality&encryption=none&pbk=eJlKZq9C1kDSoLaod29cDbS0OFBx9nOGsSQNwq2-fyk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=ad041ff6#🇦🇪 United Arab Emirates | Light Node 1
 vless://4e817899-2466-425c-a671-7ab5f25d08e8@130.94.45.81:443?flow=xtls-rprx-vision&fp=firefox&pbk=eJlKZq9C1kDSoLaod29cDbS0OFBx9nOGsSQNwq2-fyk&security=reality&sid=ad041ff6&sni=www.microsoft.com&type=tcp#🇦🇪 United Arab Emirates | Light Node 2
 vless://4e817899-2466-425c-a671-7ab5f25d08e8@130.94.45.81:443?security=reality&encryption=none&pbk=eJlKZq9C1kDSoLaod29cDbS0OFBx9nOGsSQNwq2-fyk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=ad041ff6#🇦🇪 United Arab Emirates | Light Node 3
+vless://4e817899-2466-425c-a671-7ab5f25d08e8@130.94.45.81:443?flow=xtls-rprx-vision&fp=firefox&pbk=eJlKZq9C1kDSoLaod29cDbS0OFBx9nOGsSQNwq2-fyk&security=reality&sid=ad041ff6&sni=www.microsoft.com&type=tcp#🇦🇪 United Arab Emirates | Light Node 4
