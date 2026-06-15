@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBMaWJ5YQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBMaWJ5YQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://c4e81f7d-3750-486e-ab67-2ae0f43969c6@102.203.200.71:3443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.microsoft.com&fp=firefox&pbk=AdSCtMttNJ-KQuURl1ynBdy8DtAbCUFG6G2qB-GbTXU&sid=bc755b173467c322&flow=xtls-rprx-vision#🌍 Libya | Libyan Spider IT LTD 1
-vless://c4e81f7d-3750-486e-ab67-2ae0f43969c6@102.203.200.71:3443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.microsoft.com&fp=firefox&pbk=AdSCtMttNJ-KQuURl1ynBdy8DtAbCUFG6G2qB-GbTXU&sid=bc755b173467c322&flow=xtls-rprx-vision#🌍 Libya | Libyan Spider IT LTD 2
-vless://c4e81f7d-3750-486e-ab67-2ae0f43969c6@102.203.200.71:3443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.microsoft.com&fp=firefox&pbk=AdSCtMttNJ-KQuURl1ynBdy8DtAbCUFG6G2qB-GbTXU&sid=bc755b173467c322&flow=xtls-rprx-vision#🌍 Libya | Libyan Spider IT LTD 3
-vless://c4e81f7d-3750-486e-ab67-2ae0f43969c6@102.203.200.71:3443?flow=xtls-rprx-vision&fp=firefox&pbk=AdSCtMttNJ-KQuURl1ynBdy8DtAbCUFG6G2qB-GbTXU&security=reality&sid=bc755b173467c322&sni=www.microsoft.com&type=tcp#🌍 Libya | Libyan Spider IT LTD 4
+vless://f5a2c547-734e-4655-8069-618e38e2cd5c@102.203.200.71:3443?flow=xtls-rprx-vision&fp=firefox&pbk=AdSCtMttNJ-KQuURl1ynBdy8DtAbCUFG6G2qB-GbTXU&security=reality&sid=bc755b173467c322&sni=www.microsoft.com&type=tcp#🌍 Libya | Libyan Spider IT LTD 1
