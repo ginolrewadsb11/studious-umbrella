@@ -3,22 +3,23 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqvCfh7ggQm9iaVZQTiDigJQgU3BhaW4K4pqhIDE5INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+HqvCfh7ggQm9iaVZQTiDigJQgU3BhaW4K4pqhIDIwINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://4efaf684-3e7b-47a6-9193-d8d8f3481210@200.234.229.109:8443?flow=xtls-rprx-vision&fp=firefox&pbk=14isAyQkkB_jdJ_uBtTGESevP2jjflqiBA1k_3SXyCo&security=reality&sni=ads.x5.ru&type=tcp#🇪🇸 Spain | CLOUDING-VM 1
-vless://4efaf684-3e7b-47a6-9193-d8d8f3481210@200.234.229.109:8443?flow=xtls-rprx-vision&fp=firefox&pbk=14isAyQkkB_jdJ_uBtTGESevP2jjflqiBA1k_3SXyCo&security=reality&sni=ads.x5.ru&type=tcp#🇪🇸 Spain | CLOUDING-VM 2
-vless://4efaf684-3e7b-47a6-9193-d8d8f3481210@200.234.229.109:8443?flow=xtls-rprx-vision&fp=firefox&pbk=14isAyQkkB_jdJ_uBtTGESevP2jjflqiBA1k_3SXyCo&security=reality&sni=ads.x5.ru&type=tcp#🇪🇸 Spain | CLOUDING-VM 3
-vless://1704631c-fc47-4b59-b390-ddb32413ce09@45.198.80.70:8443?type=tcp&security=reality&sni=storage.yandex.net&flow=xtls-rprx-vision&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c#🇪🇸 Spain | DataCamp 1
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.139.26.233:443?flow=xtls-rprx-vision&fp=firefox&pbk=exJBYIXCOTwIw7MRiUi3XW7cWiZUYEwooirDa8jaXCI&security=reality&sid=70b627&sni=www.ya.ru&type=tcp#🇪🇸 Spain | Baxet Group 1
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.139.26.233:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.ya.ru&pbk=exJBYIXCOTwIw7MRiUi3XW7cWiZUYEwooirDa8jaXCI&sid=70b627#🇪🇸 Spain | Baxet Group 2
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.139.26.233:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.ya.ru&pbk=exJBYIXCOTwIw7MRiUi3XW7cWiZUYEwooirDa8jaXCI&sid=70b627#🇪🇸 Spain | Baxet Group 3
+vless://71945e72-e32f-4a84-9106-c88c99fe4f30@45.198.80.130:8443?flow=xtls-rprx-vision&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#🇪🇸 Spain | DataCamp 1
+vless://394f6981-a782-4779-9a85-e6cf22935d93@212.102.48.217:8443?encryption=none&security=tls&sni=mad-es.fromblancwithlove.com&type=tcp#🇪🇸 Spain | Datacamp 1
 vless://325bcc72-b5c2-4338-bf2d-4766de7018bb@45.198.80.123:8443?flow=xtls-rprx-vision&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#🇪🇸 Spain | DataCamp 2
 vless://3651e3f9-919a-404e-b96d-37b50b321e1c@45.198.80.123:8443?flow=xtls-rprx-vision&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=48fccabc158a4c22&sni=storage.yandex.net&type=tcp#🇪🇸 Spain | DataCamp 3
-vless://394f6981-a782-4779-9a85-e6cf22935d93@212.102.48.217:8443?encryption=none&security=tls&sni=mad-es.fromblancwithlove.com&type=tcp#🇪🇸 Spain | Datacamp 1
-vless://325bcc72-b5c2-4338-bf2d-4766de7018bb@45.198.80.123:8443?flow=xtls-rprx-vision&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#🇪🇸 Spain | DataCamp 4
-vless://325bcc72-b5c2-4338-bf2d-4766de7018bb@45.198.80.206:8443?sid=28047c78b3f5ee2c&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sni=storage.yandex.net&flow=xtls-rprx-vision&fp=firefox&type=tcp#🇪🇸 Spain | DataCamp 5
-vless://1704631c-fc47-4b59-b390-ddb32413ce09@45.198.80.70:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sni=storage.yandex.net&sid=28047c78b3f5ee2c#🇪🇸 Spain | DataCamp 6
-vless://71945e72-e32f-4a84-9106-c88c99fe4f30@45.198.80.130:8443?flow=xtls-rprx-vision&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#🇪🇸 Spain | DataCamp 7
-vless://71945e72-e32f-4a84-9106-c88c99fe4f30@45.198.80.130:8443?flow=xtls-rprx-vision&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#🇪🇸 Spain | DataCamp 8
 vless://394f6981-a782-4779-9a85-e6cf22935d93@212.102.48.217:8443?encryption=none&security=tls&sni=mad-es.fromblancwithlove.com&type=tcp#🇪🇸 Spain | Datacamp 2
-vless://3651e3f9-919a-404e-b96d-37b50b321e1c@45.198.80.123:8443?flow=xtls-rprx-vision&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=48fccabc158a4c22&sni=storage.yandex.net&type=tcp#🇪🇸 Spain | DataCamp 9
+vless://394f6981-a782-4779-9a85-e6cf22935d93@212.102.48.217:8443?encryption=none&security=tls&sni=mad-es.fromblancwithlove.com&type=tcp#🇪🇸 Spain | Datacamp 3
+vless://325bcc72-b5c2-4338-bf2d-4766de7018bb@45.198.80.123:8443?flow=xtls-rprx-vision&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#🇪🇸 Spain | DataCamp 4
+vless://71945e72-e32f-4a84-9106-c88c99fe4f30@45.198.80.130:8443?flow=xtls-rprx-vision&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#🇪🇸 Spain | DataCamp 5
+vless://1704631c-fc47-4b59-b390-ddb32413ce09@45.198.80.70:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=28047c78b3f5ee2c#🇪🇸 Spain | DataCamp 6
+vless://7b95170c-2c58-461d-b882-d7021bf356b2@bypass.velsanto.online:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22&flow=xtls-rprx-vision#🇪🇸 Spain | DataCamp 7
+vless://7b95170c-2c58-461d-b882-d7021bf356b2@bypass.velsanto.online:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sni=storage.yandex.net&sid=48fccabc158a4c22#🇪🇸 Spain | DataCamp 8
+vless://7b95170c-2c58-461d-b882-d7021bf356b2@bypass.velsanto.online:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sni=storage.yandex.net&sid=48fccabc158a4c22#🇪🇸 Spain | DataCamp 9
 vmess://eyJhZGQiOiI4NS45MC4yMTcuNDIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjIyMzI0IiwicHMiOiJcdWQ4M2NcdWRkZWFcdWQ4M2NcdWRkZjhbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1FUy0xMzQ4MzY4OSIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#🇪🇸 Spain | G-Core Labs S.A. 1
 vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6rwn4e4IEVTLTE5MSIsImFkZCI6Ijg1LjkwLjIxNy40MiIsInBvcnQiOjIyMzI0LCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=#🇪🇸 Spain | G-Core Labs S.A. 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 Spain | Psychz Networks 1
