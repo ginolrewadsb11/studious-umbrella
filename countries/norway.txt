@@ -3,16 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hs/Cfh7QgQm9iaVZQTiDigJQgTm9yd2F5CuKaoSAxMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hs/Cfh7QgQm9iaVZQTiDigJQgTm9yd2F5CuKaoSA3INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#🇳🇴 Norway | BrainStorm Network, Inc 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#🇳🇴 Norway | BrainStorm Network, Inc 2
 vless://ccdce320-7eef-4815-8edb-c599987c2279@5.254.14.169:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=0dc0ced5bf4f756c&sni=cdn9-40.yahoo.com#🇳🇴 Norway | DataCamp 1
 vless://ccdce320-7eef-4815-8edb-c599987c2279@5.254.14.169:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sni=cdn9-40.yahoo.com&sid=0dc0ced5bf4f756c#🇳🇴 Norway | DataCamp 2
 vless://20000020-3063-1463-f000-fac8e7eea020@151.242.168.32:310?flow=xtls-rprx-vision&fp=qq&pbk=R6BXhtRa7pHc4HuTJ5TJNq1PtQP67R2NMxE-ADiDEHg&security=reality&sid=b35da7a67647a120&sni=kfsmradio.net#🇳🇴 Norway | Gigahost 1
-vless://f0ea76e9-c3c4-4e2c-b2f9-a97d65cc2907@193.203.10.86:443?security=reality&encryption=none&pbk=_XwzsH6EuV-UnQbXblD4XK46wxaWQcF-0GQ-nAkj3Xo&headerType=none&fp=chrome&spx=/&allowinsecure=0&type=tcp&sni=yahoo.com&sid=8735#🇳🇴 Norway | Global Connectivity So... 1
-vless://f0ea76e9-c3c4-4e2c-b2f9-a97d65cc2907@193.203.10.86:443?security=reality&encryption=none&pbk=_XwzsH6EuV-UnQbXblD4XK46wxaWQcF-0GQ-nAkj3Xo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=8735#🇳🇴 Norway | Global Connectivity So... 2
-vless://f68435e2-ac00-4374-8c03-c1d36e171088@87.120.104.41:1443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Yia0S6CECYzcz4e6kq0Gzhc_9i_PP--eM0FrEPdQ1WY&sid=73a7f33d0731e53c&sni=no.snowfall.top#🇳🇴 Norway | Sino Worldwide Trading 1
-vless://be5abe11-1c65-4289-b581-a5121a8719a1@87.120.104.81:1443?flow=xtls-rprx-vision&fp=firefox&pbk=Yia0S6CECYzcz4e6kq0Gzhc_9i_PP--eM0FrEPdQ1WY&security=reality&sid=73a7f33d0731e53c&sni=no.snowfall.top&type=tcp#🇳🇴 Norway | Sino Worldwide Trading 2
-vless://f68435e2-ac00-4374-8c03-c1d36e171088@87.120.104.81:1443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Yia0S6CECYzcz4e6kq0Gzhc_9i_PP--eM0FrEPdQ1WY&sid=73a7f33d0731e53c&sni=no.snowfall.top#🇳🇴 Norway | Sino Worldwide Trading 3
-vless://f68435e2-ac00-4374-8c03-c1d36e171088@87.120.104.41:1443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Yia0S6CECYzcz4e6kq0Gzhc_9i_PP--eM0FrEPdQ1WY&sid=73a7f33d0731e53c&sni=no.snowfall.top#🇳🇴 Norway | Sino Worldwide Trading 4
+vless://f0ea76e9-c3c4-4e2c-b2f9-a97d65cc2907@193.203.10.86:443?security=reality&encryption=none&pbk=_XwzsH6EuV-UnQbXblD4XK46wxaWQcF-0GQ-nAkj3Xo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=8735#🇳🇴 Norway | Global Connectivity So... 1
+vless://f0ea76e9-c3c4-4e2c-b2f9-a97d65cc2907@193.203.10.86:443?security=reality&encryption=none&pbk=_XwzsH6EuV-UnQbXblD4XK46wxaWQcF-0GQ-nAkj3Xo&headerType=none&fp=chrome&spx=/&allowinsecure=0&type=tcp&sni=yahoo.com&sid=8735#🇳🇴 Norway | Global Connectivity So... 2
