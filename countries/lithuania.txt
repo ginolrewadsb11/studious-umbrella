@@ -3,15 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsfCfh7kgQm9iaVZQTiDigJQgTGl0aHVhbmlhCuKaoSAxMCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsfCfh7kgQm9iaVZQTiDigJQgTGl0aHVhbmlhCuKaoSA3INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://d70f104e-03a3-45d1-bf30-29dc6f35447d@45.194.10.139:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#🇱🇹 Lithuania | Dedicated servers 1
-vless://d70f104e-03a3-45d1-bf30-29dc6f35447d@45.194.10.139:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#🇱🇹 Lithuania | Dedicated servers 2
-vless://f68435e2-ac00-4374-8c03-c1d36e171088@88.119.176.123:1443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bFPeOJxOvbEHD7JyojURPDzrY4HNYiVh1rqVeIFSRGk&sid=0441f3e34348cb45&sni=loveit.kupivodku.top#🇱🇹 Lithuania | HOSTLINE, UAB 1
-vless://f68435e2-ac00-4374-8c03-c1d36e171088@88.119.176.126:1443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bFPeOJxOvbEHD7JyojURPDzrY4HNYiVh1rqVeIFSRGk&sid=0441f3e34348cb45&sni=loveit.kupivodku.top#🇱🇹 Lithuania | HOSTLINE, UAB 2
-vless://f68435e2-ac00-4374-8c03-c1d36e171088@88.119.176.123:1443?flow=xtls-rprx-vision&fp=firefox&pbk=bFPeOJxOvbEHD7JyojURPDzrY4HNYiVh1rqVeIFSRGk&security=reality&sid=0441f3e34348cb45&sni=loveit.kupivodku.top&type=tcp#🇱🇹 Lithuania | HOSTLINE, UAB 3
+vless://f68435e2-ac00-4374-8c03-c1d36e171088@88.119.176.126:1443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bFPeOJxOvbEHD7JyojURPDzrY4HNYiVh1rqVeIFSRGk&sid=0441f3e34348cb45&sni=loveit.kupivodku.top#🇱🇹 Lithuania | HOSTLINE, UAB 1
+vless://f68435e2-ac00-4374-8c03-c1d36e171088@88.119.176.123:1443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bFPeOJxOvbEHD7JyojURPDzrY4HNYiVh1rqVeIFSRGk&sid=0441f3e34348cb45&sni=loveit.kupivodku.top#🇱🇹 Lithuania | HOSTLINE, UAB 2
+vless://f68435e2-ac00-4374-8c03-c1d36e171088@88.119.176.156:1443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bFPeOJxOvbEHD7JyojURPDzrY4HNYiVh1rqVeIFSRGk&sid=0441f3e34348cb45&sni=loveit.kupivodku.top#🇱🇹 Lithuania | HOSTLINE, UAB 3
 vless://f68435e2-ac00-4374-8c03-c1d36e171088@88.119.176.126:1443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bFPeOJxOvbEHD7JyojURPDzrY4HNYiVh1rqVeIFSRGk&sid=0441f3e34348cb45&sni=loveit.kupivodku.top#🇱🇹 Lithuania | HOSTLINE, UAB 4
 vless://f68435e2-ac00-4374-8c03-c1d36e171088@88.119.176.156:1443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bFPeOJxOvbEHD7JyojURPDzrY4HNYiVh1rqVeIFSRGk&sid=0441f3e34348cb45&sni=loveit.kupivodku.top#🇱🇹 Lithuania | HOSTLINE, UAB 5
-vless://f68435e2-ac00-4374-8c03-c1d36e171088@88.119.176.156:1443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bFPeOJxOvbEHD7JyojURPDzrY4HNYiVh1rqVeIFSRGk&sid=0441f3e34348cb45&sni=loveit.kupivodku.top#🇱🇹 Lithuania | HOSTLINE, UAB 6
-vless://ded3638e-ab7f-4ff8-bc60-9fc6666cff22@201.51.6.180:443?fp=firefox&mode=gun&pbk=A4EFCXsK2opMGKRuAAOfUZuj11Vi2O9rdPDk6gpynF4&security=reality&serviceName=gun&sid=3a2c&sni=slackware.ubuntuhosting.host&type=grpc#🇱🇹 Lithuania | Melbikomas UAB 1
+vless://f68435e2-ac00-4374-8c03-c1d36e171088@88.119.176.123:1443?flow=xtls-rprx-vision&fp=firefox&pbk=bFPeOJxOvbEHD7JyojURPDzrY4HNYiVh1rqVeIFSRGk&security=reality&sid=0441f3e34348cb45&sni=loveit.kupivodku.top&type=tcp#🇱🇹 Lithuania | HOSTLINE, UAB 6
 vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?flow=xtls-rprx-vision&fp=firefox&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&security=reality&sid=6ba85179e30d4fc2&sni=amd.com&type=tcp#🇱🇹 Lithuania | UAB Cherry Servers 1
