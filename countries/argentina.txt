@@ -5,8 +5,8 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBBcmdlbnRpbmEK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-trojan://Bt-qzyomC7g37TaHwvPSV0.YrNSxFmlvIP@130.94.107.242:443?type=tcp&security=tls&headerType=none&sni=130.94.107.242&fp=chrome&insecure=1&allowInsecure=1#🌍 Argentina | Light Node 1
-trojan://Bt-qzyomC7g37TaHwvPSV0.YrNSxFmlvIP@130.94.107.242:443?sni=130.94.107.242&peer=130.94.107.242&security=tls#🌍 Argentina | Light Node 2
-trojan://Bt-qzyomC7g37TaHwvPSV0.YrNSxFmlvIP@130.94.107.242:443?security=tls#🌍 Argentina | Light Node 3
-trojan://Bt-qzyomC7g37TaHwvPSV0.YrNSxFmlvIP@130.94.107.242:443?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#🌍 Argentina | Light Node 4
-trojan://Bt-qzyomC7g37TaHwvPSV0.YrNSxFmlvIP@130.94.107.242:443?sni=130.94.107.242&peer=130.94.107.242&security=tls#🌍 Argentina | Light Node 5
+trojan://Bt-qzyomC7g37TaHwvPSV0.YrNSxFmlvIP@130.94.107.242:443?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#🌍 Argentina | Light Node 1
+trojan://Bt-qzyomC7g37TaHwvPSV0.YrNSxFmlvIP@130.94.107.242:443?type=tcp&security=tls&headerType=none&sni=130.94.107.242&fp=chrome&insecure=1&allowInsecure=1#🌍 Argentina | Light Node 2
+trojan://Bt-qzyomC7g37TaHwvPSV0.YrNSxFmlvIP@130.94.107.242:443?sni=130.94.107.242&peer=130.94.107.242&security=tls#🌍 Argentina | Light Node 3
+trojan://Bt-qzyomC7g37TaHwvPSV0.YrNSxFmlvIP@130.94.107.242:443?sni=130.94.107.242&peer=130.94.107.242&security=tls#🌍 Argentina | Light Node 4
+trojan://Bt-qzyomC7g37TaHwvPSV0.YrNSxFmlvIP@130.94.107.242:443?security=tls#🌍 Argentina | Light Node 5
