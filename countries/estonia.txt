@@ -3,11 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqvCfh6ogQm9iaVZQTiDigJQgRXN0b25pYQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqvCfh6ogQm9iaVZQTiDigJQgRXN0b25pYQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
+vless://f68435e2-ac00-4374-8c03-c1d36e171088@193.3.189.38:1443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ARCkuOPVxHxqZULtxDVzr6dgCqmCzIPomXdb6OAxVS8&sid=0441f3e34348cb40&sni=ee.snowfall.top#🇪🇪 Estonia | HostSlim B.V. 1
+vless://f68435e2-ac00-4374-8c03-c1d36e171088@193.3.189.38:1443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ARCkuOPVxHxqZULtxDVzr6dgCqmCzIPomXdb6OAxVS8&sid=0441f3e34348cb40&sni=ee.snowfall.top#🇪🇪 Estonia | HostSlim B.V. 2
 vless://b7200562-bdb1-4774-91b4-f0f2b9f3d3c0@185.252.177.125:8443?&security=reality&flow=xtls-rprx-vision&pbk=QGlJtT7TdXFaIctNpsvykWqAgTR3VCq3Z0H94-QKHDc&fp=firefox&sni=vk.ru&type=tcp&headerType=none&host=vk.ru&path=%2F#🇪🇪 Estonia | OC NETWORKS LIMITED 1
 vless://dbfa97b8-f4fb-4687-96dc-a5a2aebfae11@est01.port-server.online:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=aNbj5QBUxwKIRnh9Z_0ZA-FmDELZKLb1YMUpId3OCU8&sni=est01.port-server.online&sid=9902cda1645757ea#🇪🇪 Estonia | OC NETWORKS LIMITED 2
-vless://689255f0-c647-4c26-b351-4bb1a90cc3e2@31.31.197.82:10000?encryption=none&type=grpc&security=reality&mode=multi&serviceName=grpc2&fp=qq&sni=max.ru&pbk=9xzdm_jzkLpqPjYVEJ_74EtFkQUGp6UG1TtaVLPng2s&sid=afee962d#🇪🇪 Estonia | Qwins LTD 1
 vless://1c7e2730-839d-4321-84f9-4e6b69ea4856@5.175.178.161:8443?flow=xtls-rprx-vision&fp=firefox&pbk=NKL_wMX8dn09Y8pABdtSoop2zyaT4CnYPGJu8_m52jI&security=reality&sid=5fc027d907f46ee9&sni=www.microsoft.com&type=tcp#🇪🇪 Estonia | Raul Ghita trading as ... 1
 vless://1c7e2730-839d-4321-84f9-4e6b69ea4856@5.175.178.161:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NKL_wMX8dn09Y8pABdtSoop2zyaT4CnYPGJu8_m52jI&sid=5fc027d907f46ee9&sni=www.microsoft.com#🇪🇪 Estonia | Raul Ghita trading as ... 2
-vless://a1c11603-aefe-0007-9df3-4856f085811a@94.139.247.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=b02.connectv.net&pbk=0RegtdcQHk9Fg95kgn5jmRglN6N3sdk3ZhrFXvmbrgk#🇪🇪 Estonia | Uxhost LTD 1
+vless://a1c11603-aefe-0007-9df3-4856f085811a@94.139.247.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=b02.connectv.net&pbk=0RegtdcQHk9Fg95kgn5jmRglN6N3sdk3ZhrFXvmbrgk#🇪🇪 Estonia | Uxhost LTD 1
+vless://a1c11603-aefe-0007-9df3-4856f085811a@b02.connectv.net:443?security=reality&encryption=none&pbk=0RegtdcQHk9Fg95kgn5jmRglN6N3sdk3ZhrFXvmbrgk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=b02.connectv.net#🇪🇪 Estonia | Uxhost LTD 2
