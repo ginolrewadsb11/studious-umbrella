@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-hysteria2://723af53a-b131-3270-8ce0-13f8ecaaa322@88.151.195.254:443?sni=u723828us282.okgfwbackxyz.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#🇺🇦 Ukraine | Baxet Group 1
+vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.54:8443?type=tcp&headerType=none&security=tls&encryption=none&sni=ams1.fromblancwithlove.com&insecure=0#🇺🇦 Ukraine | Datacamp 1
+vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.54:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#🇺🇦 Ukraine | Datacamp 2
+vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.50:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#🇺🇦 Ukraine | Datacamp 3
+vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.50:8443?type=tcp&headerType=none&security=tls&encryption=none&sni=ams1.fromblancwithlove.com&insecure=0#🇺🇦 Ukraine | Datacamp 4
+vless://449a4ff7-9eb7-41c1-9a1f-64579a609663@87.239.135.8:443?type=tcp&headerType=none&security=reality&encryption=none&sni=md-kiv-2.blook.network&fp=firefox&pbk=SqYAVrG01Mk0KXzlkmckO6lxvv6iZBJJvxE6PvD2vD0&sid=3c2f8f52&flow=xtls-rprx-vision#🇺🇦 Ukraine | Green Floid 1
+vless://449a4ff7-9eb7-41c1-9a1f-64579a609663@87.239.135.8:443?flow=xtls-rprx-vision&fp=firefox&pbk=SqYAVrG01Mk0KXzlkmckO6lxvv6iZBJJvxE6PvD2vD0&security=reality&sid=3c2f8f52&sni=md-kiv-2.blook.network&type=tcp#🇺🇦 Ukraine | Green Floid 2
