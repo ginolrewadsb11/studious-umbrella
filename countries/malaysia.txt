@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.250.91.253:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.primevideo.com&fp=firefox&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw#🌍 Malaysia | Alibaba Cloud 1
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?allowInsecure=1&encryption=none&host=josni.hoyes.cloudns.ch&path=%2F&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#🌍 Malaysia | Scloud Pte 1
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.253.175.16:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#🌍 Malaysia | Scloud Pte 2
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@138.2.87.237:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#🌍 Malaysia | Scloud Pte 3
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.250.91.253:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=www.primevideo.com&_t=097df152#🌍 Malaysia | Alibaba Cloud 1
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.250.91.253:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=www.primevideo.com&_t=abced20f#🌍 Malaysia | Alibaba Cloud 2
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@162.159.44.7:2053?path=%2F&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&fp=chrome&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#🌍 Malaysia | Scloud Pte 1
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@18.138.34.221:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=#🌍 Malaysia | Scloud Pte 2
