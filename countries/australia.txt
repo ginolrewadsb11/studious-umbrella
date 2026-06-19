@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh7ogQm9iaVZQTiDigJQgQXVzdHJhbGlhCuKaoSA0INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://3c7961e6-6ce7-4e55-8b8a-01a5d663efd4@3.106.214.88:31318?type=tcp&encryption=none&security=reality&pbk=uAhNpK_fDxgKKNtYtUs2uB79V28pjFv1-Mh7D4PTaW8&fp=firefox&sni=www.tesla.com&sid=1b665f78655294&spx=/&flow=xtls-rprx-vision#🇦🇺 Australia | Amazon Technologies 1
-vless://3c7961e6-6ce7-4e55-8b8a-01a5d663efd4@3.106.214.88:31318?security=reality&type=tcp&sni=www.tesla.com&fp=firefox&flow=xtls-rprx-vision&sid=1b665f78655294&spx=%2F&pbk=uAhNpK_fDxgKKNtYtUs2uB79V28pjFv1-Mh7D4PTaW8&encryption=none#🇦🇺 Australia | Amazon Technologies 2
-vless://3e62a6f1-f8cb-40eb-9c33-fc4ed39a080e@54.253.37.164:23951?type=tcp&encryption=none&security=reality&pbk=FGnWfD70nPQhiMZUQETB_mKaR-J_2DonpOpy9eqQ_F0&fp=firefox&sni=www.tesla.com&sid=8c4907b7884b31&spx=/&flow=xtls-rprx-vision#🇦🇺 Australia | Amazon.com, 1
-vless://3e62a6f1-f8cb-40eb-9c33-fc4ed39a080e@54.253.37.164:23951?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=firefox&pbk=FGnWfD70nPQhiMZUQETB_mKaR-J_2DonpOpy9eqQ_F0&sid=8c4907b7884b31&spx=%2F&type=tcp&headerType=none#🇦🇺 Australia | Amazon.com, 2
+vless://3c7961e6-6ce7-4e55-8b8a-01a5d663efd4@3.106.214.88:31318?security=reality&type=tcp&sni=www.tesla.com&fp=firefox&flow=xtls-rprx-vision&sid=1b665f78655294&spx=%2F&pbk=uAhNpK_fDxgKKNtYtUs2uB79V28pjFv1-Mh7D4PTaW8&encryption=none#🇦🇺 Australia | Amazon Technologies 1
+vless://3c7961e6-6ce7-4e55-8b8a-01a5d663efd4@3.106.214.88:31318?type=tcp&encryption=none&security=reality&pbk=uAhNpK_fDxgKKNtYtUs2uB79V28pjFv1-Mh7D4PTaW8&fp=firefox&sni=www.tesla.com&sid=1b665f78655294&spx=/&flow=xtls-rprx-vision#🇦🇺 Australia | Amazon Technologies 2
+vless://3e62a6f1-f8cb-40eb-9c33-fc4ed39a080e@54.253.37.164:23951?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=firefox&pbk=FGnWfD70nPQhiMZUQETB_mKaR-J_2DonpOpy9eqQ_F0&sid=8c4907b7884b31&spx=%2F&type=tcp&headerType=none#🇦🇺 Australia | Amazon.com, 1
+vless://3e62a6f1-f8cb-40eb-9c33-fc4ed39a080e@54.253.37.164:23951?type=tcp&encryption=none&security=reality&pbk=FGnWfD70nPQhiMZUQETB_mKaR-J_2DonpOpy9eqQ_F0&fp=firefox&sni=www.tesla.com&sid=8c4907b7884b31&spx=/&flow=xtls-rprx-vision#🇦🇺 Australia | Amazon.com, 2
