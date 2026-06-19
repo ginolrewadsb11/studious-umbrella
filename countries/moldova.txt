@@ -3,10 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIU3BjOUlIOEpzUWtlSFN6ellYQ2hqSHNsN25IZ1NhQThLNjBDZA@185.202.93.194:41348#🇲🇩 Moldova | G-Core Labs S.A. 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIU3BjOUlIOEpzUWtlSFN6ellYQ2hqSHNsN25IZ1NhQThLNjBDZA==@185.202.93.194:41348#🇲🇩 Moldova | G-Core Labs S.A. 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIU3BjOUlIOEpzUWtlSFN6ellYQ2hqSHNsN25IZ1NhQThLNjBDZA@185.202.93.194:41348#🇲🇩 Moldova | G-Core Labs S.A. 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCS3R3N0FWSTZ0RGNLMW9BUDRCMmx1@94.103.2.174:443#🇲🇩 Moldova | GIR SER 1
-vless://c470171c-2951-4806-988d-61d4d811486d@md.riotvpn.eu:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=avatars.mds.yandex.net&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=b76dcf9e1183fe1b#🇲🇩 Moldova | H2nexus LTD 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.254.140.30:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime54.workers.dev&path=%2F&security=none&type=ws#🇲🇩 Moldova | JSC "Moldtelecom" S.A. 1
+vless://84b504e4-a97f-40ab-93c3-a03a5f0ff36c@md.riotvpn.eu:8443?type=grpc&security=reality&sni=avatars.mds.yandex.net&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=e67fb918ed6b9ffb&fp=qq&serviceName=grpc-yandex&encryption=none#🇲🇩 Moldova | H2nexus LTD 1
+vless://c470171c-2951-4806-988d-61d4d811486d@md.riotvpn.eu:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=avatars.mds.yandex.net&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=b76dcf9e1183fe1b#🇲🇩 Moldova | H2nexus LTD 2
+vless://c470171c-2951-4806-988d-61d4d811486d@md.riotvpn.eu:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=avatars.mds.yandex.net&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=b76dcf9e1183fe1b#🇲🇩 Moldova | H2nexus LTD 3
