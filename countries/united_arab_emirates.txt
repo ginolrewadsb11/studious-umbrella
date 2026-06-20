@@ -3,9 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&sni=38.60.202.163&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#🇦🇪 United Arab Emirates | Kaopu Cloud HK 1
 vless://4e817899-2466-425c-a671-7ab5f25d08e8@130.94.45.81:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=eJlKZq9C1kDSoLaod29cDbS0OFBx9nOGsSQNwq2-fyk&security=reality&sid=ad041ff6&sni=www.microsoft.com&type=tcp#🇦🇪 United Arab Emirates | Light Node 1
 vless://26ca9191-5a90-40e5-9f03-c9181bcefb21@94.183.254.33:603?mode=gun&security=reality&encryption=none&pbk=5v8dacYH_2g00OT1RHInxY3woV5CQIxd-Fz4IPQQTSI&fp=firefox&type=grpc&sni=www.amd.com&sid=9a1c7e3b5d0f4826#🇦🇪 United Arab Emirates | Net Gate Telecom S.R.L. 1
-vless://26ca9191-5a90-40e5-9f03-c9181bcefb21@94.183.254.33:603?mode=gun&security=reality&encryption=none&pbk=5v8dacYH_2g00OT1RHInxY3woV5CQIxd-Fz4IPQQTSI&fp=firefox&type=grpc&sni=www.amd.com&sid=9a1c7e3b5d0f4826#🇦🇪 United Arab Emirates | Net Gate Telecom S.R.L. 2
