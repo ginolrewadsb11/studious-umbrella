@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh7cgQm9iaVZQTiDigJQgQnJhemlsCuKaoSAzINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+Hp/Cfh7cgQm9iaVZQTiDigJQgQnJhemlsCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://c9d13457-0578-4414-a830-f29244a6f711@201.51.1.108:40443?flow=xtls-rprx-vision&fp=firefox&pbk=G2WGTXVVeC2YzXaWI9gSHKjiNU3PEvN7QinuOPE1lDs&security=reality&sid=132b&sni=deepl.com&type=tcp#🇧🇷 Brazil | JSC "TIMEWEB" 1
-vless://c9d13457-0578-4414-a830-f29244a6f711@201.51.1.108:40443?security=reality&encryption=none&pbk=G2WGTXVVeC2YzXaWI9gSHKjiNU3PEvN7QinuOPE1lDs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=132b#🇧🇷 Brazil | JSC "TIMEWEB" 2
-vless://c9d13457-0578-4414-a830-f29244a6f711@storage.netraidly.ru:40443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=deepl.com&pbk=G2WGTXVVeC2YzXaWI9gSHKjiNU3PEvN7QinuOPE1lDs&sid=132b&fp=qq#🇧🇷 Brazil | JSC "TIMEWEB" 3
+vless://c9d13457-0578-4414-a830-f29244a6f711@201.51.1.108:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=firefox&pbk=G2WGTXVVeC2YzXaWI9gSHKjiNU3PEvN7QinuOPE1lDs&sid=132b&type=tcp&headerType=none#🇧🇷 Brazil | JSC "TIMEWEB" 1
