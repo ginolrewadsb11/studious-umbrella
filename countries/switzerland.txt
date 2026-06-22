@@ -3,18 +3,17 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDEzINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDEyINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@194.87.178.131:443?flow=xtls-rprx-vision&fp=firefox&pbk=gOEyW5XYfKV6t_3vCR0iCOcItof1desNG7CSiFnVpF4&security=reality&sid=804f5d&sni=www.intel.com&type=tcp#🇨🇭 Switzerland | Baxet Group 1
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@194.87.178.131:443?flow=xtls-rprx-vision&fp=firefox&pbk=gOEyW5XYfKV6t_3vCR0iCOcItof1desNG7CSiFnVpF4&security=reality&sid=804f5d&sni=www.intel.com&type=tcp#🇨🇭 Switzerland | Baxet Group 2
-vless://92e41c23-4b39-464a-bbff-63ef84f317da@138.199.20.4:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&fp=firefox&pbk=sT3IlhEi8k7BA0jYkn5TkJ8HcX3_FZ7USnfnqCAGrhw&sid=1750fe7d&flow=xtls-rprx-vision#🇨🇭 Switzerland | DataCamp 1
+vless://1ac9f6f1-06ed-4cc6-af67-d79a96618cf8@poopyironman07.1o0.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=p67ocjlLYsSSgj9UIX-8TfO2UjKKYg4UUeOfVVcLXlw&sid=6a8efac66d92676e&sni=poopyironman07-cdn.1o0.net&spx=/#🇨🇭 Switzerland | Cloudflare, 1
 vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.45.237:2083?type=tcp&headerType=none&security=reality&encryption=none&sni=www.yahoo.com&fp=chrome&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&sid=4e590fdc&spx=%2F&flow=xtls-rprx-vision#🇨🇭 Switzerland | Infomaniak Network Man... 1
-vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.45.237:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#🇨🇭 Switzerland | Infomaniak Network Man... 2
-trojan://SoftNetConnect@37.156.45.237:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#🇨🇭 Switzerland | Infomaniak Network Man... 3
-trojan://SoftNetConnect@37.156.45.237:42549?security=tls&amp;alpn=h2%2Chttp%2F1.1%2Ch3&amp;insecure=1&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=1&amp;sni=www.speedtest.net#🇨🇭 Switzerland | Infomaniak Network Man... 4
-vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@swiss.janusgate.org:443?type=tcp&headerType=none&security=reality&encryption=none&sni=swiss.janusgate.org&fp=chrome&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=c6ff7424cb12c5ed&flow=xtls-rprx-vision#🇨🇭 Switzerland | Julian Achter 1
-vless://bcdb08d0-d6ea-4841-83bc-dee61353926d@swiss.janusgate.org:443?type=tcp&headerType=none&security=reality&encryption=none&sni=swiss.janusgate.org&fp=chrome&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=c6ff7424cb12c5ed&flow=xtls-rprx-vision#🇨🇭 Switzerland | Julian Achter 2
+trojan://SoftNetConnect@37.156.45.237:42549?security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#🇨🇭 Switzerland | Infomaniak Network Man... 2
+vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.45.237:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#🇨🇭 Switzerland | Infomaniak Network Man... 3
+vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.45.237:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#🇨🇭 Switzerland | Infomaniak Network Man... 4
+vless://5adf90fd-fad8-4495-a122-89b0f38aecb5@sw1.fghy27.top:2053?type=tcp&security=reality&sni=cloudflare.com&fp=qq&pbk=46kqulJ5_D8Cw51esUZXGjHrmOt02kOJenC45PxAwQM&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#🇨🇭 Switzerland | Infomaniak Network SA 1
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@sw1tzerl4nd.gxcore.net:443?security=reality&encryption=none&pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sw1tzerl4nd.gxcore.net&sid=a1ab5a56bc42#🇨🇭 Switzerland | MHost 1
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#🇨🇭 Switzerland | Ontario 1
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#🇨🇭 Switzerland | Ontario 2
+vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#🇨🇭 Switzerland | Ontario 1
+vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#🇨🇭 Switzerland | Ontario 2
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#🇨🇭 Switzerland | Private Layer INC 1
