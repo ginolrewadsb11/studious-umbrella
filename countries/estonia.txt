@@ -5,8 +5,8 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqvCfh6ogQm9iaVZQTiDigJQgRXN0b25pYQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://1ac9f6f1-06ed-4cc6-af67-d79a96618cf8@estia.1o0.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=H4aAbn-X8IPNhsoxUtSNW3E5lOioX6QGmUTyFmsyNms&sid=4ee732e1c4da6fa4&sni=estia-cdn.1o0.net&spx=/#🇪🇪 Estonia | Cloudflare, 1
-vless://1ac9f6f1-06ed-4cc6-af67-d79a96618cf8@estoshka.1o0.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Fw2xfDpIesFqZuoH8IYBdTL160a7G5ReoEHL10HRjkw&sid=5063ba978295ebd4&sni=estoshka-cdn.1o0.net&spx=/#🇪🇪 Estonia | Cloudflare, 2
+vless://1ac9f6f1-06ed-4cc6-af67-d79a96618cf8@estia.1o0.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=H4aAbn-X8IPNhsoxUtSNW3E5lOioX6QGmUTyFmsyNms&sid=4ee732e1c4da6fa4&sni=estia-cdn.1o0.net&spx=/#🇪🇪 Estonia | BlueVPS OU 1
+vless://1ac9f6f1-06ed-4cc6-af67-d79a96618cf8@ee2.xxee.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=P8nqOukG74vHbEsy0YKLiK96s8P7E-Wq2p8A6o6udHs&sid=8b13a8271fffd6b2&sni=getee2in.xxee.ru&spx=/#🇪🇪 Estonia | Cloudflare, 1
 vless://dbfa97b8-f4fb-4687-96dc-a5a2aebfae11@95.85.243.239:443?type=tcp&headerType=none&security=reality&encryption=none&sni=est01.port-server.online&fp=firefox&pbk=aNbj5QBUxwKIRnh9Z_0ZA-FmDELZKLb1YMUpId3OCU8&sid=9902cda1645757ea&flow=xtls-rprx-vision#🇪🇪 Estonia | OC NETWORKS LIMITED 1
 vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@132.243.65.121:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇪🇪 Estonia | Qwins LTD 1
 vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@132.243.65.121:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🇪🇪 Estonia | Qwins LTD 2
