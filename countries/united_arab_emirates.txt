@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&sni=38.60.202.163#🇦🇪 United Arab Emirates | Kaopu Cloud HK 1
+vless://5e1083b9-4d4f-50ef-93e7-6e966dfce1f9@uae.cloudpath.live:443?type=tcp&security=reality&sni=microsoft.com&pbk=15b1hWJlilHD_6rub4v4dlGarkunVzJRBIICK0td9h8&sid=ad9d8a0c&fp=chrome&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#🇦🇪 United Arab Emirates | HZ Hosting 1
+trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&sni=38.60.202.163&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#🇦🇪 United Arab Emirates | Kaopu Cloud HK 1
