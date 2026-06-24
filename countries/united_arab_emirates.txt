@@ -3,7 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://b08d0906-8840-4b27-9261-0fe72600de7f@217.195.200.171:44904?#🇦🇪 United Arab Emirates | G-Core Labs S.A. 1
-trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&headerType=none&type=tcp&sni=38.60.202.163&path=/#🇦🇪 United Arab Emirates | Kaopu Cloud HK 1
+vless://b08d0906-8840-4b27-9261-0fe72600de7f@217.195.200.171:44904#🇦🇪 United Arab Emirates | G-Core Labs S.A. 2
+vless://b08d0906-8840-4b27-9261-0fe72600de7f@217.195.200.171:44904?security=none&encryption=none&headerType=none&type=tcp#🇦🇪 United Arab Emirates | G-Core Labs S.A. 3
+vless://b08d0906-8840-4b27-9261-0fe72600de7f@217.195.200.171:44904?#🇦🇪 United Arab Emirates | G-Core Labs S.A. 4
+trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?type=tcp&security=tls&headerType=none&sni=38.60.202.163&fp=chrome&insecure=1&allowInsecure=1#🇦🇪 United Arab Emirates | Kaopu Cloud HK 1
+trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&sni=38.60.202.163&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#🇦🇪 United Arab Emirates | Kaopu Cloud HK 2
+trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=38.60.202.163#🇦🇪 United Arab Emirates | Kaopu Cloud HK 3
+trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇦🇪 United Arab Emirates | Kaopu Cloud HK 4
