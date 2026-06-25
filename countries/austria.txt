@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-trojan://VGBzLm49=M_i02Az30tIeonkQw180t-edg@185.126.236.190:443?security=tls&headerType=none&type=tcp&sni=185.126.236.190#🇦🇹 Austria | ONEPROVIDER 1
+vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@95.163.211.206:443?encryption=none&security=reality&type=tcp&sni=at.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇦🇹 Austria | netcup GmbH 1
