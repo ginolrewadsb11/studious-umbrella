@@ -3,18 +3,29 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh7MgQm9iaVZQTiDigJQgSW5kaWEK4pqhIDEzINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+HrvCfh7MgQm9iaVZQTiDigJQgSW5kaWEK4pqhIDI0INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.55:28061#🇮🇳 India | Melbikomas UAB 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.80:28061#🇮🇳 India | Melbikomas UAB 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#🇮🇳 India | Melbikomas UAB 3
+vless://295d4d20-c332-4b9a-9f3c-741f44c91f89@89.34.90.197:443?encryption=none&security=reality&type=grpc&sni=ads.x5.ru&fp=chrome&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A&sid=6ba85179e30d4fc2&spx=%2F&serviceName=grpc&mode=gun#🇮🇳 India | Dhivakaran Mutharasan 1
+vless://f6ec3ac9-fb0f-4bce-86bb-26cdb9933a60@188.114.97.6:443?path=/in-do&security=tls&encryption=none&insecure=0&host=zaintest.vuclip.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.r3xxe.eu.cc#🇮🇳 India | DigitalOcean, 1
+vless://5fdf2809-9b94-0016-bd50-81027af9cef4@82.202.136.255:443?flow=xtls-rprx-vision&fp=qq&packetencoding=xudp&pbk=ho7BivYLLBlfgtWEaRqF_g6OOHiKINEyAFDm6wbPDXI&security=reality&sid=b8357afdce856d30&sni=cascad.anotherboring.top#🇮🇳 India | Melbikomas UAB 1
+vless://5fdf2809-9b94-0016-bd50-81027af9cef4@82.202.136.255:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=cascad.anotherboring.top&pbk=ho7BivYLLBlfgtWEaRqF_g6OOHiKINEyAFDm6wbPDXI&sid=b8357afdce856d30#🇮🇳 India | Melbikomas UAB 2
+vless://5fdf2809-9b94-0016-bd50-81027af9cef4@82.202.136.255:443?flow=xtls-rprx-vision&fp=qq&packetencoding=xudp&pbk=ho7BivYLLBlfgtWEaRqF_g6OOHiKINEyAFDm6wbPDXI&security=reality&sid=b8357afdce856d30&sni=cascad.anotherboring.top#🇮🇳 India | Melbikomas UAB 3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.80:28061#🇮🇳 India | Melbikomas UAB 4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.61:28061#🇮🇳 India | Melbikomas UAB 5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#🇮🇳 India | Melbikomas UAB 6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.80:28061#🇮🇳 India | Melbikomas UAB 7
-vless://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443?flow=xtls-rprx-vision&fp=firefox&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&security=reality&sid=54ce&sni=deepl.com&type=tcp#🇮🇳 India | NETRANEX TECHNOLOGIES ... 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#🇮🇳 India | Melbikomas UAB 5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.80:28061#🇮🇳 India | Melbikomas UAB 6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.55:28061#🇮🇳 India | Melbikomas UAB 7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#🇮🇳 India | Melbikomas UAB 8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.61:28061#🇮🇳 India | Melbikomas UAB 9
+vless://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443?security=reality&encryption=none&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=54ce#🇮🇳 India | NETRANEX TECHNOLOGIES ... 1
 vless://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443?flow=xtls-rprx-vision&fp=firefox&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&security=reality&sid=54ce&sni=deepl.com&type=tcp#🇮🇳 India | NETRANEX TECHNOLOGIES ... 2
-vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?security=reality&encryption=none&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a852#🇮🇳 India | NETRANEX TECHNOLOGIES ... 3
-vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?security=reality&encryption=none&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a852#🇮🇳 India | NETRANEX TECHNOLOGIES ... 4
+vless://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443?flow=xtls-rprx-vision&fp=firefox&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&security=reality&sid=54ce&sni=deepl.com&type=tcp#🇮🇳 India | NETRANEX TECHNOLOGIES ... 3
+vless://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443?flow=xtls-rprx-vision&fp=firefox&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&security=reality&sid=54ce&sni=deepl.com&type=tcp#🇮🇳 India | NETRANEX TECHNOLOGIES ... 4
+vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?security=reality&encryption=none&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a852#🇮🇳 India | NETRANEX TECHNOLOGIES ... 5
+vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?security=reality&encryption=none&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a852#🇮🇳 India | NETRANEX TECHNOLOGIES ... 6
+vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?security=reality&encryption=none&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a852#🇮🇳 India | NETRANEX TECHNOLOGIES ... 7
+vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?flow=xtls-rprx-vision&fp=firefox&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&security=reality&sid=a852&sni=deepl.com&type=raw#🇮🇳 India | NETRANEX TECHNOLOGIES ... 8
+vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?security=reality&encryption=none&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=a852#🇮🇳 India | NETRANEX TECHNOLOGIES ... 9
+vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?flow=xtls-rprx-vision&fp=firefox&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&security=reality&sid=a852&sni=deepl.com&type=tcp#🇮🇳 India | NETRANEX TECHNOLOGIES ... 10
+vless://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@events.netraidly.ru:40443?type=tcp&headerType=none&security=reality&flow=xtls-rprx-vision&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&fp=qq&sni=deepl.com&sid=54ce&spx=%2F#🇮🇳 India | NETRANEX TECHNOLOGIES ... 11
+vless://df724c8a-5c5a-4859-974e-6e911b14955c@metrics.netraidly.ru:40443?type=tcp&headerType=none&security=reality&flow=xtls-rprx-vision&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&fp=qq&sni=deepl.com&sid=a852&spx=%2F#🇮🇳 India | NETRANEX TECHNOLOGIES ... 12
 vless://d8dabd75-ae26-4c27-993e-75a00ff72185@152.70.72.249:80?type=ws&host=dual.abhizzz.net&path=%2Fvless&fp=chrome#🇮🇳 India | Oracle 1
-vless://d8dabd75-ae26-4c27-993e-75a00ff72185@152.70.72.249:80?type=ws&host=dual.abhizzz.net&path=%2Fvless&fp=chrome#🇮🇳 India | Oracle 2

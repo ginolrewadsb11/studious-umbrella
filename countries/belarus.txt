@@ -3,8 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh74gQm9iaVZQTiDigJQgQmVsYXJ1cwrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh74gQm9iaVZQTiDigJQgQmVsYXJ1cwrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@185.66.68.72:443?flow=xtls-rprx-vision&security=reality&sni=www.wikihow.com&fp=firefox&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&host=www.wikihow.com&path=/#🇧🇾 Belarus | Beros 1
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@185.66.68.72:443?flow=xtls-rprx-vision&fp=firefox&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#🇧🇾 Belarus | Beros 2
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@185.66.68.72:443?flow=xtls-rprx-vision&fp=firefox&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#🇧🇾 Belarus | Beros 3
+vless://5fdf2809-9b94-0020-bd50-81027af9cef4@82.202.136.255:443?flow=xtls-rprx-vision&fp=qq&packetencoding=xudp&pbk=ho7BivYLLBlfgtWEaRqF_g6OOHiKINEyAFDm6wbPDXI&security=reality&sid=b8357afdce856d30&sni=cascad.anotherboring.top#🇧🇾 Belarus | Beros 3
+vless://5fdf2809-9b94-0020-bd50-81027af9cef4@82.202.136.255:443?flow=xtls-rprx-vision&fp=qq&packetencoding=xudp&pbk=ho7BivYLLBlfgtWEaRqF_g6OOHiKINEyAFDm6wbPDXI&security=reality&sid=b8357afdce856d30&sni=cascad.anotherboring.top#🇧🇾 Belarus | Beros 4
+vless://5fdf2809-9b94-0020-bd50-81027af9cef4@82.202.136.255:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=cascad.anotherboring.top&pbk=ho7BivYLLBlfgtWEaRqF_g6OOHiKINEyAFDm6wbPDXI&sid=b8357afdce856d30#🇧🇾 Belarus | Beros 5
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@185.66.68.72:443?flow=xtls-rprx-vision&fp=firefox&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#🇧🇾 Belarus | Beros 6
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@185.66.68.72:443?flow=xtls-rprx-vision&fp=firefox&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#🇧🇾 Belarus | Beros 7
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@185.66.68.72:443?flow=xtls-rprx-vision&fp=firefox&host=www.wikihow.com&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com#🇧🇾 Belarus | Beros 8
