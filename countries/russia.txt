@@ -3,23 +3,19 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAxOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAxNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&type=tcp&security=reality&fp=firefox&sni=ya.ru&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#🇷🇺 Russia | Beget 1
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&type=tcp&security=reality&sni=ya.ru&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#🇷🇺 Russia | Beget 2
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#🇷🇺 Russia | Beget 3
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e&spx=%2F#🇷🇺 Russia | Beget 4
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#🇷🇺 Russia | Beget 5
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?security=reality&sni=ya.ru&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e&type=tcp&packetEncoding=xudp&encryption=none#🇷🇺 Russia | Beget 6
+vless://87d8a730-a521-40ff-9612-0331722915d9@193.168.46.180:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#🇷🇺 Russia | BEGET.RU 1
+vless://7c15f313-849b-456a-b1c0-4e419a4f9db0@193.168.46.180:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#🇷🇺 Russia | BEGET.RU 2
 vless://98fdfffe-28d8-4580-a4d1-2d7e15bdde4a@45.131.186.103:443?flow=xtls-rprx-vision&fp=firefox&pbk=1XDLWa8CNBQH2h3yauxbplirPLnNKkdjj6ptOyUUIgY&security=reality&sid=3bd054289dc0748b&sni=cdn.jsdelivr.net&type=tcp#🇷🇺 Russia | Delta 1
-vless://8525fe74-67e6-4a55-8a26-95f227bd1384@156.243.83.52:8443?&security=tls&sni=weathered-brook-18b6.alvlirm741.workers.dev&type=ws&headerType=none&host=weathered-brook-18b6.alvlirm741.workers.dev&path=%2Fproxyip%3D212.193.35.100%2C185.218.0.16%2C83.147.255.88%2C138.124.255.49%2C185.147.26.135%2C79.174.80.62%2C185.72.145.79%2C82.146.38.33#🇷🇺 Russia | JSC IOT 1
-vless://8525fe74-67e6-4a55-8a26-95f227bd1384@156.243.83.52:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=weathered-brook-18b6.alvlirm741.workers.dev&path=/proxyip=212.193.35.100,185.218.0.16,83.147.255.88,138.124.255.49,185.147.26.135,79.174.80.62,185.72.145.79,82.146.38.33&security=tls&sni=weathered-brook-18b6.alvlirm741.workers.dev&type=ws#🇷🇺 Russia | JSC IOT 2
-vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@109.236.57.237:443?encryption=none&security=reality&type=tcp&sni=sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇷🇺 Russia | JSC Selectel 1
+vless://db399973-bf6c-4c94-bb9c-7d43d8e85f0a@78.159.245.101:25567?type=tcp&security=reality&sni=iv.kommersant.ru&fp=qq&flow=xtls-rprx-vision&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&sid=a5bd715847213387#🇷🇺 Russia | Global Cloud Network 1
+vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@109.236.57.237:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#🇷🇺 Russia | JSC Selectel 1
 vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@109.236.57.237:443?encryption=none&security=reality&type=tcp&sni=sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇷🇺 Russia | JSC Selectel 2
-vless://b2b8bd00-2e42-4875-8d7b-bcf97093a1d4@109.236.57.237:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#🇷🇺 Russia | JSC Selectel 3
+vless://db399973-bf6c-4c94-bb9c-7d43d8e85f0a@78.159.250.251:25567?flow=xtls-rprx-vision&fp=firefox&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&security=reality&sid=a5bd715847213387&sni=iv.kommersant.ru&type=tcp#🇷🇺 Russia | PJSC VimpelCom 1
+vless://db399973-bf6c-4c94-bb9c-7d43d8e85f0a@78.159.250.251:25567?type=tcp&security=reality&sni=iv.kommersant.ru&fp=qq&flow=xtls-rprx-vision&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&sid=a5bd715847213387#🇷🇺 Russia | PJSC VimpelCom 2
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#🇷🇺 Russia | SIA VEESP 1
+vless://0e49e208-e09e-49bc-afee-2907e5419107@80.64.24.118:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=8UWFWRTGQEwvG_tmQPDnZOxxVsTmLI2aEjONq1Ad0Hk&sid=531e2895f6b53c8f&sni=rus.tropatg.ru#🇷🇺 Russia | SPRINTHOST.RU 1
 vless://2285c587-67f4-4404-bb78-c91e8e4f5338@95.163.209.42:443?security=reality&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&sid=a1&sni=vk.com&fp=chrome&flow=xtls-rprx-vision#🇷🇺 Russia | VK 1
-vless://2285c587-67f4-4404-bb78-c91e8e4f5338@95.163.209.42:443?security=reality&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&sid=a1&sni=vk.com&fp=chrome&flow=xtls-rprx-vision#🇷🇺 Russia | VK 2
-vless://2285c587-67f4-4404-bb78-c91e8e4f5338@95.163.209.42:443?security=reality&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&sid=a1&sni=vk.com&fp=chrome&flow=xtls-rprx-vision#🇷🇺 Russia | VK 3
+vless://2285c587-67f4-4404-bb78-c91e8e4f5338@95.163.209.42:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vk.com&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&sid=a1#🇷🇺 Russia | VK 2
+vless://2285c587-67f4-4404-bb78-c91e8e4f5338@vkw.t817smgn6zs.ru:443?security=reality&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&sid=a1&sni=vk.com&fp=chrome&flow=xtls-rprx-vision#🇷🇺 Russia | VK 3
 vless://2285c587-67f4-4404-bb78-c91e8e4f5338@vkw.t817smgn6zs.ru:443?security=reality&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&sid=a1&sni=vk.com&fp=chrome&flow=xtls-rprx-vision#🇷🇺 Russia | VK 4
-vless://2285c587-67f4-4404-bb78-c91e8e4f5338@vkw.t817smgn6zs.ru:443?security=reality&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&sid=a1&sni=vk.com&fp=chrome&flow=xtls-rprx-vision#🇷🇺 Russia | VK 5
-vless://2285c587-67f4-4404-bb78-c91e8e4f5338@vkw.t817smgn6zs.ru:443?security=reality&pbk=USzFIqCCFTRAzEJo8Npt_Ds-uRK_FnlvRsR-Iv88_AE&sid=a1&sni=vk.com&fp=chrome&flow=xtls-rprx-vision#🇷🇺 Russia | VK 6
