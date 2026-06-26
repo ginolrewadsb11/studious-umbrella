@@ -3,12 +3,18 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsfCfh7sgQm9iaVZQTiDigJQgTGF0dmlhCuKaoSA3INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+HsfCfh7sgQm9iaVZQTiDigJQgTGF0dmlhCuKaoSAxMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://eb528c71-441a-4430-867d-ab63d301d4ee@flu.dns-crypto-yandex.com:443?type=grpc&security=reality&fp=chrome&pbk=Bvdy2c0cxotdTPXwX1DXQ2RQDcWdRpNCaABu2tCwhzQ&sid=aaad898bca29899c&sni=flu.dns-crypto-yandex.com&serviceName=grpc#🇱🇻 Latvia | Baykov Ilya Sergeevich 1
-vless://e7edd2fe-e9de-499a-b320-407435e165bb@157.22.206.81:8476?type=tcp&security=reality&sni=tradingview.com&fp=firefox&pbk=DNN5rLd0UtiK-Clgvqk6p4Bg59aROjbPLGdvgX35wmM&flow=xtls-rprx-vision#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
-vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | Optron SIA 1
-vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?security=reality&encryption=none&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f71c22#🇱🇻 Latvia | RETN 1
-vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33f2#🇱🇻 Latvia | RETN 2
-vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e#🇱🇻 Latvia | RETN 3
-vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?security=reality&encryption=none&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=3c#🇱🇻 Latvia | RETN 4
+vless://eb528c71-441a-4430-867d-ab63d301d4ee@flu.dns-crypto-yandex.com:443?type=grpc&headerType=none&security=reality&encryption=none&sni=flu.dns-crypto-yandex.com&fp=chrome&pbk=Bvdy2c0cxotdTPXwX1DXQ2RQDcWdRpNCaABu2tCwhzQ&sid=aaad898bca29899c&serviceName=grpc#🇱🇻 Latvia | Baykov Ilya Sergeevich 2
+vless://8e13e299-1bbf-46da-a297-8ee19fe4c914@95.182.80.48:15370?encryption=none&fp=firefox&pbk=oYCopzg1jDV54b-i8nR9_ULi7uivm_qfCM95LwRBfXU&security=reality&sid=61&sni=yahoo.com&spx=/sGULnrxkHirfMkb&type=tcp#🇱🇻 Latvia | Cloud Software - FZCO 1
+vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&security=none&type=tcp#🇱🇻 Latvia | Optron SIA 1
+vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | Optron SIA 2
+vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | Optron SIA 3
+vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&security=none&type=tcp#🇱🇻 Latvia | Optron SIA 4
+vless://079c1b04-7ef9-4c49-8a7a-849a18ba7b9b@83.222.20.64:17910?security=reality&encryption=none&pbk=KUhrhiJBplVCVCrAKP2KjIA_asOgkkvEEAxUJVofjgc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=8c09fb78b12f#🇱🇻 Latvia | RETN 1
+vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e#🇱🇻 Latvia | RETN 2
+vless://8c05e68a-2fe0-4c0d-9be5-b7d2df9bb2a3@193.242.109.115:443?flow=xtls-rprx-vision&fp=firefox&pbk=T7rclWDRTiOXwZPCZdAeJXd7RR3NKKXf56CoysaN_BM&security=reality&sid=b8d1810732d6a038&sni=lv.truetunnel.xyz&type=tcp#🇱🇻 Latvia | RETN 3
+vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=33f2#🇱🇻 Latvia | RETN 4
+vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?security=reality&encryption=none&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f71c22#🇱🇻 Latvia | RETN 5
+vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?security=reality&encryption=none&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=3c#🇱🇻 Latvia | RETN 6
