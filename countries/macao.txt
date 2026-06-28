@@ -3,10 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWNhbwrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWNhbwrimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://60300afa-3366-4ae3-959a-7b50438acebb@mo.wequ.host:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ign.com&fp=edge&pbk=X4zuWa9FSwNyLOkxPxdrYdYWih52y2q6JbegN0jw80k&sid=d5524580&flow=xtls-rprx-vision#🌍 Macao | AKILE 1
-vless://60300afa-3366-4ae3-959a-7b50438acebb@45.207.34.187:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ign.com&fp=firefox&pbk=X4zuWa9FSwNyLOkxPxdrYdYWih52y2q6JbegN0jw80k&sid=d5524580&flow=xtls-rprx-vision#🌍 Macao | Akile LTD 1
-vless://60300afa-3366-4ae3-959a-7b50438acebb@mo.wequ.host:443?encryption=none&fp=edge&pbk=X4zuWa9FSwNyLOkxPxdrYdYWih52y2q6JbegN0jw80k&type=tcp&sni=ign.com&security=reality&flow=xtls-rprx-vision&sid=d5524580&headerType=none&freeinternet=kizyak_vpn1782591585749#🌍 Macao | Akile LTD 2
-vless://60300afa-3366-4ae3-959a-7b50438acebb@mo.wequ.host:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ign.com&fp=edge&pbk=X4zuWa9FSwNyLOkxPxdrYdYWih52y2q6JbegN0jw80k&sid=d5524580&flow=xtls-rprx-vision#🌍 Macao | Akile LTD 3
-vless://60300afa-3366-4ae3-959a-7b50438acebb@mo.wequ.host:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ign.com&fp=edge&pbk=X4zuWa9FSwNyLOkxPxdrYdYWih52y2q6JbegN0jw80k&sid=d5524580&flow=xtls-rprx-vision#🌍 Macao | Akile LTD 4
+vless://60300afa-3366-4ae3-959a-7b50438acebb@45.207.34.187:443?security=reality&encryption=none&pbk=X4zuWa9FSwNyLOkxPxdrYdYWih52y2q6JbegN0jw80k&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=d5524580#🌍 Macao | Akile LTD 1
+vless://60300afa-3366-4ae3-959a-7b50438acebb@45.207.34.187:443?flow=xtls-rprx-vision&fp=firefox&pbk=X4zuWa9FSwNyLOkxPxdrYdYWih52y2q6JbegN0jw80k&security=reality&sid=d5524580&sni=ign.com&type=tcp#🌍 Macao | Akile LTD 2
+vless://60300afa-3366-4ae3-959a-7b50438acebb@45.207.34.187:443?type=tcp&security=reality&pbk=X4zuWa9FSwNyLOkxPxdrYdYWih52y2q6JbegN0jw80k&flow=xtls-rprx-vision&sni=ign.com&sid=d5524580&fp=firefox#🌍 Macao | Akile LTD 3
+vless://60300afa-3366-4ae3-959a-7b50438acebb@45.207.34.187:443?flow=xtls-rprx-vision&fp=firefox&pbk=X4zuWa9FSwNyLOkxPxdrYdYWih52y2q6JbegN0jw80k&security=reality&sid=d5524580&sni=ign.com&type=tcp&nonce=S_zoijhV#🌍 Macao | Akile LTD 4
+vless://60300afa-3366-4ae3-959a-7b50438acebb@mo.wequ.host:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ign.com&fp=edge&pbk=X4zuWa9FSwNyLOkxPxdrYdYWih52y2q6JbegN0jw80k&sid=d5524580&flow=xtls-rprx-vision#🌍 Macao | Akile LTD 5
+vless://60300afa-3366-4ae3-959a-7b50438acebb@mo.wequ.host:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ign.com&fp=edge&pbk=X4zuWa9FSwNyLOkxPxdrYdYWih52y2q6JbegN0jw80k&sid=d5524580&type=tcp&headerType=none#🌍 Macao | Akile LTD 6
+vless://60300afa-3366-4ae3-959a-7b50438acebb@45.207.34.187:443?security=reality&encryption=none&pbk=X4zuWa9FSwNyLOkxPxdrYdYWih52y2q6JbegN0jw80k&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=d5524580#🌍 Macao | Akile LTD 7
