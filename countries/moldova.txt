@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://84b504e4-a97f-40ab-93c3-a03a5f0ff36c@md.riotvpn.eu:443?type=tcp&security=reality&sni=avatars.mds.yandex.net&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2&fp=qq&flow=xtls-rprx-vision&encryption=none#🇲🇩 Moldova | H2nexus LTD 1
+vless://84b504e4-a97f-40ab-93c3-a03a5f0ff36c@md.riotvpn.eu:8443?type=grpc&security=reality&sni=avatars.mds.yandex.net&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=e67fb918ed6b9ffb&fp=chrome&serviceName=grpc-yandex&encryption=none&__rand=5d5bfdd6#🇲🇩 Moldova | H2nexus LTD 1
+vless://84b504e4-a97f-40ab-93c3-a03a5f0ff36c@md.riotvpn.eu:443?type=tcp&security=reality&sni=avatars.mds.yandex.net&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2&fp=qq&flow=xtls-rprx-vision&encryption=none#🇲🇩 Moldova | H2nexus LTD 2
