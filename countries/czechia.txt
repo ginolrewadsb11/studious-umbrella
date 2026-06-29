@@ -3,9 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://f814efd4-b84c-4ec2-9fc5-9a69d9aac87b@151.101.110.219:443?path=%2F&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇨🇿 Czechia | Cloud Software - FZCO 1
-vless://f814efd4-b84c-4ec2-9fc5-9a69d9aac87b@151.101.110.219:443?path=%2F&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇨🇿 Czechia | Cloud Software - FZCO 2
 vless://bf1ccfb8-0cb3-463d-a546-50032a1e3d3c@91.199.137.12:443?flow=xtls-rprx-vision&fp=firefox&pbk=gVeyusHnhoE_EPLshlFN9sAJ1Dp7j8hB3kvcDeOeYjA&security=reality&sid=9fa2d11795c18e86&sni=cz-smart.t1n2.com&type=tcp#🇨🇿 Czechia | SmartApe OU 1
-vless://bf1ccfb8-0cb3-463d-a546-50032a1e3d3c@cz-smart.t1n2.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cz-smart.t1n2.com&fp=firefox&pbk=gVeyusHnhoE_EPLshlFN9sAJ1Dp7j8hB3kvcDeOeYjA&sid=9fa2d11795c18e86&flow=xtls-rprx-vision#🇨🇿 Czechia | SmartApe OU 2
+vless://bf1ccfb8-0cb3-463d-a546-50032a1e3d3c@91.199.137.12:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cz-smart.t1n2.com&fp=firefox&pbk=gVeyusHnhoE_EPLshlFN9sAJ1Dp7j8hB3kvcDeOeYjA&sid=9fa2d11795c18e86&flow=xtls-rprx-vision#🇨🇿 Czechia | SmartApe OU 2
+vless://bf1ccfb8-0cb3-463d-a546-50032a1e3d3c@cz-smart.t1n2.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cz-smart.t1n2.com&fp=firefox&pbk=gVeyusHnhoE_EPLshlFN9sAJ1Dp7j8hB3kvcDeOeYjA&sid=9fa2d11795c18e86&flow=xtls-rprx-vision#🇨🇿 Czechia | SmartApe OU 3
