@@ -3,13 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBTYXVkaSBBcmFiaWEK4pqhIDgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBTYXVkaSBBcmFiaWEK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://5a28d935-e940-46fe-bc44-229b126e052a@130.94.59.236:443?security=reality&encryption=none&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c56d4f1c#🌍 Saudi Arabia | Light Node 1
+vless://5a28d935-e940-46fe-bc44-229b126e052a@130.94.59.236:443?security=reality&encryption=none&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c56d4f1c&descriptions=СвободуИнтернету802#🌍 Saudi Arabia | Light Node 1
 vless://5a28d935-e940-46fe-bc44-229b126e052a@130.94.59.236:443?security=reality&encryption=none&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c56d4f1c&__rand=48e17989#🌍 Saudi Arabia | Light Node 2
 vless://5a28d935-e940-46fe-bc44-229b126e052a@130.94.59.236:443?security=reality&encryption=none&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c56d4f1c#🌍 Saudi Arabia | Light Node 3
-vless://5a28d935-e940-46fe-bc44-229b126e052a@130.94.59.236:443?security=reality&encryption=none&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c56d4f1c#🌍 Saudi Arabia | Light Node 4
-vless://5a28d935-e940-46fe-bc44-229b126e052a@130.94.59.236:443?type=tcp&headerType=none&security=reality&encryption=none&sni=google.com&fp=firefox&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&sid=c56d4f1c&flow=xtls-rprx-vision#🌍 Saudi Arabia | Light Node 5
-vless://5a28d935-e940-46fe-bc44-229b126e052a@130.94.59.236:443?security=reality&encryption=none&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c56d4f1c&descriptions=СвободуИнтернету802#🌍 Saudi Arabia | Light Node 6
-vless://5a28d935-e940-46fe-bc44-229b126e052a@130.94.59.236:443?flow=xtls-rprx-vision&fp=firefox&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&security=reality&sid=c56d4f1c&sni=google.com&type=tcp#🌍 Saudi Arabia | Light Node 7
+vless://5a28d935-e940-46fe-bc44-229b126e052a@130.94.59.236:443?security=reality&encryption=none&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c56d4f1c#🌍 Saudi Arabia | Light Node 4
+vless://5a28d935-e940-46fe-bc44-229b126e052a@130.94.59.236:443?flow=xtls-rprx-vision&fp=firefox&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&security=reality&sid=c56d4f1c&sni=google.com&type=tcp#🌍 Saudi Arabia | Light Node 5
+vless://5a28d935-e940-46fe-bc44-229b126e052a@130.94.59.236:443?type=tcp&headerType=none&security=reality&encryption=none&sni=google.com&fp=firefox&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&sid=c56d4f1c&flow=xtls-rprx-vision#🌍 Saudi Arabia | Light Node 6
 vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&mode=gun#🌍 Saudi Arabia | Oracle 1
