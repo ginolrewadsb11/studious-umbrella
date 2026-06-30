@@ -5,15 +5,15 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMTIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@193.9.49.65:443?security=tls&fp=chrome&sni=wz1.fum.ccwu.cc&type=ws&headerType=none&host=wz1.fum.ccwu.cc&path=/proxyip=sjc.o00o.ooo#🇮🇪 Ireland | HostPapa 1
-vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@104.18.42.68:8443?encryption=none&fp=chrome&host=wz1.fum.ccwu.cc&path=/proxyip=sjc.o00o.ooo&security=tls&sni=wz1.fum.ccwu.cc&type=ws#🇮🇪 Ireland | HostPapa 2
-vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@193.9.49.65:443?type=ws&security=tls&fp=firefox&sni=wz1.fum.ccwu.cc&path=/proxyip%3Dsjc.o00o.ooo&host=wz1.fum.ccwu.cc#🇮🇪 Ireland | HostPapa 3
-vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@104.16.4.189:443?security=tls&sni=wz1.fum.ccwu.cc&type=ws&host=wz1.fum.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo&fp=chrome#🇮🇪 Ireland | HostPapa 4
-vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@162.159.49.17:2087?encryption=none&security=tls&sni=wz1.fum.ccwu.cc&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=wz1.fum.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#🇮🇪 Ireland | HostPapa 5
-vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@icook.hk:443?&security=tls&fp=chrome&sni=wz1.fum.ccwu.cc&type=ws&headerType=none&host=wz1.fum.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#🇮🇪 Ireland | HostPapa 6
-vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@orange.seeck.cn:443?&security=tls&fp=chrome&sni=wz1.fum.ccwu.cc&type=ws&headerType=&host=wz1.fum.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo#🇮🇪 Ireland | HostPapa 7
-vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@img.yust.eu.org:443?fp=chrome&host=wz1.fum.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=wz1.fum.ccwu.cc&type=ws#🇮🇪 Ireland | HostPapa 8
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls#🇮🇪 Ireland | M247 Europe SRL 1
+vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@193.9.49.65:443?type=ws&security=tls&fp=firefox&sni=wz1.fum.ccwu.cc&path=/proxyip%3Dsjc.o00o.ooo&host=wz1.fum.ccwu.cc#🇮🇪 Ireland | HostPapa 1
+vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@104.16.6.189:443?security=tls&sni=wz1.fum.ccwu.cc&type=ws&host=wz1.fum.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo&fp=chrome#🇮🇪 Ireland | HostPapa 2
+vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@193.9.49.65:443?security=tls&fp=chrome&sni=wz1.fum.ccwu.cc&type=ws&headerType=none&host=wz1.fum.ccwu.cc&path=/proxyip=sjc.o00o.ooo#🇮🇪 Ireland | HostPapa 3
+vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@162.159.6.103:2053?host=wz1.fum.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=wz1.fum.ccwu.cc&type=ws#🇮🇪 Ireland | HostPapa 4
+vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@162.159.18.241:443?encryption=none&fp=chrome&host=wz1.fum.ccwu.cc&path=/proxyip=sjc.o00o.ooo&security=tls&sni=wz1.fum.ccwu.cc&type=ws#🇮🇪 Ireland | HostPapa 5
+vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@104.16.5.189:443?security=tls&sni=wz1.fum.ccwu.cc&type=ws&host=wz1.fum.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo&fp=chrome#🇮🇪 Ireland | HostPapa 6
+vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@cloudflare.182682.xyz:443?fp=chrome&host=wz1.fum.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=wz1.fum.ccwu.cc&type=ws#🇮🇪 Ireland | HostPapa 7
+vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@orange.seeck.cn:443?host=wz1.fum.ccwu.cc&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=wz1.fum.ccwu.cc&type=ws#🇮🇪 Ireland | HostPapa 8
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🇮🇪 Ireland | M247 Europe SRL 1
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🇮🇪 Ireland | M247 Europe SRL 2
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🇮🇪 Ireland | M247 Europe SRL 3
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls#🇮🇪 Ireland | M247 Europe SRL 3
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🇮🇪 Ireland | M247 Europe SRL 4
