@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBTcmkgTGFua2EK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBTcmkgTGFua2EK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://f099abc1-eb01-4171-a94f-566563f6b3b1@87.120.196.18:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=o2SrzDoX5tfMpju7B-RSxsb7eo6-hdV1vRFP8VA-dUA&sni=www.ya.ru#🌍 Sri Lanka | Host Telecom LTD 1
-vless://f099abc1-eb01-4171-a94f-566563f6b3b1@87.120.196.18:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.ya.ru&fp=chrome&pbk=o2SrzDoX5tfMpju7B-RSxsb7eo6-hdV1vRFP8VA-dUA&flow=xtls-rprx-vision#🌍 Sri Lanka | Host Telecom LTD 2
-vless://f099abc1-eb01-4171-a94f-566563f6b3b1@87.120.196.18:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.ya.ru&fp=chrome&pbk=o2SrzDoX5tfMpju7B-RSxsb7eo6-hdV1vRFP8VA-dUA&flow=xtls-rprx-vision#🌍 Sri Lanka | Host Telecom LTD 3
+vless://9268fe8c-fe3f-44fe-8984-c7d0060465a1@141.148.193.192:443?security=tls&encryption=none&sni=aka.ms&fp=chrome&type=ws&host=panel.trackydev.site&path=/&allow_insecure=1#🌍 Sri Lanka | Cyberzone S.A. 1
