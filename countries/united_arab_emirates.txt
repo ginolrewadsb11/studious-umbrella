@@ -3,11 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://45d2fe56-2da3-409a-bdc7-5b95f30817bd@141.11.202.247:443?path=%2Fxiron&security=tls&encryption=none&insecure=0&host=sahand-m.sahand5.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=sahand-m.sahand5.workers.dev#🇦🇪 United Arab Emirates | CLOUD-NETWORK 1
-vless://45d2fe56-2da3-409a-bdc7-5b95f30817bd@141.11.202.241:443?path=%2Fxiron&security=tls&encryption=none&insecure=0&host=sahand-m.sahand5.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=sahand-m.sahand5.workers.dev#🇦🇪 United Arab Emirates | CLOUD-NETWORK 2
 trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&sni=38.60.202.163#🇦🇪 United Arab Emirates | Kaopu Cloud HK 1
-trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls#🇦🇪 United Arab Emirates | Kaopu Cloud HK 2
-trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=38.60.202.163#🇦🇪 United Arab Emirates | Kaopu Cloud HK 3
+trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=38.60.202.163#🇦🇪 United Arab Emirates | Kaopu Cloud HK 2
+trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&sni=38.60.202.163#🇦🇪 United Arab Emirates | Kaopu Cloud HK 3
 trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&sni=38.60.202.163#🇦🇪 United Arab Emirates | Kaopu Cloud HK 4
