@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNZXhpY28K4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNZXhpY28K4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=/vless/#🌍 Mexico | Latitude.sh 1
+vless://T-ME-V2RayyNGvpn@216.238.94.140:2053?security=reality&encryption=none&pbk=v74ad7EBU3cwitC9ErbaEmuQBFUrUkDxJaXzM7y_nHk&headerType=none&fp=chrome&spx=/k6cL9IoX6o89Mfb&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=957b#🌍 Mexico | The Constant Company 1
+vless://f40e17fc-2718-4e4a-ac29-ba7e28dd3164@216.238.94.140:8880?path=/t-me-V2RayyNGvpn&security=none&encryption=none&host=t.codmgiftcp.com&type=ws#🌍 Mexico | The Constant Company 2
