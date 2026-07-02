@@ -3,13 +3,17 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDEyINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
+vless://b8ab1937-611c-4734-b01c-ff3818edf635@188.114.97.6:443?path=/id-amz&security=tls&encryption=none&insecure=0&host=m.udemy.com.ex33r.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=m.udemy.com.ex33r.eu.cc#🌍 Indonesia | Amazon.com, 1
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@154.90.48.218:5601#🌍 Indonesia | Kaopu Cloud HK 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFTnhyTVZoYWFnbjQzbEtrMGxjT3d6bzItejhTaFhpQS1B@130.94.92.62:17216#🌍 Indonesia | Light Node 1
-trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?type=tcp&headerType=none&security=tls&encryption=none&insecure=0#🌍 Indonesia | Light Node 2
-trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15#🌍 Indonesia | Light Node 3
-trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15#🌍 Indonesia | Light Node 4
-trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15#🌍 Indonesia | Light Node 5
-trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls#🌍 Indonesia | Light Node 6
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15#🌍 Indonesia | Light Node 2
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?allowInsecure=0&sni=130.94.94.15#🌍 Indonesia | Light Node 3
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?type=tcp&security=tls&sni=130.94.94.15&fp=chrome#🌍 Indonesia | Light Node 4
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls#🌍 Indonesia | Light Node 5
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?type=tcp&headerType=none&security=tls&encryption=none&insecure=0#🌍 Indonesia | Light Node 6
 trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15#🌍 Indonesia | Light Node 7
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&headerType=none&type=tcp&sni=130.94.94.15#🌍 Indonesia | Light Node 8
+vless://1246e51a-97cd-4d5c-9842-76dd3420bbe2@188.114.97.6:443?path=/id-tksi&security=tls&encryption=none&insecure=0&host=investor.fb.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=investor.fb.com.r3xxe.eu.cc#🌍 Indonesia | PT. Telekomunikasi Ind... 1
+vless://0799a47d-d446-4a20-8e75-441fa899fbb1@104.16.72.70:443?path=%2Fid-pusat&security=tls&encryption=none&insecure=0&host=unnes.ac.id.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.r3xxe.eu.cc#🌍 Indonesia | PUSATMEDIA 1
