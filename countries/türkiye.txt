@@ -3,17 +3,27 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDEyINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDIyINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls&sni=creativecommons.org&allowInsecure=1&type=tcp#🇹🇷 Türkiye | Baxet Group 1
-vless://b2a290df-fafc-4f69-a529-3900fe479ac1@217.60.23.144:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=dev.max.ru&fp=safari&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#🇹🇷 Türkiye | DATAPENTA 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#🇹🇷 Türkiye | Global Connectivity So... 1
+trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#🇹🇷 Türkiye | Baxet Group 1
+trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls&sni=creativecommons.org&allowInsecure=1&type=tcp#🇹🇷 Türkiye | Baxet Group 2
+vless://2107ef4d-870b-4cbe-9f84-fd64319bc45c@217.60.23.144:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=dev.max.ru&fp=safari&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#🇹🇷 Türkiye | DATAPENTA 1
+vless://2107ef4d-870b-4cbe-9f84-fd64319bc45c@217.60.23.144:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=dev.max.ru&fp=safari&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#🇹🇷 Türkiye | DATAPENTA 2
+vless://EarnMoneyarz-ZoRo@155.103.69.33:42841?security=reality&encryption=none&pbk=dzQmB-5PshfbZ228GO154TnSIcKV1HvG8sAhzlLn_zo&headerType=none&fp=chrome&spx=%2F50S8MSimAOoof6r&type=tcp&sni=www.yahoo.com&sid=a00ad308#🇹🇷 Türkiye | DC HOST 1
+vless://5aa708a4-0134-4f24-ba6f-d775651bd21e@tr.iranfastspeed.com.tr:59492?security=reality&encryption=none&pbk=jPWzhxlyYrRZTKbUO-Wb_OjWgD_7RrG3CFkttX7mKVY&headerType=none&fp=chrome&spx=/MQkVkUG8SYXH6IZ&type=tcp&sni=www.google.com:443&sid=0b1eccc239d0#🇹🇷 Türkiye | Global Connectivity So... 1
+vless://870d3183-17a1-4a87-9021-e12e3ac2939f@185.181.209.211:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=ed7b9bdfedb9b8e5&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&encryption=none#🇹🇷 Türkiye | Hostigger INC. 1
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#🇹🇷 Türkiye | Iksir Internet Hizmetl... 1
-vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&host=/?BIA_TELEGRAM@ShadowProxy66&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#🇹🇷 Türkiye | Interkvm Host SRL 1
+vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?encryption=none&type=tcp&security=reality&headerType=none&sni=web.max.ru&fp=chrome&insecure=1&allowInsecure=1&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sid=247fd6dab1a34a48&flow=xtls-rprx-vision#🇹🇷 Türkiye | Interkvm Host SRL 1
 vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#🇹🇷 Türkiye | Interkvm Host SRL 2
 vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#🇹🇷 Türkiye | Interkvm Host SRL 3
-vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?encryption=none&type=tcp&security=reality&headerType=none&sni=web.max.ru&fp=chrome&insecure=1&allowInsecure=1&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sid=247fd6dab1a34a48&flow=xtls-rprx-vision#🇹🇷 Türkiye | Interkvm Host SRL 4
-vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#🇹🇷 Türkiye | Interkvm Host SRL 5
-vless://1c0abb34-4313-4acb-993d-62bf52eace71@104.16.72.41:443?path=/&security=tls&encryption=none&insecure=0&host=c.downloadphysics.ir&fp=chrome&type=ws&allowInsecure=0&sni=c.downloadphysics.ir#🇹🇷 Türkiye | Netlen Internet Hizmet... 1
-vless://1c0abb34-4313-4acb-993d-62bf52eace71@fbi.gov:443?path=%2F&security=tls&encryption=none&insecure=0&host=c.downloadphysics.ir&fp=chrome&type=ws&allowInsecure=0&sni=c.downloadphysics.ir#🇹🇷 Türkiye | Netlen Internet Hizmet... 2
+vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&host=/?BIA_TELEGRAM@ShadowProxy66&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#🇹🇷 Türkiye | Interkvm Host SRL 4
+vless://eedcee2e-7517-4162-852d-b21b864b8e3f@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#🇹🇷 Türkiye | Interkvm Host SRL 5
+vless://1c0abb34-4313-4acb-993d-62bf52eace71@104.16.72.41:443?path=%2F&security=tls&encryption=none&insecure=0&host=c.downloadphysics.ir&fp=chrome&type=ws&allowInsecure=0&sni=c.downloadphysics.ir#🇹🇷 Türkiye | Netlen Internet Hizmet... 1
+vless://1c0abb34-4313-4acb-993d-62bf52eace71@104.16.148.244:443/?type=ws&encryption=none&flow=&host=c.downloadphysics.ir&path=%2F&security=tls&sni=c.downloadphysics.ir&fp=chrome#🇹🇷 Türkiye | Netlen Internet Hizmet... 2
+vless://1c0abb34-4313-4acb-993d-62bf52eace71@104.16.72.41:443?path=%2F&security=tls&encryption=none&insecure=0&host=c.downloadphysics.ir&fp=chrome&type=ws&allowInsecure=0&sni=c.downloadphysics.ir#🇹🇷 Türkiye | Netlen Internet Hizmet... 3
+vless://1c0abb34-4313-4acb-993d-62bf52eace71@fbi.gov:443?path=%2F&security=tls&encryption=none&insecure=0&host=c.downloadphysics.ir&fp=chrome&type=ws&allowInsecure=0&sni=c.downloadphysics.ir#🇹🇷 Türkiye | Netlen Internet Hizmet... 4
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#🇹🇷 Türkiye | Scalaxy B.V. 1
+vless://5aa16c6d-357b-459a-848d-53e4cddcffc3@31.210.53.161:443?type=tcp&headerType=none&security=reality&encryption=none&sni=tr-ist-8.blook.network&fp=firefox&pbk=ZjjejWQ2z6v8yinwngZMjgh2rozcTfBgXC930RUDE1I&sid=7ccfb185&flow=xtls-rprx-vision#🇹🇷 Türkiye | SH ONLINE ILETISIM ANO... 1
+vless://5aa16c6d-357b-459a-848d-53e4cddcffc3@tr-ist-8.blook.network:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZjjejWQ2z6v8yinwngZMjgh2rozcTfBgXC930RUDE1I&sid=7ccfb185&sni=tr-ist-8.blook.network#🇹🇷 Türkiye | SH ONLINE ILETISIM ANO... 2
+vless://1d69b662-74b4-46e4-8353-7c48e11ab9cd@edge-tr-ist.cdn.sx:2083?security=tls&encryption=none&insecure=0&headerType=&fp=firefox&type=tcp&allowInsecure=0&sni=edge-tr-ist.cdn.sx#🇹🇷 Türkiye | TradeZone 1
+vless://1d69b662-74b4-46e4-8353-7c48e11ab9cd@edge-tr-ist.cdn.sx:2083?security=tls&encryption=none&insecure=0&headerType=&fp=firefox&type=tcp&allowInsecure=0&sni=edge-tr-ist.cdn.sx#🇹🇷 Türkiye | TradeZone 2
