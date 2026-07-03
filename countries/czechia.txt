@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://6d31a121-afcf-419b-af11-73381a7cd7b3@189.74.118.2:443?flow=xtls-rprx-vision&fp=firefox&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&security=reality&sid=122218f4c1f172e4&sni=api.yandex-developer.org&type=tcp#🇨🇿 Czechia | FDCservers.net 1
-vless://6d31a121-afcf-419b-af11-73381a7cd7b3@api.yandex-developer.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&sni=api.yandex-developer.org#🇨🇿 Czechia | FDCservers.net 2
-vless://6d31a121-afcf-419b-af11-73381a7cd7b3@api.yandex-developer.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&sni=api.yandex-developer.org#🇨🇿 Czechia | FDCservers.net 3
+vless://681314c5-b3ee-41f1-a959-fa42841f5383@95.182.93.237:52077?fp=firefox&mode=gun&pbk=PHBDzNOQhRFtN4bDJ6pOySCGlIA09CC_Josq13rTIwk&security=reality&sid=a7f1b353c9e43d98&sni=yahoo.com&type=grpc#🇨🇿 Czechia | Cloud Software - FZCO 1
