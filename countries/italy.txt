@@ -3,70 +3,46 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDY1INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDQxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#🇮🇹 Italy | BrainStorm Network, Inc 1
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#🇮🇹 Italy | BrainStorm Network, Inc 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.241.66.76:14605#🇮🇹 Italy | Kamatera, 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@193.168.175.56:14605#🇮🇹 Italy | Kamatera, 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.240.147.113:14605#🇮🇹 Italy | Kamatera, 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.240.147.113:14605#🇮🇹 Italy | Kamatera, 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.241.66.76:14605#🇮🇹 Italy | Kamatera, 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@193.168.175.56:14605#🇮🇹 Italy | Kamatera, 3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.240.147.113:14605#🇮🇹 Italy | Kamatera, 4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@193.168.175.56:14605#🇮🇹 Italy | Kamatera, 5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.241.66.76:14605#🇮🇹 Italy | Kamatera, 6
-vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#🇮🇹 Italy | Oracle 1
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle 2
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle 3
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#🇮🇹 Italy | OVH SAS 1
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?encryption=none&path=/vless/&security=none&type=ws#🇮🇹 Italy | OVH SAS 2
-vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@57.131.32.191:8443?path=/vless/&security=tls&encryption=none&insecure=0&host=ov-italy1.09vpn.com&type=ws&allowInsecure=0&sni=ov-italy1.09vpn.com#🇮🇹 Italy | OVH SAS 3
-vmess://eyJhZGQiOiI1Ny4xMzEuMzIuMTkxIiwiYWlkIjowLCJob3N0IjoiT1YtSXRhbHkxLjA5dnBuLmNvbSIsImlkIjoiODQ4YWYzM2MtODFmMi00MGM5LTkzYjItNDY4MWQwNTY5MzZiIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92bWVzc1wvIiwicG9ydCI6ODQ0MywicHMiOiJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjlbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1JVC0xMjc4MDQyOCIsInNjeSI6ImF1dG8iLCJzbmkiOiJPVi1JdGFseTEuMDl2cG4uY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇮🇹 Italy | OVH SAS 4
-vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@57.131.32.191:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&host=ov-italy1.09vpn.com&type=ws&allowInsecure=0&sni=ov-italy1.09vpn.com#🇮🇹 Italy | OVH SAS 5
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=sca35.afterdomain.shop#🇮🇹 Italy | Scaleway 1
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?&security=tls&sni=sca12.afterdomain.shop&type=grpc&serviceName=&mode=gun#🇮🇹 Italy | Scaleway 2
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&type=grpc&security=tls&sni=sca12.afterdomain.shop&insecure=0&allowInsecure=0#🇮🇹 Italy | Scaleway 3
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=firefox&sni=sca31.afterdomain.shop#🇮🇹 Italy | Scaleway 4
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=sca12.afterdomain.shop&alpn=h2#🇮🇹 Italy | Scaleway 5
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=chrome&sni=sca19.afterdomain.shop#🇮🇹 Italy | Scaleway 6
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=firefox&sni=sca12.afterdomain.shop#🇮🇹 Italy | Scaleway 7
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=firefox&sni=sca39.afterdomain.shop#🇮🇹 Italy | Scaleway 8
-vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.239.248:443?security=tls&sni=sca12.afterdomain.shop&type=grpc&allowInsecure=0#🇮🇹 Italy | Scaleway 9
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=sca31.afterdomain.shop#🇮🇹 Italy | Scaleway 10
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&headerType=none&security=tls&encryption=none&sni=sca38.afterdomain.shop&alpn=h2&insecure=0#🇮🇹 Italy | Scaleway 11
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=sca35.afterdomain.shop&alpn=h2&type=grpc&host=sca35.afterdomain.shop#🇮🇹 Italy | Scaleway 12
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=sca19.afterdomain.shop&fp=chrome&alpn=h2#🇮🇹 Italy | Scaleway 13
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=sca38.afterdomain.shop&fp=chrome&alpn=h2#🇮🇹 Italy | Scaleway 14
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=chrome&sni=sca39.afterdomain.shop#🇮🇹 Italy | Scaleway 15
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=sca38.afterdomain.shop#🇮🇹 Italy | Scaleway 16
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&type=grpc&security=tls&sni=sca12.afterdomain.shop&insecure=0&allowInsecure=0#🇮🇹 Italy | Scaleway 17
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=sca38.afterdomain.shop&alpn=h2&type=grpc&host=sca38.afterdomain.shop#🇮🇹 Italy | Scaleway 18
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=sca12.afterdomain.shop&fp=chrome&alpn=h2#🇮🇹 Italy | Scaleway 19
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=sca38.afterdomain.shop&alpn=h2&type=grpc&host=sca38.afterdomain.shop#🇮🇹 Italy | Scaleway 20
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=sca19.afterdomain.shop#🇮🇹 Italy | Scaleway 21
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=sca39.afterdomain.shop#🇮🇹 Italy | Scaleway 22
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=chrome&sni=sca38.afterdomain.shop#🇮🇹 Italy | Scaleway 23
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=sca31.afterdomain.shop&fp=chrome&alpn=h2#🇮🇹 Italy | Scaleway 24
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=sca31.afterdomain.shop&alpn=h2&type=grpc&host=sca31.afterdomain.shop#🇮🇹 Italy | Scaleway 25
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=sca13.afterdomain.shop&fp=chrome&alpn=h2#🇮🇹 Italy | Scaleway 26
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=chrome&sni=sca12.afterdomain.shop#🇮🇹 Italy | Scaleway 27
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=sca39.afterdomain.shop&fp=chrome&alpn=h2#🇮🇹 Italy | Scaleway 28
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=sca31.afterdomain.shop&fp=chrome&alpn=h2#🇮🇹 Italy | Scaleway 29
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=sca12.afterdomain.shop&alpn=h2&type=grpc&host=sca12.afterdomain.shop#🇮🇹 Italy | Scaleway 30
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&headerType=none&security=tls&encryption=none&sni=sca38.afterdomain.shop&alpn=h2&insecure=0#🇮🇹 Italy | Scaleway 31
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.200:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 32
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.152:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 33
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?encryption=none&security=none&type=grpc#🇮🇹 Italy | Scaleway 34
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.speedmeter.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 35
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.speedmeter.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 36
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca25.directdnsai.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 37
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca25.directdnsai.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 38
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca15.speedmeter.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 39
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.speedmeter.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 40
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca23.directdnsai.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 41
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.speedmeter.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 42
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.speedmeter.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 43
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca15.speedmeter.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 44
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca35.speedmeter.shop:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM%40vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&type=grpc#🇮🇹 Italy | Scaleway 45
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.speedmeter.shop:8880?security=&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 46
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.speedmeter.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 47
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?encryption=none&type=grpc&mode=gun#🇮🇹 Italy | Scaleway 48
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?encryption=none&type=grpc&authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&mode=gun#🇮🇹 Italy | Scaleway 49
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#🇮🇹 Italy | Oracle 1
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#🇮🇹 Italy | Oracle 2
+vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#🇮🇹 Italy | Oracle 3
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle 4
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=&type=tcp#🇮🇹 Italy | Oracle 5
+vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@57.131.32.191:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&host=ov-italy1.09vpn.com&type=ws&allowInsecure=0&sni=ov-italy1.09vpn.com#🇮🇹 Italy | OVH SAS 1
+vmess://ewogICAgImFkZCI6ICI1Ny4xMzEuMzIuMTkxIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiT1YtSXRhbHkxLjA5dnBuLmNvbSIsCiAgICAiaWQiOiAiODQ4YWYzM2MtODFmMi00MGM5LTkzYjItNDY4MWQwNTY5MzZiIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3ZtZXNzLyIsCiAgICAicG9ydCI6IDg0NDMsCiAgICAicHMiOiAi8J+HrvCfh7lJVC01Ny4xMzEuMzIuMTkxLTIxNDEiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==#🇮🇹 Italy | OVH SAS 2
+vmess://eyJhZGQiOiI1Ny4xMzEuMzIuMTkxIiwiYWlkIjowLCJob3N0IjoiT1YtSXRhbHkxLjA5dnBuLmNvbSIsImlkIjoiODQ4YWYzM2MtODFmMi00MGM5LTkzYjItNDY4MWQwNTY5MzZiIiwibmV0Ijoid3MiLCJwYXRoIjoiXC92bWVzc1wvIiwicG9ydCI6ODQ0MywicHMiOiJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjlbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1JVC0xMjc4MDQyOCIsInNjeSI6ImF1dG8iLCJzbmkiOiJPVi1JdGFseTEuMDl2cG4uY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇮🇹 Italy | OVH SAS 3
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?security=tls&sni=sca12.afterdomain.shop&type=grpc&allowInsecure=0#🇮🇹 Italy | Scaleway 1
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=firefox&sni=sca12.afterdomain.shop#🇮🇹 Italy | Scaleway 2
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.239.248:443?security=tls&sni=sca12.afterdomain.shop&type=grpc&allowInsecure=0#🇮🇹 Italy | Scaleway 3
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=sca39.afterdomain.shop&alpn=h2&type=grpc&host=sca39.afterdomain.shop#🇮🇹 Italy | Scaleway 4
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=sca12.afterdomain.shop&fp=chrome&alpn=h2#🇮🇹 Italy | Scaleway 5
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&headerType=none&security=tls&encryption=none&sni=sca38.afterdomain.shop&alpn=h2&insecure=0#🇮🇹 Italy | Scaleway 6
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=sca38.afterdomain.shop&alpn=h2&type=grpc&host=sca38.afterdomain.shop#🇮🇹 Italy | Scaleway 7
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=sca31.afterdomain.shop&alpn=h2&type=grpc&host=sca31.afterdomain.shop#🇮🇹 Italy | Scaleway 8
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?encryption=none&security=none&type=grpc#🇮🇹 Italy | Scaleway 9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.200:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 10
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM%40vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&type=grpc#🇮🇹 Italy | Scaleway 11
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.152:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 12
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.117:8880?encryption=none&security=none&type=grpc#🇮🇹 Italy | Scaleway 13
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca15.speedmeter.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 14
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.speedmeter.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 15
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca35.speedmeter.shop:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM%40vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&type=grpc#🇮🇹 Italy | Scaleway 16
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹 Italy | Scaleway 17
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.speedmeter.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 18
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca23.directdnsai.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 19
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.speedmeter.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 20
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.speedmeter.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 21
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca15.speedmeter.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 22
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca25.directdnsai.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 23
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.speedmeter.shop:8880?mode=gun&security=none&encryption=none&authority=v2rayNplus--v2rayNplus--v2rayNplus&type=grpc#🇮🇹 Italy | Scaleway 24
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM%40vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&type=grpc#🇮🇹 Italy | Scaleway 25
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#🇮🇹 Italy | Scaleway 26
