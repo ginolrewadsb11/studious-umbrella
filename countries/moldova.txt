@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://53396bf6-c215-414b-8de6-70915edb5dec@92.119.230.134:4444?security=none&encryption=none&headerType=none&type=tcp#🇲🇩 Moldova | Alexhost SRL 1
+vless://53396bf6-c215-414b-8de6-70915edb5dec@92.119.230.134:4444?type=tcp&security=none#🇲🇩 Moldova | Alexhost SRL 1
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.169.126.66:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🇲🇩 Moldova | Global Connectivity So... 1
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@95.85.253.109:8443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#🇲🇩 Moldova | Global Connectivity So... 2
