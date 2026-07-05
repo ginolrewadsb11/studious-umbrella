@@ -5,11 +5,11 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.69.138:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🌍 Indonesia | IPXO 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFTnhyTVZoYWFnbjQzbEtrMGxjT3d6bzItejhTaFhpQS1B@130.94.92.62:17216#🌍 Indonesia | Light Node 1
-trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15#🌍 Indonesia | Light Node 2
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443/?type=tcp&security=tls#🌍 Indonesia | Light Node 2
 trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15#🌍 Indonesia | Light Node 3
 trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?type=tcp&security=tls&headerType=none&sni=130.94.94.15&fp=chrome&insecure=1&allowInsecure=1#🌍 Indonesia | Light Node 4
-trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls#🌍 Indonesia | Light Node 5
-trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15#🌍 Indonesia | Light Node 6
-trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#🌍 Indonesia | Light Node 7
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?type=tcp&headerType=none&security=tls&encryption=none&insecure=0#🌍 Indonesia | Light Node 5
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#🌍 Indonesia | Light Node 6
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15#🌍 Indonesia | Light Node 7
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=1#🌍 Indonesia | Light Node 8
