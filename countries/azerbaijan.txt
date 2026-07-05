@@ -3,14 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBBemVyYmFpamFuCuKaoSA5INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBBemVyYmFpamFuCuKaoSAzINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:41943?security=tls&sni=az.01.naiun.bilibili.com#🌍 Azerbaijan | Datacamp 1
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:41943?security=tls&sni=az.01.naiun.bilibili.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌍 Azerbaijan | Datacamp 2
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.98:41943?security=tls&sni=az.01.naiun.bilibili.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌍 Azerbaijan | Datacamp 3
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:41943?security=tls&sni=az.01.naiun.bilibili.com#🌍 Azerbaijan | Datacamp 4
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.97:41943/?type=tcp&security=tls&sni=az.01.naiun.bilibili.com&allowInsecure=1#🌍 Azerbaijan | Datacamp 5
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.98:41943?security=tls&sni=az.01.naiun.bilibili.com#🌍 Azerbaijan | Datacamp 6
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:41943?security=tls&sni=az.01.naiun.bilibili.com#🌍 Azerbaijan | Datacamp 7
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:41943?security=tls&sni=az.01.naiun.bilibili.com#🌍 Azerbaijan | Datacamp 8
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:41943?security=tls&sni=az.01.naiun.bilibili.com#🌍 Azerbaijan | Datacamp 9
+vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:56745?encryption=none&type=tcp&security=none#🌍 Azerbaijan | G-Core Labs S.A 1
+vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:56745?encryption=none&security=none&type=tcp#🌍 Azerbaijan | G-Core Labs S.A 2
+vless://f3131de4-3488-4434-afe9-8348b100324e@176.123.165.127:56745?encryption=none&security=none&type=tcp#🌍 Azerbaijan | G-Core Labs S.A. 1
