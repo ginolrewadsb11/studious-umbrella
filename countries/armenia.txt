@@ -3,14 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7IgQm9iaVZQTiDigJQgQXJtZW5pYQrimqEgOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7IgQm9iaVZQTiDigJQgQXJtZW5pYQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://c918927a-a4cf-45ad-a5c8-e135129ee1d4@37.9.4.168:443?type=grpc&security=reality&encryption=none&sni=gentoo.ubuntuhosting.host&fp=firefox&pbk=4Aj0KdIO7gK-KyX6oBzSic_oIr2ooDXtcHKB05qTrEI&sid=1b&headerType=none&serviceName=gun&mode=gun#🇦🇲 Armenia | GLB Bulut Teknolojisi ... 1
-vless://c918927a-a4cf-45ad-a5c8-e135129ee1d4@37.9.4.168:443?encryption=none&type=grpc&security=reality&mode=multi&serviceName=gun&fp=firefox&sni=gentoo.ubuntuhosting.host&pbk=4Aj0KdIO7gK-KyX6oBzSic_oIr2ooDXtcHKB05qTrEI&sid=1b#🇦🇲 Armenia | GLB Bulut Teknolojisi ... 2
+vless://c918927a-a4cf-45ad-a5c8-e135129ee1d4@37.9.4.168:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=gun&fp=edge&sni=gentoo.ubuntuhosting.host&pbk=4Aj0KdIO7gK-KyX6oBzSic_oIr2ooDXtcHKB05qTrEI&sid=1b#🇦🇲 Armenia | GLB Bulut Teknolojisi ... 1
+vless://c918927a-a4cf-45ad-a5c8-e135129ee1d4@37.9.4.168:443?type=grpc&security=reality&encryption=none&sni=gentoo.ubuntuhosting.host&fp=firefox&pbk=4Aj0KdIO7gK-KyX6oBzSic_oIr2ooDXtcHKB05qTrEI&sid=1b&headerType=none&serviceName=gun&mode=gun#🇦🇲 Armenia | GLB Bulut Teknolojisi ... 2
 vless://c918927a-a4cf-45ad-a5c8-e135129ee1d4@37.9.4.168:443?type=grpc&security=reality&fp=edge&pbk=4Aj0KdIO7gK-KyX6oBzSic_oIr2ooDXtcHKB05qTrEI&sid=1b&sni=gentoo.ubuntuhosting.host&mode=multi&serviceName=gun#🇦🇲 Armenia | GLB Bulut Teknolojisi ... 3
-vless://c918927a-a4cf-45ad-a5c8-e135129ee1d4@37.9.4.168:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=gun&fp=edge&sni=gentoo.ubuntuhosting.host&pbk=4Aj0KdIO7gK-KyX6oBzSic_oIr2ooDXtcHKB05qTrEI&sid=1b#🇦🇲 Armenia | GLB Bulut Teknolojisi ... 4
-vless://c918927a-a4cf-45ad-a5c8-e135129ee1d4@37.9.4.168:443?type=grpc&security=reality&fp=edge&pbk=4Aj0KdIO7gK-KyX6oBzSic_oIr2ooDXtcHKB05qTrEI&sid=1b&sni=gentoo.ubuntuhosting.host&mode=multi&serviceName=gun#🇦🇲 Armenia | GLB Bulut Teknolojisi ... 5
-vless://c918927a-a4cf-45ad-a5c8-e135129ee1d4@37.9.4.168:443?encryption=none&type=grpc&security=reality&mode=multi&serviceName=gun&fp=firefox&sni=gentoo.ubuntuhosting.host&pbk=4Aj0KdIO7gK-KyX6oBzSic_oIr2ooDXtcHKB05qTrEI&sid=1b#🇦🇲 Armenia | GLB Bulut Teknolojisi ... 6
-vless://c918927a-a4cf-45ad-a5c8-e135129ee1d4@37.9.4.168:443?encryption=none&type=grpc&security=reality&mode=multi&serviceName=gun&fp=edge&sni=gentoo.ubuntuhosting.host&pbk=4Aj0KdIO7gK-KyX6oBzSic_oIr2ooDXtcHKB05qTrEI&sid=1b#🇦🇲 Armenia | GLB Bulut Teknolojisi ... 7
-vless://c918927a-a4cf-45ad-a5c8-e135129ee1d4@37.9.4.168:443?encryption=none&type=grpc&security=reality&mode=multi&serviceName=gun&fp=firefox&sni=gentoo.ubuntuhosting.host&pbk=4Aj0KdIO7gK-KyX6oBzSic_oIr2ooDXtcHKB05qTrEI&sid=1b#🇦🇲 Armenia | GLB Bulut Teknolojisi ... 8
-vless://c918927a-a4cf-45ad-a5c8-e135129ee1d4@37.9.4.168:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=gun&fp=firefox&sni=gentoo.ubuntuhosting.host&pbk=4Aj0KdIO7gK-KyX6oBzSic_oIr2ooDXtcHKB05qTrEI&sid=1b#🇦🇲 Armenia | GLB Bulut Teknolojisi ... 9
+vless://c918927a-a4cf-45ad-a5c8-e135129ee1d4@37.9.4.168:443?encryption=none&type=grpc&security=reality&mode=multi&serviceName=gun&fp=firefox&sni=gentoo.ubuntuhosting.host&pbk=4Aj0KdIO7gK-KyX6oBzSic_oIr2ooDXtcHKB05qTrEI&sid=1b#🇦🇲 Armenia | GLB Bulut Teknolojisi ... 4
+vless://c918927a-a4cf-45ad-a5c8-e135129ee1d4@37.9.4.168:443?encryption=none&type=grpc&security=reality&mode=multi&serviceName=gun&fp=firefox&sni=gentoo.ubuntuhosting.host&pbk=4Aj0KdIO7gK-KyX6oBzSic_oIr2ooDXtcHKB05qTrEI&sid=1b#🇦🇲 Armenia | GLB Bulut Teknolojisi ... 5
