@@ -3,19 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh74gQm9iaVZQTiDigJQgQmVsYXJ1cwrimqEgMTQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Hp/Cfh74gQm9iaVZQTiDigJQgQmVsYXJ1cwrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@185.66.68.72:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#🇧🇾 Belarus | Beros 1
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@185.66.68.72:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#🇧🇾 Belarus | Beros 2
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@185.66.68.72:443?encryption=none&flow=xtls-rprx-vision&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#🇧🇾 Belarus | Beros 3
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@185.66.68.72:443?flow=xtls-rprx-vision&fp=firefox&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#🇧🇾 Belarus | Beros 4
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@185.66.68.72:443?flow=xtls-rprx-vision&fp=firefox&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#🇧🇾 Belarus | Beros 5
-vless://c777e5b5-9904-4644-947a-e4208a0329d0@185.147.26.108:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome#🇧🇾 Belarus | H2nexus LTD 1
-vless://c777e5b5-9904-4644-947a-e4208a0329d0@185.147.26.108:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=ru108.mechvpn.online#🇧🇾 Belarus | H2nexus LTD 2
-vless://c777e5b5-9904-4644-947a-e4208a0329d0@185.147.26.108:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🇧🇾 Belarus | H2nexus LTD 3
-vless://c777e5b5-9904-4644-947a-e4208a0329d0@185.147.26.108:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=ru108.mechvpn.online#🇧🇾 Belarus | H2nexus LTD 4
-vless://c777e5b5-9904-4644-947a-e4208a0329d0@ru108.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision&encryption=none&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome#🇧🇾 Belarus | H2nexus LTD 5
-vless://497631c4-a1a4-0023-a86a-f42873473bb6@185.40.28.217:8443?flow=xtls-rprx-vision&fp=firefox&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=auto.quattro-tech.ru&type=tcp#🇧🇾 Belarus | Itglobalcom BEL 1
-vless://497631c4-a1a4-0023-a86a-f42873473bb6@185.40.28.217:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=auto.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇧🇾 Belarus | Itglobalcom BEL 2
-vless://497631c4-a1a4-0023-a86a-f42873473bb6@185.40.28.217:8443?type=tcp&security=reality&encryption=none&sni=auto.quattro-tech.ru&fp=edge&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&flow=xtls-rprx-vision&headerType=none#🇧🇾 Belarus | Itglobalcom BEL 3
-vless://497631c4-a1a4-0023-a86a-f42873473bb6@185.40.28.217:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=auto.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇧🇾 Belarus | Itglobalcom BEL 4
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@185.66.68.72:443?flow=xtls-rprx-vision&fp=firefox&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#🇧🇾 Belarus | Beros 1
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@185.66.68.72:443?flow=xtls-rprx-vision&fp=firefox&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#🇧🇾 Belarus | Beros 2
+vless://c777e5b5-9904-4644-947a-e4208a0329d0@185.147.26.108:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=ru108.mechvpn.online#🇧🇾 Belarus | H2nexus LTD 1
+vless://497631c4-a1a4-0023-a86a-f42873473bb6@185.40.28.217:8443?type=tcp&security=reality&encryption=none&sni=auto.quattro-tech.ru&fp=edge&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&flow=xtls-rprx-vision&headerType=none#🇧🇾 Belarus | Itglobalcom BEL 1
