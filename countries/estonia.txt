@@ -3,8 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqvCfh6ogQm9iaVZQTiDigJQgRXN0b25pYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqvCfh6ogQm9iaVZQTiDigJQgRXN0b25pYQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://fee5bf09-5d07-45e8-9a47-859b06694971@5.181.202.222:8443?encryption=none&type=tcp&security=reality&fp=firefox&pbk=CzI1Zft9ToNgciMIfMhtn_Q5RRO0Q3AyURYvrvnKL14&sni=ads.x5.ru&flow=xtls-rprx-vision#🇪🇪 Estonia | Brainoza OU 1
-vless://7982f37c-757c-4a29-9ad4-04db96d6b1bc@5.101.117.228:443?flow=xtls-rprx-vision&fp=firefox&pbk=mqztI1M0wk7wmWowk9w6CPFX5jzqwCnweaZWATV1QyM&security=reality&sid=6730f963365411e6&sni=ee.unlimitedteam.space&type=tcp#🇪🇪 Estonia | PAGM network 1
-vless://7982f37c-757c-4a29-9ad4-04db96d6b1bc@ee.unlimitedteam.space:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ee.unlimitedteam.space&fp=chrome&pbk=mqztI1M0wk7wmWowk9w6CPFX5jzqwCnweaZWATV1QyM&sid=6730f963365411e6&flow=xtls-rprx-vision#🇪🇪 Estonia | PAGM network 2
+vless://7982f37c-757c-4a29-9ad4-04db96d6b1bc@ee.unlimitedteam.space:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ee.unlimitedteam.space&fp=chrome&pbk=mqztI1M0wk7wmWowk9w6CPFX5jzqwCnweaZWATV1QyM&sid=6730f963365411e6&flow=xtls-rprx-vision#🇪🇪 Estonia | PAGM network 1
+vless://97d5fcf6-9be5-42ca-bc35-28bee4ba1f29@45.11.26.234:8443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=edge&sni=wl-7-6.nodes.ac&pbk=QxW0nwrOXYHuEeL4PXObUDEackg-ebQ_9Vgl01IwsxM&sid=77173c666c84bec1#🇪🇪 Estonia | WAVECOM 1
+vless://97d5fcf6-9be5-42ca-bc35-28bee4ba1f29@46.254.17.72:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=wl-1-1.legendary.ac&pbk=Ce2abow3fU3pN2_mlX3uJW93sBMgTI9qNo5q7_EgFTA&sid=c4a70eddb745b1ea#🇪🇪 Estonia | WAVECOM 2
+vless://97d5fcf6-9be5-42ca-bc35-28bee4ba1f29@213.226.112.213:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=wl-7-5.nodes.ac&pbk=sXOFKo2LTiE3qg7Z68FIiwTYvhNNSAOTx9AYMuUoUnk&sid=07d3a29177aefcb6#🇪🇪 Estonia | WAVECOM 3
+vless://97d5fcf6-9be5-42ca-bc35-28bee4ba1f29@45.11.26.216:8443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=edge&sni=wl-7-2.nodes.ac&pbk=XcKsq814Eci-OL3RwNbjvTMn73QzoczITlTSmnY-syI&sid=ba4ce2cb1029b0dd#🇪🇪 Estonia | WAVECOM 4
