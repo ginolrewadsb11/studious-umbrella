@@ -3,11 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?security=reality&encryption=none&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vindobona.org&sid=08#🇦🇹 Austria | Aeza International LTD 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@193.233.161.92:8390#🇦🇹 Austria | Aeza International LTD 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@193.233.161.92:8390#🇦🇹 Austria | Aeza International LTD 2
-vless://98de0f0d-faec-43e1-ab40-a3bd6d91ceb8@132.243.254.58:443?type=tcp&security=reality&sni=www.google.com&fp=firefox&flow=xtls-rprx-vision&pbk=BR69ZK8WI9lWKssofXxe45kViW7TcBoIPKv5aZI4uxE&sid=abcd1234#🇦🇹 Austria | Baxet Group 1
-vless://98de0f0d-faec-43e1-ab40-a3bd6d91ceb8@132.243.254.58:443?__rand=3208e5dc&flow=xtls-rprx-vision&fp=firefox&pbk=BR69ZK8WI9lWKssofXxe45kViW7TcBoIPKv5aZI4uxE&security=reality&sid=abcd1234&sni=www.google.com&type=tcp#🇦🇹 Austria | Baxet Group 2
-vless://98de0f0d-faec-43e1-ab40-a3bd6d91ceb8@132.243.254.58:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&sid=abcd1234&pbk=BR69ZK8WI9lWKssofXxe45kViW7TcBoIPKv5aZI4uxE&encryption=none#🇦🇹 Austria | Baxet Group 3
-vless://bcc094e4-1a85-8a25-f8e1-5b08b9af841c@mouse3.1lil1.de:443?security=reality&type=tcp&packetEncoding=none&sni=stackoverflow.com&fp=firefox&flow=xtls-rprx-vision&sid=c410508e9721512b&pbk=LaGTRJ1CJnnYV7FnyqQnU28I0xFTPFKI8xmUFwig5ic#🇦🇹 Austria | netcup GmbH 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@193.233.161.92:8390#🇦🇹 Austria | Aeza International LTD 3
