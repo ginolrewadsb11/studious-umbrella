@@ -3,18 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqvCfh6ogQm9iaVZQTiDigJQgRXN0b25pYQrimqEgMTMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqvCfh6ogQm9iaVZQTiDigJQgRXN0b25pYQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@172.67.67.178:443/?type=ws&encryption=none&flow=&host=rAyAn-007.nAsTaRaN.DpDnS.OrG&path=%2F&security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&fp=chrome#🇪🇪 Estonia | Aktsiaselts WaveCom 1
-vless://fee5bf09-5d07-45e8-9a47-859b06694971@5.181.202.222:8443?encryption=none&type=tcp&security=reality&fp=firefox&pbk=CzI1Zft9ToNgciMIfMhtn_Q5RRO0Q3AyURYvrvnKL14&sni=ads.x5.ru&flow=xtls-rprx-vision#🇪🇪 Estonia | Brainoza OU 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.210.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime05.workers.dev&path=%2F#🇪🇪 Estonia | PAGM network 1
+vless://fee5bf09-5d07-45e8-9a47-859b06694971@5.181.202.222:8443?flow=xtls-rprx-vision&fp=firefox&pbk=CzI1Zft9ToNgciMIfMhtn_Q5RRO0Q3AyURYvrvnKL14&security=reality&sni=ads.x5.ru&type=tcp#🇪🇪 Estonia | Brainoza OU 1
+vless://fee5bf09-5d07-45e8-9a47-859b06694971@5.181.202.222:8443?encryption=none&type=tcp&security=reality&fp=firefox&pbk=CzI1Zft9ToNgciMIfMhtn_Q5RRO0Q3AyURYvrvnKL14&sni=ads.x5.ru&flow=xtls-rprx-vision#🇪🇪 Estonia | Brainoza OU 2
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@45.12.28.47:8443?flow=xtls-rprx-vision&fp=firefox&pbk=9PFK7qve14puhWYmFyNGpmDVPEyUjwAsYHhgH3Y1HmY&security=reality&sni=batman.jokertv.eu&type=tcp#🇪🇪 Estonia | Brainoza OU 3
+vless://fee5bf09-5d07-45e8-9a47-859b06694971@5.181.202.222:8443?encryption=none&type=tcp&security=reality&fp=firefox&pbk=CzI1Zft9ToNgciMIfMhtn_Q5RRO0Q3AyURYvrvnKL14&sni=ads.x5.ru&flow=xtls-rprx-vision#🇪🇪 Estonia | Brainoza OU 4
 vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.googletagmanager.com&fp=chrome&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&sid=8433cb66b6c3ab6d&type=tcp#🇪🇪 Estonia | RJ Network OU 1
 vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.googletagmanager.com&fp=chrome&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&sid=8433cb66b6c3ab6d&type=tcp#🇪🇪 Estonia | RJ Network OU 2
-vless://8f99d16f-3764-448b-a1de-7153f0453373@213.226.112.208:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=wl-7-3.nodes.ac&pbk=OflUQ0RuzdBHAtITxja0ZPDKgxKLBS9Rh49OIdS-FDA&sid=5f8ee4861a68966f#🇪🇪 Estonia | WAVECOM 1
-vless://8f99d16f-3764-448b-a1de-7153f0453373@213.226.112.213:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=wl-7-5.nodes.ac&pbk=sXOFKo2LTiE3qg7Z68FIiwTYvhNNSAOTx9AYMuUoUnk&sid=07d3a29177aefcb6#🇪🇪 Estonia | WAVECOM 2
-vless://e8f29b19-f1a8-4eab-be85-63a396a2b87e@213.226.112.199:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=wl-7-1.nodes.ac&pbk=YuzT0sT_KDCQ6vvJDJAzBLXq3zi-1uAAzrAeB9q0xlU&sid=9de49921459cc008#🇪🇪 Estonia | WAVECOM 3
-vless://e8f29b19-f1a8-4eab-be85-63a396a2b87e@213.226.112.213:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=wl-7-5.nodes.ac&pbk=sXOFKo2LTiE3qg7Z68FIiwTYvhNNSAOTx9AYMuUoUnk&sid=07d3a29177aefcb6#🇪🇪 Estonia | WAVECOM 4
-vless://e8f29b19-f1a8-4eab-be85-63a396a2b87e@45.11.26.234:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=wl-7-6.nodes.ac&pbk=QxW0nwrOXYHuEeL4PXObUDEackg-ebQ_9Vgl01IwsxM&sid=77173c666c84bec1#🇪🇪 Estonia | WAVECOM 5
-vless://e8f29b19-f1a8-4eab-be85-63a396a2b87e@46.254.17.72:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=wl-1-1.legendary.ac&pbk=Ce2abow3fU3pN2_mlX3uJW93sBMgTI9qNo5q7_EgFTA&sid=c4a70eddb745b1ea#🇪🇪 Estonia | WAVECOM 6
-vless://e8f29b19-f1a8-4eab-be85-63a396a2b87e@37.143.14.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=wl-8-1.nodes.ac&pbk=knrqm393ghxJNYj-4qu2BYpwpG5_zOG5h5-H7yyyR38&sid=0be28edc1b0278d6#🇪🇪 Estonia | WAVECOM 7
-vless://e8f29b19-f1a8-4eab-be85-63a396a2b87e@45.11.26.233:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=wl-7-4.nodes.ac&pbk=68wQdK61R38B7NqXnaTh9KMgKx12UNiXLjVVnskVwGs&sid=cf17fba21273fe11#🇪🇪 Estonia | WAVECOM 8
+vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.googletagmanager.com&fp=chrome&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&sid=8433cb66b6c3ab6d&type=tcp#🇪🇪 Estonia | RJ Network OU 3
+vless://6521657b-4841-483f-aaca-4c64498ab056@46.254.17.72:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=wl-1-1.legendary.ac&pbk=Ce2abow3fU3pN2_mlX3uJW93sBMgTI9qNo5q7_EgFTA&sid=c4a70eddb745b1ea#🇪🇪 Estonia | WAVECOM 1
