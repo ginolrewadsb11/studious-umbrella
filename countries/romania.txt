@@ -3,15 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgMTAg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://f426626f-a13e-4707-920d-e8feab56d1cc@38.79.154.34:2020?security=reality&encryption=none&pbk=KWlccWTLW11wEojieRNfg6zezd3KMxPpAkwZ11VNhSM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aparat.com&sid=d67b45b38dcea6#🇷🇴 Romania | Dotro Telecom SRL 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇷🇴 Romania | Dotro Telecom SRL 1
 vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&sid=9b4fc5a116efd6c8&sni=www.aliexpress.com#🇷🇴 Romania | M247 Europe SRL 1
 vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&security=reality&sid=9b4fc5a116efd6c8&sni=www.aliexpress.com&type=tcp#🇷🇴 Romania | M247 Europe SRL 2
 vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?security=reality&encryption=none&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.aliexpress.com&sid=9b4fc5a116efd6c8#🇷🇴 Romania | M247 Europe SRL 3
 vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@178.214.211.23:443?type=grpc&security=reality&sni=ro.spectrum.vu&fp=firefox&pbk=Ia9JdXTzAzoqPEkarBg6HFdXrSKYcUh_dt59tyMjukk&sid=c9e0a2f4b6d8&serviceName=vless#🇷🇴 Romania | Netgrid Host LTD 1
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@178.214.211.23:443?type=grpc&security=reality&sni=ro.spectrum.vu&fp=firefox&pbk=Ia9JdXTzAzoqPEkarBg6HFdXrSKYcUh_dt59tyMjukk&sid=c9e0a2f4b6d8&serviceName=vless#🇷🇴 Romania | Netgrid Host LTD 2
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@178.214.211.23:443?fp=firefox&mode=gun&pbk=Ia9JdXTzAzoqPEkarBg6HFdXrSKYcUh_dt59tyMjukk&security=reality&serviceName=vless&sid=c9e0a2f4b6d8&sni=ro.spectrum.vu&type=grpc#🇷🇴 Romania | Netgrid Host LTD 3
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@ro.spectrum.vu:443?encryption=none&type=grpc&security=reality&sni=ro.spectrum.vu&pbk=Ia9JdXTzAzoqPEkarBg6HFdXrSKYcUh_dt59tyMjukk&sid=c9e0a2f4b6d8&fp=chrome&serviceName=vless#🇷🇴 Romania | Netgrid Host LTD 4
-vless://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.alibaba.com&fp=chrome&security=reality&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&sid=c906f73d3ba8211f#🇷🇴 Romania | Netrouting 1
-vless://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443?security=reality&type=tcp&sni=www.alibaba.com&fp=chrome&flow=xtls-rprx-vision&sid=c906f73d3ba8211f&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw#🇷🇴 Romania | Netrouting 2
