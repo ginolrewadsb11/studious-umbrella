@@ -3,30 +3,33 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hq/Cfh64gQm9iaVZQTiDigJQgRmlubGFuZArimqEgMjUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Hq/Cfh64gQm9iaVZQTiDigJQgRmlubGFuZArimqEgMjgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@104.238.29.241:443?security=reality&encryption=none&pbk=uHgXn92PmJ1ilszzwK2LHKvoC5dwhqYVhfKT_JW7JHM&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=helsinki.fi&sid=40a5eaec20abf1#🇫🇮 Finland | Aeza International LTD 1
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@104.238.29.241:443?type=tcp&headerType=none&security=reality&encryption=none&sni=helsinki.fi&fp=firefox&pbk=uHgXn92PmJ1ilszzwK2LHKvoC5dwhqYVhfKT_JW7JHM&sid=40a5eaec20abf1&flow=xtls-rprx-vision#🇫🇮 Finland | Aeza International LTD 2
-vless://2ea1a3c8-2581-4ead-8291-43fee2f8be3d@62.60.228.89:443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=ydoxmw5pH_JPRTbjeNKnsF-MfVybjnAYLnhwRj3n3yE&sni=api.ok.ru&sid=cf2d#🇫🇮 Finland | Aeza International LTD 3
-vless://f7e0e597-636e-4550-9f54-6ab1c0e8cf49@193.233.136.85:2053?flow=xtls-rprx-vision&fp=firefox&pbk=Xx3r5KsSKa1I8O3avmwMbgXOWj_-MqiqzTO_7BzBxyU&security=reality&sid=58c5b3ee013bdc8f&sni=www.nvidia.com&type=tcp#🇫🇮 Finland | Aeza International LTD 4
-vless://2ea1a3c8-2581-4ead-8291-43fee2f8be3d@62.60.228.89:443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=ydoxmw5pH_JPRTbjeNKnsF-MfVybjnAYLnhwRj3n3yE&sni=api.ok.ru&sid=cf2d#🇫🇮 Finland | Aeza International LTD 5
-vless://2ea1a3c8-2581-4ead-8291-43fee2f8be3d@62.60.228.89:443?security=reality&encryption=none&pbk=ydoxmw5pH_JPRTbjeNKnsF-MfVybjnAYLnhwRj3n3yE&headerType=none&fp=chrome&type=tcp&sni=api.ok.ru&sid=cf2d#🇫🇮 Finland | Aeza International LTD 6
+vless://2ea1a3c8-2581-4ead-8291-43fee2f8be3d@62.60.228.89:443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=ydoxmw5pH_JPRTbjeNKnsF-MfVybjnAYLnhwRj3n3yE&sni=api.ok.ru&sid=cf2d#🇫🇮 Finland | Aeza International LTD 1
+vless://2ea1a3c8-2581-4ead-8291-43fee2f8be3d@62.60.228.89:443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=ydoxmw5pH_JPRTbjeNKnsF-MfVybjnAYLnhwRj3n3yE&sni=api.ok.ru&sid=cf2d#🇫🇮 Finland | Aeza International LTD 2
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@104.238.29.241:443?security=reality&encryption=none&pbk=uHgXn92PmJ1ilszzwK2LHKvoC5dwhqYVhfKT_JW7JHM&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=helsinki.fi&sid=40a5eaec20abf1#🇫🇮 Finland | Aeza International LTD 3
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@104.238.29.241:443?flow=xtls-rprx-vision&fp=firefox&pbk=uHgXn92PmJ1ilszzwK2LHKvoC5dwhqYVhfKT_JW7JHM&security=reality&sid=40a5eaec20abf1&sni=helsinki.fi&type=tcp#🇫🇮 Finland | Aeza International LTD 4
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@104.238.29.241:443?type=tcp&headerType=none&security=reality&encryption=none&sni=helsinki.fi&fp=firefox&pbk=uHgXn92PmJ1ilszzwK2LHKvoC5dwhqYVhfKT_JW7JHM&sid=40a5eaec20abf1&flow=xtls-rprx-vision#🇫🇮 Finland | Aeza International LTD 5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#🇫🇮 Finland | Baykov Ilya Sergeevich 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#🇫🇮 Finland | Baykov Ilya Sergeevich 2
 vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@141.98.87.48:9999?encryption=none&type=raw&security=none#🇫🇮 Finland | e-Style ISP 1
-vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@141.98.87.48:9999?encryption=none&type=raw&security=none#🇫🇮 Finland | e-Style ISP 2
-vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@141.98.87.48:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=eh.vk.com&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896#🇫🇮 Finland | e-Style ISP 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxdzcyXzR2UzY4Z2U4aHQyVmpjMzdja0k@bot.sobhanpor.ir:1080#🇫🇮 Finland | Hetzner Online GmbH 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxdzcyXzR2UzY4Z2U4aHQyVmpjMzdja0k@bot.sobhanpor.ir:1080#🇫🇮 Finland | Hetzner Online GmbH 2
+vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@141.98.87.48:9999?type=raw&fp=firefox#🇫🇮 Finland | e-Style ISP 2
+vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@141.98.87.48:9999?type=raw&security=none&fp=chrome#🇫🇮 Finland | e-Style ISP 3
+vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@141.98.87.48:9999?encryption=none&type=raw&security=none#🇫🇮 Finland | e-Style ISP 4
+vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@141.98.87.48:9999?type=raw&security=none&fp=chrome#🇫🇮 Finland | e-Style ISP 5
+vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@141.98.87.48:9999?encryption=none&type=raw&security=none#🇫🇮 Finland | e-Style ISP 6
+vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@freetg.strettenvpn.com:9999?encryption=none&security=none&type=tcp#🇫🇮 Finland | e-Style ISP 7
+vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@141.98.87.48:9999?encryption=none&type=raw&security=none#🇫🇮 Finland | e-Style ISP 8
+vless://6c976545-8dbb-4867-a93a-d3eae959923c@81.94.148.75:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ads.x5.ru&fp=chrome&sni=ads.x5.ru&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=08#🇫🇮 Finland | G-Core Labs S.A. 1
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.235:443?type=ws&headerType=none&security=tls&encryption=none&sni=het1.ariyuz.org&fp=chrome&alpn=http%2F1.1&path=%2F&host=het1.ariyuz.org&insecure=0#🇫🇮 Finland | Hetzner Online GmbH 1
 vless://106d20f6-d70a-40e2-b69b-8e82baf8d117@staging.lastilhame.monster:443?security=reality&sni=www.microsoft.com&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=60500a63ad12&type=tcp&flow=xtls-rprx-vision&encryption=none#🇫🇮 Finland | Hostkey B.V. 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlEzZmIyOWRQU2NjMWJNVVc1eTZocHByWHFWV3FTcWpUaTIzNGhGR2REZjNBckN1V3RCdzVGQTZ6VjV3QmdXVFA=@185.5.38.89:57327#🇫🇮 Finland | ITM NORD 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlEzZmIyOWRQU2NjMWJNVVc1eTZocHByWHFWV3FTcWpUaTIzNGhGR2REZjNBckN1V3RCdzVGQTZ6VjV3QmdXVFA=@mail2.thirdpaull.monster:57327#🇫🇮 Finland | ITM NORD 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlEzZmIyOWRQU2NjMWJNVVc1eTZocHByWHFWV3FTcWpUaTIzNGhGR2REZjNBckN1V3RCdzVGQTZ6VjV3QmdXVFA=@mail2.thirdpaull.monster:57327#🇫🇮 Finland | ITM NORD 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlEzZmIyOWRQU2NjMWJNVVc1eTZocHByWHFWV3FTcWpUaTIzNGhGR2REZjNBckN1V3RCdzVGQTZ6VjV3QmdXVFA=@185.5.38.89:57327#🇫🇮 Finland | ITM NORD 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlEzZmIyOWRQU2NjMWJNVVc1eTZocHByWHFWV3FTcWpUaTIzNGhGR2REZjNBckN1V3RCdzVGQTZ6VjV3QmdXVFA=@185.5.38.89:57327#🇫🇮 Finland | ITM NORD 3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlEzZmIyOWRQU2NjMWJNVVc1eTZocHByWHFWV3FTcWpUaTIzNGhGR2REZjNBckN1V3RCdzVGQTZ6VjV3QmdXVFA=@mail2.thirdpaull.monster:57327#🇫🇮 Finland | ITM NORD 4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlEzZmIyOWRQU2NjMWJNVVc1eTZocHByWHFWV3FTcWpUaTIzNGhGR2REZjNBckN1V3RCdzVGQTZ6VjV3QmdXVFA=@mail2.thirdpaull.monster:57327#🇫🇮 Finland | ITM NORD 5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlEzZmIyOWRQU2NjMWJNVVc1eTZocHByWHFWV3FTcWpUaTIzNGhGR2REZjNBckN1V3RCdzVGQTZ6VjV3QmdXVFA@mail2.thirdpaull.monster:57327#🇫🇮 Finland | ITM NORD 5
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@64.188.80.250:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#🇫🇮 Finland | OC NETWORKS LIMITED 1
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@64.188.80.250:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#🇫🇮 Finland | OC NETWORKS LIMITED 2
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@64.188.80.250:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#🇫🇮 Finland | OC NETWORKS LIMITED 3
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meowfin.nethcloud.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com#🇫🇮 Finland | OC NETWORKS LIMITED 4
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meowfin.nethcloud.top:443?&security=reality&flow=xtls-rprx-vision&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&fp=chrome&sni=www.wikihow.com&type=tcp&headerType=none&host=meowfin.nethcloud.top&path=%2F#🇫🇮 Finland | OC NETWORKS LIMITED 5
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meowfin.nethcloud.top:443?&security=reality&flow=xtls-rprx-vision&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&fp=chrome&sni=www.wikihow.com&type=tcp&headerType=none&host=meowfin.nethcloud.top&path=%2F#🇫🇮 Finland | OC NETWORKS LIMITED 4
 vless://c7c0e837-d9ac-4211-aee7-1e7691be3be1@78.17.3.113:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=X2H-SQTGBao3eTqP9D3M75dXjfydbhShHbkV9KC6vy4&sid=433b9f&sni=www.cloudflare.com&spx=/pE1SnhKo0MBSOPj#🇫🇮 Finland | Snowd Security OU 1
