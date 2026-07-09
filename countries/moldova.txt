@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://db7cae85-3c1a-4e4f-b317-7cdeaf419c5a@109.120.190.41:1829?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=max.ru&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&sid=c3607d#🇲🇩 Moldova | H2nexus LTD 1
-vless://8fa126b3-56a1-4f24-9987-ef700dfcf5e2@84.201.134.98:1829?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=safari&sni=ads.x5.ru&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&sid=c3607d#🇲🇩 Moldova | H2nexus LTD 2
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@37.221.65.96:40443?flow=xtls-rprx-vision&fp=firefox&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&security=reality&sni=deepl.com&type=tcp#🇲🇩 Moldova | Alexhost SRL 1
