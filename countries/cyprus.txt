@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDeXBydXMK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDeXBydXMK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@pol2.neobo-tooth.ru:2083?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#🌍 Cyprus | Unique IP Solutions pr... 1
+vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@pol2.neobo-tooth.ru:2083?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#🌍 Cyprus | Unique IP Solutions pr... 2
+vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@pol2.neobo-tooth.ru:2083?security=tls&type=tcp&packetEncoding=xudp&sni=pol2.neobo-tooth.ru&fp=chrome&flow=xtls-rprx-vision&encryption=none#🌍 Cyprus | Unique IP Solutions pr... 3
+vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@pol2.neobo-tooth.ru:2083?type=tcp&security=tls&fp=firefox&flow=xtls-rprx-vision#🌍 Cyprus | Unique IP Solutions pr... 4
