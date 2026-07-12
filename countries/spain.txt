@@ -3,14 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqvCfh7ggQm9iaVZQTiDigJQgU3BhaW4K4pqhIDkg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqvCfh7ggQm9iaVZQTiDigJQgU3BhaW4K4pqhIDgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸 Spain | Psychz Networks 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸 Spain | Psychz Networks 2
-vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@185.141.227.118:9444?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=max.ru&type=tcp#🇪🇸 Spain | PUSHPKT OU 1
-vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@185.141.227.118:9444?encryption=none&security=reality&sni=max.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#🇪🇸 Spain | PUSHPKT OU 2
-vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@185.141.227.118:9444?encryption=none&security=reality&sni=max.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#🇪🇸 Spain | PUSHPKT OU 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 Spain | Psychz Networks 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#🇪🇸 Spain | Psychz Networks 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸 Spain | Psychz Networks 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 Spain | Psychz Networks 4
+vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@185.141.227.118:9444?encryption=none&security=reality&sni=max.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#🇪🇸 Spain | PUSHPKT OU 1
 vless://5c221de4-590b-41b8-8a3d-4c7dd6d0948f@80.91.86.185:443?flow=xtls-rprx-vision&fp=firefox&pbk=fF94in1qFs9LVkh8y1eNT67DWlB2FuGrzYOuJ7mDDS4&security=reality&sid=d5af&sni=api-maps.yandex.ru&type=tcp#🇪🇸 Spain | Registered Cogent Comm... 1
 vless://5c221de4-590b-41b8-8a3d-4c7dd6d0948f@esp.janaj.space:443?flow=xtls-rprx-vision&fp=firefox&pbk=fF94in1qFs9LVkh8y1eNT67DWlB2FuGrzYOuJ7mDDS4&security=reality&sid=d5af&sni=api-maps.yandex.ru#🇪🇸 Spain | Registered Cogent Comm... 2
 vless://5c221de4-590b-41b8-8a3d-4c7dd6d0948f@esp.janaj.space:443?security=reality&encryption=none&pbk=fF94in1qFs9LVkh8y1eNT67DWlB2FuGrzYOuJ7mDDS4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=d5af#🇪🇸 Spain | Registered Cogent Comm... 3
-vless://5c221de4-590b-41b8-8a3d-4c7dd6d0948f@esp.janaj.space:443?security=reality&encryption=none&pbk=fF94in1qFs9LVkh8y1eNT67DWlB2FuGrzYOuJ7mDDS4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=d5af#🇪🇸 Spain | Registered Cogent Comm... 4
