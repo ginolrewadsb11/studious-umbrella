@@ -3,14 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDkg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDEwINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://1e06c388-d31c-420e-916a-94a990648e34@176.109.94.202:7443?encryption=none&type=ws&security=tls&path=%2Fws&fp=firefox&sni=sw-1-al.hysteria.ltd#🇨🇭 Switzerland | Julian Achter 1
-vless://1e06c388-d31c-420e-916a-94a990648e34@176.109.94.202:7443?fp=firefox&path=%2Fws&security=tls&sni=sw-1-al.hysteria.ltd&type=ws#🇨🇭 Switzerland | Julian Achter 2
+vless://2443ac08-d70f-0028-b5c0-81a9cf731c0e@185.91.53.52:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=elecru.instrumentidlyadoma.com&pbk=qmj3LynPhFqW4pVQf47vfPx-nnykWXxuzNoWmw_DEyc#🇨🇭 Switzerland | Dedik Services 1
+vless://7074b9d7-2183-8919-fc11-ca5e00000000@104.21.200.243:2053?encryption=none&type=ws&host=netlivpn2584.vjvdgbc.workers.dev&path=%2FNetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN&security=tls&fp=chrome&sni=netlivpn2584.vjvdgbc.workers.dev#🇨🇭 Switzerland | HostHatch 1
+vless://1e06c388-d31c-420e-916a-94a990648e34@176.109.94.202:7443?fp=firefox&path=%2Fws&security=tls&sni=sw-1-al.hysteria.ltd&type=ws#🇨🇭 Switzerland | Julian Achter 1
+vless://1e06c388-d31c-420e-916a-94a990648e34@176.109.94.202:7443?encryption=none&type=ws&security=tls&path=%2Fws&fp=random&sni=sw-1-al.hysteria.ltd#🇨🇭 Switzerland | Julian Achter 2
 vless://1e06c388-d31c-420e-916a-94a990648e34@176.109.94.202:7443?fp=firefox&path=%2Fws&security=tls&sni=sw-1-al.hysteria.ltd&type=ws#🇨🇭 Switzerland | Julian Achter 3
 vless://1e06c388-d31c-420e-916a-94a990648e34@176.109.94.202:7443?encryption=none&type=ws&security=tls&path=/ws&fp=random&sni=sw-1-al.hysteria.ltd#🇨🇭 Switzerland | Julian Achter 4
-vless://1e06c388-d31c-420e-916a-94a990648e34@176.109.94.202:7443?encryption=none&type=ws&security=tls&path=/ws&fp=random&sni=sw-1-al.hysteria.ltd#🇨🇭 Switzerland | Julian Achter 5
-vless://1e06c388-d31c-420e-916a-94a990648e34@176.109.94.202:7443?encryption=none&type=ws&security=tls&path=/ws&fp=random&sni=sw-1-al.hysteria.ltd#🇨🇭 Switzerland | Julian Achter 6
-vless://1e06c388-d31c-420e-916a-94a990648e34@176.109.94.202:7443?encryption=none&type=ws&security=tls&path=%2Fws&fp=random&sni=sw-1-al.hysteria.ltd#🇨🇭 Switzerland | Julian Achter 7
-vless://1e06c388-d31c-420e-916a-94a990648e34@176.109.94.202:7443?encryption=none&type=ws&security=tls&path=/ws&fp=random&sni=sw-1-al.hysteria.ltd#🇨🇭 Switzerland | Julian Achter 8
-vless://1e06c388-d31c-420e-916a-94a990648e34@176.109.94.202:7443?encryption=none&fp=firefox&path=%2Fws&security=tls&sni=sw-1-al.hysteria.ltd&type=ws#🇨🇭 Switzerland | Julian Achter 9
+vless://1e06c388-d31c-420e-916a-94a990648e34@176.109.94.202:7443?encryption=none&type=ws&security=tls&path=%2Fws&fp=firefox&sni=sw-1-al.hysteria.ltd#🇨🇭 Switzerland | Julian Achter 5
+vless://1e06c388-d31c-420e-916a-94a990648e34@176.109.94.202:7443?encryption=none&type=ws&security=tls&path=%2Fws&fp=firefox&sni=sw-1-al.hysteria.ltd#🇨🇭 Switzerland | Julian Achter 6
+vless://1e06c388-d31c-420e-916a-94a990648e34@176.109.94.202:7443?encryption=none&type=ws&security=tls&path=/ws&fp=random&sni=sw-1-al.hysteria.ltd#🇨🇭 Switzerland | Julian Achter 7
+vless://1e06c388-d31c-420e-916a-94a990648e34@176.109.94.202:7443?encryption=none&type=ws&security=tls&path=/ws&fp=firefox&sni=sw-1-al.hysteria.ltd#🇨🇭 Switzerland | Julian Achter 8
