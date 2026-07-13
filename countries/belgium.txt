@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://35c73bf0-8a94-4650-8725-3c933018e4a8@193.233.246.36:8345?security=reality&encryption=none&pbk=OkagiL1G2k_m9LzzilmRDYhbFkcMqFpsn7DwiECTmSw&headerType=none&fp=firefox&type=tcp&sni=max.ru&sid=1aab842b0e7aa4fe#🇧🇪 Belgium | GCS SER 1
+vless://35c73bf0-8a94-4650-8725-3c933018e4a8@193.233.246.36:8345?security=reality&encryption=none&pbk=OkagiL1G2k_m9LzzilmRDYhbFkcMqFpsn7DwiECTmSw&headerType=none&fp=chrome&type=tcp&sni=max.ru&sid=1aab842b0e7aa4fe#🇧🇪 Belgium | GCS SER 1
+vless://35c73bf0-8a94-4650-8725-3c933018e4a8@193.233.246.36:8345?security=reality&encryption=none&pbk=OkagiL1G2k_m9LzzilmRDYhbFkcMqFpsn7DwiECTmSw&headerType=none&fp=chrome&type=tcp&sni=max.ru&sid=1aab842b0e7aa4fe#🇧🇪 Belgium | GCS SER 2
