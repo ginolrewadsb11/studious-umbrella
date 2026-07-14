@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://8afb91d5-76bd-11f1-bd1f-525400b0a67a@153.75.89.148:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=USxaWDRKvJlZ-aHR-OGBT2XwVas2j4_1rhZCCfVNCBY&security=reality&sni=tradingview.com&type=tcp#🇦🇪 United Arab Emirates | Cloudzy A I Informatio... 1
+vless://8afb91d5-76bd-11f1-bd1f-525400b0a67a@153.75.89.148:443?type=tcp&headerType=none&security=reality&encryption=none&sni=tradingview.com&fp=edge&pbk=USxaWDRKvJlZ-aHR-OGBT2XwVas2j4_1rhZCCfVNCBY&flow=xtls-rprx-vision#🇦🇪 United Arab Emirates | Cloudzy A I Informatio... 1
+vless://8afb91d5-76bd-11f1-bd1f-525400b0a67a@153.75.89.148:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=USxaWDRKvJlZ-aHR-OGBT2XwVas2j4_1rhZCCfVNCBY&security=reality&sni=tradingview.com&type=tcp#🇦🇪 United Arab Emirates | Cloudzy A I Informatio... 2
+vless://5bfdb6f5-6c07-4a42-9b45-a8b7c6d9cd28@31.57.228.49:443?type=tcp&headerType=none&security=reality&encryption=none&sni=tradingview.com&fp=firefox&pbk=GkHB79Vhb0L7LCG9P2MNFfkHxwut2Qql1dQ8zz74pgM&sid=0fafb2da2621&flow=xtls-rprx-vision#🇦🇪 United Arab Emirates | Zenlayer Inc 1
