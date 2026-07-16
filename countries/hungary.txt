@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrfCfh7ogQm9iaVZQTiDigJQgSHVuZ2FyeQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrfCfh7ogQm9iaVZQTiDigJQgSHVuZ2FyeQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com&fp=safari#🇭🇺 Hungary | Rackforest Zrt. 1
+vless://2e8b4cfe-b801-400a-afa0-92e684e201b2@79.174.93.8:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#🇭🇺 Hungary | Datacamp 1
+vless://6e9e9b3c-fe03-4836-857e-d45615c261b1@79.174.93.8:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#🇭🇺 Hungary | Datacamp 2
