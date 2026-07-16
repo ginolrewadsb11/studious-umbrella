@@ -5,9 +5,9 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Hp/Cfh7cgQm9iaVZQTiDigJQgQnJhemlsCuKaoSA2INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://0b7a91b4-3a46-4152-a09e-67cfba3b5a5a@support.netraidly.ru:40443?type=tcp&headerType=none&security=reality&flow=xtls-rprx-vision&pbk=3kFPRhnvODE81XecHw1X7eOwD9Fs1sr8_OCYM2ET7EQ&fp=qq&sni=deepl.com&sid=2fe7&spx=%2F#🇧🇷 Brazil | JSC "TIMEWEB" 1
 vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@154.91.157.184:443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=57f5917841a2178f&flow=xtls-rprx-vision#🇧🇷 Brazil | M247 Europe SaoPaulo 1
 vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@154.91.157.184:443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=57f5917841a2178f&flow=xtls-rprx-vision#🇧🇷 Brazil | M247 Europe SaoPaulo 2
-vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@154.91.157.184:443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=57f5917841a2178f&flow=xtls-rprx-vision#🇧🇷 Brazil | M247 Europe SaoPaulo 3
+vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@154.91.157.184:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&security=reality&sid=57f5917841a2178f&sni=storage.yandex.net&type=tcp#🇧🇷 Brazil | M247 Europe SaoPaulo 3
 vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@154.91.157.184:443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=57f5917841a2178f#🇧🇷 Brazil | M247 Europe SaoPaulo 4
-vless://33d5ecd8-b530-4040-9c40-98b6805a3992@love.ns.cloudflare.com:443?encryption=none&security=tls&sni=files107.kamelbash.info&alpn=http/1.1&fp=chrome&type=ws&host=files107.kamelbash.info&path=/files107&packetEncoding=xudp#🇧🇷 Brazil | The Constant Company 1
+vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@154.91.157.184:443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=57f5917841a2178f&flow=xtls-rprx-vision#🇧🇷 Brazil | M247 Europe SaoPaulo 5
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.71.189.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime04.workers.dev&path=%2F#🇧🇷 Brazil | Oracle 1
