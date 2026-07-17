@@ -3,11 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://59da5351-5151-417d-b2f7-6923848b717e@bul2.helper-internet.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&sni=bul2.helper-internet.com&spx=/#🇲🇩 Moldova | Alexhost S.R.L 1
-vless://59da5351-5151-417d-b2f7-6923848b717e@mold.helper-internet.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&sni=mold.helper-internet.com&spx=/#🇲🇩 Moldova | Alexhost SRL 1
+vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@mold1.panel11.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=mold1.panel11.ru&fp=firefox&pbk=fJwiGHzBjOmu3cW05jKdiNmRVUt3caHkRq_tk_vuKEU&sid=79c1328ea1b50765&flow=xtls-rprx-vision#🇲🇩 Moldova | Alexhost SRL 1
 vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@mold1.panel11.ru:443?flow=xtls-rprx-vision&fp=firefox&pbk=fJwiGHzBjOmu3cW05jKdiNmRVUt3caHkRq_tk_vuKEU&security=reality&sid=79c1328ea1b50765&sni=mold1.panel11.ru#🇲🇩 Moldova | Alexhost SRL 2
-vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@mold1.panel11.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mold1.panel11.ru&fp=firefox&pbk=fJwiGHzBjOmu3cW05jKdiNmRVUt3caHkRq_tk_vuKEU&sid=79c1328ea1b50765&type=tcp&headerType=none#🇲🇩 Moldova | Alexhost SRL 3
-vless://99eb8d4a-bb06-4a07-a79b-348ac037dc3e@185.163.47.132:443?type=tcp&security=reality&sni=console.cloud.yandex.ru&fp=qq&flow=xtls-rprx-vision&pbk=Ua80Sem5yHVDbRu37u1yYM5vWBzinhru__7ACrvnx1E#🇲🇩 Moldova | MivoCloud SRL 1
+vless://99eb8d4a-bb06-4a07-a79b-348ac037dc3e@185.163.47.132:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=console.cloud.yandex.ru&alpn=http%2F1.1&fp=qq&pbk=Ua80Sem5yHVDbRu37u1yYM5vWBzinhru__7ACrvnx1E&sid=&packetEncoding=xudp#🇲🇩 Moldova | MivoCloud SRL 1
 vless://99eb8d4a-bb06-4a07-a79b-348ac037dc3e@185.163.47.132:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=console.cloud.yandex.ru&alpn=http%2F1.1&fp=qq&pbk=Ua80Sem5yHVDbRu37u1yYM5vWBzinhru__7ACrvnx1E&sid=&packetEncoding=xudp#🇲🇩 Moldova | MivoCloud SRL 2
