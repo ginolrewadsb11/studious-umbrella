@@ -6,9 +6,9 @@
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBTb3V0aCBBZnJpY2EK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125&sni=www.icloud.com&spx=/#🌍 South Africa | Google 1
-trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#🌍 South Africa | Kaopu Cloud HK 1
-trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?type=tcp&security=tls&headerType=none&sni=38.54.64.247&fp=chrome&insecure=1&allowInsecure=1#🌍 South Africa | Kaopu Cloud HK 2
-trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?type=tcp&headerType=none&security=tls&encryption=none&insecure=0#🌍 South Africa | Kaopu Cloud HK 3
+trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?allowInsecure=1&fp=chrome&security=tls&sni=38.54.64.247&type=tcp#🌍 South Africa | Kaopu Cloud HK 1
+trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?type=tcp&headerType=none&security=tls&encryption=none&insecure=0#🌍 South Africa | Kaopu Cloud HK 2
+trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#🌍 South Africa | Kaopu Cloud HK 3
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#🌍 South Africa | Kaopu Cloud HK 4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#🌍 South Africa | Microsoft 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🌍 South Africa | Microsoft 2
