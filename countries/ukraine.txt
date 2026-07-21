@@ -3,11 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://71cada65-d23e-418c-88e4-a06188d14689@193.41.4.20:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=quSgGKXdwtlVQYTJypimp3Er-PoMI4SP4EXPdOKLQwk&security=reality&sni=de-one.quiet-rogue.site&type=tcp#🇺🇦 Ukraine | JV "Astral-Kiev" 1
+vless://71cada65-d23e-418c-88e4-a06188d14689@193.41.4.20:443?encryption=none&flow=xtls-rprx-vision&pbk=quSgGKXdwtlVQYTJypimp3Er-PoMI4SP4EXPdOKLQwk&security=reality&sni=de-one.quiet-rogue.site&type=tcp#🇺🇦 Ukraine | JV "Astral-Kiev" 1
 vless://71cada65-d23e-418c-88e4-a06188d14689@193.41.4.20:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=quSgGKXdwtlVQYTJypimp3Er-PoMI4SP4EXPdOKLQwk&security=reality&sni=de-one.quiet-rogue.site&type=tcp#🇺🇦 Ukraine | JV "Astral-Kiev" 2
 vless://71cada65-d23e-418c-88e4-a06188d14689@193.41.4.20:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=quSgGKXdwtlVQYTJypimp3Er-PoMI4SP4EXPdOKLQwk&sni=de-one.quiet-rogue.site#🇺🇦 Ukraine | JV "Astral-Kiev" 3
-vless://71cada65-d23e-418c-88e4-a06188d14689@193.41.4.20:443?encryption=none&flow=xtls-rprx-vision&pbk=quSgGKXdwtlVQYTJypimp3Er-PoMI4SP4EXPdOKLQwk&security=reality&sni=de-one.quiet-rogue.site&type=tcp#🇺🇦 Ukraine | JV "Astral-Kiev" 4
-vless://71cada65-d23e-418c-88e4-a06188d14689@193.41.4.20:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=quSgGKXdwtlVQYTJypimp3Er-PoMI4SP4EXPdOKLQwk&security=reality&sni=de-one.quiet-rogue.site&type=tcp#🇺🇦 Ukraine | JV "Astral-Kiev" 5
-vless://71cada65-d23e-418c-88e4-a06188d14689@de-one.quiet-rogue.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=quSgGKXdwtlVQYTJypimp3Er-PoMI4SP4EXPdOKLQwk&security=reality&sni=de-one.quiet-rogue.site&type=tcp#🇺🇦 Ukraine | JV "Astral-Kiev" 6
+vless://71cada65-d23e-418c-88e4-a06188d14689@193.41.4.20:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=quSgGKXdwtlVQYTJypimp3Er-PoMI4SP4EXPdOKLQwk&security=reality&sni=de-one.quiet-rogue.site&spx=/&type=tcp#🇺🇦 Ukraine | JV "Astral-Kiev" 4
+vless://71cada65-d23e-418c-88e4-a06188d14689@de-one.quiet-rogue.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=quSgGKXdwtlVQYTJypimp3Er-PoMI4SP4EXPdOKLQwk&security=reality&sni=de-one.quiet-rogue.site&type=tcp#🇺🇦 Ukraine | JV "Astral-Kiev" 5

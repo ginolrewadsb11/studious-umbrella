@@ -3,12 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBQaGlsaXBwaW5lcwrimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBQaGlsaXBwaW5lcwrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 trojan://3632736327@47.80.107.173:2398?security=tls&sni=flb06181447.tmdsb.org&fp=firefox&path=/#🌍 Philippines | Alibaba.com 1
-trojan://3632736327@47.80.107.173:2398?security=tls&sni=flb06181447.tmdsb.org&type=tcp&fp=firefox#🌍 Philippines | Alibaba.com 2
-trojan://3632736327@47.80.107.173:2398?security=tls&sni=flb06181447.tmdsb.org&type=tcp&headerType=none#🌍 Philippines | Alibaba.com 3
+trojan://3632736327@47.80.107.173:2398?security=tls&sni=flb06181447.tmdsb.org&type=tcp&headerType=none#🌍 Philippines | Alibaba.com 2
+trojan://3632736327@flb06181447.tmdsb.org:2398?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=flb06181447.tmdsb.org&fp=firefox#🌍 Philippines | Alibaba.com 3
 trojan://3632736327@flb06181447.tmdsb.org:2398?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=flb06181447.tmdsb.org&fp=firefox#🌍 Philippines | Alibaba.com 4
-trojan://3632736327@flb06181447.tmdsb.org:2398?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=flb06181447.tmdsb.org&fp=firefox#🌍 Philippines | Alibaba.com 5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyX05SZS0rV1JxMnpWcU1wQ25KdFRFU2xUOFd5ZmZIeUZ5@38.54.80.160:16292#🌍 Philippines | Kaopu Cloud HK 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyX05SZS0rV1JxMnpWcU1wQ25KdFRFU2xUOFd5ZmZIeUZ5@38.54.80.160:16292#🌍 Philippines | Kaopu Cloud HK 2
