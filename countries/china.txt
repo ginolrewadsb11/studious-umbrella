@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGluYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGluYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-ss://YWVzLTI1Ni1nY206MTIz@61.171.92.202:1001#🌍 China | China Telecom (Group) 1
-ss://YWVzLTI1Ni1nY206MTIz@61.171.92.202:1001#🌍 China | China Telecom (Group) 2
-ss://YWVzLTI1Ni1nY206MTIz@61.171.92.202:1001#🌍 China | China Telecom (Group) 3
+vless://407ef8f9-8ac2-46ab-83b9-e478d785ff6b@103.224.80.28:10926?security=reality&encryption=none&pbk=diHiNGhpJY2TmylUgK4skHkSH8fIdT_oPNFCl9j3AzU&headerType=none&fp=chrome&spx=%2Fe088a9ae31c8c7a&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=61#🌍 China | Xnnet 1
