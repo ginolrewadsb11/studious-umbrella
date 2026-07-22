@@ -3,9 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBTb3V0aCBBZnJpY2EK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBTb3V0aCBBZnJpY2EK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125&sni=www.icloud.com&spx=/#🌍 South Africa | Google 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🌍 South Africa | Microsoft 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#🌍 South Africa | Microsoft 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#🌍 South Africa | Microsoft 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🌍 South Africa | Microsoft 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#🌍 South Africa | Microsoft 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🌍 South Africa | Microsoft 4
