@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh7EgQm9iaVZQTiDigJQgSXNyYWVsCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.104.30:8880?security=none&type=ws&path=/&host=vms.lifetime51.workers.dev&packetEncoding=xudp&encryption=none #🇮🇱 Israel | Webhost 1
+vless://13e401cb-90c1-445b-b012-1c8793b76ebe@static.kintuso.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=static.kintuso.com&fp=firefox&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇱 Israel | Nebius Israel 1
