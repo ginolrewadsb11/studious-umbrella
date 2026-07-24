@@ -3,11 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://04b3ed78-61b5-42bb-9143-eeb70e64b5aa@84.201.158.106:443?encryption=none&fp=firefox&mode=gun&pbk=R_vN1b5MQI4y0puLibed8_MUo6oD-yzMyoMuDcP_DS8&security=reality&serviceName=grpc&sni=5post-gate.x5.ru&type=grpc#🇦🇹 Austria | ANX 1
-vless://04b3ed78-61b5-42bb-9143-eeb70e64b5aa@84.201.158.106:443?type=grpc&security=reality&encryption=none&sni=5post-gate.x5.ru&fp=edge&pbk=R_vN1b5MQI4y0puLibed8_MUo6oD-yzMyoMuDcP_DS8&headerType=none&serviceName=grpc&mode=gun #🇦🇹 Austria | ANX 2
-vless://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FW0Co-dGXLOCXJU7prlPavpooVfXc9VajRm41UnBDnk&sid=affc28b1a8c32c&sni=shuviu.de#🇦🇹 Austria | netcup GmbH 1
-vless://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:8443?security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=grpc&allowInsecure=0&sni=jsengineer.org#🇦🇹 Austria | netcup GmbH 2
-vless://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:8443?encryption=none&fp=firefox&security=tls&serviceName=grpc&sni=jsengineer.org&type=grpc#🇦🇹 Austria | netcup GmbH 3
-vless://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:8443?type=grpc&security=tls&fp=chrome&sni=jsengineer.org&serviceName=grpc#🇦🇹 Austria | netcup GmbH 4
+vless://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:8443?security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=grpc&allowInsecure=0&sni=jsengineer.org#🇦🇹 Austria | netcup GmbH 1
+vless://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:8443?type=grpc&security=tls&fp=chrome&sni=jsengineer.org&serviceName=grpc#🇦🇹 Austria | netcup GmbH 2
+vless://aa28b265-baff-42e4-927e-7a8dee0ef623@152.53.0.209:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FW0Co-dGXLOCXJU7prlPavpooVfXc9VajRm41UnBDnk&sid=affc28b1a8c32c&sni=shuviu.de#🇦🇹 Austria | netcup GmbH 3
+vless://aa28b265-baff-42e4-927e-7a8dee0ef623@jsengineer.org:8443?security=tls&encryption=none&insecure=0&fp=qq&type=grpc&serviceName=grpc&allowInsecure=0&sni=jsengineer.org#🇦🇹 Austria | netcup GmbH 4
+vless://aa28b265-baff-42e4-927e-7a8dee0ef623@jsengineer.org:8443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=grpc&allowInsecure=0&sni=jsengineer.org#🇦🇹 Austria | netcup GmbH 5
