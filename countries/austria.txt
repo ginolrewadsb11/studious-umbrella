@@ -3,12 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://49e8f20c-6a27-4637-9e20-e0ea18a75766@vi.themesh.site:443?&security=reality&flow=xtls-rprx-vision&pbk=h9mMhGxTjsliYul7yU7OLUAuJ5GXxWg8wUA6QDujv1o&sid=aa9ad8198bd47cff&fp=chrome&sni=vi.themesh.site&type=tcp&headerType=none&host=vi.themesh.site&path=%2F#🇦🇹 Austria | netcup GmbH 1
-vless://49e8f20c-6a27-4637-9e20-e0ea18a75766@vi.themesh.site:443?&security=reality&flow=xtls-rprx-vision&pbk=h9mMhGxTjsliYul7yU7OLUAuJ5GXxWg8wUA6QDujv1o&sid=aa9ad8198bd47cff&fp=edge&sni=vi.themesh.site&type=tcp&headerType=none&host=vi.themesh.site&path=%2F#🇦🇹 Austria | netcup GmbH 2
+vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@162.159.38.119:443?path=/api/v1/irc&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=vod.ensf.top&type=ws&allowInsecure=0&sni=vod.ensf.top#🇦🇹 Austria | Hohl IT e.U. 1
+vless://49e8f20c-6a27-4637-9e20-e0ea18a75766@vi.themesh.site:443?type=tcp&headerType=none&security=reality&encryption=none&sni=vi.themesh.site&fp=firefox&pbk=h9mMhGxTjsliYul7yU7OLUAuJ5GXxWg8wUA6QDujv1o&sid=aa9ad8198bd47cff&flow=xtls-rprx-vision#🇦🇹 Austria | netcup GmbH 1
+vless://49e8f20c-6a27-4637-9e20-e0ea18a75766@vi.themesh.site:443?&security=reality&flow=xtls-rprx-vision&pbk=h9mMhGxTjsliYul7yU7OLUAuJ5GXxWg8wUA6QDujv1o&sid=aa9ad8198bd47cff&fp=chrome&sni=vi.themesh.site&type=tcp&headerType=none&host=vi.themesh.site&path=%2F#🇦🇹 Austria | netcup GmbH 2
+vless://49e8f20c-6a27-4637-9e20-e0ea18a75766@vi.themesh.site:443?&security=reality&flow=xtls-rprx-vision&pbk=h9mMhGxTjsliYul7yU7OLUAuJ5GXxWg8wUA6QDujv1o&sid=aa9ad8198bd47cff&fp=edge&sni=vi.themesh.site&type=tcp&headerType=none&host=vi.themesh.site&path=%2F#🇦🇹 Austria | netcup GmbH 3
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&headerType=none&security=reality&encryption=none&sni=vindobona.org&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&spx=%2F&flow=xtls-rprx-vision#🇦🇹 Austria | RapidSeedbox 1
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vindobona.org&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&spx=%2F&type=tcp&headerType=none#🇦🇹 Austria | RapidSeedbox 2
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&headerType=none&security=reality&encryption=none&sni=vindobona.org&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&flow=xtls-rprx-vision#🇦🇹 Austria | RapidSeedbox 3
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&sni=vindobona.org&spx=/#🇦🇹 Austria | RapidSeedbox 4
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vindobona.org&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&spx=%2F&type=tcp&headerType=none#🇦🇹 Austria | RapidSeedbox 5
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&headerType=none&security=reality&encryption=none&sni=vindobona.org&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&flow=xtls-rprx-vision#🇦🇹 Austria | RapidSeedbox 2
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vindobona.org&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&spx=%2F&type=tcp&headerType=none#🇦🇹 Austria | RapidSeedbox 3
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&sni=vindobona.org#🇦🇹 Austria | RapidSeedbox 4
