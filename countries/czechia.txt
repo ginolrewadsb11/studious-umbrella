@@ -3,14 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://598b823c-d3fc-4013-aae5-837f10080f7a@72.56.36.96:40443?security=reality&flow=xtls-rprx-vision&sni=deepl.com&type=tcp&host=v2rayNplus--v2rayNplus--v2rayNplus&fp=qq&pbk=cZF84xUCciKRXxTA39vNnh0U8CjUZiUSjLzuNTMOzV8&sid=33e48a03db900ff3#🇨🇿 Czechia | FDCservers.net 1
-vless://598b823c-d3fc-4013-aae5-837f10080f7a@72.56.36.96:40443?security=reality&flow=xtls-rprx-vision&sni=deepl.com&type=tcp&host=v2rayNplus--v2rayNplus--v2rayNplus&fp=qq&pbk=cZF84xUCciKRXxTA39vNnh0U8CjUZiUSjLzuNTMOzV8&sid=33e48a03db900ff3#🇨🇿 Czechia | FDCservers.net 2
-vless://598b823c-d3fc-4013-aae5-837f10080f7a@api.kinomir.fun:40443?type=tcp&headerType=none&security=reality&flow=xtls-rprx-vision&fp=qq&sni=deepl.com&pbk=cZF84xUCciKRXxTA39vNnh0U8CjUZiUSjLzuNTMOzV8&sid=33e48a03db900ff3&spx=%2F#🇨🇿 Czechia | FDCservers.net 3
-vless://cfb5b3d3-c094-4222-99e8-53faa787c857@193.93.194.120:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&security=reality&pbk=dgrcO3r5wkEjcsWdEsNtgtWCe9vER6mgADXYclWXVxg&sid=8de54d32a8d3fdf9#🇨🇿 Czechia | SmartApe OU 1
-vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@193.124.57.208:20342?encryption=none&security=none&type=tcp#🇨🇿 Czechia | SmartApe OU 2
-vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@193.124.57.208:20342?encryption=none&security=none&type=tcp#🇨🇿 Czechia | SmartApe OU 3
-vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@193.124.57.208:20342?type=tcp&security=none&encryption=none#🇨🇿 Czechia | SmartApe OU 4
-vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?type=tcp&security=none&encryption=none#🇨🇿 Czechia | SmartApe OU 5
-vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@193.124.57.208:20342?security=none&encryption=none&headerType=none&type=tcp#🇨🇿 Czechia | SmartApe OU 6
+vless://598b823c-d3fc-4013-aae5-837f10080f7a@72.56.36.96:40443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=cZF84xUCciKRXxTA39vNnh0U8CjUZiUSjLzuNTMOzV8&security=reality&sid=33e48a03db900ff3&sni=deepl.com&spx=%2F&type=raw#🇨🇿 Czechia | FDCservers.net 1
+vless://598b823c-d3fc-4013-aae5-837f10080f7a@72.56.36.96:40443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cZF84xUCciKRXxTA39vNnh0U8CjUZiUSjLzuNTMOzV8&security=reality&sid=33e48a03db900ff3&sni=deepl.com&type=tcp#🇨🇿 Czechia | FDCservers.net 2
+vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@193.124.57.208:20342?encryption=none&security=none&type=tcp#🇨🇿 Czechia | SmartApe OU 1
+vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?&type=tcp&headerType=none&path=%2F#🇨🇿 Czechia | SmartApe OU 2
+vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@193.124.57.208:20342?type=tcp&security=none&encryption=none#🇨🇿 Czechia | SmartApe OU 3
+vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?type=tcp&security=none&encryption=none#🇨🇿 Czechia | SmartApe OU 4
+vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@193.124.57.208:20342?encryption=none&security=none&type=tcp#🇨🇿 Czechia | SmartApe OU 5
