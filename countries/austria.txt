@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&headerType=none&security=reality&encryption=none&sni=vindobona.org&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&spx=%2F&flow=xtls-rprx-vision#🇦🇹 Austria | RapidSeedbox 1
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&headerType=none&security=reality&encryption=none&sni=vindobona.org&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&flow=xtls-rprx-vision#🇦🇹 Austria | RapidSeedbox 2
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&sni=vindobona.org#🇦🇹 Austria | RapidSeedbox 3
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vindobona.org&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&spx=%2F&type=tcp&headerType=none#🇦🇹 Austria | RapidSeedbox 4
+vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@162.159.38.119:443?path=%2Fapi%2Fv1%2Firc&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vod.ensf.top&type=ws&allowInsecure=0&sni=vod.ensf.top#🇦🇹 Austria | Hohl IT e.U. 1
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vindobona.org&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&spx=%2F&type=tcp&headerType=none#🇦🇹 Austria | RapidSeedbox 1
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&sni=vindobona.org#🇦🇹 Austria | RapidSeedbox 2
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vindobona.org&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&spx=%2F&type=tcp&headerType=none#🇦🇹 Austria | RapidSeedbox 3
