@@ -3,9 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://8a4aa672-1514-e35f-d0b0-dc51000000a5@104.19.141.70:443?type=ws&headerType=none&security=tls&encryption=none&sni=a.testiam16.workers.dev&fp=chrome&path=%2Fv2box&host=a.testiam16.workers.dev&insecure=0#🇦🇪 United Arab Emirates | Amazon Technologies 1
 vless://b55a6115-07f5-4464-85b5-7059ce4701f3@hk.cloud-cdn.xyz:443?type=tcp&headerType=none&security=reality&encryption=none&sni=hk.cloud-cdn.xyz&fp=edge&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&sid=7a3f9e2b1c8d4f6a&spx=%2F&flow=xtls-rprx-vision#🇦🇪 United Arab Emirates | CloudBlast 1
+vless://b55a6115-07f5-4464-85b5-7059ce4701f3@hk.cloud-cdn.xyz:443?type=tcp&headerType=none&security=reality&encryption=none&sni=hk.cloud-cdn.xyz&fp=edge&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&sid=7a3f9e2b1c8d4f6a&spx=%2F&flow=xtls-rprx-vision#🇦🇪 United Arab Emirates | CloudBlast 2
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 1
-vless://29eadf13-b054-40df-97bd-8aad33f0b729@naseza.tarfiq.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=teranko.global.ssl.fastly.net#🇦🇪 United Arab Emirates | Zenlayer Inc 1
+vless://29eadf13-b054-40df-97bd-8aad33f0b729@naseza.tarfiq.ir:80?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=ws&path=%2F&host=teranko.global.ssl.fastly.net&sni=naseza.tarfiq.ir#🇦🇪 United Arab Emirates | Zenlayer Inc 1
+vless://29eadf13-b054-40df-97bd-8aad33f0b729@naseza.tarfiq.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=ws&headerType=none&path=%2F&host=teranko.global.ssl.fastly.net#🇦🇪 United Arab Emirates | Zenlayer Inc 2
