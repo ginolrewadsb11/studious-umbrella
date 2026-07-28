@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://f165affe-ffb4-4f13-a081-f14434e51152@bolg1.panel11.ru:443?&security=reality&flow=xtls-rprx-vision&pbk=Ffbj8WzPUpY_qNYoIusH8c5kuYmZD8599nZxFxxKtlY&sid=67ef08f70e8ae1bb&fp=firefox&sni=bolg1.panel11.ru&type=tcp&headerType=none&host=bolg1.panel11.ru&path=%2F#🇲🇩 Moldova | Alexhost SRL 1
+vless://f165affe-ffb4-4f13-a081-f14434e51152@131.123.37.79:443?security=reality&flow=xtls-rprx-vision&sni=bolg1.panel11.ru&type=tcp&fp=firefox&pbk=Ffbj8WzPUpY_qNYoIusH8c5kuYmZD8599nZxFxxKtlY&sid=67ef08f70e8ae1bb#🇲🇩 Moldova | Alexhost SRL 1
+vless://f165affe-ffb4-4f13-a081-f14434e51152@bolg1.panel11.ru:443?&security=reality&flow=xtls-rprx-vision&pbk=Ffbj8WzPUpY_qNYoIusH8c5kuYmZD8599nZxFxxKtlY&sid=67ef08f70e8ae1bb&fp=firefox&sni=bolg1.panel11.ru&type=tcp&headerType=none&host=bolg1.panel11.ru&path=%2F#🇲🇩 Moldova | Alexhost SRL 2
