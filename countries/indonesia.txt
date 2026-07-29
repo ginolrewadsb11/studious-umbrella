@@ -5,10 +5,10 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20056?security=tls&sni=hk.catxstar.com&path=/#🌍 Indonesia | ARDH 1
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20056?allowInsecure=1&sni=hk.catxstar.com#🌍 Indonesia | ARDH 2
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20056?security=tls&sni=hk.catxstar.com#🌍 Indonesia | ARDH 3
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20056?security=tls&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌍 Indonesia | ARDH 4
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20056?allowInsecure=1&sni=hk.catxstar.com#🌍 Indonesia | ARDH 5
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20056?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=oplosgru-c.catcat321.com#🌍 Indonesia | ARDH 6
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20056?security=tls&sni=hk.catxstar.com#🌍 Indonesia | ARDH 1
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@157.254.38.210:20056?security=tls&sni=hk.catxstar.com&path=/#🌍 Indonesia | ARDH 2
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20056?allowInsecure=1#🌍 Indonesia | ARDH 3
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20056?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=oplosgru-c.catcat321.com#🌍 Indonesia | ARDH 4
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20056?security=tls&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌍 Indonesia | ARDH 5
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20056?allowInsecure=1#🌍 Indonesia | ARDH 6
 vless://5aafc2be-9348-4dec-b896-f4a91253bbca@172.67.149.60:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=support.zoom.us.yxls.eu.cc&path=/id-tksi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#🌍 Indonesia | PT. Telekomunikasi Ind... 1
