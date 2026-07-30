@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@37.120.131.62:1080#🇩🇰 Denmark | M247 Europe SRL 1
-vless://95891abd-c399-a085-ea21-21df48ea0fa2@198.41.209.149:443?encryption=none&type=ws&host=oxnetirpx.kdns.fr&path=%2Fws%2Foxnetir-vl-ws&security=tls&alpn=http%2F1.1&fp=chrome&sni=oxnetirpx.kdns.fr#🇩🇰 Denmark | Webdock.io ApS 1
+vless://95891abd-c399-a085-ea21-21df48ea0fa2@198.41.209.149:443?path=/ws/oxnetir-vl-ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=oxnetirpx.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=oxnetirpx.kdns.fr#🇩🇰 Denmark | Webdock.io ApS 1
+vless://95891abd-c399-a085-ea21-21df48ea0fa2@198.41.209.149:443?encryption=none&type=ws&host=oxnetirpx.kdns.fr&path=%2Fws%2Foxnetir-vl-ws&security=tls&alpn=http%2F1.1&fp=chrome&sni=oxnetirpx.kdns.fr#🇩🇰 Denmark | Webdock.io ApS 2
