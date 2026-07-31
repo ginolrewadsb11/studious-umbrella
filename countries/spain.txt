@@ -3,13 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqvCfh7ggQm9iaVZQTiDigJQgU3BhaW4K4pqhIDgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqvCfh7ggQm9iaVZQTiDigJQgU3BhaW4K4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vmess://eyJhZGQiOiI4NS45MC4yMTcuNDIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4W3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtRVMtMTM0ODM2ODkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNDUiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#🇪🇸 Spain | G-Core Labs S.A. 1
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4W3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtRVMtMTM0ODM2ODkiLCJhZGQiOiI4NS45MC4yMTcuNDIiLCJwb3J0IjoiMjIzMjQiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiOTciLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#🇪🇸 Spain | G-Core Labs S.A. 1
 vless://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@2.27.26.51:443?mode=gun&security=reality&encryption=none&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&fp=chrome&type=grpc&serviceName=nexusGrpc&sni=draftnest-rrew.ru&sid=d9662905#🇪🇸 Spain | H2nexus LTD 1
-vless://9e5e0a3f-0fdc-4272-9c6b-bc6f00000001@173.245.49.116:443?fp=chrome&host=amirweb1388.dpdns.org&path=%2Fmr&security=tls&sni=amirweb1388.dpdns.org&type=ws#🇪🇸 Spain | IONOS SE 1
+vless://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@2.27.26.51:443?type=grpc&headerType=none&security=reality&encryption=none&sni=draftnest-rrew.ru&fp=firefox&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=d9662905&serviceName=nexusGrpc#🇪🇸 Spain | H2nexus LTD 2
 trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?security=tls&sni=www.vk.com&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=1#🇪🇸 Spain | M247 Europe SRL 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸 Spain | Psychz Networks 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 Spain | Psychz Networks 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸 Spain | Psychz Networks 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 Spain | Psychz Networks 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸 Spain | Psychz Networks 4
