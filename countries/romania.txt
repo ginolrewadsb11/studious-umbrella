@@ -3,14 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇷🇴 Romania | Dotro Telecom SRL 1
-vless://2a088d58-eb38-47bd-b74d-ac392ee12ccd@87.58.205.70:6437?type=grpc&security=reality&fp=firefox&pbk=pHQke94AM1SmUNRlA7CNyXL4dK9-O1mTZoNVJKVFTk0&sid=1dbf8a58bc15d4b0&sni=tesla.com&mode=gun&serviceName=grpc#🇷🇴 Romania | MAGIT'ST SRL 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#🇷🇴 Romania | Dotro Telecom SRL 1
+vless://8ddedcc7-6c4e-4df3-a190-ac40926f6694@162.159.38.119:8880?path=%2Fpyip&security=&encryption=none&host=late-boat-fbd7.152-de6.workers.dev&type=ws#🇷🇴 Romania | Freakhosting LTD 1
+vless://2a088d58-eb38-47bd-b74d-ac392ee12ccd@87.58.205.70:6437?type=grpc&headerType=none&security=reality&encryption=none&sni=tesla.com&fp=chrome&pbk=pHQke94AM1SmUNRlA7CNyXL4dK9-O1mTZoNVJKVFTk0&sid=1dbf8a58bc15d4b0&serviceName=grpc#🇷🇴 Romania | MAGIT'ST SRL 1
 vless://2a088d58-eb38-47bd-b74d-ac392ee12ccd@87.58.205.70:6437?type=grpc&security=reality&fp=firefox&pbk=pHQke94AM1SmUNRlA7CNyXL4dK9-O1mTZoNVJKVFTk0&sid=1dbf8a58bc15d4b0&sni=tesla.com&mode=gun&serviceName=grpc#🇷🇴 Romania | MAGIT'ST SRL 2
-vless://2a088d58-eb38-47bd-b74d-ac392ee12ccd@87.58.205.70:6437?type=grpc&headerType=none&security=reality&encryption=none&sni=tesla.com&fp=chrome&pbk=pHQke94AM1SmUNRlA7CNyXL4dK9-O1mTZoNVJKVFTk0&sid=1dbf8a58bc15d4b0&serviceName=grpc#🇷🇴 Romania | MAGIT'ST SRL 3
-vless://2a088d58-eb38-47bd-b74d-ac392ee12ccd@87.58.205.70:6437?type=grpc&security=reality&serviceName=grpc&sni=tesla.com&pbk=pHQke94AM1SmUNRlA7CNyXL4dK9-O1mTZoNVJKVFTk0&sid=1dbf8a58bc15d4b0&fp=chrome&encryption=none#🇷🇴 Romania | MAGIT'ST SRL 4
-vless://2a088d58-eb38-47bd-b74d-ac392ee12ccd@87.58.205.70:6437?encryption=none&security=reality&sni=tesla.com&fp=firefox&pbk=pHQke94AM1SmUNRlA7CNyXL4dK9-O1mTZoNVJKVFTk0&sid=1dbf8a58bc15d4b0&type=grpc&authority=&serviceName=grpc&mode=gun#🇷🇴 Romania | MAGIT'ST SRL 5
-hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?sni=ro.h2corp.org#🇷🇴 Romania | MivoCloud SRL 1
-hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443/?sni=ro.h2corp.org#🇷🇴 Romania | MivoCloud SRL 2
+vless://2a088d58-eb38-47bd-b74d-ac392ee12ccd@87.58.205.70:6437?type=grpc&security=reality&fp=firefox&pbk=pHQke94AM1SmUNRlA7CNyXL4dK9-O1mTZoNVJKVFTk0&sid=1dbf8a58bc15d4b0&sni=tesla.com&mode=gun&serviceName=grpc#🇷🇴 Romania | MAGIT'ST SRL 3
+vless://2a088d58-eb38-47bd-b74d-ac392ee12ccd@87.58.205.70:6437?type=grpc&headerType=none&security=reality&encryption=none&sni=tesla.com&fp=chrome&pbk=pHQke94AM1SmUNRlA7CNyXL4dK9-O1mTZoNVJKVFTk0&sid=1dbf8a58bc15d4b0&serviceName=grpc#🇷🇴 Romania | MAGIT'ST SRL 4
 vless://5dafde1b-fcd1-4146-86c9-16a32f2779e2@77.42.125.134:22022?type=tcp&security=reality&encryption=none&fp=firefox&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&sid=c6e19c434dc87df7&sni=login.yahoo.com#🇷🇴 Romania | Voxility LLP 1
