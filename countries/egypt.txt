@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBFZ3lwdArimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBFZ3lwdArimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-trojan://u.0c3S2V328E6hb8DVhZTNaIzFZX1+aY1J@38.60.226.48:443/?type=tcp&security=tls#🌍 Egypt | Kaopu Cloud HK 1
+vless://f73a01e5-db7c-4cd9-8c17-a5607ac58f12@41.128.145.79:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=i6CVNCvuqjizwQruTgduGnHw_OHtNHCN5-PMK_GYNHw&sid=0d99027052dca5ac&sni=cdn.deepseek.com#🌍 Egypt | LINKdotNET AS number 1
+vless://f73a01e5-db7c-4cd9-8c17-a5607ac58f12@41.128.145.79:443?security=reality&type=tcp&sni=cdn.deepseek.com&fp=chrome&flow=xtls-rprx-vision&sid=0d99027052dca5ac&pbk=i6CVNCvuqjizwQruTgduGnHw_OHtNHCN5-PMK_GYNHw&encryption=none#🌍 Egypt | LINKdotNET AS number 2
