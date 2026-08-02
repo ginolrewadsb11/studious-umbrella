@@ -3,10 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@91.236.248.20:20071?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=zX5dT9fA8VRXb3XSB8olbacIR1Dq69juoC7US2paR08&sid=a02bf9&sni=www.lamer.com#🇺🇦 Ukraine | IP-Connect 1
-vless://504d0b6e-400d-45ec-b2d0-1c79006ebc16@193.41.5.187:443?fp=firefox&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&security=reality&sid=0858af97f4e7324d&sni=web.pomedor.ru#🇺🇦 Ukraine | NetCrafters OU 1
-vless://504d0b6e-400d-45ec-b2d0-1c79006ebc16@193.41.5.187:443?&security=reality&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&fp=firefox&sni=web.pomedor.ru&type=tcp&headerType=none&host=web.pomedor.ru&path=%2F#🇺🇦 Ukraine | NetCrafters OU 2
-vless://504d0b6e-400d-45ec-b2d0-1c79006ebc16@193.41.5.187:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.pomedor.ru#🇺🇦 Ukraine | NetCrafters OU 3
-vless://504d0b6e-400d-45ec-b2d0-1c79006ebc16@193.41.5.187:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.pomedor.ru#🇺🇦 Ukraine | NetCrafters OU 4
+vless://504d0b6e-400d-45ec-b2d0-1c79006ebc16@193.41.5.187:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.pomedor.ru#🇺🇦 Ukraine | NetCrafters OU 1
