@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh7EgQm9iaVZQTiDigJQgSXNyYWVsCuKaoSA0INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@83.143.106.3:8443?type=grpc&security=reality&fp=firefox&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&sni=res.cdn.office.net&serviceName=TunService#🇮🇱 Israel | Limestone Networks, 1
-vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@83.143.106.3:8443?type=grpc&security=reality&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&sni=res.cdn.office.net&serviceName=TunService&fp=safari#🇮🇱 Israel | Limestone Networks, 2
-vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@83.143.106.3:8443?type=grpc&security=reality&fp=firefox&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&sni=res.cdn.office.net&serviceName=TunService#🇮🇱 Israel | Limestone Networks, 3
-vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@83.143.106.3:993?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&sni=res.cdn.office.net#🇮🇱 Israel | Limestone Networks, 4
+vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@83.143.106.3:8443?type=grpc&security=reality&fp=safari&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&sni=res.cdn.office.net&serviceName=TunService#🇮🇱 Israel | Limestone Networks, 1
+vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@83.143.106.3:993?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&sni=res.cdn.office.net#🇮🇱 Israel | Limestone Networks, 2
+vless://06f364d4-3d0c-4c60-84e9-a3009f1b0050@193.169.229.151:6443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&sid=41444f03bd84a905&sni=ign.com#🇮🇱 Israel | SmartApe OU 1
+vless://06f364d4-3d0c-4c60-84e9-a3009f1b0050@193.169.229.151:6443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&sid=41444f03bd84a905&sni=ign.com#🇮🇱 Israel | SmartApe OU 2
