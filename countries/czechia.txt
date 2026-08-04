@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://d516ffe9-f519-3c47-872b-666249bdc7b7@family.bucket.9.kfc-520.com:10050?&security=reality&flow=xtls-rprx-vision&pbk=U1eMEZpYrlL2SvcFw0efhudE0SSBJ9q5QKCWWEXA53w&sid=8def87fb30886534&fp=firefox&sni=www.hp.com&type=tcp&headerType=none&host=www.hp.com&path=%2F#🇨🇿 Czechia | Baxet Group 1
+vless://664749ca-3bba-4f57-a433-395759419edf@79.174.92.102:80?encryption=none&fp=firefox&mode=gun&pbk=Ty_Z3DMnuhWrMo3G5DMPSzuHMuB7Pc-sxGyjCBf1v2E&security=reality&serviceName=rwgrpc&sid=c521b936&sni=ads.x5.ru&type=grpc#🇨🇿 Czechia | WEDOS Internet 1
+vless://664749ca-3bba-4f57-a433-395759419edf@79.174.92.102:80?encryption=none&fp=firefox&mode=gun&pbk=Ty_Z3DMnuhWrMo3G5DMPSzuHMuB7Pc-sxGyjCBf1v2E&security=reality&serviceName=rwgrpc&sid=c521b936&sni=ads.x5.ru&type=grpc#🇨🇿 Czechia | WEDOS Internet 2
+vless://664749ca-3bba-4f57-a433-395759419edf@79.174.92.102:80?encryption=none&fp=firefox&mode=gun&pbk=Ty_Z3DMnuhWrMo3G5DMPSzuHMuB7Pc-sxGyjCBf1v2E&security=reality&serviceName=rwgrpc&sid=c521b936&sni=ads.x5.ru&type=grpc#🇨🇿 Czechia | WEDOS Internet 3
