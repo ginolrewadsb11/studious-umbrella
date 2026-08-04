@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWNhbwrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWNhbwrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://11e5e68c-355a-415c-8024-3bf12637e220@45.207.34.239:10086?encryption=none&security=none&type=ws&path=/vless#🌍 Macao | Akile LTD 1
-vless://11e5e68c-355a-415c-8024-3bf12637e220@45.207.34.239:10086?&security=false&fp=chrome&type=ws&headerType=none&path=%2Fvless#🌍 Macao | Akile LTD 2
-vless://11e5e68c-355a-415c-8024-3bf12637e220@45.207.34.239:10086?type=ws&encryption=none&host=45.207.34.239&path=%2Fvless&headerType=none&quicSecurity=none&serviceName=&security=&flow=&fp=chrome&insecure=1#🌍 Macao | Akile LTD 3
-vless://11e5e68c-355a-415c-8024-3bf12637e220@45.207.34.239:10086?encryption=none&security=none&type=ws&path=%2Fvless#🌍 Macao | Akile LTD 4
-vless://916e3030-6eac-418b-9402-7508ca7d6280@fast.nanniang.top:8443?fp=chrome&host=mo-akile.nanniang.top&path=%2F&security=tls&sni=mo-akile.nanniang.top&type=ws#🌍 Macao | Akile LTD 5
+vless://e08c0f4a-9f14-4ab8-bcf4-f79538d65ebc@45.202.247.198:8443?&security=reality&flow=xtls-rprx-vision&pbk=4uM42lBcgbqZc6XoT0fA18URc7MliP6GEFz-exf7PDs&sid=6b6fa65912382971&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#🌍 Macao | Akile LTD 1
