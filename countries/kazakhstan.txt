@@ -3,13 +3,17 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMTIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?type=tcp&security=reality&encryption=none&fp=chrome&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa&sni=yahoo.com&packetEncoding=none#🇰🇿 Kazakhstan | BEGET 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@166.62.108.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime17.workers.dev&packetEncoding=xudp#🇰🇿 Kazakhstan | Modern Server Solution... 1
 vless://43694943-d64e-4393-a3cd-8c38de1c2a4e@155.212.240.30:443?path=%2F6facebf4-4bc6b53d-ae32f25d125c&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vbirffour.site&fp=firefox&type=ws&allowInsecure=0&sni=8qt88qpnmy.vbirffour.site#🇰🇿 Kazakhstan | Newserverlife 1
-vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&type=tcp&headerType=none#🇰🇿 Kazakhstan | NLS ASTANA LLP 1
+vless://43694943-d64e-4393-a3cd-8c38de1c2a4e@155.212.240.30:443?path=%2F6facebf4-4bc6b53d-ae32f25d125c&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vbirffour.site&fp=firefox&type=ws&allowInsecure=0&sni=8qt88qpnmy.vbirffour.site#🇰🇿 Kazakhstan | Newserverlife 2
+vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?type=tcp&security=reality&encryption=none&fp=chrome&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&sid=69a2&sni=yahoo.com#🇰🇿 Kazakhstan | NLS ASTANA LLP 1
 vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&sid=69a2#🇰🇿 Kazakhstan | NLS ASTANA LLP 2
-vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?type=tcp&security=reality&encryption=none&fp=chrome&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&sid=69a2&sni=yahoo.com#🇰🇿 Kazakhstan | NLS ASTANA LLP 3
-vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Kazakhstan | NLS ASTANA LLP 4
-vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&sid=69a2#🇰🇿 Kazakhstan | NLS ASTANA LLP 5
+vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&sid=69a2#🇰🇿 Kazakhstan | NLS ASTANA LLP 3
+vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&type=tcp&headerType=none#🇰🇿 Kazakhstan | NLS ASTANA LLP 4
+vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&sni=google.com#🇰🇿 Kazakhstan | NLS ASTANA LLP 5
 vless://c9cbfe43-4087-4069-8bca-225f9a26a94f@38.180.37.243:48905?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XIubADu7punjUa2oUfHj2vTmUzUJXN_xDrGsmf_LslY&sni=creators.radeon.com#🇰🇿 Kazakhstan | Scalaxy B.V. 1
+vless://c9cbfe43-4087-4069-8bca-225f9a26a94f@38.180.37.243:48905?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XIubADu7punjUa2oUfHj2vTmUzUJXN_xDrGsmf_LslY&sni=creators.radeon.com#🇰🇿 Kazakhstan | Scalaxy B.V. 2
+vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@93.183.87.159:443?type=tcp&security=reality&sni=lively-raptor.cdn.cachefleet.com&pbk=KOgPteoWEwtVtykS2FGV5NHdZw6197VzbITPGkUJDBQ&fp=random&encryption=none&flow=xtls-rprx-vision#🇰🇿 Kazakhstan | VK Tech Kazakhstan LLP 1
