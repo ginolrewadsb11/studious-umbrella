@@ -3,23 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgMTgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://b55a6115-07f5-4464-85b5-7059ce4701f3@109.104.106.140:443?&security=reality&flow=xtls-rprx-vision&pbk=6HRVYg1i4ah9VhuV5hne2-JA8Z5HTV5jbFi-h3qKsDQ&sid=dd4d615422c6424c&fp=edge&sni=d2-ro.cloud-cdn.xyz&type=tcp&headerType=none&host=d2-ro.cloud-cdn.xyz&path=%2F#🇷🇴 Romania | C4L 1
 vless://b55a6115-07f5-4464-85b5-7059ce4701f3@109.104.106.140:443?flow=xtls-rprx-vision&fp=edge&headertype=none&pbk=6HRVYg1i4ah9VhuV5hne2-JA8Z5HTV5jbFi-h3qKsDQ&security=reality&sid=dd4d615422c6424c&sni=d2-ro.cloud-cdn.xyz&spx=%2F&type=tcp#🇷🇴 Romania | C4L 2
 vless://b55a6115-07f5-4464-85b5-7059ce4701f3@109.104.106.140:443?&security=reality&flow=xtls-rprx-vision&pbk=6HRVYg1i4ah9VhuV5hne2-JA8Z5HTV5jbFi-h3qKsDQ&sid=dd4d615422c6424c&fp=edge&sni=d2-ro.cloud-cdn.xyz&type=tcp&headerType=none&host=d2-ro.cloud-cdn.xyz&path=%2F#🇷🇴 Romania | C4L 3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇷🇴 Romania | Dotro Telecom SRL 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#🇷🇴 Romania | Dotro Telecom SRL 2
-vless://e43ca713-a646-4406-a4d5-1e7bad20e7da@104.16.106.213:8880?encryption=none&host=autumn-snow-735a.175-9d9.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#🇷🇴 Romania | Freakhosting LTD 1
-vless://88203f09-90ad-4e89-8707-cc26cf2a1591@173.245.58.214:2053?path=%2F&security=tls&encryption=none&insecure=0&host=snowy-waterfall-1901.ali1112.workers.dev&fp=firefox&type=ws&allowInsecure=0&sni=snowy-waterfall-1901.ali1112.workers.dev#🇷🇴 Romania | Freakhosting LTD 2
-vless://9adb120c-0cce-4b56-9023-ccf7f1e13536@172.66.158.115:8880?encryption=none&host=spring-sunset-81e8.322.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net&security=none&type=ws#🇷🇴 Romania | Freakhosting LTD 3
-vless://e4927998-38dd-4bf4-a37d-4cc67a06ee2d@172.66.170.53:8880?encryption=none&host=cold-shadow-66a0.278.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net&security=none&type=ws#🇷🇴 Romania | Freakhosting LTD 4
-vless://ea89bb52-cd5e-4b4a-981a-5dbe66c9adcd@31.133.0.240:2053?encryption=none&type=ws&security=tls&path=/lib/tag/mfp&host=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&sni=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&insecure=0&allowInsecure=0#🇷🇴 Romania | Freakhosting LTD 5
 hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?sni=ro.h2corp.org#🇷🇴 Romania | MivoCloud SRL 1
-vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@196.245.156.30:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&sni=rm2.magazinnarubeva.ru#🇷🇴 Romania | Orion Network 1
-vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@196.245.156.27:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&sni=rm2.magazinnarubeva.ru#🇷🇴 Romania | Orion Network 2
-vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@196.245.156.30:443?type=tcp&headerType=none&security=reality&encryption=none&sni=rm2.magazinnarubeva.ru&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&flow=xtls-rprx-vision#🇷🇴 Romania | Orion Network 3
-vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@196.245.156.30:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&sni=rm2.magazinnarubeva.ru#🇷🇴 Romania | Orion Network 4
-vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@196.245.156.30:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&sni=rm2.magazinnarubeva.ru#🇷🇴 Romania | Orion Network 5
-vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@rm-n1.gsupport.support:443?type=tcp&headerType=none&security=reality&encryption=none&sni=rm2.magazinnarubeva.ru&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&flow=xtls-rprx-vision#🇷🇴 Romania | Orion Network 6
 vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@151.242.191.161:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4&sni=www.samsung.com#🇷🇴 Romania | Serva ONE LTD 1
