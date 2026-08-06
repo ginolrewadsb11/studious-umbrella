@@ -3,49 +3,26 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh6YgQm9iaVZQTiDigJQgQ2FuYWRhCuKaoSA0NCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqPCfh6YgQm9iaVZQTiDigJQgQ2FuYWRhCuKaoSAyMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@185.196.61.82:8080#🇨🇦 Canada | BrainStorm Network, Inc 1
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 Canada | Datacamp 1
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#🇨🇦 Canada | Datacamp 2
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 Canada | Datacamp 2
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#🇨🇦 Canada | DigitalOcean, 1
+vless://50414e45-4c5f-5a45-5553-ef859652a80e@nitrocode.ir:443?path=%2Fstream%2FTrexBridge%2Fef859652a80e&security=tls&encryption=none&insecure=0&host=trex-panel-nubj0s.samifakor.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=trex-panel-nubj0s.samifakor.workers.dev#🇨🇦 Canada | FDCservers.net 1
+vless://50414e45-4c5f-5a45-5553-ef859652a80e@user.akbarihelia.ir:443?path=%2Fstream%2FTrexBridge%2Fef859652a80e&security=tls&encryption=none&insecure=0&host=trex-panel-nubj0s.samifakor.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=trex-panel-nubj0s.samifakor.workers.dev#🇨🇦 Canada | FDCservers.net 2
 vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6IjAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBvcnQiOiIxODAwMCIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2W3d3dy52Mm5vZGVzLmNvbV0gVjJSYXkgVm1lc3MtQ0EtMTQwMzEwNTgiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇨🇦 Canada | GLOBALTELEHOST Corp 1
 vless://d9e4721d-cdac-44c7-bc91-117367eac194@216.152.147.28:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=kjiuPmjM4IutdZudHfcPZHEwcrBEFY4qBLlvfC6A_Ss&sid=b9f8d3f8&type=tcp&headerType=none#🇨🇦 Canada | GLOBALTELEHOST Corp. 1
-vless://d9e4721d-cdac-44c7-bc91-117367eac194@216.152.147.28:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=kjiuPmjM4IutdZudHfcPZHEwcrBEFY4qBLlvfC6A_Ss&sid=b9f8d3f8&type=tcp&headerType=none#🇨🇦 Canada | GLOBALTELEHOST Corp. 2
+vless://d9e4721d-cdac-44c7-bc91-117367eac194@216.152.147.28:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kjiuPmjM4IutdZudHfcPZHEwcrBEFY4qBLlvfC6A_Ss&security=reality&sid=b9f8d3f8&sni=www.cloudflare.com&type=tcp#🇨🇦 Canada | GLOBALTELEHOST Corp. 2
 vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiXHVkODNjXHVkZmYzW3d3dy52Mm5vZGVzLmNvbV0gdm1lc3MtIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇨🇦 Canada | GLOBALTELEHOST Corp. 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@68.168.114.238:1080#🇨🇦 Canada | GloboTech Communications 1
-vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&sid=0e&sni=google.com#🇨🇦 Canada | Microsoft 1
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@104.21.57.111:8443?encryption=none&fp=chrome&host=ad-013.pixel9xdmq.info&path=%2F&security=tls&sni=ad-013.pixel9xdmq.info&type=ws#🇨🇦 Canada | OVH SAS 1
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@104.21.27.167:8443?encryption=none&fp=chrome&host=ad-013.milo1fmyz.info&path=/&security=tls&sni=ad-013.milo1fmyz.info&type=ws#🇨🇦 Canada | OVH SAS 2
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@172.64.80.1:8443?security=tls&type=ws&path=%2F&host=ad-013.orbitqgr7v.info&sni=ad-013.orbitqgr7v.info&fp=safari#🇨🇦 Canada | OVH SAS 3
-vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?path=/nova-geo-psiphon-ca&security=tls&encryption=none&insecure=0&host=89drg3d.zenvorix.ir&type=ws&allowInsecure=0&sni=89drg3d.zenvorix.ir#🇨🇦 Canada | OVH SAS 4
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@104.21.57.111:8443?encryption=none&fp=chrome&host=ad-013.pixel9xdmq.info&path=%2F&security=tls&sni=ad-013.pixel9xdmq.info&type=ws#🇨🇦 Canada | OVH SAS 5
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@104.21.18.9:8443?encryption=none&fp=chrome&host=ad-013.orbitqgr7v.info&path=%2F&security=tls&sni=ad-013.orbitqgr7v.info&type=ws#🇨🇦 Canada | OVH SAS 6
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@172.67.169.146:8443?encryption=none&fp=chrome&host=ad-013.milo1fmyz.info&path=%2F&security=tls&sni=ad-013.milo1fmyz.info&type=ws#🇨🇦 Canada | OVH SAS 7
-vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?path=%2Fnova-geo-psiphon-ca&security=tls&encryption=none&insecure=0&host=89drg3d.zenvorix.ir&type=ws&allowInsecure=0&sni=89drg3d.zenvorix.ir#🇨🇦 Canada | OVH SAS 8
-vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?path=%2Fnova-geo-psiphon-ca&security=tls&encryption=none&insecure=0&host=89drg3d.zenvorix.ir&type=ws&allowInsecure=0&sni=89drg3d.zenvorix.ir#🇨🇦 Canada | OVH SAS 9
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@172.64.80.1:8443?security=tls&type=ws&path=%2F&host=ad-013.orbitqgr7v.info&sni=ad-013.orbitqgr7v.info&fp=ios#🇨🇦 Canada | OVH SAS 10
-vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?path=%2Fnova-geo-psiphon-ca&security=tls&encryption=none&insecure=0&host=89drg3d.zenvorix.ir&type=ws&allowInsecure=0&sni=89drg3d.zenvorix.ir#🇨🇦 Canada | OVH SAS 11
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@172.67.145.169:8443?encryption=none&fp=chrome&host=ad-013.pixel9xdmq.info&path=/&security=tls&sni=ad-013.pixel9xdmq.info&type=ws#🇨🇦 Canada | OVH SAS 12
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@172.67.169.146:8443?encryption=none&fp=chrome&host=ad-013.milo1fmyz.info&path=%2F&security=tls&sni=ad-013.milo1fmyz.info&type=ws#🇨🇦 Canada | OVH SAS 13
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@172.64.80.1:8443?type=ws&headerType=none&security=tls&encryption=none&sni=ad-013.fluxmxd18.info&fp=firefox&path=%2F&host=ad-013.fluxmxd18.info&insecure=0#🇨🇦 Canada | OVH SAS 14
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@172.67.179.33:8443?encryption=none&fp=chrome&host=ad-013.orbitqgr7v.info&path=%2F&security=tls&sni=ad-013.orbitqgr7v.info&type=ws#🇨🇦 Canada | OVH SAS 15
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@172.64.80.1:8443?security=tls&type=ws&path=%2F&host=ad-013.fluxmxd18.info&sni=ad-013.fluxmxd18.info&fp=safari#🇨🇦 Canada | OVH SAS 16
-vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?path=%2Fnova-geo-psiphon-ca&security=tls&encryption=none&insecure=0&host=89drg3d.zenvorix.ir&type=ws&allowInsecure=0&sni=89drg3d.zenvorix.ir#🇨🇦 Canada | OVH SAS 17
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@104.21.18.9:8443?&security=tls&fp=chrome&sni=ad-013.orbitqgr7v.info&type=ws&headerType=none&host=ad-013.orbitqgr7v.info&path=%2F#🇨🇦 Canada | OVH SAS 18
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.milo1fmyz.info:8443?type=ws&security=tls&sni=ad-013.milo1fmyz.info&fp=chrome&path=/&host=ad-013.milo1fmyz.info#🇨🇦 Canada | OVH SAS 19
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.limaklhc6.info:8443?&security=tls&fp=chrome&sni=ad-013.limaklhc6.info&type=ws&headerType=none&host=ad-013.limaklhc6.info&path=%2F#🇨🇦 Canada | OVH SAS 20
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.flux3ni5o.info:8443?type=ws&headerType=none&security=tls&encryption=none&sni=ad-013.flux3ni5o.info&fp=chrome&path=%2F&host=ad-013.flux3ni5o.info&insecure=0#🇨🇦 Canada | OVH SAS 21
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.zen2bswa.info:8443?security=tls&type=ws&path=%2F&host=ad-013.zen2bswa.info&packetEncoding=xudp&sni=ad-013.zen2bswa.info&fp=chrome#🇨🇦 Canada | OVH SAS 22
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.pixel9xdmq.info:8443?&security=tls&type=ws&headerType=&host=ad-013.pixel9xdmq.info&path=%2F#🇨🇦 Canada | OVH SAS 23
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.orbitqgr7v.info:8443?&security=tls&fp=chrome&sni=ad-013.orbitqgr7v.info&type=ws&headerType=none&host=ad-013.orbitqgr7v.info&path=%2F#🇨🇦 Canada | OVH SAS 24
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.fluxmxd18.info:8443?&security=tls&fp=chrome&sni=ad-013.fluxmxd18.info&type=ws&headerType=none&host=ad-013.fluxmxd18.info&path=%2F#🇨🇦 Canada | OVH SAS 25
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.rapid4yjcz.info:8443?&security=tls&fp=chrome&sni=ad-013.rapid4yjcz.info&type=ws&headerType=none&host=ad-013.rapid4yjcz.info&path=%2F#🇨🇦 Canada | OVH SAS 26
-vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#🇨🇦 Canada | OVH SAS 27
-vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?encryption=none&type=ws&security=tls&path=%2Fvless%2F&host=ov-canada1.09vpn.com&sni=ov-canada1.09vpn.com&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 Canada | OVH SAS 28
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.atlaswyxd3.info:8443?&security=tls&fp=chrome&sni=ad-013.atlaswyxd3.info&type=ws&headerType=none&host=ad-013.atlaswyxd3.info&path=%2F#🇨🇦 Canada | OVH SAS 29
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.flux3ni5o.info:8443?&security=tls&fp=chrome&sni=ad-013.flux3ni5o.info&type=ws&headerType=none&host=ad-013.flux3ni5o.info&path=%2F#🇨🇦 Canada | OVH SAS 30
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.core6g25r.info:8443?&security=tls&fp=chrome&sni=ad-013.core6g25r.info&type=ws&headerType=none&host=ad-013.core6g25r.info&path=%2F#🇨🇦 Canada | OVH SAS 31
-vless://26c0589f-79e5-4789-8ff7-914f2e26e8e5@185.206.170.69:5151?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=T3vWH0zPUrOsgdK7cvEEnMbS3LIJDxQ17_L_GhmZJ0E&security=reality&sid=69b851&sni=www.yahoo.com&type=tcp#🇨🇦 Canada | YottaSrc 1
-vless://26c0589f-79e5-4789-8ff7-914f2e26e8e5@185.206.170.69:5151?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=T3vWH0zPUrOsgdK7cvEEnMbS3LIJDxQ17_L_GhmZJ0E&sid=69b851&sni=www.yahoo.com#🇨🇦 Canada | YottaSrc 2
-vless://26c0589f-79e5-4789-8ff7-914f2e26e8e5@185.206.170.69:5151?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=T3vWH0zPUrOsgdK7cvEEnMbS3LIJDxQ17_L_GhmZJ0E&security=reality&sid=69b851&sni=www.yahoo.com&type=tcp#🇨🇦 Canada | YottaSrc 3
+vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#🇨🇦 Canada | Microsoft 1
+vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&sid=0e&sni=google.com#🇨🇦 Canada | Microsoft 2
+vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?path=%2Fnova-geo-psiphon-ca&security=tls&encryption=none&insecure=0&host=89drg3d.zenvorix.ir&type=ws&allowInsecure=0&sni=89drg3d.zenvorix.ir#🇨🇦 Canada | OVH SAS 1
+vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?path=%2Fnova-geo-psiphon-ca&security=tls&encryption=none&insecure=0&host=89drg3d.zenvorix.ir&type=ws&allowInsecure=0&sni=89drg3d.zenvorix.ir#🇨🇦 Canada | OVH SAS 2
+vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?path=%2Fnova-geo-psiphon-ca&security=tls&encryption=none&insecure=0&host=89drg3d.zenvorix.ir&type=ws&allowInsecure=0&sni=89drg3d.zenvorix.ir#🇨🇦 Canada | OVH SAS 3
+vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?path=%2Fnova-geo-psiphon-ca&security=tls&encryption=none&insecure=0&host=89drg3d.zenvorix.ir&type=ws&allowInsecure=0&sni=89drg3d.zenvorix.ir#🇨🇦 Canada | OVH SAS 4
+vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?path=/nova-geo-psiphon-ca&security=tls&encryption=none&insecure=0&host=89drg3d.zenvorix.ir&type=ws&allowInsecure=0&sni=89drg3d.zenvorix.ir#🇨🇦 Canada | OVH SAS 5
+vless://3a17b816-a8ae-415d-a592-29345d7a7591@104.17.108.69:443?path=%2Fnova-geo-psiphon-ca&security=tls&encryption=none&insecure=0&host=89drg3d.zenvorix.ir&type=ws&allowInsecure=0&sni=89drg3d.zenvorix.ir#🇨🇦 Canada | OVH SAS 6
+vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#🇨🇦 Canada | OVH SAS 7
+vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#🇨🇦 Canada | OVH SAS 8
+vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?encryption=none&type=ws&security=tls&path=%2Fvless%2F&host=ov-canada1.09vpn.com&sni=ov-canada1.09vpn.com&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 Canada | OVH SAS 9
