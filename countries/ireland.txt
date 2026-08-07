@@ -3,15 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMTAg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&type=tcp&fp=chrome#🇮🇪 Ireland | Amazon Technologies 1
-trojan://UO36402987@definite-ladybird.rooster465.autos:443?type=raw&headerType=none&security=tls#🇮🇪 Ireland | Amazon Technologies 2
-trojan://ND91608427@54.170.212.206:443?sni=skilled-lioness.rooster465.autos&type=tcp&fp=chrome#🇮🇪 Ireland | Amazon.com, 1
-trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos&type=tcp&fp=chrome#🇮🇪 Ireland | Amazon.com, 2
-trojan://UO36402987@54.216.124.178:443?sni=warm-bass.rooster465.autos&type=tcp&fp=chrome#🇮🇪 Ireland | Amazon.com, 3
+trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos&type=tcp&fp=chrome#🇮🇪 Ireland | Amazon.com, 1
+trojan://UO36402987@54.216.124.178:443?sni=warm-bass.rooster465.autos&type=tcp&fp=chrome#🇮🇪 Ireland | Amazon.com, 2
+trojan://ND91608427@54.170.212.206:443?sni=skilled-lioness.rooster465.autos&type=tcp&fp=chrome#🇮🇪 Ireland | Amazon.com, 3
 trojan://ND91608427@skilled-lioness.rooster465.autos:443?security=tls&sni=skilled-lioness.rooster465.autos#🇮🇪 Ireland | Amazon.com, 4
 trojan://ND91608427@skilled-lioness.rooster465.autos:443?security=tls&sni=skilled-lioness.rooster465.autos#🇮🇪 Ireland | Amazon.com, 5
 trojan://ND91608427@skilled-lioness.rooster465.autos:443?security=tls&sni=skilled-lioness.rooster465.autos#🇮🇪 Ireland | Amazon.com, 6
 trojan://ND91608427@skilled-lioness.rooster465.autos:443?security=tls&sni=skilled-lioness.rooster465.autos#🇮🇪 Ireland | Amazon.com, 7
-vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.17.28.89:443?security=tls&type=ws&path=/&host=workspace.evan00.dpdns.org&packetEncoding=xudp&sni=workspace.evan00.dpdns.org&fp=randomized#🇮🇪 Ireland | HostPapa 1
