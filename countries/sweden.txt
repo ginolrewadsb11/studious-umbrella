@@ -3,28 +3,31 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuPCfh6ogQm9iaVZQTiDigJQgU3dlZGVuCuKaoSAyMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuPCfh6ogQm9iaVZQTiDigJQgU3dlZGVuCuKaoSAyNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://f7e0e597-636e-4550-9f54-6ab1c0e8cf49@62.60.231.42:2053?security=reality&encryption=none&pbk=Xx3r5KsSKa1I8O3avmwMbgXOWj_-MqiqzTO_7BzBxyU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=58c5b3ee013bdc8f#🇸🇪 Sweden | Aeza International LTD 1
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.61.13.49:443#🇸🇪 Sweden | Amazon.com, 1
-vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?type=ws#🇸🇪 Sweden | Baxet Group 1
+vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?&type=ws&headerType=none&path=%2F#🇸🇪 Sweden | Baxet Group 1
 vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?&type=ws&headerType=none&path=%2F#🇸🇪 Sweden | Baxet Group 2
-vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?&type=ws&headerType=none&path=%2F#🇸🇪 Sweden | Baxet Group 3
-vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?path=/&security=none&encryption=none&type=ws#🇸🇪 Sweden | Baxet Group 4
-vless://f128bc2c-8018-43a1-8ed7-66eabc8f157c@142.111.244.75:448?security=reality&encryption=none&pbk=r8ljXJO_4yLUonHdkPeWbD9A__XqoudwWAiXx9fbcj8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=39a997621a3598c9#🇸🇪 Sweden | InterLIR 1
+vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?type=ws#🇸🇪 Sweden | Baxet Group 3
+vless://f128bc2c-8018-43a1-8ed7-66eabc8f157c@142.111.244.75:448?security=reality&encryption=none&pbk=r8ljXJO_4yLUonHdkPeWbD9A__XqoudwWAiXx9fbcj8&headerType=&fp=chrome&type=tcp&sni=www.samsung.com&sid=39a997621a3598c9#🇸🇪 Sweden | InterLIR 1
 vless://f128bc2c-8018-43a1-8ed7-66eabc8f157c@142.111.244.75:448?type=tcp&security=reality&encryption=none&fp=qq&pbk=r8ljXJO_4yLUonHdkPeWbD9A__XqoudwWAiXx9fbcj8&sid=39a997621a3598c9&sni=www.samsung.com#🇸🇪 Sweden | InterLIR 2
 vless://f128bc2c-8018-43a1-8ed7-66eabc8f157c@142.111.244.75:448?security=reality&encryption=none&pbk=r8ljXJO_4yLUonHdkPeWbD9A__XqoudwWAiXx9fbcj8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=39a997621a3598c9#🇸🇪 Sweden | InterLIR 3
-vless://f128bc2c-8018-43a1-8ed7-66eabc8f157c@142.111.244.75:448?security=reality&encryption=none&pbk=r8ljXJO_4yLUonHdkPeWbD9A__XqoudwWAiXx9fbcj8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=39a997621a3598c9#🇸🇪 Sweden | InterLIR 4
+vless://f128bc2c-8018-43a1-8ed7-66eabc8f157c@142.111.244.75:448?security=reality&encryption=none&pbk=r8ljXJO_4yLUonHdkPeWbD9A__XqoudwWAiXx9fbcj8&headerType=&fp=chrome&type=tcp&sni=www.samsung.com&sid=39a997621a3598c9#🇸🇪 Sweden | InterLIR 4
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@85.137.170.110:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&sni=smm.tunnelpoint.space#🇸🇪 Sweden | Mvps LTD 1
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@85.137.170.110:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&sni=smm.tunnelpoint.space#🇸🇪 Sweden | Mvps LTD 2
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@smm.tunnelpoint.space:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&security=reality&sid=fdda9806fe5d8584&sni=smm.tunnelpoint.space&type=tcp#🇸🇪 Sweden | Mvps LTD 3
-vless://3ad9031d-249c-46c1-a97d-ef16740f236a@37.252.17.192:8447?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=F8nl7VBhEUZJnMOQKOH7yeiJDZbw32BiIW9aJn2PGlQ&sid=7afcb61e13966776&sni=www.rumedia-cdn.com#🇸🇪 Sweden | Node Host 1
-vless://dbeffc3c-529b-4c25-9fd9-9f0969380534@37.77.105.11:420?security=none&encryption=none&headerType=none&type=tcp#🇸🇪 Sweden | Play2go International 1
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@87.121.105.108:443/?sni=swe-one.quiet-rogue.site#🇸🇪 Sweden | Play2go International 2
-vless://dbeffc3c-529b-4c25-9fd9-9f0969380534@37.77.105.11:420?security=none&encryption=none&headerType=none&type=tcp#🇸🇪 Sweden | Play2go International 3
+vless://3ad9031d-249c-46c1-a97d-ef16740f236a@37.252.17.192:8447?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=F8nl7VBhEUZJnMOQKOH7yeiJDZbw32BiIW9aJn2PGlQ&sid=7afcb61e13966776&sni=www.rumedia-cdn.com#🇸🇪 Sweden | Node Host 1
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@87.121.105.108:443/?sni=swe-one.quiet-rogue.site#🇸🇪 Sweden | Play2go International 1
 vless://14f19724-de91-4285-a633-aa8e2caaf812@46.246.92.109:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=JwL5KoiWkCJI2vMJxyTEplfv-zBAtwxOH8SMbw6QHzY&sid=cd40c992fe4b10c2&sni=www.rumedia-cdn.com#🇸🇪 Sweden | Portlane Network 1
-vless://d63fb2c0-5645-43d5-9ea2-efb4fcbe4cef@37.252.17.192:8451?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=ob0P4YslMWVnPxNFehia13AWqHTQNuRUYTXhuiNZCTk&sid=f5614cd78e939cd3&sni=www.rumedia-cdn.com#🇸🇪 Sweden | Portlane Network 2
-vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@150.241.72.5:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eu-central.cendora.ru&fp=firefox&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&type=tcp&headerType=none#🇸🇪 Sweden | xorek.cloud Internatio... 1
-vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@150.241.72.5:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#🇸🇪 Sweden | xorek.cloud Internatio... 2
-vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@150.241.72.5:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&sni=eu-central.cendora.ru#🇸🇪 Sweden | xorek.cloud Internatio... 3
-vless://b9b1e7c9-4160-49b4-85a4-2f096706509a@v-de-node-03.bot-auth.com:8443?security=reality&encryption=none&pbk=dNfk0sOCzOlmE61B7ur7YzU2i08RqXIBcGVBA2Ne1Ck&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.oracle.com&sid=7548bc#🇸🇪 Sweden | xorek.cloud Internatio... 4
+vless://d63fb2c0-5645-43d5-9ea2-efb4fcbe4cef@37.252.17.192:8451?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ob0P4YslMWVnPxNFehia13AWqHTQNuRUYTXhuiNZCTk&sid=f5614cd78e939cd3&sni=www.rumedia-cdn.com#🇸🇪 Sweden | Portlane Network 2
+vless://7cb248cf-b5d9-4124-827e-afee23c459db@185.178.208.176:443?type=ws&security=tls&encryption=none&path=%2Fws%2Fnotify%2F817522358&host=ncd.crsmaps.com&sni=ncd.crsmaps.com&fp=edge&alpn=h3%2Ch2&headerType=none#🇸🇪 Sweden | SIA VEESP 1
+vless://7cb248cf-b5d9-4124-827e-afee23c459db@185.178.208.176:443?alpn=h3%2Ch2&encryption=none&fp=edge&host=ncd.crsmaps.com&path=%2Fws%2Fnotify%2F817522358&security=tls&sni=ncd.crsmaps.com&type=ws#🇸🇪 Sweden | SIA VEESP 2
+vless://7cb248cf-b5d9-4124-827e-afee23c459db@185.178.208.176:443?alpn=h3%2Ch2&encryption=none&fp=edge&host=ncd.crsmaps.com&path=%2Fws%2Fnotify%2F817522358&security=tls&sni=ncd.crsmaps.com&type=ws#🇸🇪 Sweden | SIA VEESP 3
+vless://32caf8fc-2404-4f40-95db-344e1023566c@185.178.208.176:443?alpn=h3%2Ch2&encryption=none&fp=chrome&host=founders-blog.online&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=founders-blog.online&type=ws#🇸🇪 Sweden | UAB Cherry Servers 1
+vless://32caf8fc-2404-4f40-95db-344e1023566c@185.178.208.176:443?alpn=h3,h2&encryption=none&fp=chrome&host=founders-blog.online&path=/stream/615428/socket&security=tls&sni=founders-blog.online&type=ws#🇸🇪 Sweden | UAB Cherry Servers 2
+vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@150.241.72.5:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&sni=eu-central.cendora.ru#🇸🇪 Sweden | xorek.cloud Internatio... 1
+vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@150.241.72.5:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&sni=eu-central.cendora.ru#🇸🇪 Sweden | xorek.cloud Internatio... 2
+vless://b9b1e7c9-4160-49b4-85a4-2f096706509a@150.241.79.143:8443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=dNfk0sOCzOlmE61B7ur7YzU2i08RqXIBcGVBA2Ne1Ck&sid=7548bc&sni=www.oracle.com#🇸🇪 Sweden | xorek.cloud Internatio... 3
+vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@150.241.72.5:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eu-central.cendora.ru&fp=firefox&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&type=tcp&headerType=none#🇸🇪 Sweden | xorek.cloud Internatio... 4
+vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@150.241.72.5:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#🇸🇪 Sweden | xorek.cloud Internatio... 5
