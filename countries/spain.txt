@@ -3,12 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqvCfh7ggQm9iaVZQTiDigJQgU3BhaW4K4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqvCfh7ggQm9iaVZQTiDigJQgU3BhaW4K4pqhIDYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
+vmess://eyJ2IjoiMiIsImFkZCI6Ijg1LjkwLjIxNy40MiIsInBvcnQiOiIyMjMyNCIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwicHMiOiJcdWQ4M2NcdWRkZWFcdWQ4M2NcdWRkZjhbd3d3LnYybm9kZXMuY29tXSBWMlJheSBWbWVzcy1FUy0xMzQ4MzY4OSIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#🇪🇸 Spain | G-Core Labs S.A. 1
 trojan://2eutknankxtbgkwcajzt@193.148.19.213:52794?security=tls&sni=193.148.19.213#🇪🇸 Spain | M247 Europe SRL 1
-vless://8c7ac0ea-b1e4-4c20-bc16-1437559f3ac4@sa-3139608ac8900119.sr-c2fad9503e69e2a2.r.vpvpn.club:8443?mode=stream-one&path=%2F&security=tls&alpn=h2&encryption=none&flow=xtls-rprx-vision&insecure=0&fp=firefox&type=tcp&allowInsecure=0&sni=api-6a761d45.noooo.win#🇪🇸 Spain | Orion Network 1
-vless://8c7ac0ea-b1e4-4c20-bc16-1437559f3ac4@sa-3139608ac8900119.sr-c2fad9503e69e2a2.r.vpvpn.club:8443?mode=stream-one&path=%2F&security=tls&alpn=h2&encryption=none&flow=xtls-rprx-vision&insecure=0&fp=firefox&type=tcp&allowInsecure=0&sni=api-6a761d45.noooo.win#🇪🇸 Spain | Orion Network 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸 Spain | Psychz Networks 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 Spain | Psychz Networks 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸 Spain | Psychz Networks 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 Spain | Psychz Networks 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸 Spain | Psychz Networks 3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 Spain | Psychz Networks 4
