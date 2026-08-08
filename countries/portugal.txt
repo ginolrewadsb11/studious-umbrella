@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HtfCfh7kgQm9iaVZQTiDigJQgUG9ydHVnYWwK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?type=tcp&security=none&encryption=none#🇵🇹 Portugal | GCORELABS 1
-vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?security=none&encryption=none&headerType=none&type=tcp#🇵🇹 Portugal | GCORELABS 2
-vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?security=none&encryption=none&headerType=none&type=tcp#🇵🇹 Portugal | GCORELABS 3
+vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?encryption=none&security=none&type=tcp#🇵🇹 Portugal | GCORELABS 1
+vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?type=tcp&security=none&encryption=none#🇵🇹 Portugal | GCORELABS 2
+vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?encryption=none&security=none&type=tcp#🇵🇹 Portugal | GCORELABS 3
