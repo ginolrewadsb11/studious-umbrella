@@ -3,19 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDb2xvbWJpYQrimqEgMTQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDb2xvbWJpYQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.188.226:62145?&type=tcp&headerType=none&path=/#🌍 Colombia | Oracle 1
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.188.226:62145?&type=tcp&headerType=none&path=/#🌍 Colombia | Oracle 2
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.95:62145?security=none&type=tcp&path=/#🌍 Colombia | Oracle 3
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.220.255:62145#🌍 Colombia | Oracle 4
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.215.84:62145?&type=tcp&headerType=none&path=%2F#🌍 Colombia | Oracle 5
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.188.226:62145?type=tcp&security=none&encryption=none&path=/#🌍 Colombia | Oracle 6
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.95:62145?type=tcp&security=none&encryption=none#🌍 Colombia | Oracle 7
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.215.84:62145?&type=tcp&headerType=none&path=%2F#🌍 Colombia | Oracle 8
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.220.255:62145?&type=tcp&headerType=none&path=%2F#🌍 Colombia | Oracle 9
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.188.226:62145?security=none&type=tcp#🌍 Colombia | Oracle 10
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.220.255:62145?&type=tcp&headerType=none&path=%2F#🌍 Colombia | Oracle 11
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.220.255:62145#🌍 Colombia | Oracle 12
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.227.216:62145?security=none&type=tcp#🌍 Colombia | Oracle 13
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.126:62145?&type=tcp&headerType=none&path=/#🌍 Colombia | Oracle 14
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.215.84:62145?&type=tcp&headerType=none&path=%2F#🌍 Colombia | Oracle 1
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.215.84:62145?&type=tcp&headerType=none&path=%2F#🌍 Colombia | Oracle 2
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.215.84:62145?security=none&type=tcp#🌍 Colombia | Oracle 3
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.188.226:62145?&type=tcp&headerType=none&path=/#🌍 Colombia | Oracle 4
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.95:62145?type=tcp&security=none&encryption=none#🌍 Colombia | Oracle 5
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.220.255:62145?&type=tcp&headerType=none&path=%2F#🌍 Colombia | Oracle 6
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.220.255:62145#🌍 Colombia | Oracle 7
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.188.226:62145?type=tcp&security=none&encryption=none&path=/#🌍 Colombia | Oracle 8

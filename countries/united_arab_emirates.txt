@@ -3,7 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://f9959a44-4836-4d29-8029-c539a26e77c5@hk.s3-cloud.org:443?&security=reality&flow=xtls-rprx-vision&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&sid=7a3f9e2b1c8d4f6a&fp=chrome&sni=hk.s3-cloud.org&type=tcp&headerType=none&host=hk.s3-cloud.org&path=%2F#🇦🇪 United Arab Emirates | CloudBlast 1
+vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@178.83.121.19:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&security=reality&sid=7a3f9e2b1c8d4f6a&sni=hk.cdn-global.pro&type=tcp#🇦🇪 United Arab Emirates | CloudBlast 1
+vless://f9959a44-4836-4d29-8029-c539a26e77c5@hk.s3-cloud.org:443?&security=reality&flow=xtls-rprx-vision&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&sid=7a3f9e2b1c8d4f6a&fp=firefox&sni=hk.s3-cloud.org&type=tcp&headerType=&host=hk.s3-cloud.org&path=%2F#🇦🇪 United Arab Emirates | CloudBlast 2
+vless://f9959a44-4836-4d29-8029-c539a26e77c5@hk.s3-cloud.org:443?&security=reality&flow=xtls-rprx-vision&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&sid=7a3f9e2b1c8d4f6a&fp=chrome&sni=hk.s3-cloud.org&type=tcp&headerType=none&host=hk.s3-cloud.org&path=%2F#🇦🇪 United Arab Emirates | CloudBlast 3
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 1
