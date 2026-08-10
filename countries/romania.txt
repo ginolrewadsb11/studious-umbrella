@@ -3,12 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@109.104.106.51:443?type=grpc&security=tls&fp=firefox&sni=ro.cdn-global.pro&serviceName=grpc#🇷🇴 Romania | C4L 1
-vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@109.104.106.51:443?alpn=h2&encryption=none&fp=firefox&security=tls&serviceName=grpc&sni=ro.cdn-global.pro&type=grpc#🇷🇴 Romania | C4L 2
+vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@109.104.106.51:443?type=grpc&security=tls&fp=firefox&sni=ro.cdn-global.pro&serviceName=grpc#🇷🇴 Romania | C4L 2
 vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@109.104.106.51:443?alpn=h2&encryption=none&fp=firefox&security=tls&serviceName=grpc&sni=ro.cdn-global.pro&type=grpc#🇷🇴 Romania | C4L 3
-vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@109.104.106.51:443?type=grpc&security=tls&fp=firefox&sni=ro.cdn-global.pro&serviceName=grpc#🇷🇴 Romania | C4L 4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#🇷🇴 Romania | Dotro Telecom SRL 1
-vless://a96b5b26-d339-4fc3-a94b-6968e5a94f12@romka.xanka.best:1337?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=romka.xanka.best&pbk=tzjmvG1KWKF3QuXXzSo_o-x0Z4c6PIb-TpS-QVuBTBM&sid=62efc363&fp=firefox&alpn=http%2F1.1#🇷🇴 Romania | MAGIT'ST SRL 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇷🇴 Romania | Dotro Telecom SRL 1
 hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?sni=ro.h2corp.org#🇷🇴 Romania | MivoCloud SRL 1
