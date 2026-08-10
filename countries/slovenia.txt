@@ -3,8 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuPCfh64gQm9iaVZQTiDigJQgU2xvdmVuaWEK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HuPCfh64gQm9iaVZQTiDigJQgU2xvdmVuaWEK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://5d577f62-28a8-4b7e-9441-9307b6132065@2.27.56.109:443?type=tcp&security=reality&encryption=none&pbk=8R416wHsKA_fipQLIw2gceCaTTBJIZRMwGjNTURAx3I&sid=ad55857184e91aad&sni=stacks.vk-portal.net&fp=firefox#🇸🇮 Slovenia | BiMajLink d.o.o. 1
-vless://5d577f62-28a8-4b7e-9441-9307b6132065@2.27.56.109:443?type=tcp&security=reality&encryption=none&pbk=8R416wHsKA_fipQLIw2gceCaTTBJIZRMwGjNTURAx3I&sid=ad55857184e91aad&sni=stacks.vk-portal.net&fp=edge#🇸🇮 Slovenia | BiMajLink d.o.o. 2
-vless://5d577f62-28a8-4b7e-9441-9307b6132065@2.27.56.109:443?type=raw&security=reality&fp=firefox&pbk=8R416wHsKA_fipQLIw2gceCaTTBJIZRMwGjNTURAx3I&sid=ad55857184e91aad&sni=stacks.vk-portal.net#🇸🇮 Slovenia | BiMajLink d.o.o. 3
+vless://5d577f62-28a8-4b7e-9441-9307b6132065@2.27.56.109:443?type=tcp&security=reality&encryption=none&pbk=8R416wHsKA_fipQLIw2gceCaTTBJIZRMwGjNTURAx3I&sid=ad55857184e91aad&sni=stacks.vk-portal.net&fp=firefox#🇸🇮 Slovenia | BiMajLink d.o.o. 2
+vless://5d577f62-28a8-4b7e-9441-9307b6132065@2.27.56.109:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=8R416wHsKA_fipQLIw2gceCaTTBJIZRMwGjNTURAx3I&sid=ad55857184e91aad&sni=stacks.vk-portal.net#🇸🇮 Slovenia | BiMajLink d.o.o. 3
+vless://5d577f62-28a8-4b7e-9441-9307b6132065@2.27.56.109:443?type=tcp&security=reality&encryption=none&pbk=8R416wHsKA_fipQLIw2gceCaTTBJIZRMwGjNTURAx3I&sid=ad55857184e91aad&sni=stacks.vk-portal.net&fp=edge#🇸🇮 Slovenia | BiMajLink d.o.o. 4
