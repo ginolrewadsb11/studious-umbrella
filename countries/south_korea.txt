@@ -3,282 +3,307 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh7cgQm9iaVZQTiDigJQgU291dGggS29yZWEK4pqhIDI3NyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsPCfh7cgQm9iaVZQTiDigJQgU291dGggS29yZWEK4pqhIDMwMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-trojan://ND91608427@54.180.228.238:443?sni=pure-ram.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 1
-trojan://ND91608427@52.79.210.229:443?security=tls&sni=chief-bluegill.rooster465.autos&path=/#🇰🇷 South Korea | Amazon Technologies 2
-trojan://ND91608427@54.180.228.238:443?sni=pure-ram.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 3
-trojan://ND91608427@52.78.13.238:443?sni=upward-puma.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 4
-trojan://ND91608427@54.180.228.238:443?allowInsecure=1&sni=pure-ram.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 5
-trojan://ND91608427@54.180.228.238:443?sni=pure-ram.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 6
-trojan://ND91608427@13.125.239.182:443?security=tls&sni=saving-octopus.rooster465.autos&path=/#🇰🇷 South Korea | Amazon Technologies 7
-trojan://ND91608427@54.180.228.238:443?sni=pure-ram.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 8
-trojan://ND91608427@52.79.210.229:443?sni=chief-bluegill.rooster465.autos&path=/#🇰🇷 South Korea | Amazon Technologies 9
-trojan://ND91608427@54.180.228.238:443?sni=pure-ram.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 10
-trojan://ND91608427@52.78.13.238:443?security=tls&sni=upward-puma.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon Technologies 11
-trojan://ND91608427@54.180.228.238:443?sni=pure-ram.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 12
-trojan://ND91608427@52.79.210.229:443?sni=chief-bluegill.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 13
-trojan://ND91608427@52.78.13.238:443?sni=upward-puma.rooster465.autos&allowInsecure=1&type=tcp#🇰🇷 South Korea | Amazon Technologies 14
-trojan://ND91608427@52.79.210.229:443?sni=chief-bluegill.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 15
-trojan://ND91608427@52.78.13.238:443?sni=upward-puma.rooster465.autos&allowInsecure=1&type=tcp#🇰🇷 South Korea | Amazon Technologies 16
-trojan://ND91608427@52.79.210.229:443?security=tls&sni=chief-bluegill.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon Technologies 17
-trojan://ND91608427@13.125.239.182:443?sni=saving-octopus.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 18
-trojan://ND91608427@54.180.228.238:443?sni=pure-ram.rooster465.autos&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 19
-trojan://ND91608427@52.79.210.229:443?security=tls&sni=chief-bluegill.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon Technologies 20
-trojan://ND91608427@52.79.210.229:443?security=tls&sni=chief-bluegill.rooster465.autos&path=/#🇰🇷 South Korea | Amazon Technologies 21
+trojan://ND91608427@52.79.210.229:443?security=tls&sni=chief-bluegill.rooster465.autos&path=/#🇰🇷 South Korea | Amazon Technologies 1
+trojan://ND91608427@54.180.228.238:443?allowInsecure=1&sni=pure-ram.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 2
+trojan://ND91608427@13.125.239.182:443?security=tls&sni=saving-octopus.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon Technologies 3
+trojan://ND91608427@54.180.228.238:443?sni=pure-ram.rooster465.autos&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 4
+trojan://ND91608427@52.79.210.229:443?security=tls&sni=chief-bluegill.rooster465.autos&path=/#🇰🇷 South Korea | Amazon Technologies 5
+trojan://ND91608427@52.79.210.229:443?sni=chief-bluegill.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 6
+trojan://ND91608427@54.180.228.238:443?sni=pure-ram.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 7
+trojan://ND91608427@52.79.210.229:443?sni=chief-bluegill.rooster465.autos&path=/#🇰🇷 South Korea | Amazon Technologies 8
+trojan://ND91608427@13.125.239.182:443?sni=saving-octopus.rooster465.autos&allowInsecure=1&type=tcp#🇰🇷 South Korea | Amazon Technologies 9
+trojan://ND91608427@52.79.210.229:443?sni=chief-bluegill.rooster465.autos&path=/#🇰🇷 South Korea | Amazon Technologies 10
+trojan://ND91608427@54.180.228.238:443?sni=pure-ram.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 11
+trojan://ND91608427@52.79.210.229:443?security=tls&sni=chief-bluegill.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon Technologies 12
+trojan://ND91608427@52.79.210.229:443?security=tls&sni=chief-bluegill.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon Technologies 13
+trojan://ND91608427@54.180.228.238:443?sni=pure-ram.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 14
+trojan://ND91608427@54.180.228.238:443?allowInsecure=1&sni=pure-ram.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 15
+trojan://ND91608427@54.180.228.238:443?sni=pure-ram.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 16
+trojan://ND91608427@52.78.13.238:443?sni=upward-puma.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 17
+trojan://ND91608427@13.125.239.182:443?security=tls&sni=saving-octopus.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon Technologies 18
+trojan://ND91608427@52.79.210.229:443?security=tls&sni=chief-bluegill.rooster465.autos&fp=chrome#🇰🇷 South Korea | Amazon Technologies 19
+trojan://ND91608427@52.78.13.238:443?sni=upward-puma.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 20
+trojan://ND91608427@52.78.13.238:443?sni=upward-puma.rooster465.autos&allowInsecure=1&type=tcp#🇰🇷 South Korea | Amazon Technologies 21
 trojan://ND91608427@13.125.239.182:443?sni=saving-octopus.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 22
-trojan://ND91608427@13.125.239.182:443?security=tls&sni=saving-octopus.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon Technologies 23
-trojan://ND91608427@13.125.239.182:443?sni=saving-octopus.rooster465.autos&allowInsecure=1&type=tcp#🇰🇷 South Korea | Amazon Technologies 24
-trojan://ND91608427@54.180.228.238:443?sni=pure-ram.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 25
-trojan://ND91608427@54.180.228.238:443?allowInsecure=1&sni=pure-ram.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 26
-trojan://ND91608427@52.78.13.238:443?sni=upward-puma.rooster465.autos&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 27
-trojan://ND91608427@54.180.228.238:443?sni=pure-ram.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 28
-trojan://ND91608427@13.125.239.182:443?sni=saving-octopus.rooster465.autos&allowInsecure=1&type=tcp#🇰🇷 South Korea | Amazon Technologies 29
-trojan://ND91608427@52.78.13.238:443?sni=upward-puma.rooster465.autos&allowInsecure=1&type=tcp#🇰🇷 South Korea | Amazon Technologies 30
-trojan://ND91608427@52.78.13.238:443?sni=upward-puma.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 31
-trojan://ND91608427@52.79.210.229:443?security=tls&sni=chief-bluegill.rooster465.autos&fp=chrome#🇰🇷 South Korea | Amazon Technologies 32
-trojan://ND91608427@13.125.239.182:443?security=tls&sni=saving-octopus.rooster465.autos&path=/#🇰🇷 South Korea | Amazon Technologies 33
-trojan://ND91608427@13.125.239.182:443?sni=saving-octopus.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 34
-trojan://ND91608427@52.78.13.238:443?sni=upward-puma.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 35
-trojan://ND91608427@52.78.13.238:443?security=tls&sni=upward-puma.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon Technologies 36
-trojan://ND91608427@52.78.13.238:443?sni=upward-puma.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 37
-trojan://ND91608427@52.78.13.238:443?sni=upward-puma.rooster465.autos&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 38
-trojan://ND91608427@pure-ram.rooster465.autos:443?sni=pure-ram.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 39
-trojan://ND91608427@pure-ram.rooster465.autos:443?allowInsecure=1&sni=pure-ram.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 40
-trojan://ND91608427@saving-octopus.rooster465.autos:443?sni=saving-octopus.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 41
-trojan://ND91608427@chief-bluegill.rooster465.autos:443?sni=chief-bluegill.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 42
-trojan://ND91608427@pure-ram.rooster465.autos:443?sni=pure-ram.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 43
-trojan://ND91608427@52.78.13.238:443?sni=upward-puma.rooster465.autos&type=tcp#🇰🇷 South Korea | Amazon Technologies 44
-trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&sni=saving-octopus.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 45
-trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&sni=saving-octopus.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 46
-trojan://ND91608427@chief-bluegill.rooster465.autos:443?sni=chief-bluegill.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 47
-trojan://ND91608427@pure-ram.rooster465.autos:443?security=tls#🇰🇷 South Korea | Amazon Technologies 48
-trojan://ND91608427@upward-puma.rooster465.autos:443?sni=upward-puma.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 49
-trojan://ND91608427@upward-puma.rooster465.autos:443?sni=upward-puma.rooster465.autos&allowInsecure=1&type=tcp#🇰🇷 South Korea | Amazon Technologies 50
-trojan://ND91608427@saving-octopus.rooster465.autos:443?sni=saving-octopus.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 51
-trojan://ND91608427@saving-octopus.rooster465.autos:443?sni=saving-octopus.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 52
-trojan://ND91608427@saving-octopus.rooster465.autos:443?sni=saving-octopus.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 53
-trojan://ND91608427@pure-ram.rooster465.autos:443?sni=pure-ram.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 54
-trojan://ND91608427@chief-bluegill.rooster465.autos:443?sni=chief-bluegill.rooster465.autos&path=/#🇰🇷 South Korea | Amazon Technologies 55
-trojan://ND91608427@3.36.59.34:443?security=tls&sni=select-ferret.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 1
-trojan://ND91608427@3.36.131.218:443?sni=humorous-malamute.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 2
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com&path=/#🇰🇷 South Korea | Amazon.com, 3
-trojan://ND91608427@43.201.56.44:443?sni=distinct-llama.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 4
-trojan://ND91608427@43.201.56.44:443?sni=distinct-llama.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 5
-trojan://ND91608427@43.201.46.108:443?allowInsecure=1&sni=exotic-chow.rooster465.autos#🇰🇷 South Korea | Amazon.com, 6
-trojan://ND91608427@43.201.46.108:443?sni=exotic-chow.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 7
-trojan://ND91608427@43.201.46.108:443?sni=exotic-chow.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 8
-trojan://ND91608427@43.201.56.44:443?sni=distinct-llama.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 9
-trojan://ND91608427@3.36.131.218:443?allowInsecure=1&sni=humorous-malamute.rooster465.autos#🇰🇷 South Korea | Amazon.com, 10
-trojan://ND91608427@3.36.59.34:443?sni=select-ferret.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 11
-trojan://ND91608427@3.36.131.218:443?allowInsecure=1&sni=humorous-malamute.rooster465.autos#🇰🇷 South Korea | Amazon.com, 12
-trojan://ND91608427@3.36.131.218:443?security=tls&sni=humorous-malamute.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 13
-trojan://ND91608427@3.36.131.218:443?security=tls&sni=humorous-malamute.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 14
-trojan://ND91608427@3.35.140.99:443?sni=moved-meerkat.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 15
-trojan://ND91608427@43.201.46.108:443?sni=exotic-chow.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 16
-trojan://ND91608427@43.201.46.108:443?sni=exotic-chow.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 17
-trojan://ND91608427@3.38.106.2:443?sni=communal-sunbird.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 18
-trojan://ND91608427@43.203.119.20:443?sni=uncommon-feline.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 19
-trojan://ND91608427@3.35.140.99:443?sni=moved-meerkat.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 20
-trojan://ND91608427@43.201.56.44:443?sni=distinct-llama.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 21
-trojan://ND91608427@43.203.203.244:443?allowInsecure=1&sni=main-whippet.rooster465.autos#🇰🇷 South Korea | Amazon.com, 22
-trojan://ND91608427@43.203.244.203:443?sni=grateful-owl.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 23
-trojan://ND91608427@43.201.46.108:443?sni=exotic-chow.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 24
-trojan://ND91608427@43.203.244.203:443?security=tls&sni=grateful-owl.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 25
-trojan://ND91608427@3.35.140.99:443?allowInsecure=1&sni=moved-meerkat.rooster465.autos#🇰🇷 South Korea | Amazon.com, 26
-trojan://ND91608427@43.203.203.244:443?sni=main-whippet.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 27
-trojan://ND91608427@43.203.203.244:443?sni=main-whippet.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 28
-trojan://ND91608427@43.203.244.203:443?security=tls&sni=grateful-owl.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 29
-trojan://ND91608427@43.203.203.244:443?sni=main-whippet.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 30
-trojan://ND91608427@43.202.56.122:443?sni=striking-maggot.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 31
-trojan://ND91608427@43.203.244.203:443?sni=grateful-owl.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 32
-trojan://ND91608427@43.203.244.203:443?sni=grateful-owl.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 33
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com#🇰🇷 South Korea | Amazon.com, 34
+trojan://ND91608427@54.180.228.238:443?sni=pure-ram.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 23
+trojan://ND91608427@13.125.239.182:443?security=tls&sni=saving-octopus.rooster465.autos&path=/#🇰🇷 South Korea | Amazon Technologies 24
+trojan://ND91608427@52.78.13.238:443?sni=upward-puma.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 25
+trojan://ND91608427@54.180.228.238:443?sni=pure-ram.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 26
+trojan://ND91608427@52.78.13.238:443?sni=upward-puma.rooster465.autos&allowInsecure=1&type=tcp#🇰🇷 South Korea | Amazon Technologies 27
+trojan://ND91608427@52.78.13.238:443?security=tls&sni=upward-puma.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon Technologies 28
+trojan://ND91608427@54.180.228.238:443?sni=pure-ram.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 29
+trojan://ND91608427@52.78.13.238:443?sni=upward-puma.rooster465.autos&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 30
+trojan://ND91608427@52.78.13.238:443?security=tls&sni=upward-puma.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon Technologies 31
+trojan://ND91608427@54.180.228.238:443?sni=pure-ram.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 32
+trojan://ND91608427@52.78.13.238:443?sni=upward-puma.rooster465.autos&allowInsecure=1&type=tcp#🇰🇷 South Korea | Amazon Technologies 33
+trojan://ND91608427@52.78.13.238:443?sni=upward-puma.rooster465.autos&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 34
+trojan://ND91608427@13.125.239.182:443?sni=saving-octopus.rooster465.autos&allowInsecure=1&type=tcp#🇰🇷 South Korea | Amazon Technologies 35
+trojan://ND91608427@54.180.228.238:443?sni=pure-ram.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 36
+trojan://ND91608427@52.79.210.229:443?sni=chief-bluegill.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 37
+trojan://ND91608427@13.125.239.182:443?sni=saving-octopus.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 38
+trojan://ND91608427@54.180.228.238:443?sni=pure-ram.rooster465.autos&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 39
+trojan://ND91608427@52.79.210.229:443?sni=chief-bluegill.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 40
+trojan://ND91608427@52.78.13.238:443?sni=upward-puma.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 41
+trojan://ND91608427@13.125.239.182:443?sni=saving-octopus.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 42
+trojan://ND91608427@52.79.210.229:443?security=tls&sni=chief-bluegill.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon Technologies 43
+trojan://ND91608427@52.78.13.238:443?sni=upward-puma.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 44
+trojan://ND91608427@52.79.210.229:443?security=tls&sni=chief-bluegill.rooster465.autos&path=/#🇰🇷 South Korea | Amazon Technologies 45
+trojan://ND91608427@52.78.13.238:443?sni=upward-puma.rooster465.autos&type=tcp#🇰🇷 South Korea | Amazon Technologies 46
+trojan://ND91608427@pure-ram.rooster465.autos:443?sni=pure-ram.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 47
+trojan://ND91608427@chief-bluegill.rooster465.autos:443?security=tls&sni=chief-bluegill.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 48
+trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&sni=saving-octopus.rooster465.autos&path=/#🇰🇷 South Korea | Amazon Technologies 49
+trojan://ND91608427@chief-bluegill.rooster465.autos:443?security=tls&sni=chief-bluegill.rooster465.autos&path=/#🇰🇷 South Korea | Amazon Technologies 50
+trojan://ND91608427@upward-puma.rooster465.autos:443?sni=upward-puma.rooster465.autos&allowInsecure=1&type=tcp#🇰🇷 South Korea | Amazon Technologies 51
+trojan://ND91608427@pure-ram.rooster465.autos:443?sni=pure-ram.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 52
+trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&sni=saving-octopus.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 53
+trojan://ND91608427@pure-ram.rooster465.autos:443?security=tls&path=/#🇰🇷 South Korea | Amazon Technologies 54
+trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&path=/#🇰🇷 South Korea | Amazon Technologies 55
+trojan://ND91608427@pure-ram.rooster465.autos:443?sni=pure-ram.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 56
+trojan://ND91608427@pure-ram.rooster465.autos:443?allowInsecure=1&sni=pure-ram.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 57
+trojan://ND91608427@saving-octopus.rooster465.autos:443?sni=saving-octopus.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 58
+trojan://ND91608427@chief-bluegill.rooster465.autos:443?sni=chief-bluegill.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon Technologies 59
+trojan://ND91608427@pure-ram.rooster465.autos:443?security=tls#🇰🇷 South Korea | Amazon Technologies 60
+trojan://ND91608427@upward-puma.rooster465.autos:443?sni=upward-puma.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon Technologies 61
+trojan://ND91608427@13.125.239.182:443?security=tls&sni=saving-octopus.rooster465.autos&path=/#🇰🇷 South Korea | Amazon Technologies 62
+trojan://ND91608427@pure-ram.rooster465.autos:443?security=tls#🇰🇷 South Korea | Amazon Technologies 63
+trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&sni=saving-octopus.rooster465.autos#🇰🇷 South Korea | Amazon Technologies 64
+trojan://ND91608427@3.38.106.2:443?sni=communal-sunbird.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 1
+trojan://ND91608427@43.201.103.8:443?sni=intimate-moray.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 2
+trojan://ND91608427@43.203.119.20:443?security=tls&sni=uncommon-feline.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 3
+trojan://ND91608427@43.201.103.8:443?sni=intimate-moray.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 4
+trojan://ND91608427@3.36.131.218:443?sni=humorous-malamute.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 5
+trojan://ND91608427@43.201.103.8:443?allowInsecure=1&sni=intimate-moray.rooster465.autos#🇰🇷 South Korea | Amazon.com, 6
+trojan://ND91608427@3.38.106.2:443?sni=communal-sunbird.rooster465.autos&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 7
+trojan://ND91608427@3.38.106.2:443?security=tls&sni=communal-sunbird.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 8
+trojan://ND91608427@43.201.46.108:443?allowInsecure=1&sni=exotic-chow.rooster465.autos#🇰🇷 South Korea | Amazon.com, 9
+trojan://ND91608427@43.201.103.8:443?sni=intimate-moray.rooster465.autos&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 10
+trojan://ND91608427@3.36.131.218:443?sni=humorous-malamute.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 11
+trojan://ND91608427@3.38.106.2:443?security=tls&sni=communal-sunbird.rooster465.autos#🇰🇷 South Korea | Amazon.com, 12
+trojan://ND91608427@43.203.119.20:443?allowInsecure=1&sni=uncommon-feline.rooster465.autos#🇰🇷 South Korea | Amazon.com, 13
+trojan://ND91608427@43.201.103.8:443?security=tls&sni=intimate-moray.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 14
+trojan://ND91608427@43.202.56.122:443?security=tls&sni=striking-maggot.rooster465.autos#🇰🇷 South Korea | Amazon.com, 15
+trojan://ND91608427@43.201.103.8:443?sni=intimate-moray.rooster465.autos&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 16
+trojan://ND91608427@43.203.247.197:443?sni=definite-malamute.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 17
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇰🇷 South Korea | Amazon.com, 18
+trojan://ND91608427@43.201.46.108:443?sni=exotic-chow.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 19
+trojan://ND91608427@43.203.244.203:443?sni=grateful-owl.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 20
+trojan://ND91608427@43.203.247.197:443?security=tls&sni=definite-malamute.rooster465.autos#🇰🇷 South Korea | Amazon.com, 21
+trojan://ND91608427@43.203.247.197:443?security=tls&sni=definite-malamute.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 22
+trojan://ND91608427@43.202.56.122:443?security=tls&sni=striking-maggot.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 23
+trojan://ND91608427@3.36.131.218:443?security=tls&sni=humorous-malamute.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 24
+trojan://ND91608427@43.201.46.108:443?allowInsecure=1&sni=exotic-chow.rooster465.autos#🇰🇷 South Korea | Amazon.com, 25
+trojan://ND91608427@43.202.56.122:443?security=tls&sni=striking-maggot.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 26
+trojan://ND91608427@43.201.46.108:443?allowInsecure=1&sni=exotic-chow.rooster465.autos#🇰🇷 South Korea | Amazon.com, 27
+trojan://ND91608427@43.201.103.8:443?sni=intimate-moray.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 28
+trojan://ND91608427@43.203.247.197:443?sni=definite-malamute.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 29
+trojan://ND91608427@43.203.119.20:443?security=tls&sni=uncommon-feline.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 30
+trojan://ND91608427@43.202.56.122:443?sni=striking-maggot.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 31
+trojan://ND91608427@43.203.247.197:443?security=tls&sni=definite-malamute.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 32
+trojan://ND91608427@43.202.56.122:443?sni=striking-maggot.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 33
+trojan://ND91608427@43.203.203.244:443?security=tls&sni=main-whippet.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 34
 trojan://ND91608427@43.203.244.203:443?sni=grateful-owl.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 35
-trojan://ND91608427@3.35.140.99:443?allowInsecure=1&sni=moved-meerkat.rooster465.autos#🇰🇷 South Korea | Amazon.com, 36
-trojan://ND91608427@43.203.244.203:443?sni=grateful-owl.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 37
-trojan://ND91608427@43.201.46.108:443?security=tls&sni=exotic-chow.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 38
-trojan://ND91608427@43.201.103.8:443?sni=intimate-moray.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 39
-trojan://ND91608427@3.38.106.2:443?security=tls&sni=communal-sunbird.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 40
-trojan://ND91608427@3.38.106.2:443?security=tls&sni=communal-sunbird.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 41
-trojan://ND91608427@43.203.244.203:443?security=tls&sni=grateful-owl.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 42
-trojan://ND91608427@43.203.119.20:443?sni=uncommon-feline.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 43
-trojan://ND91608427@43.203.203.244:443?sni=main-whippet.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 44
-trojan://ND91608427@3.36.59.34:443?sni=select-ferret.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 45
-trojan://ND91608427@3.38.106.2:443?sni=communal-sunbird.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 46
-trojan://ND91608427@3.36.59.34:443?security=tls&sni=select-ferret.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 47
-trojan://ND91608427@43.201.46.108:443?allowInsecure=1&sni=exotic-chow.rooster465.autos#🇰🇷 South Korea | Amazon.com, 48
-trojan://ND91608427@3.36.59.34:443?allowInsecure=1&sni=select-ferret.rooster465.autos#🇰🇷 South Korea | Amazon.com, 49
-trojan://ND91608427@3.38.106.2:443?sni=communal-sunbird.rooster465.autos&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 50
+trojan://ND91608427@43.201.46.108:443?sni=exotic-chow.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 36
+trojan://ND91608427@43.201.46.108:443?sni=exotic-chow.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 37
+trojan://ND91608427@43.203.247.197:443?allowInsecure=1&sni=definite-malamute.rooster465.autos#🇰🇷 South Korea | Amazon.com, 38
+trojan://ND91608427@3.36.131.218:443?security=tls&sni=humorous-malamute.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 39
+trojan://ND91608427@43.201.46.108:443?sni=exotic-chow.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 40
+trojan://ND91608427@43.203.247.197:443?sni=definite-malamute.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 41
+trojan://ND91608427@43.201.103.8:443?security=tls&sni=intimate-moray.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 42
+trojan://ND91608427@43.203.247.197:443?sni=definite-malamute.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 43
+trojan://ND91608427@43.203.247.197:443?sni=definite-malamute.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 44
+trojan://ND91608427@43.203.119.20:443?sni=uncommon-feline.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 45
+trojan://ND91608427@43.201.103.8:443?sni=intimate-moray.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 46
+trojan://ND91608427@43.203.247.197:443?sni=definite-malamute.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 47
+trojan://ND91608427@3.36.131.218:443?sni=humorous-malamute.rooster465.autos&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 48
+trojan://ND91608427@43.201.56.44:443?sni=distinct-llama.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 49
+trojan://ND91608427@43.203.203.244:443?sni=main-whippet.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 50
 trojan://ND91608427@43.202.56.122:443?sni=striking-maggot.rooster465.autos&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 51
-trojan://ND91608427@43.202.56.122:443?security=tls&sni=striking-maggot.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 52
-trojan://ND91608427@43.201.103.8:443?sni=intimate-moray.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 53
-trojan://ND91608427@43.203.119.20:443?security=tls&sni=uncommon-feline.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 54
-trojan://ND91608427@43.201.103.8:443?allowInsecure=1&sni=intimate-moray.rooster465.autos#🇰🇷 South Korea | Amazon.com, 55
-trojan://ND91608427@43.202.56.122:443?security=tls&sni=striking-maggot.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 56
-trojan://ND91608427@43.203.119.20:443?security=tls&sni=uncommon-feline.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 57
-trojan://ND91608427@43.201.56.44:443?allowInsecure=1&sni=distinct-llama.rooster465.autos#🇰🇷 South Korea | Amazon.com, 58
-trojan://ND91608427@43.203.119.20:443?security=tls&sni=uncommon-feline.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 59
-trojan://ND91608427@43.201.46.108:443?allowInsecure=1&sni=exotic-chow.rooster465.autos#🇰🇷 South Korea | Amazon.com, 60
-trojan://ND91608427@43.202.56.122:443?sni=striking-maggot.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 61
-trojan://ND91608427@43.203.247.197:443?sni=definite-malamute.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 62
-trojan://ND91608427@3.36.59.34:443?security=tls&sni=select-ferret.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 63
-trojan://ND91608427@43.201.46.108:443?sni=exotic-chow.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 64
-trojan://ND91608427@43.202.56.122:443?allowInsecure=1&sni=striking-maggot.rooster465.autos#🇰🇷 South Korea | Amazon.com, 65
-trojan://ND91608427@3.36.59.34:443?sni=select-ferret.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 66
+trojan://ND91608427@43.203.119.20:443?sni=uncommon-feline.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 52
+trojan://ND91608427@43.202.56.122:443?sni=striking-maggot.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 53
+trojan://ND91608427@43.201.56.44:443?sni=distinct-llama.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 54
+trojan://ND91608427@43.201.56.44:443?security=tls&sni=distinct-llama.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 55
+trojan://ND91608427@43.201.56.44:443?security=tls&sni=distinct-llama.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 56
+trojan://ND91608427@43.203.119.20:443?sni=uncommon-feline.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 57
+trojan://ND91608427@43.201.56.44:443?security=tls&sni=distinct-llama.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 58
+trojan://ND91608427@3.36.131.218:443?allowInsecure=1&sni=humorous-malamute.rooster465.autos#🇰🇷 South Korea | Amazon.com, 59
+trojan://ND91608427@3.35.140.99:443?security=tls&sni=moved-meerkat.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 60
+trojan://ND91608427@43.203.244.203:443?sni=grateful-owl.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 61
+trojan://ND91608427@3.35.140.99:443?sni=moved-meerkat.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 62
+trojan://ND91608427@43.203.244.203:443?security=tls&sni=grateful-owl.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 63
+trojan://ND91608427@43.203.244.203:443?sni=grateful-owl.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 64
+trojan://ND91608427@43.201.46.108:443?sni=exotic-chow.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 65
+trojan://ND91608427@43.202.56.122:443?sni=striking-maggot.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 66
 trojan://ND91608427@43.201.56.44:443?sni=distinct-llama.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 67
-trojan://ND91608427@43.203.119.20:443?sni=uncommon-feline.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 68
-trojan://ND91608427@43.202.56.122:443?sni=striking-maggot.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 69
-trojan://ND91608427@43.203.203.244:443?allowInsecure=1&sni=main-whippet.rooster465.autos#🇰🇷 South Korea | Amazon.com, 70
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇰🇷 South Korea | Amazon.com, 71
-trojan://ND91608427@43.201.103.8:443?allowInsecure=1&sni=intimate-moray.rooster465.autos#🇰🇷 South Korea | Amazon.com, 72
-trojan://ND91608427@43.203.244.203:443?sni=grateful-owl.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 73
-trojan://ND91608427@43.203.119.20:443?security=tls&sni=uncommon-feline.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 74
-trojan://ND91608427@43.203.244.203:443?sni=grateful-owl.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 75
-trojan://ND91608427@43.202.56.122:443?sni=striking-maggot.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 76
-trojan://ND91608427@3.35.140.99:443?allowInsecure=1&sni=moved-meerkat.rooster465.autos#🇰🇷 South Korea | Amazon.com, 77
-trojan://ND91608427@43.203.244.203:443?allowInsecure=1&sni=grateful-owl.rooster465.autos#🇰🇷 South Korea | Amazon.com, 78
-trojan://ND91608427@43.203.119.20:443?allowInsecure=1&sni=uncommon-feline.rooster465.autos#🇰🇷 South Korea | Amazon.com, 79
-trojan://ND91608427@3.36.59.34:443?allowInsecure=1&sni=select-ferret.rooster465.autos#🇰🇷 South Korea | Amazon.com, 80
-trojan://ND91608427@43.203.119.20:443?sni=uncommon-feline.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 81
-trojan://ND91608427@43.201.56.44:443?security=tls&sni=distinct-llama.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 82
-trojan://ND91608427@43.203.119.20:443?sni=uncommon-feline.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 83
-trojan://ND91608427@43.203.119.20:443?sni=uncommon-feline.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 84
-trojan://ND91608427@43.203.247.197:443?security=tls&sni=definite-malamute.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 85
-trojan://ND91608427@3.36.59.34:443?sni=select-ferret.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 86
-trojan://ND91608427@3.36.59.34:443?security=tls&sni=select-ferret.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 87
-trojan://ND91608427@43.201.56.44:443?sni=distinct-llama.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 88
-trojan://ND91608427@3.36.131.218:443?sni=humorous-malamute.rooster465.autos&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 89
-trojan://ND91608427@43.202.56.122:443?sni=striking-maggot.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 90
-trojan://ND91608427@3.36.59.34:443?sni=select-ferret.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 91
-trojan://ND91608427@3.38.106.2:443?security=tls&sni=communal-sunbird.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 92
-trojan://ND91608427@3.36.131.218:443?sni=humorous-malamute.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 93
+trojan://ND91608427@43.203.203.244:443?sni=main-whippet.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 68
+trojan://ND91608427@43.203.203.244:443?sni=main-whippet.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 69
+trojan://ND91608427@43.201.56.44:443?sni=distinct-llama.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 70
+trojan://ND91608427@3.35.140.99:443?sni=moved-meerkat.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 71
+trojan://ND91608427@43.203.119.20:443?security=tls&sni=uncommon-feline.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 72
+trojan://ND91608427@43.203.247.197:443?sni=definite-malamute.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 73
+trojan://ND91608427@3.36.59.34:443?sni=select-ferret.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 74
+trojan://ND91608427@3.36.131.218:443?sni=humorous-malamute.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 75
+trojan://ND91608427@43.203.244.203:443?sni=grateful-owl.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 76
+trojan://ND91608427@3.36.131.218:443?sni=humorous-malamute.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 77
+trojan://ND91608427@3.36.59.34:443?allowInsecure=1&sni=select-ferret.rooster465.autos#🇰🇷 South Korea | Amazon.com, 78
+trojan://ND91608427@3.36.59.34:443?security=tls&sni=select-ferret.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 79
+trojan://ND91608427@43.203.244.203:443?sni=grateful-owl.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 80
+trojan://ND91608427@43.201.56.44:443?sni=distinct-llama.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 81
+trojan://ND91608427@3.36.59.34:443?security=tls&sni=select-ferret.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 82
+trojan://ND91608427@43.202.56.122:443?sni=striking-maggot.rooster465.autos&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 83
+trojan://ND91608427@43.203.119.20:443?sni=uncommon-feline.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 84
+trojan://ND91608427@43.201.56.44:443?allowInsecure=1&sni=distinct-llama.rooster465.autos#🇰🇷 South Korea | Amazon.com, 85
+trojan://ND91608427@43.202.56.122:443?allowInsecure=1&sni=striking-maggot.rooster465.autos#🇰🇷 South Korea | Amazon.com, 86
+trojan://ND91608427@43.201.56.44:443?allowInsecure=1&sni=distinct-llama.rooster465.autos#🇰🇷 South Korea | Amazon.com, 87
+trojan://ND91608427@43.202.56.122:443?sni=striking-maggot.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 88
+trojan://ND91608427@43.203.119.20:443?sni=uncommon-feline.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 89
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com&path=/#🇰🇷 South Korea | Amazon.com, 90
+trojan://ND91608427@43.202.56.122:443?sni=striking-maggot.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 91
+trojan://ND91608427@3.35.140.99:443?security=tls&sni=moved-meerkat.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 92
+trojan://ND91608427@3.35.140.99:443?allowInsecure=1&sni=moved-meerkat.rooster465.autos#🇰🇷 South Korea | Amazon.com, 93
 trojan://ND91608427@43.201.103.8:443?sni=intimate-moray.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 94
-trojan://ND91608427@43.203.247.197:443?sni=definite-malamute.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 95
-trojan://ND91608427@3.35.140.99:443?sni=moved-meerkat.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 96
-trojan://ND91608427@43.201.103.8:443?security=tls&sni=intimate-moray.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 97
-trojan://ND91608427@3.36.131.218:443?allowInsecure=1&sni=humorous-malamute.rooster465.autos#🇰🇷 South Korea | Amazon.com, 98
-trojan://ND91608427@43.203.247.197:443?security=tls&sni=definite-malamute.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 99
-trojan://ND91608427@43.202.56.122:443?sni=striking-maggot.rooster465.autos&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 100
-trojan://ND91608427@43.201.103.8:443?sni=intimate-moray.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 101
-trojan://ND91608427@43.203.247.197:443?sni=definite-malamute.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 102
-trojan://ND91608427@43.201.103.8:443?sni=intimate-moray.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 103
-trojan://ND91608427@3.36.131.218:443?sni=humorous-malamute.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 104
-trojan://ND91608427@3.35.140.99:443?sni=moved-meerkat.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 105
-trojan://ND91608427@43.203.203.244:443?allowInsecure=1&sni=main-whippet.rooster465.autos#🇰🇷 South Korea | Amazon.com, 106
-trojan://ND91608427@43.203.203.244:443?sni=main-whippet.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 107
-trojan://ND91608427@3.36.131.218:443?sni=humorous-malamute.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 108
-trojan://ND91608427@43.203.247.197:443?sni=definite-malamute.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 109
-trojan://ND91608427@43.202.56.122:443?sni=striking-maggot.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 110
-trojan://ND91608427@43.201.56.44:443?sni=distinct-llama.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 111
-trojan://ND91608427@43.201.56.44:443?security=tls&sni=distinct-llama.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 112
-trojan://ND91608427@43.203.247.197:443?security=tls&sni=definite-malamute.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 113
-trojan://ND91608427@43.203.247.197:443?sni=definite-malamute.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 114
-trojan://ND91608427@43.201.103.8:443?sni=intimate-moray.rooster465.autos&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 115
-trojan://ND91608427@43.202.56.122:443?sni=striking-maggot.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 116
-trojan://ND91608427@3.36.131.218:443?sni=humorous-malamute.rooster465.autos&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 117
-trojan://ND91608427@43.202.56.122:443?allowInsecure=1&sni=striking-maggot.rooster465.autos#🇰🇷 South Korea | Amazon.com, 118
-trojan://ND91608427@3.36.131.218:443?security=tls&sni=humorous-malamute.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 119
-trojan://ND91608427@3.38.106.2:443?sni=communal-sunbird.rooster465.autos&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 120
-trojan://ND91608427@3.35.140.99:443?security=tls&sni=moved-meerkat.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 121
-trojan://ND91608427@3.38.106.2:443?sni=communal-sunbird.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 122
-trojan://ND91608427@3.36.59.34:443?sni=select-ferret.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 123
-trojan://ND91608427@3.35.140.99:443?sni=moved-meerkat.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 124
-trojan://ND91608427@43.201.103.8:443?sni=intimate-moray.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 125
-trojan://ND91608427@3.35.140.99:443?sni=moved-meerkat.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 126
-trojan://ND91608427@43.203.247.197:443?sni=definite-malamute.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 127
-trojan://ND91608427@43.203.244.203:443?sni=grateful-owl.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 128
-trojan://ND91608427@3.35.140.99:443?security=tls&sni=moved-meerkat.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 129
-trojan://ND91608427@43.203.247.197:443?security=tls&sni=definite-malamute.rooster465.autos#🇰🇷 South Korea | Amazon.com, 130
-trojan://ND91608427@43.203.244.203:443?allowInsecure=1&sni=grateful-owl.rooster465.autos#🇰🇷 South Korea | Amazon.com, 131
-trojan://ND91608427@43.203.203.244:443?security=tls&sni=main-whippet.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 132
-trojan://ND91608427@43.203.203.244:443?sni=main-whippet.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 133
-trojan://ND91608427@3.38.106.2:443?security=tls&sni=communal-sunbird.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 134
-trojan://ND91608427@43.203.119.20:443?sni=uncommon-feline.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 135
-trojan://ND91608427@43.201.103.8:443?sni=intimate-moray.rooster465.autos&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 136
-trojan://ND91608427@43.203.247.197:443?allowInsecure=1&sni=definite-malamute.rooster465.autos#🇰🇷 South Korea | Amazon.com, 137
-trojan://ND91608427@43.203.247.197:443?security=tls&sni=definite-malamute.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 138
-trojan://ND91608427@3.35.140.99:443?sni=moved-meerkat.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 139
-trojan://ND91608427@43.203.119.20:443?sni=uncommon-feline.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 140
-trojan://ND91608427@43.203.247.197:443?allowInsecure=1&sni=definite-malamute.rooster465.autos#🇰🇷 South Korea | Amazon.com, 141
-trojan://ND91608427@3.35.140.99:443?security=tls&sni=moved-meerkat.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 142
-trojan://ND91608427@3.36.59.34:443?allowInsecure=1&sni=select-ferret.rooster465.autos#🇰🇷 South Korea | Amazon.com, 143
-trojan://ND91608427@3.36.131.218:443?sni=humorous-malamute.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 144
-trojan://ND91608427@43.203.244.203:443?sni=grateful-owl.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 145
-trojan://ND91608427@43.202.56.122:443?security=tls&sni=striking-maggot.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 146
-trojan://ND91608427@43.201.46.108:443?sni=exotic-chow.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 147
-trojan://ND91608427@3.38.106.2:443?security=tls&sni=communal-sunbird.rooster465.autos#🇰🇷 South Korea | Amazon.com, 148
-trojan://ND91608427@humorous-malamute.rooster465.autos:443?allowInsecure=1&sni=humorous-malamute.rooster465.autos#🇰🇷 South Korea | Amazon.com, 149
-trojan://ND91608427@43.201.56.44:443?security=tls&sni=distinct-llama.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 150
-trojan://ND91608427@exotic-chow.rooster465.autos:443?allowInsecure=1&sni=exotic-chow.rooster465.autos#🇰🇷 South Korea | Amazon.com, 151
-trojan://ND91608427@moved-meerkat.rooster465.autos:443?sni=moved-meerkat.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 152
-trojan://ND91608427@communal-sunbird.rooster465.autos:443?sni=communal-sunbird.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 153
-trojan://ND91608427@humorous-malamute.rooster465.autos:443?sni=humorous-malamute.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 154
-trojan://ND91608427@distinct-llama.rooster465.autos:443?sni=distinct-llama.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 155
-trojan://ND91608427@43.203.119.20:443?allowInsecure=1&sni=uncommon-feline.rooster465.autos#🇰🇷 South Korea | Amazon.com, 156
-trojan://ND91608427@43.201.56.44:443?allowInsecure=1&sni=distinct-llama.rooster465.autos#🇰🇷 South Korea | Amazon.com, 157
-trojan://ND91608427@select-ferret.rooster465.autos:443?sni=select-ferret.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 158
-trojan://ND91608427@grateful-owl.rooster465.autos:443?sni=grateful-owl.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 159
-trojan://ND91608427@uncommon-feline.rooster465.autos:443?sni=uncommon-feline.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 160
-trojan://ND91608427@main-whippet.rooster465.autos:443?sni=main-whippet.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 161
-trojan://ND91608427@select-ferret.rooster465.autos:443?allowInsecure=1&sni=select-ferret.rooster465.autos#🇰🇷 South Korea | Amazon.com, 162
-trojan://ND91608427@uncommon-feline.rooster465.autos:443?sni=uncommon-feline.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 163
-trojan://ND91608427@select-ferret.rooster465.autos:443?sni=select-ferret.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 164
-trojan://ND91608427@distinct-llama.rooster465.autos:443?security=tls&sni=distinct-llama.rooster465.autos#🇰🇷 South Korea | Amazon.com, 165
-trojan://ND91608427@grateful-owl.rooster465.autos:443?sni=grateful-owl.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 166
-trojan://ND91608427@exotic-chow.rooster465.autos:443?sni=exotic-chow.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 167
-trojan://ND91608427@distinct-llama.rooster465.autos:443?allowInsecure=1&sni=distinct-llama.rooster465.autos#🇰🇷 South Korea | Amazon.com, 168
-trojan://ND91608427@moved-meerkat.rooster465.autos:443?sni=moved-meerkat.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 169
-trojan://ND91608427@grateful-owl.rooster465.autos:443?allowInsecure=1&sni=grateful-owl.rooster465.autos#🇰🇷 South Korea | Amazon.com, 170
-trojan://ND91608427@intimate-moray.rooster465.autos:443?security=tls#🇰🇷 South Korea | Amazon.com, 171
-trojan://ND91608427@intimate-moray.rooster465.autos:443?sni=intimate-moray.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 172
-trojan://ND91608427@communal-sunbird.rooster465.autos:443?sni=communal-sunbird.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 173
-trojan://ND91608427@communal-sunbird.rooster465.autos:443?sni=communal-sunbird.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 174
-trojan://ND91608427@definite-malamute.rooster465.autos:443?allowInsecure=1&sni=definite-malamute.rooster465.autos#🇰🇷 South Korea | Amazon.com, 175
-trojan://ND91608427@exotic-chow.rooster465.autos:443?security=tls&sni=exotic-chow.rooster465.autos#🇰🇷 South Korea | Amazon.com, 176
-trojan://ND91608427@main-whippet.rooster465.autos:443?sni=main-whippet.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 177
-trojan://ND91608427@uncommon-feline.rooster465.autos:443?sni=uncommon-feline.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 178
-trojan://ND91608427@definite-malamute.rooster465.autos:443?security=tls&sni=definite-malamute.rooster465.autos#🇰🇷 South Korea | Amazon.com, 179
-trojan://ND91608427@moved-meerkat.rooster465.autos:443?allowInsecure=1&sni=moved-meerkat.rooster465.autos#🇰🇷 South Korea | Amazon.com, 180
-trojan://ND91608427@humorous-malamute.rooster465.autos:443?sni=humorous-malamute.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 181
-trojan://ND91608427@moved-meerkat.rooster465.autos:443?allowInsecure=1&sni=moved-meerkat.rooster465.autos#🇰🇷 South Korea | Amazon.com, 182
-trojan://ND91608427@grateful-owl.rooster465.autos:443?sni=grateful-owl.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 183
-trojan://ND91608427@main-whippet.rooster465.autos:443?sni=main-whippet.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 184
-trojan://ND91608427@uncommon-feline.rooster465.autos:443?allowInsecure=1&sni=uncommon-feline.rooster465.autos#🇰🇷 South Korea | Amazon.com, 185
-trojan://ND91608427@definite-malamute.rooster465.autos:443?sni=definite-malamute.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 186
-trojan://ND91608427@humorous-malamute.rooster465.autos:443?sni=humorous-malamute.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 187
-trojan://ND91608427@striking-maggot.rooster465.autos:443?sni=striking-maggot.rooster465.autos&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 188
-trojan://ND91608427@intimate-moray.rooster465.autos:443?sni=intimate-moray.rooster465.autos&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 189
-trojan://ND91608427@main-whippet.rooster465.autos:443?sni=main-whippet.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 190
-trojan://ND91608427@intimate-moray.rooster465.autos:443?allowInsecure=1&sni=intimate-moray.rooster465.autos#🇰🇷 South Korea | Amazon.com, 191
-trojan://ND91608427@distinct-llama.rooster465.autos:443?sni=distinct-llama.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 192
-trojan://ND91608427@uncommon-feline.rooster465.autos:443?sni=uncommon-feline.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 193
-trojan://ND91608427@humorous-malamute.rooster465.autos:443?security=tls&sni=humorous-malamute.rooster465.autos#🇰🇷 South Korea | Amazon.com, 194
-trojan://ND91608427@intimate-moray.rooster465.autos:443?sni=intimate-moray.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 195
-trojan://ND91608427@striking-maggot.rooster465.autos:443?allowInsecure=1&sni=striking-maggot.rooster465.autos#🇰🇷 South Korea | Amazon.com, 196
-trojan://ND91608427@humorous-malamute.rooster465.autos:443?sni=humorous-malamute.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 197
-trojan://ND91608427@definite-malamute.rooster465.autos:443?sni=definite-malamute.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 198
-trojan://ND91608427@select-ferret.rooster465.autos:443?sni=select-ferret.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 199
-trojan://ND91608427@grateful-owl.rooster465.autos:443?sni=grateful-owl.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 200
-trojan://ND91608427@moved-meerkat.rooster465.autos:443?sni=moved-meerkat.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 201
-trojan://ND91608427@uncommon-feline.rooster465.autos:443?sni=uncommon-feline.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 202
-trojan://ND91608427@exotic-chow.rooster465.autos:443?sni=exotic-chow.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 203
-trojan://ND91608427@striking-maggot.rooster465.autos:443?sni=striking-maggot.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 204
-trojan://ND91608427@intimate-moray.rooster465.autos:443?sni=intimate-moray.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 205
-trojan://ND91608427@select-ferret.rooster465.autos:443?sni=select-ferret.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 206
-trojan://ND91608427@intimate-moray.rooster465.autos:443?sni=intimate-moray.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 207
-trojan://ND91608427@striking-maggot.rooster465.autos:443?sni=striking-maggot.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 208
-trojan://ND91608427@main-whippet.rooster465.autos:443?sni=main-whippet.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 209
-trojan://ND91608427@distinct-llama.rooster465.autos:443?sni=distinct-llama.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 210
-trojan://ND91608427@grateful-owl.rooster465.autos:443?sni=grateful-owl.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 211
-trojan://ND91608427@moved-meerkat.rooster465.autos:443?sni=moved-meerkat.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 212
-trojan://ND91608427@main-whippet.rooster465.autos:443?allowInsecure=1&sni=main-whippet.rooster465.autos#🇰🇷 South Korea | Amazon.com, 213
-trojan://ND91608427@definite-malamute.rooster465.autos:443?sni=definite-malamute.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 214
-trojan://ND91608427@uncommon-feline.rooster465.autos:443?security=tls&sni=uncommon-feline.rooster465.autos#🇰🇷 South Korea | Amazon.com, 215
+trojan://ND91608427@43.203.247.197:443?security=tls&sni=definite-malamute.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 95
+trojan://ND91608427@43.203.203.244:443?sni=main-whippet.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 96
+trojan://ND91608427@3.35.140.99:443?sni=moved-meerkat.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 97
+trojan://ND91608427@43.201.56.44:443?sni=distinct-llama.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 98
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com#🇰🇷 South Korea | Amazon.com, 99
+trojan://ND91608427@43.203.119.20:443?sni=uncommon-feline.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 100
+trojan://ND91608427@3.36.59.34:443?allowInsecure=1&sni=select-ferret.rooster465.autos#🇰🇷 South Korea | Amazon.com, 101
+trojan://ND91608427@43.203.119.20:443?security=tls&sni=uncommon-feline.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 102
+trojan://ND91608427@43.203.244.203:443?sni=grateful-owl.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 103
+trojan://ND91608427@3.35.140.99:443?security=tls&sni=moved-meerkat.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 104
+trojan://ND91608427@3.36.59.34:443?security=tls&sni=select-ferret.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 105
+trojan://ND91608427@3.35.140.99:443?sni=moved-meerkat.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 106
+trojan://ND91608427@43.203.247.197:443?sni=definite-malamute.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 107
+trojan://ND91608427@43.201.103.8:443?allowInsecure=1&sni=intimate-moray.rooster465.autos#🇰🇷 South Korea | Amazon.com, 108
+trojan://ND91608427@3.36.131.218:443?sni=humorous-malamute.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 109
+trojan://ND91608427@43.202.56.122:443?sni=striking-maggot.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 110
+trojan://ND91608427@43.202.56.122:443?sni=striking-maggot.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 111
+trojan://ND91608427@43.203.247.197:443?security=tls&sni=definite-malamute.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 112
+trojan://ND91608427@43.201.56.44:443?sni=distinct-llama.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 113
+trojan://ND91608427@43.201.56.44:443?security=tls&sni=distinct-llama.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 114
+trojan://ND91608427@43.201.56.44:443?security=tls&sni=distinct-llama.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 115
+trojan://ND91608427@3.35.140.99:443?sni=moved-meerkat.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 116
+trojan://ND91608427@43.201.56.44:443?sni=distinct-llama.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 117
+trojan://ND91608427@3.36.131.218:443?security=tls&sni=humorous-malamute.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 118
+trojan://ND91608427@3.36.59.34:443?sni=select-ferret.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 119
+trojan://ND91608427@43.203.119.20:443?allowInsecure=1&sni=uncommon-feline.rooster465.autos#🇰🇷 South Korea | Amazon.com, 120
+trojan://ND91608427@43.202.56.122:443?security=tls&sni=striking-maggot.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 121
+trojan://ND91608427@3.35.140.99:443?allowInsecure=1&sni=moved-meerkat.rooster465.autos#🇰🇷 South Korea | Amazon.com, 122
+trojan://ND91608427@43.203.119.20:443?sni=uncommon-feline.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 123
+trojan://ND91608427@3.36.59.34:443?sni=select-ferret.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 124
+trojan://ND91608427@43.203.203.244:443?allowInsecure=1&sni=main-whippet.rooster465.autos#🇰🇷 South Korea | Amazon.com, 125
+trojan://ND91608427@43.201.103.8:443?sni=intimate-moray.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 126
+trojan://ND91608427@3.36.59.34:443?security=tls&sni=select-ferret.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 127
+trojan://ND91608427@43.203.247.197:443?sni=definite-malamute.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 128
+trojan://ND91608427@3.36.131.218:443?security=tls&sni=humorous-malamute.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 129
+trojan://ND91608427@3.36.131.218:443?security=tls&sni=humorous-malamute.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 130
+trojan://ND91608427@3.36.131.218:443?sni=humorous-malamute.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 131
+trojan://ND91608427@43.203.119.20:443?sni=uncommon-feline.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 132
+trojan://ND91608427@3.36.131.218:443?allowInsecure=1&sni=humorous-malamute.rooster465.autos#🇰🇷 South Korea | Amazon.com, 133
+trojan://ND91608427@3.35.140.99:443?allowInsecure=1&sni=moved-meerkat.rooster465.autos#🇰🇷 South Korea | Amazon.com, 134
+trojan://ND91608427@3.36.131.218:443?allowInsecure=1&sni=humorous-malamute.rooster465.autos#🇰🇷 South Korea | Amazon.com, 135
+trojan://ND91608427@43.201.56.44:443?sni=distinct-llama.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 136
+trojan://ND91608427@3.35.140.99:443?sni=moved-meerkat.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 137
+trojan://ND91608427@43.203.203.244:443?security=tls&sni=main-whippet.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 138
+trojan://ND91608427@43.201.56.44:443?sni=distinct-llama.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 139
+trojan://ND91608427@43.203.244.203:443?security=tls&sni=grateful-owl.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 140
+trojan://ND91608427@43.203.244.203:443?security=tls&sni=grateful-owl.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 141
+trojan://ND91608427@43.203.119.20:443?security=tls&sni=uncommon-feline.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 142
+trojan://ND91608427@3.38.106.2:443?security=tls&sni=communal-sunbird.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 143
+trojan://ND91608427@43.203.244.203:443?allowInsecure=1&sni=grateful-owl.rooster465.autos#🇰🇷 South Korea | Amazon.com, 144
+trojan://ND91608427@43.203.244.203:443?allowInsecure=1&sni=grateful-owl.rooster465.autos#🇰🇷 South Korea | Amazon.com, 145
+trojan://ND91608427@43.203.247.197:443?allowInsecure=1&sni=definite-malamute.rooster465.autos#🇰🇷 South Korea | Amazon.com, 146
+trojan://ND91608427@43.203.203.244:443?allowInsecure=1&sni=main-whippet.rooster465.autos#🇰🇷 South Korea | Amazon.com, 147
+trojan://ND91608427@3.36.131.218:443?sni=humorous-malamute.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 148
+trojan://ND91608427@43.203.244.203:443?sni=grateful-owl.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 149
+trojan://ND91608427@43.202.56.122:443?security=tls&sni=striking-maggot.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 150
+trojan://ND91608427@43.202.56.122:443?sni=striking-maggot.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 151
+trojan://ND91608427@3.35.140.99:443?security=tls&sni=moved-meerkat.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 152
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.201.105.217:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#🇰🇷 South Korea | Amazon.com, 153
+trojan://ND91608427@3.35.140.99:443?security=tls&sni=moved-meerkat.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 154
+trojan://ND91608427@43.203.247.197:443?security=tls&sni=definite-malamute.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 155
+trojan://ND91608427@43.203.203.244:443?sni=main-whippet.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 156
+trojan://ND91608427@43.202.56.122:443?allowInsecure=1&sni=striking-maggot.rooster465.autos#🇰🇷 South Korea | Amazon.com, 157
+trojan://ND91608427@3.38.106.2:443?security=tls&sni=communal-sunbird.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 158
+trojan://ND91608427@43.203.203.244:443?allowInsecure=1&sni=main-whippet.rooster465.autos#🇰🇷 South Korea | Amazon.com, 159
+trojan://ND91608427@3.36.59.34:443?allowInsecure=1&sni=select-ferret.rooster465.autos#🇰🇷 South Korea | Amazon.com, 160
+trojan://ND91608427@3.38.106.2:443?security=tls&sni=communal-sunbird.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 161
+trojan://ND91608427@3.36.59.34:443?sni=select-ferret.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 162
+trojan://ND91608427@3.38.106.2:443?security=tls&sni=communal-sunbird.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 163
+trojan://ND91608427@43.203.119.20:443?sni=uncommon-feline.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 164
+trojan://ND91608427@43.202.56.122:443?security=tls&sni=striking-maggot.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 165
+trojan://ND91608427@43.203.244.203:443?sni=grateful-owl.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 166
+trojan://ND91608427@grateful-owl.rooster465.autos:443?allowInsecure=1&sni=grateful-owl.rooster465.autos#🇰🇷 South Korea | Amazon.com, 167
+trojan://ND91608427@3.36.59.34:443?security=tls&sni=select-ferret.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 South Korea | Amazon.com, 168
+trojan://ND91608427@3.35.140.99:443?sni=moved-meerkat.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 169
+trojan://ND91608427@3.38.106.2:443?sni=communal-sunbird.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 170
+trojan://ND91608427@3.36.131.218:443?sni=humorous-malamute.rooster465.autos&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 171
+trojan://ND91608427@distinct-llama.rooster465.autos:443?allowInsecure=1&sni=distinct-llama.rooster465.autos#🇰🇷 South Korea | Amazon.com, 172
+trojan://ND91608427@3.38.106.2:443?security=tls&sni=communal-sunbird.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 173
+trojan://ND91608427@uncommon-feline.rooster465.autos:443?security=tls&sni=uncommon-feline.rooster465.autos#🇰🇷 South Korea | Amazon.com, 174
+trojan://ND91608427@3.38.106.2:443?sni=communal-sunbird.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 175
+trojan://ND91608427@definite-malamute.rooster465.autos:443?allowInsecure=1&sni=definite-malamute.rooster465.autos#🇰🇷 South Korea | Amazon.com, 176
+trojan://ND91608427@distinct-llama.rooster465.autos:443?security=tls&sni=distinct-llama.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 177
+trojan://ND91608427@43.201.46.108:443?security=tls&sni=exotic-chow.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 178
+trojan://ND91608427@moved-meerkat.rooster465.autos:443?sni=moved-meerkat.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 179
+trojan://ND91608427@uncommon-feline.rooster465.autos:443?sni=uncommon-feline.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 180
+trojan://ND91608427@definite-malamute.rooster465.autos:443?sni=definite-malamute.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 181
+trojan://ND91608427@moved-meerkat.rooster465.autos:443?sni=moved-meerkat.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 182
+trojan://ND91608427@humorous-malamute.rooster465.autos:443?sni=humorous-malamute.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 183
+trojan://ND91608427@select-ferret.rooster465.autos:443?allowInsecure=1&sni=select-ferret.rooster465.autos#🇰🇷 South Korea | Amazon.com, 184
+trojan://ND91608427@grateful-owl.rooster465.autos:443?sni=grateful-owl.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 185
+trojan://ND91608427@uncommon-feline.rooster465.autos:443?allowInsecure=1&sni=uncommon-feline.rooster465.autos#🇰🇷 South Korea | Amazon.com, 186
+trojan://ND91608427@definite-malamute.rooster465.autos:443?security=tls&sni=definite-malamute.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 187
+trojan://ND91608427@select-ferret.rooster465.autos:443?sni=select-ferret.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 188
+trojan://ND91608427@moved-meerkat.rooster465.autos:443?allowInsecure=1&sni=moved-meerkat.rooster465.autos#🇰🇷 South Korea | Amazon.com, 189
+trojan://ND91608427@grateful-owl.rooster465.autos:443?security=tls&sni=grateful-owl.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 190
+trojan://ND91608427@moved-meerkat.rooster465.autos:443?allowInsecure=1&sni=moved-meerkat.rooster465.autos#🇰🇷 South Korea | Amazon.com, 191
+trojan://ND91608427@definite-malamute.rooster465.autos:443?sni=definite-malamute.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 192
+trojan://ND91608427@humorous-malamute.rooster465.autos:443?allowInsecure=1&sni=humorous-malamute.rooster465.autos#🇰🇷 South Korea | Amazon.com, 193
+trojan://ND91608427@intimate-moray.rooster465.autos:443?security=tls&path=/#🇰🇷 South Korea | Amazon.com, 194
+trojan://ND91608427@exotic-chow.rooster465.autos:443?allowInsecure=1&sni=exotic-chow.rooster465.autos#🇰🇷 South Korea | Amazon.com, 195
+trojan://ND91608427@intimate-moray.rooster465.autos:443?security=tls#🇰🇷 South Korea | Amazon.com, 196
+trojan://ND91608427@grateful-owl.rooster465.autos:443?sni=grateful-owl.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 197
+trojan://ND91608427@communal-sunbird.rooster465.autos:443?sni=communal-sunbird.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 198
+trojan://ND91608427@definite-malamute.rooster465.autos:443?security=tls&sni=definite-malamute.rooster465.autos#🇰🇷 South Korea | Amazon.com, 199
+trojan://ND91608427@intimate-moray.rooster465.autos:443?sni=intimate-moray.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 200
+trojan://ND91608427@communal-sunbird.rooster465.autos:443?security=tls&sni=communal-sunbird.rooster465.autos#🇰🇷 South Korea | Amazon.com, 201
+trojan://ND91608427@grateful-owl.rooster465.autos:443?security=tls&sni=grateful-owl.rooster465.autos#🇰🇷 South Korea | Amazon.com, 202
+trojan://ND91608427@communal-sunbird.rooster465.autos:443?sni=communal-sunbird.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 203
+trojan://ND91608427@exotic-chow.rooster465.autos:443?sni=exotic-chow.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 204
+trojan://ND91608427@exotic-chow.rooster465.autos:443?security=tls&sni=exotic-chow.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 205
+trojan://ND91608427@moved-meerkat.rooster465.autos:443?security=tls&sni=moved-meerkat.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 206
+trojan://ND91608427@main-whippet.rooster465.autos:443?allowInsecure=1&sni=main-whippet.rooster465.autos#🇰🇷 South Korea | Amazon.com, 207
+trojan://ND91608427@striking-maggot.rooster465.autos:443?sni=striking-maggot.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 208
+trojan://ND91608427@distinct-llama.rooster465.autos:443?security=tls&sni=distinct-llama.rooster465.autos#🇰🇷 South Korea | Amazon.com, 209
+trojan://ND91608427@exotic-chow.rooster465.autos:443?security=tls&sni=exotic-chow.rooster465.autos#🇰🇷 South Korea | Amazon.com, 210
+trojan://ND91608427@uncommon-feline.rooster465.autos:443?sni=uncommon-feline.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 211
+trojan://ND91608427@striking-maggot.rooster465.autos:443?security=tls&sni=striking-maggot.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 212
+trojan://ND91608427@uncommon-feline.rooster465.autos:443?security=tls&sni=uncommon-feline.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 213
+trojan://ND91608427@distinct-llama.rooster465.autos:443?sni=distinct-llama.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 214
+trojan://ND91608427@select-ferret.rooster465.autos:443?sni=select-ferret.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 215
+trojan://ND91608427@43.203.244.203:443?security=tls&sni=grateful-owl.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 216
+trojan://ND91608427@humorous-malamute.rooster465.autos:443?security=tls&sni=humorous-malamute.rooster465.autos#🇰🇷 South Korea | Amazon.com, 217
+trojan://ND91608427@humorous-malamute.rooster465.autos:443?security=tls&sni=humorous-malamute.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 218
+trojan://ND91608427@43.202.56.122:443?sni=striking-maggot.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 219
+trojan://ND91608427@striking-maggot.rooster465.autos:443?sni=striking-maggot.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 220
+trojan://ND91608427@3.38.106.2:443?sni=communal-sunbird.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 221
+trojan://ND91608427@3.38.106.2:443?sni=communal-sunbird.rooster465.autos&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 222
+trojan://ND91608427@striking-maggot.rooster465.autos:443?allowInsecure=1&sni=striking-maggot.rooster465.autos#🇰🇷 South Korea | Amazon.com, 223
+trojan://ND91608427@main-whippet.rooster465.autos:443?sni=main-whippet.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 224
+trojan://ND91608427@communal-sunbird.rooster465.autos:443?security=tls&sni=communal-sunbird.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 225
+trojan://ND91608427@striking-maggot.rooster465.autos:443?sni=striking-maggot.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 226
+trojan://ND91608427@definite-malamute.rooster465.autos:443?sni=definite-malamute.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 227
+trojan://ND91608427@intimate-moray.rooster465.autos:443?allowInsecure=1&sni=intimate-moray.rooster465.autos#🇰🇷 South Korea | Amazon.com, 228
+trojan://ND91608427@moved-meerkat.rooster465.autos:443?sni=moved-meerkat.rooster465.autos&fp=chrome&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 229
+trojan://ND91608427@distinct-llama.rooster465.autos:443?sni=distinct-llama.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 230
+trojan://ND91608427@select-ferret.rooster465.autos:443?security=tls&sni=select-ferret.rooster465.autos&path=/#🇰🇷 South Korea | Amazon.com, 231
 trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?security=tls&fp=chrome#🇰🇷 South Korea | Light Node 1
 trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127/?type=tcp&security=tls&allowInsecure=1&fp=chrome#🇰🇷 South Korea | Light Node 2
 vless://5822b465-036b-4a3b-89d0-b3e52ae20815@52.141.0.244:443?security=reality&type=tcp&sni=www.stanford.edu&fp=chrome&flow=xtls-rprx-vision&sid=e3db542f549f5504&pbk=fI-eoLmyyeYXgUHr2SWzHcwxkhxmDj2QBnivpUPYfVY&encryption=none#🇰🇷 South Korea | Microsoft 1
-vless://d6bdda67-168d-4501-a2c1-ef01070cb327@crimson-smoke-7818.397.workers.dev:8880?type=ws&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | Oracle 1
-vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@132.145.89.30:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=ako.pagate.top&packetEncoding=none#🇰🇷 South Korea | Oracle 2
-vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@132.145.89.30:443?security=tls&type=tcp&sni=ako.pagate.top&fp=chrome&flow=xtls-rprx-vision#🇰🇷 South Korea | Oracle 3
-vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?security=tls&type=tcp&sni=ako.pagate.top&fp=chrome&flow=xtls-rprx-vision&encryption=none#🇰🇷 South Korea | Oracle 4
+vless://5822b465-036b-4a3b-89d0-b3e52ae20815@52.141.0.244:443?security=reality&type=tcp&sni=www.stanford.edu&fp=chrome&flow=xtls-rprx-vision&sid=e3db542f549f5504&pbk=fI-eoLmyyeYXgUHr2SWzHcwxkhxmDj2QBnivpUPYfVY&encryption=none#🇰🇷 South Korea | Microsoft 2
+vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@132.145.89.30:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=ako.pagate.top&packetEncoding=none#🇰🇷 South Korea | Oracle 1
+vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@132.145.89.30:443?security=tls&type=tcp&sni=ako.pagate.top&fp=chrome&flow=xtls-rprx-vision#🇰🇷 South Korea | Oracle 2
+vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?security=tls&type=tcp&sni=ako.pagate.top&fp=chrome&flow=xtls-rprx-vision#🇰🇷 South Korea | Oracle 3

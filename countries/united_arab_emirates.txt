@@ -3,14 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDkg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://9ffabf5d-d8d6-4d0e-acab-3cbdd3457fc0@144.31.128.140:2083?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=a3_DLO6p_ZfPf7I0JFTVlAI2pPAPtC-ji2diyPcHcQA&security=reality&sid=b4&sni=www.booking.com&type=tcp#🇦🇪 United Arab Emirates | H2nexus LTD 1
-vless://9ffabf5d-d8d6-4d0e-acab-3cbdd3457fc0@144.31.128.140:2083?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=a3_DLO6p_ZfPf7I0JFTVlAI2pPAPtC-ji2diyPcHcQA&sid=b4&sni=www.booking.com&f`p`=firefox#🇦🇪 United Arab Emirates | H2nexus LTD 2
-vless://9ffabf5d-d8d6-4d0e-acab-3cbdd3457fc0@144.31.128.140:2083?flow=xtls-rprx-vision&fp=chrome&pbk=a3_DLO6p_ZfPf7I0JFTVlAI2pPAPtC-ji2diyPcHcQA&security=reality&sid=b4&sni=www.booking.com&type=tcp#🇦🇪 United Arab Emirates | H2nexus LTD 3
-vless://9ffabf5d-d8d6-4d0e-acab-3cbdd3457fc0@144.31.128.140:2083?flow=xtls-rprx-vision&fp=firefox&pbk=a3_DLO6p_ZfPf7I0JFTVlAI2pPAPtC-ji2diyPcHcQA&security=reality&sid=b4&sni=www.booking.com&type=tcp#🇦🇪 United Arab Emirates | H2nexus LTD 4
 vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?host=uae.unixzone.us&path=%2F&type=ws&security=none#🇦🇪 United Arab Emirates | Oracle 1
 vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=/&host=uae.unixzone.us&encryption=none#🇦🇪 United Arab Emirates | Oracle 2
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 3
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&type=ws&path=/&host=uae.unixzone.us&sni=uae.unixzone.us#🇦🇪 United Arab Emirates | Oracle 4
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?host=uae.unixzone.us&path=/&security=none&encryption=none&type=ws#🇦🇪 United Arab Emirates | Oracle 5
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?host=uae.unixzone.us&path=/&security=none&encryption=none&type=ws#🇦🇪 United Arab Emirates | Oracle 3
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 4
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&type=ws&path=/&host=uae.unixzone.us&encryption=none#🇦🇪 United Arab Emirates | Oracle 5
