@@ -5,10 +5,10 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsfCfh7sgQm9iaVZQTiDigJQgTGF0dmlhCuKaoSA3INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://f937575c-35c2-4889-832e-b67935d565d8@217.145.79.102:24478?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
-vless://f937575c-35c2-4889-832e-b67935d565d8@217.145.79.102:24478?security=none&encryption=none&headerType=none&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 2
-vless://e3a1a6f5-2491-42e8-b2e1-7c84f0c547e8@104.252.53.195:42282?type=tcp&security=reality&encryption=none&fp=chrome&pbk=CiKtn_6x0VptZJdHbe7wW_9yetDMfZ6RhqRVTsfP1Bg&sid=9ff38a&sni=g.co&spx=/qvsWMnyZc82PyxU#🇱🇻 Latvia | Digital 1
-vless://e3a1a6f5-2491-42e8-b2e1-7c84f0c547e8@104.252.53.195:21948?type=tcp&security=none&encryption=none#🇱🇻 Latvia | Digital 2
+vless://e0e44cfe-39b3-11f1-84d1-e6ad33f6a752@31.58.77.127:8443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=cafe01234567&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
+vless://4b056394-2f40-11f1-bffe-46c4782ac1a7@31.57.29.7:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=cafe01234567&sni=www.apple.com&path=&host=#🇱🇻 Latvia | CGI GLOBAL LIMITED 2
+vless://f937575c-35c2-4889-832e-b67935d565d8@217.145.79.102:24478?security=&encryption=none&headerType=&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 3
+vless://f937575c-35c2-4889-832e-b67935d565d8@217.145.79.102:24478?security=&encryption=none&headerType=&type=tcp#🇱🇻 Latvia | CGI GLOBAL LIMITED 4
+vless://f937575c-35c2-4889-832e-b67935d565d8@217.145.79.102:24478?type=tcp&security=none&encryption=none#🇱🇻 Latvia | CGI GLOBAL LIMITED 5
 vless://7e5964d036b843ff885b86c4d3bfd466@85.159.228.250:25703?#🇱🇻 Latvia | Global Connectivity So... 1
-vless://5710bc50-f5ff-01ac-a3f5-067959ed2644@50.7.245.35:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885&sni=fr.convert-flow.net#🇱🇻 Latvia | Green Floid 1
-vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@195.123.208.92:13443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru#🇱🇻 Latvia | Green Floid 2
+vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@195.123.208.92:13443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru#🇱🇻 Latvia | Green Floid 1
