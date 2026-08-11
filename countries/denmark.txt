@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://eac6ea16-8963-4948-8ba8-0dd3bab4773e@ru-storage3-sync.tainet.space:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru-storage3-sync.tainet.space&fp=firefox&pbk=zPhyVlDaPdmwg1lAQvbfoJKxQwcea0gPQvAxNhU6wm4&sid=b6ff5a25b94803d8&type=tcp&headerType=none#🇩🇰 Denmark | Webdock.io ApS 1
-vless://eac6ea16-8963-4948-8ba8-0dd3bab4773e@ru-storage3-sync.tainet.space:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru-storage3-sync.tainet.space&fp=firefox&pbk=zPhyVlDaPdmwg1lAQvbfoJKxQwcea0gPQvAxNhU6wm4&sid=b6ff5a25b94803d8&type=tcp&headerType=none#🇩🇰 Denmark | Webdock.io ApS 2
+vless://7a657573-82bb-64b7-a31c-f69bfbc17e55@104.17.187.8:443?encryption=none&security=tls&sni=dkzu9ie8u52s.xmzgl8esudws.workers.dev&fp=ios&type=ws&host=dkzu9ie8u52s.xmzgl8esudws.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Ff69bfbc17e55%2Floc-0#🇩🇰 Denmark | GTT Communications 1
