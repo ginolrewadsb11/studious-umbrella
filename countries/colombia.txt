@@ -3,9 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDb2xvbWJpYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDb2xvbWJpYQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.168.29:62145?type=tcp&headerType=none&path=/&burmalda=e8422cb0#🌍 Colombia | Oracle 1
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.189.106:62145?security=none&type=tcp#🌍 Colombia | Oracle 2
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.189.106:62145?type=tcp&security=none&encryption=none#🌍 Colombia | Oracle 3
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.231.159:62145?encryption=none&type=tcp#🌍 Colombia | Oracle 1
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.161.150:62145?type=tcp&security=none&encryption=none#🌍 Colombia | Oracle 2
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.168.29:62145?type=tcp&headerType=none&path=/&burmalda=e8422cb0#🌍 Colombia | Oracle 3
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.189.106:62145?#🌍 Colombia | Oracle 4
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.189.106:62145?type=tcp&security=none&encryption=none#🌍 Colombia | Oracle 5
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.231.159:62145?type=tcp&security=none&encryption=none#🌍 Colombia | Oracle 6
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.168.29:62145?type=tcp&security=none&encryption=none#🌍 Colombia | Oracle 7
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.189.106:62145?security=none&type=tcp#🌍 Colombia | Oracle 8
