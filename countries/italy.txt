@@ -3,12 +3,23 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDE4INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
+ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@62.76.234.188:10901#🇮🇹 Italy | Baxet Group 1
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#🇮🇹 Italy | BrainStorm Network, Inc 1
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&sni=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&encryption=none#🇮🇹 Italy | Oracle 1
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@95.129.236.252:443?encryption=none&fp=qq&host=azs.benz.ink&path=/api/v2/camera/events/8f4c2d&security=tls&sni=azs.benz.ink&type=ws#🇮🇹 Italy | Datacamp 1
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@95.129.236.252:443?encryption=none&fp=qq&host=azs.benz.ink&path=%2Fapi%2Fv2%2Fcamera%2Fevents%2F8f4c2d&security=tls&sni=azs.benz.ink&type=ws#🇮🇹 Italy | Datacamp 2
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@95.129.236.252:443?encryption=none&fp=safari&host=azs.benz.ink&path=%2Fapi%2Fv2%2Fcamera%2Fevents%2F8f4c2d&security=tls&sni=azs.benz.ink&type=ws#🇮🇹 Italy | Datacamp 3
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@95.129.236.252:443?encryption=none&fp=chrome&host=azs.benz.ink&path=/api/v2/camera/events/8f4c2d&security=tls&sni=azs.benz.ink&type=ws#🇮🇹 Italy | Datacamp 4
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@95.129.236.252:443?encryption=none&fp=edge&host=azs.benz.ink&path=%2Fapi%2Fv2%2Fcamera%2Fevents%2F8f4c2d&security=tls&sni=azs.benz.ink&type=ws#🇮🇹 Italy | Datacamp 5
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@95.129.236.252:443?encryption=none&fp=edge&host=azs.benz.ink&path=/api/v2/camera/events/8f4c2d&security=tls&sni=azs.benz.ink&type=ws#🇮🇹 Italy | Datacamp 6
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@95.129.236.252:443?encryption=none&fp=chrome&host=azs.benz.ink&path=/api/v2/camera/events/8f4c2d&security=tls&sni=azs.benz.ink&type=ws#🇮🇹 Italy | Datacamp 7
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@95.129.236.252:443?encryption=none&fp=qq&host=azs.benz.ink&path=/api/v2/camera/events/8f4c2d&security=tls&sni=azs.benz.ink&type=ws#🇮🇹 Italy | Datacamp 8
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@95.129.236.252:443?encryption=none&fp=chrome&host=azs.benz.ink&path=%2Fapi%2Fv2%2Fcamera%2Fevents%2F8f4c2d&security=tls&sni=azs.benz.ink&type=ws#🇮🇹 Italy | Datacamp 9
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@95.129.236.252:443?encryption=none&fp=edge&host=azs.benz.ink&path=/api/v2/camera/events/8f4c2d&security=tls&sni=azs.benz.ink&type=ws#🇮🇹 Italy | Datacamp 10
+vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?&security=reality&flow=xtls-rprx-vision&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&sid=2762604ed2e0fa2f&fp=chrome&packet-encoding=xudp&sni=xit.saturn-cloud.net&type=tcp&headerType=none&host=xit.saturn-cloud.net&path=%2F#🇮🇹 Italy | Global Connectivity So... 1
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?type=tcp&security=none&encryption=none&sni=/?bia_telegram@marambashi_marambashi_marambashi_marambashi_marambashi#🇮🇹 Italy | Oracle 1
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle 2
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?type=raw#🇮🇹 Italy | Oracle 3
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&sni=/&encryption=none#🇮🇹 Italy | Oracle 4
 vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?type=ws&encryption=none&path=/vless/&host=OV-Italy1.09vpn.com&fp=chrome&alpn=http/1.1&headerType=none#🇮🇹 Italy | OVH SAS 1
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?security=none&type=ws&path=/vless/&host=OV-Italy1.09vpn.com&encryption=none#🇮🇹 Italy | OVH SAS 2
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?security=none&type=ws&path=/vless/&host=OV-Italy1.09vpn.com#🇮🇹 Italy | OVH SAS 2
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?security=none&type=ws&path=/vless/&host=OV-Italy1.09vpn.com#🇮🇹 Italy | OVH SAS 3
