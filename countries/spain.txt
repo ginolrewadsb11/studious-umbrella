@@ -3,9 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqvCfh7ggQm9iaVZQTiDigJQgU3BhaW4K4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqvCfh7ggQm9iaVZQTiDigJQgU3BhaW4K4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://d2042070-c247-4226-a3ac-15337923e00d@45.196.208.84:443?security=reality&type=tcp&packetEncoding=none&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=28047c78b3f5ee2c&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg#🇪🇸 Spain | DataCamp 1
-vless://d2042070-c247-4226-a3ac-15337923e00d@45.196.208.84:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=28047c78b3f5ee2c#🇪🇸 Spain | DataCamp 2
 vless://855d82bc-8cc6-4037-8da5-df0412f3c063@212.227.235.66:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=6huZliKELOkP6l-eOIFe7PKP5MCGK2p5KzUeXRiMi00&sid=13e0569248e98a05&sni=www.apple.com#🇪🇸 Spain | IONOS SE 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸 Spain | Psychz Networks 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 Spain | Psychz Networks 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸 Spain | Psychz Networks 2
