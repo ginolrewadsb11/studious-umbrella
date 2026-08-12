@@ -3,13 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ@102.129.229.85:31700#🌍 Thailand | DEXSERVER by CSNE CO.,... 1
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@3.162.103.99:443?encryption=none&fp=firefox&host=d1yxsk0zprgivr.cloudfront.net&path=/&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&type=ws#🌍 Thailand | Siamdata Communication... 1
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@108.138.26.70:443?&security=tls&fp=firefox&sni=d1yxsk0zprgivr.cloudfront.net&type=ws&headerType=none&host=d1yxsk0zprgivr.cloudfront.net&path=%2F#🌍 Thailand | Siamdata Communication... 1
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@108.138.26.70:443?&security=tls&fp=firefox&sni=d1yxsk0zprgivr.cloudfront.net&type=ws&headerType=none&host=d1yxsk0zprgivr.cloudfront.net&path=%2F#🌍 Thailand | Siamdata Communication... 2
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@13.249.8.83:443?encryption=none&fp=firefox&host=d1yxsk0zprgivr.cloudfront.net&path=/&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&type=ws#🌍 Thailand | Siamdata Communication... 3
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@13.249.8.21:443?encryption=none&fp=firefox&host=d1yxsk0zprgivr.cloudfront.net&path=/&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&type=ws#🌍 Thailand | Siamdata Communication... 4
-vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80/?type=ws&encryption=none&flow=&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/#🌍 Thailand | VP InfoTech Co., . 1
-vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80/?type=ws&encryption=none&flow=&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/#🌍 Thailand | VP InfoTech Co., . 2
-vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?&type=ws&headerType=none&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=%2F#🌍 Thailand | VP InfoTech Co., . 3
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@108.138.26.70:443?&security=tls&fp=firefox&sni=d1yxsk0zprgivr.cloudfront.net&type=ws&headerType=none&host=d1yxsk0zprgivr.cloudfront.net&path=%2F#🌍 Thailand | Siamdata Communication... 3
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@108.138.26.70:443?type=ws&headerType=none&security=tls&encryption=none&sni=d1yxsk0zprgivr.cloudfront.net&fp=firefox&path=%2F&host=d1yxsk0zprgivr.cloudfront.net&insecure=0#🌍 Thailand | Siamdata Communication... 4
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?&security=tls&fp=chrome&sni=d1yxsk0zprgivr.cloudfront.net&type=ws&headerType=none&host=d1yxsk0zprgivr.cloudfront.net&path=%2F#🌍 Thailand | Siamdata Communication... 5
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?encryption=none&type=ws&host=d1yxsk0zprgivr.cloudfront.net&path=%2F&security=tls&fp=chrome&sni=d1yxsk0zprgivr.cloudfront.net#🌍 Thailand | Siamdata Communication... 6

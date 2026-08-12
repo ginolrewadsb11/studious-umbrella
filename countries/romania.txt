@@ -3,18 +3,19 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgMTMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgMTQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://2c532831-127d-45d7-a84e-11ce36a6b1af@node14.fastdatastream.com:8443?security=reality&flow=xtls-rprx-vision&type=raw&sni=www.intel.com&pbk=gyKPxwQBhJUGVHE2t4R2pOf64NkdSNgu3DqMxOzKtGU&sid=5b&fp=chrome#🇷🇴 Romania | BL Networks 1
-vless://2c532831-127d-45d7-a84e-11ce36a6b1af@node14.fastdatastream.com:8443?security=reality&flow=xtls-rprx-vision&type=raw&sni=www.intel.com&pbk=gyKPxwQBhJUGVHE2t4R2pOf64NkdSNgu3DqMxOzKtGU&sid=5b&fp=edge#🇷🇴 Romania | BL Networks 2
-vless://2c532831-127d-45d7-a84e-11ce36a6b1af@node14.fastdatastream.com:8443?security=reality&flow=xtls-rprx-vision&type=raw&sni=www.intel.com&pbk=gyKPxwQBhJUGVHE2t4R2pOf64NkdSNgu3DqMxOzKtGU&sid=5b&fp=chrome#🇷🇴 Romania | BL Networks 3
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@ytryurdj64bbb.localip.ir:443?type=ws&headerType=none&security=tls&encryption=none&sni=ro-3.ariyuz.org&fp=chrome&alpn=http%2F1.1&path=%2F&host=ro-3.ariyuz.org&insecure=0#🇷🇴 Romania | Eclipse Networking 1
+vless://000f16e8-cc68-4951-b336-acd81996efde@72.5.42.70:40443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&sni=deepl.com#🇷🇴 Romania | BL Networks 1
+vless://2c532831-127d-45d7-a84e-11ce36a6b1af@node14.fastdatastream.com:8443?security=reality&flow=xtls-rprx-vision&type=raw&sni=www.intel.com&pbk=gyKPxwQBhJUGVHE2t4R2pOf64NkdSNgu3DqMxOzKtGU&sid=5b&fp=chrome#🇷🇴 Romania | BL Networks 2
+vless://2c532831-127d-45d7-a84e-11ce36a6b1af@node14.fastdatastream.com:8443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=gyKPxwQBhJUGVHE2t4R2pOf64NkdSNgu3DqMxOzKtGU&sid=5b&sni=www.intel.com#🇷🇴 Romania | BL Networks 3
+vless://2c532831-127d-45d7-a84e-11ce36a6b1af@node14.fastdatastream.com:8443?flow=xtls-rprx-vision&fp=qq&pbk=gyKPxwQBhJUGVHE2t4R2pOf64NkdSNgu3DqMxOzKtGU&security=reality&sid=5b&sni=www.intel.com&type=tcp#🇷🇴 Romania | BL Networks 4
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@ytryurdj64bbb.localip.ir:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=ro-3.ariyuz.org&type=ws&headerType=none&host=ro-3.ariyuz.org&path=%2F#🇷🇴 Romania | Eclipse Networking 1
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@ytryurdj64bbb.localip.ir:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=ro-3.ariyuz.org&type=ws&headerType=none&host=ro-3.ariyuz.org&path=%2F#🇷🇴 Romania | Eclipse Networking 2
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@ytryurdj64bbb.localip.ir:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=ro-3.ariyuz.org&type=ws&headerType=none&host=ro-3.ariyuz.org&path=%2F#🇷🇴 Romania | Eclipse Networking 3
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@ytryurdj64bbb.localip.ir:443?type=ws&headerType=none&security=tls&encryption=none&sni=ro-3.ariyuz.org&fp=chrome&alpn=http%2F1.1&path=%2F&host=ro-3.ariyuz.org&insecure=0#🇷🇴 Romania | Eclipse Networking 3
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@ytryurdj64bbb.localip.ir:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=ro-3.ariyuz.org&type=ws&headerType=none&host=ro-3.ariyuz.org&path=%2F#🇷🇴 Romania | Eclipse Networking 4
-vless://b748a230-b157-4401-8423-f8e44df31b5e@82.117.255.87:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=1xxZM10W-A8nuj6MOXFd1kA9lS7bEy-5SO5j-jrd_Cg&security=reality&sid=b70076439f4a1340&sni=www.cloudflare.com&type=tcp#🇷🇴 Romania | Green Floid 1
+vless://53db95fa-4ebe-4450-8013-a2b0a5827f3f@87.58.205.109:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GUYDQKGvNl3_YozhbqG8bvecxjQ7HL5A8iqbuYBUUkw&sid=01c1bb79d6a7c6cf&sni=www.googletagmanager.com#🇷🇴 Romania | MAGIT'ST SRL 1
 hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443/?sni=ro.h2corp.org#🇷🇴 Romania | MivoCloud SRL 1
 hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?sni=ro.h2corp.org#🇷🇴 Romania | MivoCloud SRL 2
-hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443/?sni=ro.h2corp.org#🇷🇴 Romania | MivoCloud SRL 3
-hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?sni=ro.h2corp.org#🇷🇴 Romania | MivoCloud SRL 4
+hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?sni=ro.h2corp.org#🇷🇴 Romania | MivoCloud SRL 3
+hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443/?sni=ro.h2corp.org#🇷🇴 Romania | MivoCloud SRL 4
 hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443?sni=ro.h2corp.org#🇷🇴 Romania | MivoCloud SRL 5
