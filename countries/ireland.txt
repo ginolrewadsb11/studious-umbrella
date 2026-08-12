@@ -3,51 +3,50 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgNDYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgNDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland | Amazon Technologies 1
-trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland | Amazon Technologies 2
-trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland | Amazon Technologies 3
-trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&type=raw&fp=chrome#🇮🇪 Ireland | Amazon Technologies 4
-trojan://UO36402987@34.251.228.118:443?fp=chrome&sni=definite-ladybird.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 5
-trojan://UO36402987@34.251.228.118:443?security=tls&sni=definite-ladybird.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇮🇪 Ireland | Amazon Technologies 6
+trojan://UO36402987@34.251.228.118:443?fp=chrome&sni=definite-ladybird.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 1
+trojan://UO36402987@34.251.228.118:443?security=tls&sni=definite-ladybird.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇮🇪 Ireland | Amazon Technologies 2
+trojan://UO36402987@34.251.228.118:443?security=tls&sni=definite-ladybird.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇮🇪 Ireland | Amazon Technologies 3
+trojan://UO36402987@34.251.228.118:443?type=raw&security=tls&fp=chrome&sni=definite-ladybird.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 4
+trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland | Amazon Technologies 5
+trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&type=raw&fp=chrome#🇮🇪 Ireland | Amazon Technologies 6
 trojan://UO36402987@34.251.228.118:443?security=tls&sni=definite-ladybird.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇮🇪 Ireland | Amazon Technologies 7
-trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&type=raw&fp=chrome#🇮🇪 Ireland | Amazon Technologies 8
-trojan://UO36402987@34.251.228.118:443?type=raw&security=tls&fp=chrome&sni=definite-ladybird.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 9
-trojan://UO36402987@34.251.228.118:443?type=raw&headerType=none&security=tls&sni=definite-ladybird.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 10
-trojan://UO36402987@34.251.228.118:443?fp=chrome&sni=definite-ladybird.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 11
-trojan://UO36402987@definite-ladybird.rooster465.autos:443?sni=definite-ladybird.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland | Amazon Technologies 12
-trojan://UO36402987@definite-ladybird.rooster465.autos:443?#🇮🇪 Ireland | Amazon Technologies 13
-trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland | Amazon Technologies 14
-trojan://UO36402987@34.251.228.118:443?fp=chrome&sni=definite-ladybird.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 15
-trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&fp=chrome&path=/#🇮🇪 Ireland | Amazon Technologies 16
-trojan://UO36402987@34.251.228.118:443?security=tls&sni=definite-ladybird.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇮🇪 Ireland | Amazon Technologies 17
-trojan://UO36402987@definite-ladybird.rooster465.autos:443?security=tls&sni=definite-ladybird.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 18
-trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&fp=chrome&path=/#🇮🇪 Ireland | Amazon Technologies 19
-trojan://UO36402987@34.251.228.118:443?security=tls&sni=definite-ladybird.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇮🇪 Ireland | Amazon Technologies 20
+trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&fp=chrome&path=/#🇮🇪 Ireland | Amazon Technologies 8
+trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&fp=chrome&path=/#🇮🇪 Ireland | Amazon Technologies 9
+trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland | Amazon Technologies 10
+trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland | Amazon Technologies 11
+trojan://UO36402987@34.251.228.118:443?security=tls&sni=definite-ladybird.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇮🇪 Ireland | Amazon Technologies 12
+trojan://UO36402987@34.251.228.118:443?fp=chrome&sni=definite-ladybird.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 13
+trojan://UO36402987@definite-ladybird.rooster465.autos:443?sni=definite-ladybird.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland | Amazon Technologies 14
+trojan://UO36402987@34.251.228.118:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=definite-ladybird.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 15
+trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&type=raw&fp=chrome#🇮🇪 Ireland | Amazon Technologies 16
+trojan://UO36402987@34.251.228.118:443?fp=chrome&sni=definite-ladybird.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 17
+trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland | Amazon Technologies 18
+trojan://UO36402987@definite-ladybird.rooster465.autos:443?security=tls&sni=definite-ladybird.rooster465.autos#🇮🇪 Ireland | Amazon Technologies 19
+trojan://UO36402987@definite-ladybird.rooster465.autos:443?#🇮🇪 Ireland | Amazon Technologies 20
 trojan://UO36402987@definite-ladybird.rooster465.autos:443?sni=definite-ladybird.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland | Amazon Technologies 21
-trojan://ND91608427@54.217.133.71:443?security=tls&sni=willing-beagle.rooster465.autos#🇮🇪 Ireland | Amazon.com, 1
-trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland | Amazon.com, 2
-trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos&path=/#🇮🇪 Ireland | Amazon.com, 3
-trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland | Amazon.com, 4
+trojan://ND91608427@54.217.133.71:443?security=tls&sni=willing-beagle.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇮🇪 Ireland | Amazon.com, 1
+trojan://ND91608427@54.217.133.71:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=willing-beagle.rooster465.autos#🇮🇪 Ireland | Amazon.com, 2
+trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos#🇮🇪 Ireland | Amazon.com, 3
+trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos#🇮🇪 Ireland | Amazon.com, 4
 trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland | Amazon.com, 5
-trojan://ND91608427@54.217.133.71:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=willing-beagle.rooster465.autos#🇮🇪 Ireland | Amazon.com, 6
-trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇮🇪 Ireland | Amazon.com, 7
-trojan://ND91608427@willing-beagle.rooster465.autos:443?sni=willing-beagle.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇮🇪 Ireland | Amazon.com, 8
-trojan://ND91608427@54.217.133.71:443?security=tls&sni=willing-beagle.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇮🇪 Ireland | Amazon.com, 9
-trojan://ND91608427@54.217.133.71:443?security=tls&sni=willing-beagle.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland | Amazon.com, 10
-trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos#🇮🇪 Ireland | Amazon.com, 11
-trojan://ND91608427@willing-beagle.rooster465.autos:443?sni=willing-beagle.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland | Amazon.com, 12
-trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos&path=/#🇮🇪 Ireland | Amazon.com, 13
-trojan://ND91608427@willing-beagle.rooster465.autos:443?allowInsecure=1#🇮🇪 Ireland | Amazon.com, 14
+trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland | Amazon.com, 6
+trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland | Amazon.com, 7
+trojan://ND91608427@54.217.133.71:443?security=tls&sni=willing-beagle.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇮🇪 Ireland | Amazon.com, 8
+trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland | Amazon.com, 9
+trojan://ND91608427@54.217.133.71:443?security=tls&sni=willing-beagle.rooster465.autos&path=/#🇮🇪 Ireland | Amazon.com, 10
+trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇮🇪 Ireland | Amazon.com, 11
+trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland | Amazon.com, 12
+trojan://ND91608427@54.217.133.71:443?security=tls&sni=willing-beagle.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland | Amazon.com, 13
+trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos&path=/#🇮🇪 Ireland | Amazon.com, 14
 trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland | Amazon.com, 15
-trojan://ND91608427@willing-beagle.rooster465.autos:443?security=tls&sni=willing-beagle.rooster465.autos&path=/#🇮🇪 Ireland | Amazon.com, 16
-trojan://ND91608427@54.217.133.71:443?security=tls&sni=willing-beagle.rooster465.autos&path=/#🇮🇪 Ireland | Amazon.com, 17
-trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland | Amazon.com, 18
-trojan://ND91608427@54.217.133.71:443?security=tls&sni=willing-beagle.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇮🇪 Ireland | Amazon.com, 19
-trojan://ND91608427@willing-beagle.rooster465.autos:443?security=tls&sni=willing-beagle.rooster465.autos#🇮🇪 Ireland | Amazon.com, 20
-trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland | Amazon.com, 21
-trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos#🇮🇪 Ireland | Amazon.com, 22
-trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos#🇮🇪 Ireland | Amazon.com, 23
-trojan://ND91608427@willing-beagle.rooster465.autos:443?sni=willing-beagle.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland | Amazon.com, 24
-trojan://ND91608427@willing-beagle.rooster465.autos:443?security=tls&sni=willing-beagle.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland | Amazon.com, 25
+trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos#🇮🇪 Ireland | Amazon.com, 16
+trojan://ND91608427@54.217.133.71:443?sni=willing-beagle.rooster465.autos&path=/#🇮🇪 Ireland | Amazon.com, 17
+trojan://ND91608427@willing-beagle.rooster465.autos:443?sni=willing-beagle.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland | Amazon.com, 18
+trojan://ND91608427@willing-beagle.rooster465.autos:443?security=tls&sni=willing-beagle.rooster465.autos&path=/#🇮🇪 Ireland | Amazon.com, 19
+trojan://ND91608427@willing-beagle.rooster465.autos:443?security=tls&sni=willing-beagle.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland | Amazon.com, 20
+trojan://ND91608427@willing-beagle.rooster465.autos:443?security=tls&sni=willing-beagle.rooster465.autos#🇮🇪 Ireland | Amazon.com, 21
+trojan://ND91608427@willing-beagle.rooster465.autos:443?sni=willing-beagle.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#🇮🇪 Ireland | Amazon.com, 22
+trojan://ND91608427@willing-beagle.rooster465.autos:443?allowInsecure=1#🇮🇪 Ireland | Amazon.com, 23
+trojan://ND91608427@willing-beagle.rooster465.autos:443?sni=willing-beagle.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland | Amazon.com, 24
