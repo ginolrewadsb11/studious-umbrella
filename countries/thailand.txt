@@ -3,13 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@3.170.185.91:443?&security=tls&fp=chrome&sni=d1yxsk0zprgivr.cloudfront.net&type=ws&headerType=none&host=d1yxsk0zprgivr.cloudfront.net&path=%2F#🌍 Thailand | Siamdata Communication... 1
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.239.83.52:443?fp=chrome&host=d1yxsk0zprgivr.cloudfront.net&path=%2F&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&type=ws#🌍 Thailand | Siamdata Communication... 2
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@108.138.26.70:443?type=ws&headerType=none&security=tls&encryption=none&sni=d1yxsk0zprgivr.cloudfront.net&fp=firefox&path=%2F&host=d1yxsk0zprgivr.cloudfront.net&insecure=0#🌍 Thailand | Siamdata Communication... 3
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?host=d1yxsk0zprgivr.cloudfront.net&path=%2F&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&type=ws#🌍 Thailand | Siamdata Communication... 4
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?&security=tls&fp=chrome&sni=d1yxsk0zprgivr.cloudfront.net&type=ws&headerType=none&host=d1yxsk0zprgivr.cloudfront.net&path=%2F#🌍 Thailand | Siamdata Communication... 5
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?fp=chrome&host=d1yxsk0zprgivr.cloudfront.net&path=%2F&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&type=ws#🌍 Thailand | Siamdata Communication... 6
-vless://d6c81f6d-24a8-46d9-a3bf-c38d51fc5fe5@171.97.18.114:8443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=sDH4MlZFHXJB5VR_mfuFNBrQHtptpNK-qj3sot7b1zU&sni=www.apple.com&sid=16887c51&spx=%2F#🌍 Thailand | True Internet  CO. . 1
-vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?path=/&security=none&encryption=none&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&type=ws#🌍 Thailand | VP InfoTech Co., . 1
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.238.109.17:443?&security=tls&fp=firefox&sni=d1yxsk0zprgivr.cloudfront.net&type=ws&headerType=none&host=d1yxsk0zprgivr.cloudfront.net&path=%2F#🌍 Thailand | Siamdata Communication... 1
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?host=d1yxsk0zprgivr.cloudfront.net&path=%2F&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&type=ws#🌍 Thailand | Siamdata Communication... 2
+vless://cb700418-90ba-4da0-b319-64a2d46f754e@www.true.th:80/?type=ws&encryption=none&flow=&host=d3saayob5cvi7l.cloudfront.net&path=/kind1#🌍 Thailand | Siamdata Communication... 3
+vless://d6c81f6d-24a8-46d9-a3bf-c38d51fc5fe5@171.97.18.114:8443?encryption=none&fp=chrome&pbk=sDH4MlZFHXJB5VR_mfuFNBrQHtptpNK-qj3sot7b1zU&sni=www.apple.com&type=tcp&sid=16887c51&headerType=none&spx=/&security=reality#🌍 Thailand | True Internet  CO. . 1
+vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?&type=ws&headerType=none&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=%2F#🌍 Thailand | VP InfoTech Co., . 1
+vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80/?type=ws&encryption=none&flow=&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&path=/#🌍 Thailand | VP InfoTech Co., . 2
