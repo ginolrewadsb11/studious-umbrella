@@ -3,17 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMTIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMTAg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@103.119.18.115:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ch1.murhost.network&fp=safari&pbk=V-B12dvv0fVIwcmcRNdMQIcc4nmqsYB_PR_3X4VVB0A&sid=91a7a393d805f5c6&type=tcp&headerType=none#🇨🇿 Czechia | Mastersoft S.R.L. 1
-vless://49e76398-5127-4005-90cb-c2a971f745f1@104.17.135.117:443?security=tls&type=ws&path=/ram&host=nmrgf.minipixelbox-nexoim.sbs&packetEncoding=none&allowInsecure=1&sni=nmrgf.minipixelbox-nexoim.sbs&fp=chrome#🇨🇿 Czechia | OVH SAS 1
-vless://49e76398-5127-4005-90cb-c2a971f745f1@104.17.135.117:443?security=tls&type=ws&path=/ram&host=nmrgf.minipixelbox-nexoim.sbs&packetEncoding=none&allowInsecure=1&sni=nmrgf.minipixelbox-nexoim.sbs#🇨🇿 Czechia | OVH SAS 2
+vless://6688ef96-b385-48a6-9094-ed1a42b95066@91.186.196.177:56443?type=grpc&security=reality&fp=firefox&pbk=RtKpP2TIwEN1FX1TsGuQrJYot3ojLguMcFLhyZdrdAQ&sni=5post-gate.x5.ru&serviceName=grpc#🇨🇿 Czechia | Alinda 1
+vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@103.119.18.115:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V-B12dvv0fVIwcmcRNdMQIcc4nmqsYB_PR_3X4VVB0A&sid=91a7a393d805f5c6&sni=ch1.murhost.network#🇨🇿 Czechia | Mastersoft S.R.L. 1
+vless://49e76398-5127-4005-90cb-c2a971f745f1@npmjs.com:443?encryption=none&security=tls&sni=nmrgf.minipixelbox-nexoim.sbs&type=ws&alpn=&host=nmrgf.minipixelbox-nexoim.sbs&path=/ram#🇨🇿 Czechia | OVH SAS 1
+vless://49e76398-5127-4005-90cb-c2a971f745f1@104.17.134.117:443?security=tls&type=ws&path=/ram&host=nmrgf.minipixelbox-nexoim.sbs&sni=nmrgf.minipixelbox-nexoim.sbs&fp=chrome&encryption=none#🇨🇿 Czechia | OVH SAS 2
 vless://49e76398-5127-4005-90cb-c2a971f745f1@104.17.135.117:443?security=tls&type=ws&path=/ram&host=nmrgf.minipixelbox-nexoim.sbs&sni=nmrgf.minipixelbox-nexoim.sbs&fp=chrome&encryption=none#🇨🇿 Czechia | OVH SAS 3
-vless://49e76398-5127-4005-90cb-c2a971f745f1@104.17.135.117:443?security=tls&type=ws&path=/ram&host=nmrgf.minipixelbox-nexoim.sbs&packetEncoding=none&allowInsecure=1&sni=nmrgf.minipixelbox-nexoim.sbs&fp=chrome#🇨🇿 Czechia | OVH SAS 4
-vless://49e76398-5127-4005-90cb-c2a971f745f1@104.17.134.117:443?security=tls&type=ws&path=/ram&host=nmrgf.minipixelbox-nexoim.sbs&sni=nmrgf.minipixelbox-nexoim.sbs&fp=chrome&encryption=none#🇨🇿 Czechia | OVH SAS 5
+vless://49e76398-5127-4005-90cb-c2a971f745f1@npmjs.com:443?encryption=none&security=tls&sni=nmrgf.minipixelbox-nexoim.sbs&type=ws&alpn=&host=nmrgf.minipixelbox-nexoim.sbs&path=/ram#🇨🇿 Czechia | OVH SAS 4
+vless://49e76398-5127-4005-90cb-c2a971f745f1@104.17.135.117:443?security=tls&type=ws&path=/ram&host=nmrgf.minipixelbox-nexoim.sbs&packetEncoding=none&allowInsecure=1&sni=nmrgf.minipixelbox-nexoim.sbs&fp=chrome#🇨🇿 Czechia | OVH SAS 5
 vless://49e76398-5127-4005-90cb-c2a971f745f1@npmjs.com:443?security=tls&type=ws&path=/ram&host=nmrgf.minipixelbox-nexoim.sbs&packetEncoding=none&allowInsecure=1&sni=nmrgf.minipixelbox-nexoim.sbs#🇨🇿 Czechia | OVH SAS 6
-vless://49e76398-5127-4005-90cb-c2a971f745f1@npmjs.com:443?encryption=none&security=tls&sni=nmrgf.minipixelbox-nexoim.sbs&type=ws&alpn=&host=nmrgf.minipixelbox-nexoim.sbs&path=/ram#🇨🇿 Czechia | OVH SAS 7
-vless://49e76398-5127-4005-90cb-c2a971f745f1@npmjs.com:443?encryption=none&security=tls&sni=nmrgf.minipixelbox-nexoim.sbs&type=ws&alpn=&host=nmrgf.minipixelbox-nexoim.sbs&path=/ram#🇨🇿 Czechia | OVH SAS 8
 vless://33aa2b47-484b-49f6-8f23-fb34602d221f@188.127.247.129:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=Kb0rDCu2kKhfnC6bsi0DMRxDej9S-Mu1vVza1H1l4U4&sid=0c#🇨🇿 Czechia | SmartApe OU 1
-vless://33aa2b47-484b-49f6-8f23-fb34602d221f@188.127.247.129:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Kb0rDCu2kKhfnC6bsi0DMRxDej9S-Mu1vVza1H1l4U4&sid=0c&sni=yahoo.com#🇨🇿 Czechia | SmartApe OU 2
-vless://33aa2b47-484b-49f6-8f23-fb34602d221f@188.127.247.129:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=Kb0rDCu2kKhfnC6bsi0DMRxDej9S-Mu1vVza1H1l4U4&sid=0c#🇨🇿 Czechia | SmartApe OU 3
+vless://33aa2b47-484b-49f6-8f23-fb34602d221f@188.127.247.129:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Kb0rDCu2kKhfnC6bsi0DMRxDej9S-Mu1vVza1H1l4U4&sid=0c&sni=yahoo.com#🇨🇿 Czechia | SmartApe OU 2
