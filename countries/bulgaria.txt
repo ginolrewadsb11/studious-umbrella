@@ -6,9 +6,9 @@
 #announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@195.123.226.114:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sni=eu-central.cendora.ru&sid=00bca5982f82d083#🇧🇬 Bulgaria | Green Floid 1
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@195.123.226.114:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&sni=eu-central.cendora.ru#🇧🇬 Bulgaria | Green Floid 2
-vless://316dda83-17f1-4f29-a05f-b84b7f991b82@82.118.18.202:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HDiwGAN66V77CrlCWrDZupEiSQk204dkWRjJok0zYhk&sid=720148f2fea16d0f&sni=www.cloudflare.com#🇧🇬 Bulgaria | Green Floid 3
-vless://33851d53-ede0-45f7-9eb8-9aa961f7d200@195.123.226.21:443?security=none&type=ws&sni=&path=%2Fvless#🇧🇬 Bulgaria | Green Floid 4
-vless://33851d53-ede0-45f7-9eb8-9aa961f7d200@195.123.226.21:443?security=none&type=ws&sni=&path=%2Fvless#🇧🇬 Bulgaria | Green Floid 5
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@195.123.226.114:443?type=tcp&headerType=none&security=reality&encryption=none&sni=eu-central.cendora.ru&fp=qq&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&flow=xtls-rprx-vision#🇧🇬 Bulgaria | Green Floid 6
-vless://33851d53-ede0-45f7-9eb8-9aa961f7d200@195.123.226.21:443?security=none&type=ws&sni=&path=%2Fvless#🇧🇬 Bulgaria | Green Floid 7
+vless://33851d53-ede0-45f7-9eb8-9aa961f7d200@195.123.226.21:443?&security=false&fp=chrome&type=ws&headerType=none&path=%2Fvless#🇧🇬 Bulgaria | Green Floid 2
+vless://33851d53-ede0-45f7-9eb8-9aa961f7d200@195.123.226.21:443?type=ws&path=%2Fvless&fp=edge#🇧🇬 Bulgaria | Green Floid 3
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@195.123.226.114:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&sni=eu-central.cendora.ru#🇧🇬 Bulgaria | Green Floid 4
+vless://316dda83-17f1-4f29-a05f-b84b7f991b82@82.118.18.202:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HDiwGAN66V77CrlCWrDZupEiSQk204dkWRjJok0zYhk&sid=720148f2fea16d0f&sni=www.cloudflare.com#🇧🇬 Bulgaria | Green Floid 5
+vless://33851d53-ede0-45f7-9eb8-9aa961f7d200@195.123.226.21:443?encryption=none&type=ws&path=%2Fvless&security=none#🇧🇬 Bulgaria | Green Floid 6
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@195.123.226.114:443?type=tcp&headerType=none&security=reality&encryption=none&sni=eu-central.cendora.ru&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&flow=xtls-rprx-vision&fp=qq#🇧🇬 Bulgaria | Green Floid 7
