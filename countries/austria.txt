@@ -3,13 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMTAg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@152.53.114.186:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=as.tunnelx.space&fp=firefox&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA&sid=4e9b0c2d1a3f5768&type=tcp&headerType=none#🇦🇹 Austria | Cloudflare, 1
-vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@152.53.114.186:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA&sid=4e9b0c2d1a3f5768&sni=as.tunnelx.space#🇦🇹 Austria | Cloudflare, 2
-vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@152.53.114.186:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA&security=reality&sid=4e9b0c2d1a3f5768&sni=as.tunnelx.space&type=tcp#🇦🇹 Austria | Cloudflare, 3
+vless://ff8dea57-b40c-41e0-8ee2-e96deaeb3f48@85.192.42.234:2096?encryption=none&fp=firefox&security=tls&sni=at1.pg.fastlanehosting.ru&type=tcp#🇦🇹 Austria | Aeza International LTD 1
+vless://ff8dea57-b40c-41e0-8ee2-e96deaeb3f48@85.192.42.234:2096?type=tcp&security=tls&encryption=none&fp=firefox&sni=at1.pg.fastlanehosting.ru#🇦🇹 Austria | Aeza International LTD 2
+vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@152.53.114.186:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA&security=reality&sid=4e9b0c2d1a3f5768&sni=as.tunnelx.space&type=tcp#🇦🇹 Austria | Cloudflare, 1
+vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@152.53.114.186:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA&security=reality&sid=4e9b0c2d1a3f5768&sni=as.tunnelx.space&type=tcp#🇦🇹 Austria | Cloudflare, 2
+vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@152.53.114.186:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=as.tunnelx.space&fp=firefox&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA&sid=4e9b0c2d1a3f5768&type=tcp&headerType=none#🇦🇹 Austria | Cloudflare, 3
 vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@152.53.114.186:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA&security=reality&sid=4e9b0c2d1a3f5768&sni=as.tunnelx.space&type=tcp#🇦🇹 Austria | Cloudflare, 4
 vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@152.53.114.186:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA&sid=4e9b0c2d1a3f5768&sni=as.tunnelx.space#🇦🇹 Austria | Cloudflare, 5
-vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@as.tunnelx.space:443?&security=reality&flow=xtls-rprx-vision&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA&sid=4e9b0c2d1a3f5768&fp=firefox&sni=as.tunnelx.space&type=tcp&headerType=none&host=as.tunnelx.space&path=%2F#🇦🇹 Austria | Cloudflare, 6
 vless://daa34529-5219-4323-d26a-2c395b25a56d@185.126.236.181:2052?encryption=none&type=ws&path=/&host=www.icloud.com#🇦🇹 Austria | ONEPROVIDER 1
 vless://daa34529-5219-4323-d26a-2c395b25a56d@185.126.236.181:2052?encryption=none&type=ws&path=/&host=www.icloud.com#🇦🇹 Austria | ONEPROVIDER 2
+vless://27dcb3a9-c82d-4628-a8c4-bae39e6cb4f4@davai.kupivodku.top:1443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=davai.kupivodku.top&fp=edge&pbk=h-ofuILZVZLM3zSC6NIFwL7T7TdXsEsKS04upiMzmQY&sid=0131f3e34341cb40&spx=%2F&type=tcp&headerType=none#🇦🇹 Austria | Ronald Agorsah trading... 1
