@@ -3,8 +3,19 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDE0INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
+vless://e2b8f727-c5ee-47e1-8f1b-7c5c61479ce0@45.90.56.231:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KrFnWxAwVGL6tuj1JE0qpykLzY4aOFjyK3OaymF_hT0&sid=e2e66f4537770cef&sni=www.cloudflare.com#🇨🇭 Switzerland | Green Floid 1
 vless://ed1aaa45-18b3-4c07-a434-ea42e2dfba77@92.119.165.177:8204?encryption=none&security=tls&sni=zeta.optiklink.com&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&pcs=48663DC08B9AD8848EF30C55FE5351A6D85BEFF570B3FC9990BB613BDAC34589&type=ws&host=zeta.optiklink.com&path=%2Fgayporn---gayporn---gayporn---gayporn---gayporn---gayporn---gayporn#🇨🇭 Switzerland | Julian Achter 1
-vless://2a77a470-315c-493d-b690-59b814a804cb@178.83.226.55:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#🇨🇭 Switzerland | Ultahost, 1
+vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@141.227.149.145:443?&security=tls&fp=chrome&sni=kjgdksgghre466.pages.dev&type=ws&headerType=none&host=kjgdksgghre466.pages.dev&path=%2F#🇨🇭 Switzerland | Oracle 1
+vless://c245122a-f149-4e32-8eaa-e875e88a5ab6@193.151.108.186:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=shop.magazinetut.online#🇨🇭 Switzerland | SERV.HOST GROUP LTD 1
+vless://c245122a-f149-4e32-8eaa-e875e88a5ab6@193.151.108.186:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=shop.magazinetut.online#🇨🇭 Switzerland | SERV.HOST GROUP LTD 2
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.4.103:443?security=reality&encryption=none&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&sid=00bca5982f82d083#🇨🇭 Switzerland | SERV.HOST GROUP LTD 3
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.4.103:443?security=reality&encryption=none&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&sid=00bca5982f82d083#🇨🇭 Switzerland | SERV.HOST GROUP LTD 4
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.4.103:443?flow=xtls-rprx-vision&fp=firefox&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#🇨🇭 Switzerland | SERV.HOST GROUP LTD 5
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.4.103:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&sni=eu-central.cendora.ru#🇨🇭 Switzerland | SERV.HOST GROUP LTD 6
+vless://8f4d9689-c25d-40a7-ae8f-39b1681dce20@shop.magazinetut.online:443?flow=xtls-rprx-vision&encryption=none&security=tls&alpn=http%2F1.1&fp=chrome&type=tcp&headerType=none#🇨🇭 Switzerland | SERV.HOST GROUP LTD 7
+vless://c245122a-f149-4e32-8eaa-e875e88a5ab6@shop.magazinetut.online:443?flow=xtls-rprx-vision&encryption=none&security=tls&fp=chrome&type=tcp&headerType=none#🇨🇭 Switzerland | SERV.HOST GROUP LTD 8
+vless://2a77a470-315c-493d-b690-59b814a804cb@178.83.226.55:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=sellflow.org#🇨🇭 Switzerland | Ultahost, 1
 vless://2a77a470-315c-493d-b690-59b814a804cb@178.83.226.55:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#🇨🇭 Switzerland | Ultahost, 2
+vless://2a77a470-315c-493d-b690-59b814a804cb@178.83.226.55:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#🇨🇭 Switzerland | Ultahost, 3
