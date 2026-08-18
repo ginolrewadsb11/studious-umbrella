@@ -3,9 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqvCfh7ggQm9iaVZQTiDigJQgU3BhaW4K4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqvCfh7ggQm9iaVZQTiDigJQgU3BhaW4K4pqhIDYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.107.40:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime55.workers.dev&path=/&security=none&type=ws#🇪🇸 Spain | Google 1
 vless://855d82bc-8cc6-4037-8da5-df0412f3c063@212.227.235.66:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=6huZliKELOkP6l-eOIFe7PKP5MCGK2p5KzUeXRiMi00&sid=13e0569248e98a05&sni=www.apple.com#🇪🇸 Spain | IONOS SE 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸 Spain | Psychz Networks 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 Spain | Psychz Networks 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸 Spain | Psychz Networks 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 Spain | Psychz Networks 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸 Spain | Psychz Networks 3
+vless://b0ecfb88-7438-4aef-ae3b-7984917d45ed@188.225.45.223:49443?serviceName=grpc&security=reality&fp=firefox&sni=ads.x5.ru&pbk=dxHDk77C6nhHGn6xxkDSkWyiCDjdaoLn6qLVCXsttjQ&type=grpc#🇪🇸 Spain | ZELLIS 1
