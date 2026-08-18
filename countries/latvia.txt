@@ -3,14 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsfCfh7sgQm9iaVZQTiDigJQgTGF0dmlhCuKaoSAxMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsfCfh7sgQm9iaVZQTiDigJQgTGF0dmlhCuKaoSAxMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2083?type=grpc&security=tls&fp=firefox&sni=laoye.in-gect.fun&serviceName=grpc#🇱🇻 Latvia | Melbikomas UAB 1
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&security=reality&sid=d26f4703cdd30f4e&sni=vk.ru&type=tcp#🇱🇻 Latvia | Melbikomas UAB 2
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?type=ws&sni=laoye.in-gect.fun#🇱🇻 Latvia | Melbikomas UAB 1
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&security=reality&sid=d26f4703cdd30f4e&sni=vk.ru&type=tcp#🇱🇻 Latvia | Melbikomas UAB 2
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&security=reality&sid=d26f4703cdd30f4e&sni=vk.ru&type=tcp#🇱🇻 Latvia | Melbikomas UAB 3
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053?type=raw&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&sid=d26f4703cdd30f4e&sni=vk.ru#🇱🇻 Latvia | Melbikomas UAB 4
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?type=ws&sni=laoye.in-gect.fun#🇱🇻 Latvia | Melbikomas UAB 5
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2083?type=grpc&security=tls&fp=firefox&sni=laoye.in-gect.fun&serviceName=grpc#🇱🇻 Latvia | Melbikomas UAB 5
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2053?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&sni=vk.ru#🇱🇻 Latvia | Melbikomas UAB 6
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2053?&security=reality&flow=xtls-rprx-vision&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&sid=d26f4703cdd30f4e&fp=edge&sni=vk.ru&type=tcp&headerType=none&host=vk.ru&path=%2F#🇱🇻 Latvia | Melbikomas UAB 7
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.62.167:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&sid=dd3ff38418d29d22&sni=eu-west.cendora.ru#🇱🇻 Latvia | SERV.HOST GROUP LTD 1
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.62.167:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&sid=dd3ff38418d29d22&sni=eu-west.cendora.ru#🇱🇻 Latvia | SERV.HOST GROUP LTD 2
 vless://22696950-587f-42c0-af24-c1ffab17d0cd@91.197.3.43:52463?security=reality&encryption=none&pbk=zOv4BhJVbINHdcULln0vQ_6sxKiGjJPj4uyMttX9pWo&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=cdaed92e1d0c#🇱🇻 Latvia | SIA VEESP 1
