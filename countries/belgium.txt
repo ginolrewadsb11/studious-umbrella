@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://4b7a69d9-74cd-4ab2-bfb3-1d2093e8179f@79.127.224.183:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rwR7H9XhX1w-LjcPCZiDnzV_sUUyJRSJvGYhIYHmS3E&security=reality&sid=28bf2d7deea465ff&sni=www.bing.com&type=tcp#🇧🇪 Belgium | Datacamp 1
+vless://4b7a69d9-74cd-4ab2-bfb3-1d2093e8179f@79.127.224.183:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rwR7H9XhX1w-LjcPCZiDnzV_sUUyJRSJvGYhIYHmS3E&sid=28bf2d7deea465ff&sni=www.bing.com#🇧🇪 Belgium | Datacamp 1
 vless://4b7a69d9-74cd-4ab2-bfb3-1d2093e8179f@79.127.224.183:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rwR7H9XhX1w-LjcPCZiDnzV_sUUyJRSJvGYhIYHmS3E&sid=28bf2d7deea465ff&sni=www.bing.com#🇧🇪 Belgium | Datacamp 2
-vless://4b7a69d9-74cd-4ab2-bfb3-1d2093e8179f@0u1b-m23jqv.jumpnest.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=rwR7H9XhX1w-LjcPCZiDnzV_sUUyJRSJvGYhIYHmS3E&security=reality&sid=28bf2d7deea465ff&sni=www.bing.com&type=tcp#🇧🇪 Belgium | Datacamp 3
+vless://b8783764-ad60-58bb-b2c9-349bfd373a72@belgium.cloudpath.live:443?encryption=none&security=reality&sni=microsoft.com&fp=chrome&pbk=7siY7_DL5F-ETnPPz3voOg3MSuLYYbuKhMOdtG8eGgc&sid=20bbd0e7&type=tcp&headerType=none#🇧🇪 Belgium | GCS SER 1

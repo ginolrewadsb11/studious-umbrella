@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBOb3J0aCBNYWNlZG9uaWEK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBOb3J0aCBNYWNlZG9uaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://604c8c22-1524-4a3f-b85f-d3375482dcc4@195.144.24.148:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=Q0351ApYOgCGCOgSEROnacDdm7xp-kLs9mYddSDFwRQ&sid=360881fdb193758d&sni=www.twitch.tv&fp=edge#🌍 North Macedonia | Andrew Kristuli 1
-vless://604c8c22-1524-4a3f-b85f-d3375482dcc4@195.144.24.148:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=Q0351ApYOgCGCOgSEROnacDdm7xp-kLs9mYddSDFwRQ&sid=360881fdb193758d&sni=www.twitch.tv&fp=edge#🌍 North Macedonia | Andrew Kristuli 2
-vless://604c8c22-1524-4a3f-b85f-d3375482dcc4@195.144.24.148:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=Q0351ApYOgCGCOgSEROnacDdm7xp-kLs9mYddSDFwRQ&sid=360881fdb193758d&sni=www.twitch.tv&fp=chrome#🌍 North Macedonia | Andrew Kristuli 3
-vless://604c8c22-1524-4a3f-b85f-d3375482dcc4@195.144.24.148:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=Q0351ApYOgCGCOgSEROnacDdm7xp-kLs9mYddSDFwRQ&sid=360881fdb193758d&sni=www.twitch.tv#🌍 North Macedonia | Andrew Kristuli 4
-vless://604c8c22-1524-4a3f-b85f-d3375482dcc4@195.144.24.148:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=Q0351ApYOgCGCOgSEROnacDdm7xp-kLs9mYddSDFwRQ&sid=360881fdb193758d&sni=www.twitch.tv&fp=ios#🌍 North Macedonia | Andrew Kristuli 5
+vless://f202c7ca-17b7-416d-b3a2-ac71d35afe9c@195.144.24.86:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=mk.cdn-global.pro&fp=edge&pbk=BSPkA0yUFBZ7JS7rD69rLaTn_5QSAaPQZtO7HV_et30&sid=b868b87c347a451e&spx=%2F&type=tcp&headerType=none#🌍 North Macedonia | Andrew Kristuli 1

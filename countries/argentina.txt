@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBBcmdlbnRpbmEK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBBcmdlbnRpbmEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://dbacac09-9ee8-400c-b53b-745a769c220a@72.56.9.36:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=3u88Km70OaGUtw1iKv28Hn0FTyR9SJo_FoZCRI7G_Q0&security=reality&sid=dfe8b3cb4b1b96f6&sni=m.vkvideo.ru&type=tcp#🌍 Argentina | Scalaxy B.V. 1
-vless://dbacac09-9ee8-400c-b53b-745a769c220a@72.56.9.36:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=3u88Km70OaGUtw1iKv28Hn0FTyR9SJo_FoZCRI7G_Q0&security=reality&sid=dfe8b3cb4b1b96f6&sni=m.vkvideo.ru&type=tcp#🌍 Argentina | Scalaxy B.V. 2
-vless://dbacac09-9ee8-400c-b53b-745a769c220a@72.56.9.36:443?type=tcp&security=reality&sni=m.vkvideo.ru&pbk=3u88Km70OaGUtw1iKv28Hn0FTyR9SJo_FoZCRI7G_Q0&sid=dfe8b3cb4b1b96f6&fp=qq&encryption=none&flow=xtls-rprx-vision#🌍 Argentina | Scalaxy B.V. 3
-vless://dbacac09-9ee8-400c-b53b-745a769c220a@72.56.9.36:443?type=tcp&security=reality&sni=m.vkvideo.ru&pbk=3u88Km70OaGUtw1iKv28Hn0FTyR9SJo_FoZCRI7G_Q0&sid=dfe8b3cb4b1b96f6&fp=qq&encryption=none&flow=xtls-rprx-vision#🌍 Argentina | Scalaxy B.V. 4
+vless://b8783764-ad60-58bb-b2c9-349bfd373a72@argentina.cloudpath.live:443?encryption=none&security=reality&sni=microsoft.com&fp=chrome&pbk=wLLPLZLV4nYOG_yvjxIrZ2pztDjaJq5pzD81d24wgzY&sid=def057f5&type=tcp&headerType=none#🌍 Argentina | Scalaxy B.V. 1
