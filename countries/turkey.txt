@@ -3,17 +3,22 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVHVya2V5CuKaoSAxMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVHVya2V5CuKaoSAxNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://14f493a7-242a-4add-8413-cecc063b3ce3@130.185.123.32:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0#🇹🇷 Turkey | Arvancloud Global Tech... 1
+vless://14f493a7-242a-4add-8413-cecc063b3ce3@130.185.123.32:443?type=tcp&security=tls&encryption=none&fp=chrome#🇹🇷 Turkey | Arvancloud Global Tech... 2
 trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?type=raw&security=tls&sni=193.124.46.65&fp=chrome&alpn=http/1.1#🇹🇷 Turkey | Baxet Group 1
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@193.124.45.154:443?security=reality&encryption=none&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&sid=00bca5982f82d083#🇹🇷 Turkey | GLB Bulut Teknolojisi ... 1
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@193.124.45.154:443?sni=eu-central.cendora.ru&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&encryption=none&security=reality&type=tcp&sid=00bca5982f82d083&fp=firefox&flow=xtls-rprx-vision#🇹🇷 Turkey | GLB Bulut Teknolojisi ... 2
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?encryption=none&security=none&serviceName=grpc&type=grpc#🇹🇷 Turkey | Global Connectivity So... 1
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#🇹🇷 Turkey | Global Connectivity So... 2
+trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?type=tcp&security=tls&sni=193.124.46.65&fp=chrome&alpn=http%2F1.1#🇹🇷 Turkey | Baxet Group 2
+trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=193.124.46.65&alpn=http/1.1#🇹🇷 Turkey | Baxet Group 3
+trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=193.124.46.65&alpn=http/1.1#🇹🇷 Turkey | Baxet Group 4
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@193.124.45.154:443?sni=eu-central.cendora.ru&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&encryption=none&security=reality&type=tcp&sid=00bca5982f82d083&fp=firefox&flow=xtls-rprx-vision#🇹🇷 Turkey | GLB Bulut Teknolojisi ... 1
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@193.124.45.154:443?security=reality&encryption=none&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&sid=00bca5982f82d083#🇹🇷 Turkey | GLB Bulut Teknolojisi ... 2
+vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#🇹🇷 Turkey | Global Connectivity So... 1
+vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?type=grpc&mode=gun&serviceName=grpc#🇹🇷 Turkey | Global Connectivity So... 2
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?encryption=none&security=none&serviceName=grpc&type=grpc#🇹🇷 Turkey | Global Connectivity So... 3
-vless://a7a98347-5fe4-4615-9a89-7f1ba759265e@151.241.226.201:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=_jsI5uVVqXkzCZ0OGJ5U7waecxOEiu2lm-8f8ZyW5mc&sid=f5d596282182b440&sni=www.apple.com#🇹🇷 Turkey | Hostkey B.V. 1
-vless://a7a98347-5fe4-4615-9a89-7f1ba759265e@151.241.226.201:2053?fp=&pbk=_jsI5uVVqXkzCZ0OGJ5U7waecxOEiu2lm-8f8ZyW5mc&security=reality&sid=f5d596282182b440&sni=www.apple.com&type=tcp#🇹🇷 Turkey | Hostkey B.V. 2
-vless://6607d677-f567-4692-af46-52d0e15808a1@tr2.odavpn.online:8443/?type=tcp&security=reality&pbk=Lq1xwc-Qd0Te8sV-NxrJLQO6JbvPkknki6inkKj5_WQ&sni=www.sony.com&sid=22c6f049621c44ec&flow=xtls-rprx-vision&fp=chrome#🇹🇷 Turkey | Turunc Smart Bilgisaya... 1
-vless://6607d677-f567-4692-af46-52d0e15808a1@tr2.odavpn.online:8443/?type=tcp&security=reality&pbk=Lq1xwc-Qd0Te8sV-NxrJLQO6JbvPkknki6inkKj5_WQ&fp=chrome&sni=www.sony.com&sid=22c6f049621c44ec&flow=xtls-rprx-vision#🇹🇷 Turkey | Turunc Smart Bilgisaya... 2
-vless://6607d677-f567-4692-af46-52d0e15808a1@tr2.odavpn.online:8443/?type=tcp&security=reality&pbk=Lq1xwc-Qd0Te8sV-NxrJLQO6JbvPkknki6inkKj5_WQ&sni=www.sony.com&sid=22c6f049621c44ec&flow=xtls-rprx-vision&fp=firefox#🇹🇷 Turkey | Turunc Smart Bilgisaya... 3
+vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?encryption=none&security=none&serviceName=grpc&type=grpc#🇹🇷 Turkey | Global Connectivity So... 4
+vless://ab3606dc-29ef-4980-a708-1b14e11d06fc@tr.jugploer.icu:443?encryption=none&security=reality&sni=tr.jugploer.icu&fp=qq&pbk=vCZEdJqYXQaWqecCoyTDei7EV3O2zBpVsf58M4QRGSk&flow=xtls-rprx-vision#🇹🇷 Turkey | Global Connectivity So... 5
+vless://a7a98347-5fe4-4615-9a89-7f1ba759265e@151.241.226.201:2053?fp=chrome&packetencoding=xudp&pbk=_jsI5uVVqXkzCZ0OGJ5U7waecxOEiu2lm-8f8ZyW5mc&security=reality&sid=f5d596282182b440&sni=www.apple.com&type=tcp#🇹🇷 Turkey | Hostkey B.V. 1
+vless://a7a98347-5fe4-4615-9a89-7f1ba759265e@151.241.226.201:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=_jsI5uVVqXkzCZ0OGJ5U7waecxOEiu2lm-8f8ZyW5mc&sid=f5d596282182b440&sni=www.apple.com#🇹🇷 Turkey | Hostkey B.V. 2
+vless://b85b1e90-b5ed-0002-b433-bf9d2eca0e42@45.12.5.171:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&sid=a73cf719b624&sni=ru9.aimodelhub.top#🇹🇷 Turkey | Webhost 1
+vless://b85b1e90-b5ed-0002-b433-bf9d2eca0e42@45.12.5.171:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&sid=a73cf719b624&sni=ru9.aimodelhub.top#🇹🇷 Turkey | Webhost 2
