@@ -3,43 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh7cgQm9iaVZQTiDigJQgU291dGggS29yZWEK4pqhIDM4INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+HsPCfh7cgQm9iaVZQTiDigJQgU291dGggS29yZWEK4pqhIDEwINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://7111212b-6bc3-459a-85b4-3b13038a19f8@162.159.140.78:8880?encryption=none&host=shrill-fog-67af.235-e6a.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Alibaba.com 1
-vless://c6171ace-4580-45c7-b00f-5e6c56f48794@172.66.200.130:8880/?type=ws&encryption=none&flow=&host=withered-cloud-1202.405-42c.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | Alibaba.com 2
-trojan://AE62539071@3.39.251.168:443?sni=allowing-halibut.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 1
-trojan://AE62539071@3.39.251.168:443?sni=allowing-halibut.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 2
-trojan://AE62539071@3.39.251.168:443?sni=allowing-halibut.rooster465.autos&allowInsecure=1&type=tcp#🇰🇷 South Korea | Amazon.com, 3
-trojan://AE62539071@3.39.251.168:443?sni=allowing-halibut.rooster465.autos&type=tcp&path=/#🇰🇷 South Korea | Amazon.com, 4
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com#🇰🇷 South Korea | Amazon.com, 5
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com#🇰🇷 South Korea | Amazon.com, 6
-trojan://AE62539071@allowing-halibut.rooster465.autos:443?security=tls#🇰🇷 South Korea | Amazon.com, 7
-trojan://AE62539071@allowing-halibut.rooster465.autos:443?sni=allowing-halibut.rooster465.autos&type=tcp&fp=chrome#🇰🇷 South Korea | Amazon.com, 8
-vless://9b14cdbe-bcfe-4178-a674-3ad88a7c6f6a@172.66.214.247:8880?encryption=none&host=summer-snow-c151.320-3ef.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Daou Technology 1
-vless://e974d4c7-2376-4b65-aa40-0680961ff5e4@icy-unit-58dc.157-59c.workers.dev:8880?type=ws#🇰🇷 South Korea | Daou Technology 2
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com#🇰🇷 South Korea | Amazon.com, 1
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com#🇰🇷 South Korea | Amazon.com, 2
 vless://d6d7619a-6b7b-4a80-bd8c-5ddb645eba4a@151.245.106.49:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=nNohnS45XyaEcSAKchLKkCTEBzVUc-PZ6UfbKo83z0E&sid=44e0e12bb5fcebe2&sni=www.cloudflare.com#🇰🇷 South Korea | HostHatch 1
-vless://363202dd-0521-46b4-b4e2-443dfbaa2ce1@162.159.140.78:8880?encryption=none&host=flat-heart-b60a.401-306.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Light Node 1
-vless://363202dd-0521-46b4-b4e2-443dfbaa2ce1@162.159.140.78:8880?encryption=none&host=flat-heart-b60a.401-306.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Microsoft 1
-vless://7e3cd2f1-0de5-4717-9002-64d8597bc577@dry-credit-fc26.203-d8c.workers.dev:8880?type=ws#🇰🇷 South Korea | Microsoft 2
-vless://363202dd-0521-46b4-b4e2-443dfbaa2ce1@162.159.140.78:8880?encryption=none&host=flat-heart-b60a.401-306.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | MOACK.Co.LTD 1
-vless://b2c879ed-08a2-4a79-9c57-37c7db614e96@172.67.190.141:8880?security=none&encryption=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=sweet-cake-1340.474-288.workers.dev#🇰🇷 South Korea | Oracle 1
-vless://7111212b-6bc3-459a-85b4-3b13038a19f8@162.159.140.78:8880?encryption=none&host=shrill-fog-67af.235-e6a.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Oracle 2
-vless://7e3cd2f1-0de5-4717-9002-64d8597bc577@172.64.88.251:8880?encryption=none&host=dry-credit-fc26.203-d8c.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Oracle 3
-vless://9b14cdbe-bcfe-4178-a674-3ad88a7c6f6a@172.66.214.247:8880?encryption=none&host=summer-snow-c151.320-3ef.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Oracle 4
-vless://9b14cdbe-bcfe-4178-a674-3ad88a7c6f6a@172.66.214.247:8880?encryption=none&host=summer-snow-c151.320-3ef.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Oracle 5
-vless://c18fd69e-92ba-446e-981b-213dbb551593@billowing-wind-5b29.133-323.workers.dev:8880/?type=ws&encryption=none&flow=&path=/pyip=ProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | Oracle 6
-vless://d6bdda67-168d-4501-a2c1-ef01070cb327@crimson-smoke-7818.397.workers.dev:8880?path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=&encryption=none&type=ws#🇰🇷 South Korea | Oracle 7
-vless://8546bcef-8456-41a2-82bc-d2231b42b769@www.baipiao.eu.org:8880?encryption=none&host=small-tree-9ec0.84-971.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Oracle 8
-vmess://eyJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsImFpZCI6IjAiLCJob3N0Ijoia3IwMi5hMGEueHl6IiwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJuYXRpb24iOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoiODAiLCJwcyI6Ilx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3Iiwic2N5IjoiYXV0byIsInNlcnZlclBvcnQiOjAsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#🇰🇷 South Korea | Oracle 9
-vless://80cead8e-0d28-4b0a-bacd-8005471a5c39@172.66.158.115:8880?encryption=none&security=none&type=ws&host=flat-fire-40ed.96-042.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | Shenzhen Tencent Compu... 1
-vless://300f44af-adb8-42b7-b869-bef70b205d7e@104.17.21.32:8880?encryption=none&host=icy-rice-3c1c.340-680.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Shenzhen Tencent Compu... 2
-vless://7111212b-6bc3-459a-85b4-3b13038a19f8@162.159.140.78:8880?encryption=none&host=shrill-fog-67af.235-e6a.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Shenzhen Tencent Compu... 3
-vless://8546bcef-8456-41a2-82bc-d2231b42b769@104.21.88.129:8880?encryption=none&host=small-tree-9ec0.84-971.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Shenzhen Tencent Compu... 4
-vless://300f44af-adb8-42b7-b869-bef70b205d7e@104.17.21.32:8880?encryption=none&host=icy-rice-3c1c.340-680.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Shenzhen Tencent Compu... 5
-vless://9f4b666c-ecf1-49e9-8ab8-9ae2c4f4c613@withered-morning-aa51.64-c79.workers.dev:8880?type=ws#🇰🇷 South Korea | Shenzhen Tencent Compu... 6
-vless://3c04e891-dc32-40a3-bcd0-d5e8283a6a03@polished-firefly-3e2d.20-645.workers.dev:8880?type=ws&descriptions=люби_себяc3d7c0#🇰🇷 South Korea | Shenzhen Tencent Compu... 7
-vless://17b2ed22-5fd0-47ad-b5f0-658379379ced@104.18.11.118:8880?encryption=none&host=black-wildflower-dd92.72-1e8.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | SK Broadband Co 1
-vless://300f44af-adb8-42b7-b869-bef70b205d7e@104.17.21.32:8880?encryption=none&host=icy-rice-3c1c.340-680.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | SK Broadband Co 2
-vless://b2c879ed-08a2-4a79-9c57-37c7db614e96@172.66.132.196:8880?host=sweet-cake-1340.474-288.workers.dev&security=none&encryption=none&path=/pyip=ProxyIP.KR.CMLiussss.net&type=ws#🇰🇷 South Korea | SK Broadband Co 3
-vless://f6e14309-5cff-4f5d-bce1-06a260159bbe@104.17.178.154:8880?&type=ws&headerType=none&host=steep-bread-32f0.92-d12.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | SK Broadband Co 4
-vless://5fc8a5e4-d0c5-4ad2-8bfe-db589553c6c1@172.64.148.60:8880/?type=ws&encryption=none&flow=&host=red-disk-58df.153-2ce.workers.dev#🇰🇷 South Korea | SK Broadband Co 5
+vless://ff7390de-ce93-4d7d-b08b-bef8f71a85cf@tiny-lake-c7f3.16-1af.workers.dev:8880?type=ws&__rand=1482a584#🇰🇷 South Korea | KOR VULTR 1
+vless://c6171ace-4580-45c7-b00f-5e6c56f48794@172.66.200.130:8880/?type=ws&encryption=none&flow=&host=withered-cloud-1202.405-42c.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | Microsoft 1
+vless://7e3cd2f1-0de5-4717-9002-64d8597bc577@172.64.88.251:8880?encryption=none&host=dry-credit-fc26.203-d8c.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Oracle 1
+vless://9f4b666c-ecf1-49e9-8ab8-9ae2c4f4c613@withered-morning-aa51.64-c79.workers.dev:8880?type=ws#🇰🇷 South Korea | Oracle 2
+vless://c18fd69e-92ba-446e-981b-213dbb551593@billowing-wind-5b29.133-323.workers.dev:8880/?type=ws&encryption=none&flow=&path=/pyip=ProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | Oracle 3
+vless://5fc8a5e4-d0c5-4ad2-8bfe-db589553c6c1@172.64.148.60:8880/?type=ws&encryption=none&flow=&host=red-disk-58df.153-2ce.workers.dev#🇰🇷 South Korea | Shenzhen Tencent Compu... 1
+vless://d6bdda67-168d-4501-a2c1-ef01070cb327@crimson-smoke-7818.397.workers.dev:8880?path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=&encryption=none&type=ws#🇰🇷 South Korea | SK Broadband Co 1
