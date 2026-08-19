@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBBcmdlbnRpbmEK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBBcmdlbnRpbmEK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://b8783764-ad60-58bb-b2c9-349bfd373a72@argentina.cloudpath.live:443?encryption=none&security=reality&sni=microsoft.com&fp=chrome&pbk=wLLPLZLV4nYOG_yvjxIrZ2pztDjaJq5pzD81d24wgzY&sid=def057f5&type=tcp&headerType=none#🌍 Argentina | Scalaxy B.V. 1
-vless://b8783764-ad60-58bb-b2c9-349bfd373a72@argentina.cloudpath.live:443?encryption=none&security=reality&sni=microsoft.com&fp=chrome&pbk=wLLPLZLV4nYOG_yvjxIrZ2pztDjaJq5pzD81d24wgzY&sid=def057f5&type=tcp&headerType=none#🌍 Argentina | Scalaxy B.V. 2
+vless://8b581f67-f02c-4373-bd9f-7c7f6328b0ca@45.151.182.216:38829?encryption=none&fp=firefox&pbk=Nznj30TKgdig81SCTekuMg8DD8jO_NYTC9bdnTxT_w0&security=reality&sid=ebc9e72e1940552b&sni=api-maps.yandex.ru&type=tcp#🌍 Argentina | Scalaxy B.V. 1
+vless://8b581f67-f02c-4373-bd9f-7c7f6328b0ca@vless.fresedvpn.site:38829?fp=qq&pbk=Nznj30TKgdig81SCTekuMg8DD8jO_NYTC9bdnTxT_w0&security=reality&sid=ebc9e72e1940552b&sni=api-maps.yandex.ru&type=tcp#🌍 Argentina | Scalaxy B.V. 2
+vless://8b581f67-f02c-4373-bd9f-7c7f6328b0ca@vless.fresedvpn.site:38829?fp=qq&pbk=Nznj30TKgdig81SCTekuMg8DD8jO_NYTC9bdnTxT_w0&security=reality&sid=ebc9e72e1940552b&sni=api-maps.yandex.ru&type=tcp#🌍 Argentina | Scalaxy B.V. 3
