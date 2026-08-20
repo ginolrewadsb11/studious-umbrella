@@ -3,12 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuPCfh7AgQm9iaVZQTiDigJQgU2xvdmFraWEK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HuPCfh7AgQm9iaVZQTiDigJQgU2xvdmFraWEK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://9b18ccef-b9e0-41d1-8990-9d970569e142@185.112.249.201:8443?encryption=none&fp=chrome&host=web-socket.tgdaosheng.ggff.net&path=/proxyip=bpb.yousef.isegaro.comfp=chrome&security=tls&sni=web-socket.tgdaosheng.ggff.net&type=ws#🇸🇰 Slovakia | Cloudflare, 1
-vless://9b18ccef-b9e0-41d1-8990-9d970569e142@185.112.249.201:8443?encryption=none&fp=chrome&host=web-socket.tgdaosheng.ggff.net&path=%2Fproxyip%3Dbpb.yousef.isegaro.comfp%3Dchrome&security=tls&sni=web-socket.tgdaosheng.ggff.net&type=ws#🇸🇰 Slovakia | Cloudflare, 2
-vless://9b18ccef-b9e0-41d1-8990-9d970569e142@185.112.249.201:8443?allowInsecure=1&sni=web-socket.tgdaosheng.ggff.net&type=ws&host=web-socket.tgdaosheng.ggff.net&path=/proxyip=bpb.yousef.isegaro.comfp=chrome&security=tls#🇸🇰 Slovakia | Cloudflare, 3
-vless://0ce122a3-1c91-4cf5-a2cc-67f25e8cb56f@sk2.sywl4.uk:443?encryption=none&security=reality&sni=sk2.sywl4.uk&fp=edge&pbk=ETeAUJpZugcGIO-dbjgx55mH835m026nveRvLYVsuU4&sid=abcdef99&flow=xtls-rprx-vision#🇸🇰 Slovakia | VNET a.s. 1
-vless://0ce122a3-1c91-4cf5-a2cc-67f25e8cb56f@sk.sywl4.uk:443?flow=xtls-rprx-vision&fp=edge&pbk=vLixH3QobMv6Rg4UcGbMp49i-w1asnw3Bsgv_gwm4DQ&security=reality&sid=abcdef99&sni=sk.sywl4.uk#🇸🇰 Slovakia | VNET a.s. 2
-vless://0ce122a3-1c91-4cf5-a2cc-67f25e8cb56f@sk2.sywl4.uk:443?encryption=none&security=reality&sni=sk2.sywl4.uk&fp=edge&pbk=ETeAUJpZugcGIO-dbjgx55mH835m026nveRvLYVsuU4&sid=abcdef99&flow=xtls-rprx-vision#🇸🇰 Slovakia | VNET a.s. 3
-vless://0ce122a3-1c91-4cf5-a2cc-67f25e8cb56f@sk2.sywl4.uk:443?flow=xtls-rprx-vision&fp=edge&pbk=ETeAUJpZugcGIO-dbjgx55mH835m026nveRvLYVsuU4&security=reality&sid=abcdef99&sni=sk2.sywl4.uk#🇸🇰 Slovakia | VNET a.s. 4
+vless://9b18ccef-b9e0-41d1-8990-9d970569e142@185.112.249.201:8443?encryption=none&fp=chrome&host=web-socket.tgdaosheng.ggff.net&path=%2Fproxyip%3Dbpb.yousef.isegaro.comfp%3Dchrome&security=tls&sni=web-socket.tgdaosheng.ggff.net&type=ws#🇸🇰 Slovakia | Cloudflare, 1
+vless://9b18ccef-b9e0-41d1-8990-9d970569e142@185.112.249.201:8443?sni=web-socket.tgdaosheng.ggff.net&type=ws&host=web-socket.tgdaosheng.ggff.net&path=/proxyip=bpb.yousef.isegaro.comfp=chromefp=chrome&security=tls#🇸🇰 Slovakia | Cloudflare, 2
+vless://9b18ccef-b9e0-41d1-8990-9d970569e142@185.112.249.201:8443?encryption=none&fp=chrome&host=web-socket.tgdaosheng.ggff.net&path=/proxyip=bpb.yousef.isegaro.comfp=chrome&security=tls&sni=web-socket.tgdaosheng.ggff.net&type=ws#🇸🇰 Slovakia | Cloudflare, 3
+vless://9b18ccef-b9e0-41d1-8990-9d970569e142@185.112.249.201:8443?encryption=none&fp=chrome&host=web-socket.tgdaosheng.ggff.net&path=/proxyip=bpb.yousef.isegaro.comfp=chrome&security=tls&sni=web-socket.tgdaosheng.ggff.net&type=ws#🇸🇰 Slovakia | Cloudflare, 4
