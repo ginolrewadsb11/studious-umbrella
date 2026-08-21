@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 1
+vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@89.47.55.6:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=www.canon.com&fp=chrome&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4#🇦🇪 United Arab Emirates | Fast Servers (Pty) 1
+vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@89.47.55.6:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=download.nvidia.com&fp=chrome&pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY#🇦🇪 United Arab Emirates | Fast Servers (Pty) 2
+vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@89.47.55.6:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=download.nvidia.com&fp=chrome&pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY#🇦🇪 United Arab Emirates | Fast Servers (Pty) 3
