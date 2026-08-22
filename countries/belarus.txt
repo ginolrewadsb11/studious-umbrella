@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh74gQm9iaVZQTiDigJQgQmVsYXJ1cwrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh74gQm9iaVZQTiDigJQgQmVsYXJ1cwrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@189.74.124.42:443?security=reality&encryption=none&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nordic.cendora.ru&sid=2186a755ed67b034#🇧🇾 Belarus | GLB Bulut Teknolojisi ... 1
+vless://0a11d3b4-682c-4bfb-afb0-820b8285cb4b@2.27.57.154:21?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6LSBBaOUWujvSovACjcP7m-DI9u9R584qdJxNYnu-24&security=reality&sid=bf3b5029b2295481&sni=ubuntu.com&type=tcp#🇧🇾 Belarus | GLB Bulut Teknolojisi ... 2
+vless://0a11d3b4-682c-4bfb-afb0-820b8285cb4b@2.27.57.154:21?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6LSBBaOUWujvSovACjcP7m-DI9u9R584qdJxNYnu-24&security=reality&sid=bf3b5029b2295481&sni=ubuntu.com&type=tcp#🇧🇾 Belarus | GLB Bulut Teknolojisi ... 3
