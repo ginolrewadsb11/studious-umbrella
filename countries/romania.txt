@@ -3,9 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@ytryurdj64bbb.localip.ir:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ro-3.ariyuz.org&type=ws&allowInsecure=0&sni=ro-3.ariyuz.org#🇷🇴 Romania | Eclipse Networking 1
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@ytryurdj64bbb.localip.ir:443?security=tls&fp=chrome&alpn=http%2F1.1&sni=ro-3.ariyuz.org&type=ws&headerType=none&host=ro-3.ariyuz.org&path=%2F#🇷🇴 Romania | Eclipse Networking 1
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@ytryurdj64bbb.localip.ir:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=ro-3.ariyuz.org&type=ws&headerType=none&host=ro-3.ariyuz.org&path=%2F#🇷🇴 Romania | Eclipse Networking 2
-vless://b748a230-b157-4401-8423-f8e44df31b5e@82.117.255.87:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.cloudflare.com&fp=chrome&pbk=1xxZM10W-A8nuj6MOXFd1kA9lS7bEy-5SO5j-jrd_Cg&sid=b70076439f4a1340&flow=xtls-rprx-vision#🇷🇴 Romania | Green Floid 1
-vless://b748a230-b157-4401-8423-f8e44df31b5e@82.117.255.87:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1xxZM10W-A8nuj6MOXFd1kA9lS7bEy-5SO5j-jrd_Cg&sid=b70076439f4a1340&sni=www.cloudflare.com#🇷🇴 Romania | Green Floid 2
