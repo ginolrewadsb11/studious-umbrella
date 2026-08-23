@@ -5,9 +5,9 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#🇧🇪 Belgium | GCS SER 1
-vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=be2.wba-pn.ru&type=ws#🇧🇪 Belgium | GCS SER 2
-vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?type=ws&security=tls&fp=chrome&sni=be2.wba-pn.ru#🇧🇪 Belgium | GCS SER 3
-vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?encryption=none&path=/&security=tls&sni=be2.wba-pn.ru&type=ws#🇧🇪 Belgium | GCS SER 4
-vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?encryption=none&path=%2F&security=tls&sni=be2.wba-pn.ru&type=ws#🇧🇪 Belgium | GCS SER 5
+vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?encryption=none&path=%2F&security=tls&sni=be2.wba-pn.ru&type=ws#🇧🇪 Belgium | GCS SER 1
+vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?encryption=none&path=/&security=tls&sni=be2.wba-pn.ru&type=ws#🇧🇪 Belgium | GCS SER 2
+vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=be2.wba-pn.ru&type=ws#🇧🇪 Belgium | GCS SER 3
+vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?type=ws&security=tls&fp=chrome&sni=be2.wba-pn.ru#🇧🇪 Belgium | GCS SER 4
+vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#🇧🇪 Belgium | GCS SER 5
 vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?encryption=none&path=/&security=tls&sni=be2.wba-pn.ru&type=ws#🇧🇪 Belgium | GCS SER 6
