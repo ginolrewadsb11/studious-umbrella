@@ -3,22 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh7cgQm9iaVZQTiDigJQgU291dGggS29yZWEK4pqhIDE3INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+HsPCfh7cgQm9iaVZQTiDigJQgU291dGggS29yZWEK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://7ed93ccf-6a54-4b19-a9b4-aedfc79bab7d@104.27.82.154:8880?encryption=none&host=muddy-sky-4767.344-7a7.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Amazon.com, 1
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com&packetEncoding=none#🇰🇷 South Korea | Amazon.com, 1
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇰🇷 South Korea | Amazon.com, 2
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com#🇰🇷 South Korea | Amazon.com, 3
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com#🇰🇷 South Korea | Amazon.com, 3
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇰🇷 South Korea | Amazon.com, 4
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com#🇰🇷 South Korea | Amazon.com, 5
+vless://d5e77b10-7374-11eb-b739-9160314e12e6@8mc0z4qk-7n2r-5t9x-0r6p-3a4w8k1d9e2.edge.ccdn3.work:20159?&security=reality&flow=xtls-rprx-vision&pbk=KLE79o1tQq-bvGbD4ocK5FVfBL_knSsoB_weR77dIgw&sid=eb8225cafad99147&fp=firefox&sni=www.bilibili.com&type=tcp&headerType=none&host=www.bilibili.com&path=%2F#🇰🇷 South Korea | G-Core Labs S.A. 1
 vless://9f7dddc4-6c77-4e2c-bfa4-7e5afdfd48f8@151.245.106.49:2053?type=tcp&security=reality&fp=firefox&pbk=Wg07hKwQjSVmOsEHn7X1iLAXR2wkKRSyv8TZmq9ZsRA&sid=58186df4a95a1504&sni=www.cloudflare.com#🇰🇷 South Korea | HostHatch 1
-vless://9b14cdbe-bcfe-4178-a674-3ad88a7c6f6a@172.66.214.247:8880?encryption=none&host=summer-snow-c151.320-3ef.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | MOACK.Co.LTD 1
-vless://7ed93ccf-6a54-4b19-a9b4-aedfc79bab7d@104.27.82.154:8880?encryption=none&host=muddy-sky-4767.344-7a7.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Oracle 1
-vless://5bbf0601-8431-45f6-a4e9-a1e8b44c0055@104.21.12.116:8880?encryption=none&host=misty-mouse-141d.177-f18.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Oracle 2
-vless://5bbf0601-8431-45f6-a4e9-a1e8b44c0055@172.67.152.71:8880?encryption=none&host=misty-mouse-141d.177-f18.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Oracle 3
-vless://9b14cdbe-bcfe-4178-a674-3ad88a7c6f6a@172.66.214.247:8880?encryption=none&host=summer-snow-c151.320-3ef.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Oracle 4
-vless://7ed93ccf-6a54-4b19-a9b4-aedfc79bab7d@104.27.82.154:8880?encryption=none&host=muddy-sky-4767.344-7a7.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Oracle 5
-vless://2ff7eec6-da48-46ab-b770-5c83400a528c@104.17.170.132:8880?encryption=none&host=icy-glade-ad0f.412.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Oracle 6
-vless://5bbf0601-8431-45f6-a4e9-a1e8b44c0055@log.bpminecraft.com:8880?encryption=none&host=misty-mouse-141d.177-f18.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Oracle 7
-vmess://eyJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsImFpZCI6IjAiLCJob3N0Ijoia3IwMi5hMGEueHl6IiwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJuYXRpb24iOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoiODAiLCJwcyI6Ilx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3Iiwic2N5IjoiYXV0byIsInNlcnZlclBvcnQiOjAsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#🇰🇷 South Korea | Oracle 8
-vless://9b14cdbe-bcfe-4178-a674-3ad88a7c6f6a@172.66.214.247:8880?encryption=none&host=summer-snow-c151.320-3ef.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Shenzhen Tencent Compu... 1
 vless://7aecb4a5-f0a4-32a0-aabe-c9d5241e313f@103.231.15.195:10038?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=JddbQk5RNLhnZOTiod0E7JGcCTRNO69nrP1b8VtKS2c&sid=2a92&sni=www.adobe.com#🇰🇷 South Korea | The Constant Company, 1
