@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNZXhpY28K4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNZXhpY28K4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=/vless/#🌍 Mexico | Latitude.sh 1
-vless://c0460ba7-a0a3-44f9-9913-a46a43c4601c@16.163.142.215:2575?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=C9T0-OMlRlstftWloEF3zE1lnd1zs0XqVcu1rCE6phQ&security=reality&sid=98eb80b5&sni=p0n5j.biliimg.com&type=tcp#🌍 Mexico | Light Node 1
-vless://c0460ba7-a0a3-44f9-9913-a46a43c4601c@inbound.sled019fd6eb-369f.rfsconfig.com:2575?security=reality&flow=xtls-rprx-vision&pbk=C9T0-OMlRlstftWloEF3zE1lnd1zs0XqVcu1rCE6phQ&sid=98eb80b5&fp=chrome&sni=p0n5j.biliimg.com&type=tcp&headerType=none&host=p0n5j.biliimg.com&path=%2F#🌍 Mexico | Light Node 2
