@@ -3,12 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh74gQm9iaVZQTiDigJQgQmVsYXJ1cwrimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh74gQm9iaVZQTiDigJQgQmVsYXJ1cwrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 trojan://8qCNZU2XdtefT7uB4uPxgRR839btqMG8@by01.botovod.space:500?type=grpc&security=tls&fp=chrome&sni=by01.botovod.space&mode=gun&alpn=h2,http/1.1#🇧🇾 Belarus | "Vash internet partner" 1
-vless://b8006e78-0f7e-4216-9fa3-f1e5c3d93e4f@78.140.252.20:443?alpn=http%2F1.1&flow=xtls-rprx-vision&host=static.beeline.ru&pbk=0Z6f6RFk_mPgcqXi1pryuTLMz_phlAgBu1hWmVXIkVA&security=reality&sid=5cdef06e2f&sni=static.beeline.ru&type=tcp&fp=firefox#🇧🇾 Belarus | Itglobalcom BEL 1
-vless://b8006e78-0f7e-4216-9fa3-f1e5c3d93e4f@78.140.252.20:443?alpn=http%2F1.1&flow=xtls-rprx-vision&host=static.beeline.ru&pbk=0Z6f6RFk_mPgcqXi1pryuTLMz_phlAgBu1hWmVXIkVA&security=reality&sid=5cdef06e2f&sni=static.beeline.ru&type=tcp&fp=chrome#🇧🇾 Belarus | Itglobalcom BEL 2
-vless://b8006e78-0f7e-4216-9fa3-f1e5c3d93e4f@78.140.252.20:443?type=tcp&security=reality&sni=static.beeline.ru&flow=xtls-rprx-vision&pbk=0Z6f6RFk_mPgcqXi1pryuTLMz_phlAgBu1hWmVXIkVA&sid=5cdef06e2f&fp=safari#🇧🇾 Belarus | Itglobalcom BEL 3
-vless://b8006e78-0f7e-4216-9fa3-f1e5c3d93e4f@78.140.252.20:443?type=tcp&security=reality&sni=static.beeline.ru&flow=xtls-rprx-vision&pbk=0Z6f6RFk_mPgcqXi1pryuTLMz_phlAgBu1hWmVXIkVA&sid=5cdef06e2f&fp=qq#🇧🇾 Belarus | Itglobalcom BEL 4
-vless://b8006e78-0f7e-4216-9fa3-f1e5c3d93e4f@78.140.252.20:443?type=tcp&security=reality&sni=static.beeline.ru&flow=xtls-rprx-vision&pbk=0Z6f6RFk_mPgcqXi1pryuTLMz_phlAgBu1hWmVXIkVA&sid=5cdef06e2f&fp=ios#🇧🇾 Belarus | Itglobalcom BEL 5
-vless://b8006e78-0f7e-4216-9fa3-f1e5c3d93e4f@78.140.252.20:443?type=tcp&security=reality&sni=static.beeline.ru&flow=xtls-rprx-vision&pbk=0Z6f6RFk_mPgcqXi1pryuTLMz_phlAgBu1hWmVXIkVA&sid=5cdef06e2f&fp=random#🇧🇾 Belarus | Itglobalcom BEL 6
+vless://2e5502fe-a951-4b2f-90fb-3570c8e18b98@185.244.173.206:2087?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jCsC6qsXh_K424iUnTPQRtuRNKqIti8m3sycbAQ9lB4&security=reality&sid=7c1a4b90&sni=cloud.mail.ru&type=tcp#🇧🇾 Belarus | DataHata 1
+vless://2e5502fe-a951-4b2f-90fb-3570c8e18b98@multi2.techdatacloud.org:2087?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=jCsC6qsXh_K424iUnTPQRtuRNKqIti8m3sycbAQ9lB4&fp=firefox&sni=cloud.mail.ru&sid=7c1a4b90&spx=%2F&headerType=none&encryption=none#🇧🇾 Belarus | DataHata 2
+vless://b8006e78-0f7e-4216-9fa3-f1e5c3d93e4f@78.140.252.20:443?type=tcp&security=reality&sni=static.beeline.ru&flow=xtls-rprx-vision&pbk=0Z6f6RFk_mPgcqXi1pryuTLMz_phlAgBu1hWmVXIkVA&sid=5cdef06e2f&fp=qq#🇧🇾 Belarus | Itglobalcom BEL 1

@@ -5,8 +5,8 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://a88e2744-3555-4a0a-9635-0aae23e038f8@45.134.38.204:8062?type=tcp&security=reality&fp=firefox&pbk=hjJ1VN2xwcl1n7vrwvOspB2NFWrXNySUNPexutOVvAM&sid=84c94774c54ba6&sni=www.amd.com#🇩🇰 Denmark | Forening for DotSrc 1
 vless://d67af820-f54c-48ab-862c-19086357f276@46.29.235.9:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=a1b2c3d4#🇩🇰 Denmark | Global Connectivity So... 1
-vless://d67af820-f54c-48ab-862c-19086357f276@46.29.235.9:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&sid=a1b2c3d4&sni=telegraf.lv#🇩🇰 Denmark | Global Connectivity So... 2
+vless://d67af820-f54c-48ab-862c-19086357f276@46.29.235.9:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=a1b2c3d4#🇩🇰 Denmark | Global Connectivity So... 2
 vless://d67af820-f54c-48ab-862c-19086357f276@46.29.235.9:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=a1b2c3d4#🇩🇰 Denmark | Global Connectivity So... 3
-vless://d67af820-f54c-48ab-862c-19086357f276@46.29.235.9:443?flow=xtls-rprx-vision&security=reality&sni=telegraf.lv&fp=firefox&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&sid=a1b2c3d4&path=/#🇩🇰 Denmark | Global Connectivity So... 4
+vless://d67af820-f54c-48ab-862c-19086357f276@46.29.235.9:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&sid=a1b2c3d4&sni=telegraf.lv#🇩🇰 Denmark | Global Connectivity So... 4
+vless://9f2f3e55-a8a6-40f3-aeb2-1061e9207d4d@104.25.233.30:443?path=/ws-dk&security=tls&encryption=none&insecure=0&host=p2bm6l1.freelanceriran98.ir&type=ws&allowInsecure=0&sni=p2bm6l1.freelanceriran98.ir#🇩🇰 Denmark | M247 Europe SRL 1
