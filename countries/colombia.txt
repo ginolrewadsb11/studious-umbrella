@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDb2xvbWJpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDb2xvbWJpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.222.255:62145?security=none&type=tcp#🌍 Colombia | Oracle 1
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.172.85:62145?security=none&type=tcp#🌍 Colombia | Oracle 2
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.172.85:62145?type=tcp#🌍 Colombia | Oracle 1
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.173.227:62145?type=tcp&packetEncoding=none#🌍 Colombia | Oracle 2
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.172.85:62145?type=tcp#🌍 Colombia | Oracle 3
