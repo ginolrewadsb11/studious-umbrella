@@ -3,11 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDEwINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://699ce9a1-abbb-4525-988e-b940381352e8@itproxy3.lockdwn.com:443?&type=ws&headerType=none&host=itproxy3.lockdwn.com&path=%2F#🇮🇹 Italy | Hostkey B.V. 1
-vless://699ce9a1-abbb-4525-988e-b940381352e8@itproxy3.lockdwn.com:443?&type=ws&headerType=none&host=itproxy3.lockdwn.com&path=%2F#🇮🇹 Italy | Hostkey B.V. 2
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&type=tcp&headerType=none#🇮🇹 Italy | Oracle 1
+vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@104.105.78.231:17780?type=raw&security=reality&fp=firefox&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb&sni=amp-api-edge.apps.apple.com#🇮🇹 Italy | Akamai Technologies, 1
+vless://699ce9a1-abbb-4525-988e-b940381352e8@itproxy3.lockdwn.com:443?encryption=none&path=/&security=none&type=ws#🇮🇹 Italy | Hostkey B.V. 1
+vless://699ce9a1-abbb-4525-988e-b940381352e8@itproxy3.lockdwn.com:443?encryption=none&path=/&security=none&type=ws#🇮🇹 Italy | Hostkey B.V. 2
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@166.62.109.30:8880?encryption=none&host=vms.lifetime18.workers.dev&path=/&security=none&type=ws#🇮🇹 Italy | Kamatera, 1
+vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b&sni=yahoo.com#🇮🇹 Italy | Oracle 1
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&type=tcp&headerType=none#🇮🇹 Italy | Oracle 2
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?type=raw#🇮🇹 Italy | Oracle 3
 vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?type=tcp&security=reality&fp=firefox&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&sid=5b8a942318178e7b&sni=www.apple.com#🇮🇹 Italy | OVH SAS 1
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#🇮🇹 Italy | OVH SAS 2
-vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&host=ov-italy1.09vpn.com&type=ws&allowInsecure=0&sni=ov-italy1.09vpn.com#🇮🇹 Italy | OVH SAS 3
+vless://b3051b10-716d-455b-9811-aefcce3d633e@ov-italy1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#🇮🇹 Italy | OVH SAS 2
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@ov-italy1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws&sni=ov-italy1.09vpn.com#🇮🇹 Italy | OVH SAS 3
