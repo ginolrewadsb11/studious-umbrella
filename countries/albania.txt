@@ -3,19 +3,17 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBBbGJhbmlhCuKaoSAxNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBBbGJhbmlhCuKaoSAxMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@193.108.112.245:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=alban.freeinternat.com&type=tcp#🌍 Albania | Baxet Group 1
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@193.108.112.245:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=alban.freeinternat.com&type=tcp#🌍 Albania | Baxet Group 2
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@alban.freeinternat.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=alban.freeinternat.com&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2F&type=tcp&headerType=none#🌍 Albania | Baxet Group 3
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@alban.freeinternat.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=alban.freeinternat.com&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2F&type=tcp&headerType=none#🌍 Albania | Baxet Group 4
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@alban.freeinternat.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=alban.freeinternat.com&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2F&type=tcp&headerType=none#🌍 Albania | Baxet Group 5
+vless://41e71ba7-d389-47aa-94f7-ed1f55fdbcdf@194.93.61.100:443?security=reality&encryption=none&pbk=E1te_g9q6EWQVOCgjwI4PF-cml9qqW7OEAf33tYkUxQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=17d334ad29b2ff40#🌍 Albania | Forestsnet LTD 1
 vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.150.64.157:443?encryption=none&fp=chrome&path=%2Fwebsocket&security=tls&sni=alb1.abvpn.ru&type=ws#🌍 Albania | Global Connectivity So... 1
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.150.64.157:443?encryption=none&path=%2Fwebsocket&security=tls&sni=alb1.abvpn.ru&type=ws&fp=qq#🌍 Albania | Global Connectivity So... 2
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.150.64.157:443?encryption=none&fp=safari&path=%2Fwebsocket&security=tls&sni=alb1.abvpn.ru&type=ws#🌍 Albania | Global Connectivity So... 2
 vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.150.64.157:443?encryption=none&fp=firefox&path=%2Fwebsocket&security=tls&sni=alb1.abvpn.ru&type=ws#🌍 Albania | Global Connectivity So... 3
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.150.64.157:443?encryption=none&fp=qq&path=/websocket&security=tls&sni=alb1.abvpn.ru&type=ws#🌍 Albania | Global Connectivity So... 4
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.150.64.157:443?encryption=none&fp=safari&path=%2Fwebsocket&security=tls&sni=alb1.abvpn.ru&type=ws#🌍 Albania | Global Connectivity So... 5
-vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl6.unlockvpn.online:8445?path=/api/v1/devices/e1971f0b19/telemetry&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=nl6.unlockvpn.online#🌍 Albania | Global Connectivity So... 6
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.150.64.157:443?encryption=none&path=%2Fwebsocket&security=tls&sni=alb1.abvpn.ru&type=ws&fp=chrome#🌍 Albania | Global Connectivity So... 7
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.150.64.157:443?encryption=none&path=%2Fwebsocket&security=tls&sni=alb1.abvpn.ru&type=ws&fp=firefox#🌍 Albania | Global Connectivity So... 8
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.150.64.157:443?encryption=none&path=%2Fwebsocket&security=tls&sni=alb1.abvpn.ru&type=ws&fp=safari#🌍 Albania | Global Connectivity So... 9
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.150.64.157:443?encryption=none&fp=qq&path=%2Fwebsocket&security=tls&sni=alb1.abvpn.ru&type=ws#🌍 Albania | Global Connectivity So... 10
-vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl6.unlockvpn.online:8445?path=/api/v1/devices/e1971f0b19/telemetry&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=nl6.unlockvpn.online#🌍 Albania | Global Connectivity So... 11
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@alb1.abvpn.ru:443?type=ws&security=tls&encryption=none&sni=alb1.abvpn.ru&path=%2Fwebsocket&fp=chrome#🌍 Albania | Global Connectivity So... 12
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@alb1.abvpn.ru:443?type=ws&security=tls&encryption=none&sni=alb1.abvpn.ru&path=%2Fwebsocket&fp=safari#🌍 Albania | Global Connectivity So... 13
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@alb1.abvpn.ru:443?type=ws&security=tls&encryption=none&sni=alb1.abvpn.ru&path=%2Fwebsocket&fp=firefox#🌍 Albania | Global Connectivity So... 14
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.150.64.157:443?encryption=none&fp=qq&path=%2Fwebsocket&security=tls&sni=alb1.abvpn.ru&type=ws#🌍 Albania | Global Connectivity So... 4
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.150.64.157:443?encryption=none&fp=qq&path=/websocket&security=tls&sni=alb1.abvpn.ru&type=ws#🌍 Albania | Global Connectivity So... 5
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.150.64.157:443?encryption=none&fp=qq&path=%2Fwebsocket&security=tls&sni=alb1.abvpn.ru&type=ws#🌍 Albania | Global Connectivity So... 6
