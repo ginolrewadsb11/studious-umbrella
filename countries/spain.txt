@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqvCfh7ggQm9iaVZQTiDigJQgU3BhaW4K4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://2297ea1f-2415-4a2c-be20-4a3a978283a2@193.238.154.18:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44&sni=es1.hat.onl#🇪🇸 Spain | Green Floid 1
-vless://6fbdbd3c-7696-4b9a-9a10-bcecc26e0f6f@212.227.235.66:2053?type=tcp&security=reality&fp=firefox&pbk=XrPOJwmpnq8NeCXu6K68Mp59gQ56Dr4YYboxI70kqzA&sid=866af6e56606f2bc&sni=www.cloudflare.com&packetEncoding=none#🇪🇸 Spain | IONOS SE 1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.254.140.30:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime54.workers.dev&path=%2F&security=none&type=ws#🇪🇸 Spain | Google 1
+vless://2297ea1f-2415-4a2c-be20-4a3a978283a2@193.238.154.18:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44&sni=es1.hat.onl&packetEncoding=none#🇪🇸 Spain | Green Floid 1
+vless://6fbdbd3c-7696-4b9a-9a10-bcecc26e0f6f@212.227.235.66:2053?type=tcp&security=reality&fp=firefox&pbk=XrPOJwmpnq8NeCXu6K68Mp59gQ56Dr4YYboxI70kqzA&sid=866af6e56606f2bc&sni=www.cloudflare.com#🇪🇸 Spain | IONOS SE 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 Spain | Psychz Networks 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#🇪🇸 Spain | Psychz Networks 2
