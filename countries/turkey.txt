@@ -3,17 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVHVya2V5CuKaoSAxMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVHVya2V5CuKaoSA4INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://380f152a-33b3-456e-b5db-970aa27c32e3@tr.wba-pn.ru:2053?type=ws&security=tls&sni=vk.com&fp=android#🇹🇷 Turkey | Global Connectivity So... 1
-vless://78eb4455-0d07-4bc2-93e3-7c8654f11d74@premium-tr.geodema.network:8443?&security=reality&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&fp=firefox&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#🇹🇷 Turkey | Iksir Internet Hizmetl... 1
-vless://78eb4455-0d07-4bc2-93e3-7c8654f11d74@premium-tr.geodema.network:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sni=www.apple.com#🇹🇷 Turkey | Iksir Internet Hizmetl... 2
-vless://78eb4455-0d07-4bc2-93e3-7c8654f11d74@premium-tr.geodema.network:8443?flow=xtls-rprx-vision&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=www.apple.com&type=tcp#🇹🇷 Turkey | Iksir Internet Hizmetl... 3
-vless://5626ce32-dad0-468b-952c-e53d609100f1@212.87.199.122:58416?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#🇹🇷 Turkey | Netlen Internet Hizmet... 1
+vless://380f152a-33b3-456e-b5db-970aa27c32e3@109.196.98.121:2053?type=ws&security=tls&sni=vk.com&fp=chrome#🇹🇷 Turkey | Global Connectivity So... 1
+vless://b052df40-d51c-456c-9bd6-57af01a87e4e@156.67.63.231:443?&security=reality&flow=xtls-rprx-vision&pbk=PTqeBbbr2xJ1L3V1PyYjKjxanMKKqJHU-wtnpYmFQCI&sid=5606d4a25c99e7af&fp=chrome&sni=sync-bridge.org&type=tcp&headerType=none&host=sync-bridge.org&path=%2F#🇹🇷 Turkey | Hostkey B.V. 1
+vless://5626ce32-dad0-468b-952c-e53d609100f1@212.87.199.122:58416?security=&encryption=none&headerType=none&type=tcp#🇹🇷 Turkey | Netlen Internet Hizmet... 1
 vless://5626ce32-dad0-468b-952c-e53d609100f1@212.87.199.122:58416?encryption=none&packetEncoding=xudp#🇹🇷 Turkey | Netlen Internet Hizmet... 2
-vless://5626ce32-dad0-468b-952c-e53d609100f1@212.87.199.122:58416?security=&encryption=none&headerType=none&type=tcp#🇹🇷 Turkey | Netlen Internet Hizmet... 3
-vless://255386a8-aec5-4425-bfe7-ca49b7448deb@144.225.65.111:46142?type=tcp&security=reality&fp=firefox&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&sid=39feeba3085c&sni=www.yahoo.com#🇹🇷 Turkey | Netlen Internet Hizmet... 4
-vless://255386a8-aec5-4425-bfe7-ca49b7448deb@turj2.surup.shop:46142?security=reality&encryption=none&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=39feeba3085c#🇹🇷 Turkey | Netlen Internet Hizmet... 5
-vless://255386a8-aec5-4425-bfe7-ca49b7448deb@turj2.surup.shop:46142?security=reality&encryption=none&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&headerType=none&fp=edge&spx=%2F&type=tcp&sni=www.yahoo.com&sid=39feeba3085c#🇹🇷 Turkey | Netlen Internet Hizmet... 6
-vless://255386a8-aec5-4425-bfe7-ca49b7448deb@turj2.surup.shop:46142?security=reality&encryption=none&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=39feeba3085c#🇹🇷 Turkey | Netlen Internet Hizmet... 7
-vless://255386a8-aec5-4425-bfe7-ca49b7448deb@turj2.surup.shop:46142?security=reality&encryption=none&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=39feeba3085c#🇹🇷 Turkey | Netlen Internet Hizmet... 8
+vless://255386a8-aec5-4425-bfe7-ca49b7448deb@turj2.surup.shop:46142?security=reality&encryption=none&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=39feeba3085c#🇹🇷 Turkey | Netlen Internet Hizmet... 3
+vless://31f0e05b-2126-46ea-8f47-34e60defaa1b@tr2.diginoisb.ir:54178?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 Turkey | Netlen Internet Hizmet... 4
+vless://31f0e05b-2126-46ea-8f47-34e60defaa1b@tr2.diginoisb.ir:54178?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 Turkey | Netlen Internet Hizmet... 5
+vless://255386a8-aec5-4425-bfe7-ca49b7448deb@turj2.surup.shop:46142?security=reality&encryption=none&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=39feeba3085c#🇹🇷 Turkey | Netlen Internet Hizmet... 6
