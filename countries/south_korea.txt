@@ -3,13 +3,24 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh7cgQm9iaVZQTiDigJQgU291dGggS29yZWEK4pqhIDgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HsPCfh7cgQm9iaVZQTiDigJQgU291dGggS29yZWEK4pqhIDE5INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://10dd7b2d-eda2-4a47-9f6e-5093a3cd7ded@3.38.1.152:19179?security=reality&encryption=none&pbk=BabvzCKB_cqCz56qFQhOWIypFKFhEWo9Eyn_JPZIAxA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=fa1e592603c283#🇰🇷 South Korea | Amazon.com, 1
-vless://10dd7b2d-eda2-4a47-9f6e-5093a3cd7ded@3.38.1.152:19179?security=reality&encryption=none&pbk=BabvzCKB_cqCz56qFQhOWIypFKFhEWo9Eyn_JPZIAxA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=fa1e592603c283#🇰🇷 South Korea | Amazon.com, 2
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇰🇷 South Korea | Amazon.com, 3
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇰🇷 South Korea | Amazon.com, 4
-vless://9f7dddc4-6c77-4e2c-bfa4-7e5afdfd48f8@151.245.106.49:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=58186df4a95a1504&pbk=Wg07hKwQjSVmOsEHn7X1iLAXR2wkKRSyv8TZmq9ZsRA#🇰🇷 South Korea | HostHatch 1
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇰🇷 South Korea | Amazon.com, 1
+vless://10dd7b2d-eda2-4a47-9f6e-5093a3cd7ded@3.38.1.152:19179?security=reality&type=raw&sni=www.intel.com&fp=firefox&flow=xtls-rprx-vision&sid=fa1e592603c283&pbk=BabvzCKB_cqCz56qFQhOWIypFKFhEWo9Eyn_JPZIAxA&encryption=none#🇰🇷 South Korea | Amazon.com, 2
+vless://10dd7b2d-eda2-4a47-9f6e-5093a3cd7ded@3.38.1.152:19179?security=reality&type=raw&sni=www.intel.com&fp=firefox&flow=xtls-rprx-vision&sid=fa1e592603c283&pbk=BabvzCKB_cqCz56qFQhOWIypFKFhEWo9Eyn_JPZIAxA&encryption=none#🇰🇷 South Korea | Amazon.com, 3
+vless://83973343-90db-423d-a5f7-2e3b56aeb8f4@43.202.46.25:28482?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=8fsYG_Pg35aeg1E5Gc3HUaXou2OUQee4ukxVk99iR0s&sid=fa1e592603c283&sni=www.intel.com#🇰🇷 South Korea | Amazon.com, 4
+vless://10dd7b2d-eda2-4a47-9f6e-5093a3cd7ded@3.38.1.152:19179?security=reality&encryption=none&pbk=BabvzCKB_cqCz56qFQhOWIypFKFhEWo9Eyn_JPZIAxA&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=fa1e592603c283#🇰🇷 South Korea | Amazon.com, 5
+vless://10dd7b2d-eda2-4a47-9f6e-5093a3cd7ded@3.38.1.152:19179?security=reality&encryption=none&pbk=BabvzCKB_cqCz56qFQhOWIypFKFhEWo9Eyn_JPZIAxA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=fa1e592603c283#🇰🇷 South Korea | Amazon.com, 6
+vless://10dd7b2d-eda2-4a47-9f6e-5093a3cd7ded@3.38.1.152:19179?security=reality&encryption=none&pbk=BabvzCKB_cqCz56qFQhOWIypFKFhEWo9Eyn_JPZIAxA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=fa1e592603c283#🇰🇷 South Korea | Amazon.com, 7
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇰🇷 South Korea | Amazon.com, 8
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇰🇷 South Korea | Amazon.com, 9
+vless://10dd7b2d-eda2-4a47-9f6e-5093a3cd7ded@3.38.1.152:19179?security=reality&type=tcp&sni=www.intel.com&fp=firefox&flow=xtls-rprx-vision&sid=fa1e592603c283&pbk=BabvzCKB_cqCz56qFQhOWIypFKFhEWo9Eyn_JPZIAxA#🇰🇷 South Korea | Amazon.com, 10
+vless://83973343-90db-423d-a5f7-2e3b56aeb8f4@43.202.46.25:28482?security=reality&type=tcp&sni=www.intel.com&fp=firefox&flow=xtls-rprx-vision&sid=fa1e592603c283&pbk=8fsYG_Pg35aeg1E5Gc3HUaXou2OUQee4ukxVk99iR0s#🇰🇷 South Korea | Amazon.com, 11
+vless://1ebb0858-218a-4dee-8746-36a67bc64462@119.28.161.143:443?type=tcp&encryption=none&sni=apple.com&fp=chrome&security=reality&pbk=pR7MPTAA4cZsW9AO-twMzuogiWGMKPiheTg70fcWWWs&sid=0a427bc3#🇰🇷 South Korea | ComsenzNet 1
+vless://9f7dddc4-6c77-4e2c-bfa4-7e5afdfd48f8@151.245.106.49:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=Wg07hKwQjSVmOsEHn7X1iLAXR2wkKRSyv8TZmq9ZsRA&sid=58186df4a95a1504&sni=www.cloudflare.com#🇰🇷 South Korea | HostHatch 1
+vless://9f7dddc4-6c77-4e2c-bfa4-7e5afdfd48f8@151.245.106.49:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=Wg07hKwQjSVmOsEHn7X1iLAXR2wkKRSyv8TZmq9ZsRA&sid=58186df4a95a1504&sni=www.cloudflare.com#🇰🇷 South Korea | HostHatch 2
+vless://9f7dddc4-6c77-4e2c-bfa4-7e5afdfd48f8@151.245.106.49:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=58186df4a95a1504&pbk=Wg07hKwQjSVmOsEHn7X1iLAXR2wkKRSyv8TZmq9ZsRA#🇰🇷 South Korea | HostHatch 3
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#🇰🇷 South Korea | KOR VULTR 1
-vless://84da6391-1539-4583-a3d9-d6efd796b4d6@130.94.29.111:2087/?type=ws&encryption=none&flow=&path=%2Fe17586a75123&packetEncoding=xudp#🇰🇷 South Korea | Light Node 1
-vless://84da6391-1539-4583-a3d9-d6efd796b4d6@130.94.29.111:2087/?type=ws&encryption=none&flow=&path=%2Fe17586a75123&packetEncoding=xudp#🇰🇷 South Korea | Light Node 2
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@141.164.45.187:8119#🇰🇷 South Korea | KOR VULTR 2
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#🇰🇷 South Korea | KOR VULTR 3
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@141.164.45.187:5498#🇰🇷 South Korea | KOR VULTR 4
