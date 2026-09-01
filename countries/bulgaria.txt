@@ -3,14 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDkg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9002?security=reality&type=grpc&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&mode=gun&sni=api-maps.yandex.ru&encryption=none&serviceName=grpc-reality#🇧🇬 Bulgaria | Belcloud LTD 1
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9002?encryption=none&fp=safari&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sni=api-maps.yandex.ru&type=grpc#🇧🇬 Bulgaria | Belcloud LTD 2
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9002?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sni=api-maps.yandex.ru&type=grpc&fp=ios#🇧🇬 Bulgaria | Belcloud LTD 3
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9002?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sni=api-maps.yandex.ru&type=grpc&fp=safari#🇧🇬 Bulgaria | Belcloud LTD 4
-vless://bfb66910-f920-42c6-b52a-5f56e1dabcb4@82.118.18.224:443?security=reality&encryption=none&pbk=mx0NhP2x4HYUumJ1r0RV411imRCjKQDfDf5ApSz5cCE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=63499b2eceaee61e#🇧🇬 Bulgaria | Route 95 1
-vless://bfb66910-f920-42c6-b52a-5f56e1dabcb4@82.118.18.224:443?security=reality&encryption=none&pbk=mx0NhP2x4HYUumJ1r0RV411imRCjKQDfDf5ApSz5cCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=63499b2eceaee61e#🇧🇬 Bulgaria | Route 95 2
-vless://bfb66910-f920-42c6-b52a-5f56e1dabcb4@82.118.18.224:443?security=reality&encryption=none&pbk=mx0NhP2x4HYUumJ1r0RV411imRCjKQDfDf5ApSz5cCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=63499b2eceaee61e#🇧🇬 Bulgaria | Route 95 3
-vless://316dda83-17f1-4f29-a05f-b84b7f991b82@82.118.18.202:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=HDiwGAN66V77CrlCWrDZupEiSQk204dkWRjJok0zYhk&sni=www.cloudflare.com&sid=720148f2fea16d0f#🇧🇬 Bulgaria | Route 95 4
-vless://316dda83-17f1-4f29-a05f-b84b7f991b82@82.118.18.202:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=HDiwGAN66V77CrlCWrDZupEiSQk204dkWRjJok0zYhk&sni=www.cloudflare.com&sid=720148f2fea16d0f#🇧🇬 Bulgaria | Route 95 5
+vless://bfb66910-f920-42c6-b52a-5f56e1dabcb4@82.118.18.224:443?security=reality&encryption=none&pbk=mx0NhP2x4HYUumJ1r0RV411imRCjKQDfDf5ApSz5cCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=63499b2eceaee61e#🇧🇬 Bulgaria | Route 95 1
+vless://316dda83-17f1-4f29-a05f-b84b7f991b82@82.118.18.202:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=HDiwGAN66V77CrlCWrDZupEiSQk204dkWRjJok0zYhk&sni=www.cloudflare.com&sid=720148f2fea16d0f#🇧🇬 Bulgaria | Route 95 2
+vless://316dda83-17f1-4f29-a05f-b84b7f991b82@82.118.18.202:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=HDiwGAN66V77CrlCWrDZupEiSQk204dkWRjJok0zYhk&sni=www.cloudflare.com&sid=720148f2fea16d0f#🇧🇬 Bulgaria | Route 95 3
+vless://bfb66910-f920-42c6-b52a-5f56e1dabcb4@82.118.18.224:443?security=reality&encryption=none&pbk=mx0NhP2x4HYUumJ1r0RV411imRCjKQDfDf5ApSz5cCE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=63499b2eceaee61e#🇧🇬 Bulgaria | Route 95 4
