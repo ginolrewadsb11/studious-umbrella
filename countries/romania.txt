@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.106.30:8880?security=none&type=ws&path=/&host=vms.lifetime54.workers.dev&packetEncoding=xudp&encryption=none#🇷🇴 Romania | DataNode DC SRL 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#🇷🇴 Romania | Dotro Telecom SRL 1
 vless://ee9e2135-c444-4adb-aaa5-a0efa1a74fdf@82.117.255.26:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=gMcijHp0RNZF6l556BaOxu1bKNIFON0_JjXhJzpioAk&sid=b395baf965957d93&sni=www.cloudflare.com#🇷🇴 Romania | Green Floid 1
+vless://ee9e2135-c444-4adb-aaa5-a0efa1a74fdf@82.117.255.26:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=gMcijHp0RNZF6l556BaOxu1bKNIFON0_JjXhJzpioAk&sid=b395baf965957d93&sni=www.cloudflare.com#🇷🇴 Romania | Green Floid 2
+vless://ee9e2135-c444-4adb-aaa5-a0efa1a74fdf@82.117.255.26:443?security=reality&encryption=none&pbk=gMcijHp0RNZF6l556BaOxu1bKNIFON0_JjXhJzpioAk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=b395baf965957d93#🇷🇴 Romania | Green Floid 3
+vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&fp=firefox&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sid=5ee019e02e6ed99a#🇷🇴 Romania | MAGIT'ST SRL 1
+vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@196.245.156.29:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&security=reality&sid=8718c58d3d51db59&sni=rm2.magazinnarubeva.ru&type=tcp#🇷🇴 Romania | Orion Network 1
+vless://f5e98e30-28b8-468a-a5a5-c6c22be64055@196.245.156.29:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&security=reality&sid=8718c58d3d51db59&sni=rm2.magazinnarubeva.ru&type=tcp#🇷🇴 Romania | Orion Network 2
