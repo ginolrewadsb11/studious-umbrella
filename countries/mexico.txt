@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNZXhpY28K4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNZXhpY28K4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=/vless/#🌍 Mexico | Latitude.sh 1
+vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@216.238.86.91:443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#🌍 Mexico | Cloudflare, 1
+vless://5c9b8a5f-0863-4cfa-9c1d-aa1a5b7415df@139.177.103.135:8443?encryption=none&security=reality&sni=tesla.com&flow=xtls-rprx-vision&type=tcp&pbk=LiSrIOq9pojF5iZc2c660LUAESwEWbxzt1YR96xz4k4&fp=edge#🌍 Mexico | Oracle 1
+vless://5c9b8a5f-0863-4cfa-9c1d-aa1a5b7415df@139.177.103.135:8443?encryption=none&security=reality&sni=tesla.com&flow=xtls-rprx-vision&type=tcp&pbk=LiSrIOq9pojF5iZc2c660LUAESwEWbxzt1YR96xz4k4&fp=firefox#🌍 Mexico | Oracle 2
+vless://5c9b8a5f-0863-4cfa-9c1d-aa1a5b7415df@139.177.103.135:8443?encryption=none&security=reality&sni=tesla.com&flow=xtls-rprx-vision&type=tcp&pbk=LiSrIOq9pojF5iZc2c660LUAESwEWbxzt1YR96xz4k4&fp=qq#🌍 Mexico | Oracle 3
