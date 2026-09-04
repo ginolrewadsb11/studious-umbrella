@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuPCfh7AgQm9iaVZQTiDigJQgU2xvdmFraWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HuPCfh7AgQm9iaVZQTiDigJQgU2xvdmFraWEK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://9b18ccef-b9e0-41d1-8990-9d970569e142@185.112.249.201:8443?allowInsecure=1&sni=web-socket.tgdaosheng.ggff.net&type=ws&host=web-socket.tgdaosheng.ggff.net&path=/proxyip=bpb.yousef.isegaro.comfp=chrome&security=tls#🇸🇰 Slovakia | Cloudflare, 1
+vless://9b18ccef-b9e0-41d1-8990-9d970569e142@185.112.249.201:8443?&security=tls&fp=chrome&sni=web-socket.tgdaosheng.ggff.net&type=ws&headerType=none&host=web-socket.tgdaosheng.ggff.net&path=%2Fproxyip%3Dbpb.yousef.isegaro.comfp%3Dchrome#🇸🇰 Slovakia | Cloudflare, 1
+vless://9b18ccef-b9e0-41d1-8990-9d970569e142@185.112.249.201:8443?&security=tls&fp=chrome&sni=web-socket.tgdaosheng.ggff.net&type=ws&headerType=none&host=web-socket.tgdaosheng.ggff.net&path=/proxyip=bpb.yousef.isegaro.comfp=chrome#🇸🇰 Slovakia | Cloudflare, 2
