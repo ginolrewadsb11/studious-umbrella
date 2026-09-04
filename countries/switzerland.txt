@@ -3,11 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@194.154.29.149:443?encryption=none&flow=xtls-rprx-vision&pbk=bnUUlOHnKSj_dwJQP-zMTTVjJ9IierDOleYNKA_kpn4&security=reality&sni=ch-1.kihsuyhf8jkiugsxb.cfd&type=tcp&fp=edge#🇨🇭 Switzerland | FORNEX 1
-vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@194.154.29.149:443?encryption=none&flow=xtls-rprx-vision&pbk=bnUUlOHnKSj_dwJQP-zMTTVjJ9IierDOleYNKA_kpn4&security=reality&sni=ch-1.kihsuyhf8jkiugsxb.cfd&type=tcp&fp=qq#🇨🇭 Switzerland | FORNEX 2
-vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@194.154.29.149:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bnUUlOHnKSj_dwJQP-zMTTVjJ9IierDOleYNKA_kpn4&security=reality&sni=ch-1.kihsuyhf8jkiugsxb.cfd&type=tcp#🇨🇭 Switzerland | FORNEX 3
+vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@194.154.29.149:443?encryption=none&flow=xtls-rprx-vision&pbk=bnUUlOHnKSj_dwJQP-zMTTVjJ9IierDOleYNKA_kpn4&security=reality&sni=ch-1.kihsuyhf8jkiugsxb.cfd&type=tcp&fp=firefox#🇨🇭 Switzerland | FORNEX 1
+vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@194.154.29.149:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bnUUlOHnKSj_dwJQP-zMTTVjJ9IierDOleYNKA_kpn4&security=reality&sni=ch-1.kihsuyhf8jkiugsxb.cfd&type=tcp#🇨🇭 Switzerland | FORNEX 2
+vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@194.154.29.149:443?encryption=none&flow=xtls-rprx-vision&pbk=bnUUlOHnKSj_dwJQP-zMTTVjJ9IierDOleYNKA_kpn4&security=reality&sni=ch-1.kihsuyhf8jkiugsxb.cfd&type=tcp&fp=edge#🇨🇭 Switzerland | FORNEX 3
 vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@194.154.29.149:443?encryption=none&flow=xtls-rprx-vision&pbk=bnUUlOHnKSj_dwJQP-zMTTVjJ9IierDOleYNKA_kpn4&security=reality&sni=ch-1.kihsuyhf8jkiugsxb.cfd&type=tcp&fp=chrome#🇨🇭 Switzerland | FORNEX 4
-vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@194.154.29.149:443?encryption=none&flow=xtls-rprx-vision&pbk=bnUUlOHnKSj_dwJQP-zMTTVjJ9IierDOleYNKA_kpn4&security=reality&sni=ch-1.kihsuyhf8jkiugsxb.cfd&type=tcp&fp=firefox#🇨🇭 Switzerland | FORNEX 5
-vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@194.154.29.149:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bnUUlOHnKSj_dwJQP-zMTTVjJ9IierDOleYNKA_kpn4&security=reality&sni=ch-1.kihsuyhf8jkiugsxb.cfd&type=tcp#🇨🇭 Switzerland | FORNEX 6
