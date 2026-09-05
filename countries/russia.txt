@@ -3,11 +3,16 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSA2INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAxMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?security=reality&sni=ya.ru&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e&type=tcp&packetEncoding=xudp&encryption=none#🇷🇺 Russia | Beget 1
-hysteria2://e0b9fb0f-1bbd-478b-9580-c2294778338b@cdncache.pleiades.codes:8443?insecure=1&sni=cdncache.pleiades.codes#🇷🇺 Russia | Delta 1
+ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ==@46.17.40.234:50102#🇷🇺 Russia | BAXET 1
+ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ==@46.17.40.234:50102#🇷🇺 Russia | BAXET 2
+vless://8d1a1b09-12d6-4b76-82f0-893cc805d9c0@46.173.25.146:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&sid=ea1058117be12087&sni=ru.crunch-crunch.com#🇷🇺 Russia | Beget 1
+hysteria2://e0b9fb0f-1bbd-478b-9580-c2294778338b@cdncache.pleiades.codes:8443?sni=cdncache.pleiades.codes#🇷🇺 Russia | Delta 1
+hysteria2://e0b9fb0f-1bbd-478b-9580-c2294778338b@cdncache.pleiades.codes:8443?insecure=1&sni=cdncache.pleiades.codes#🇷🇺 Russia | Delta 2
+vless://6fc81c37-e8e5-486d-8f07-3d6188ceb83b@66.81.247.240:8880?path=%2Frutube&security=none&encryption=none&host=rutube.hampals.net&type=ws&sni=66.81.247.240#🇷🇺 Russia | JSC "TIMEWEB" 1
 vless://379998c5-2a71-4202-9c74-522e0c3c5404@185.147.27.183:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=user-6a917f32.noooo.win&type=tcp#🇷🇺 Russia | Kviktel 1
-vless://379998c5-2a71-4202-9c74-522e0c3c5404@185.147.27.183:8443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=user-6a917f32.noooo.win#🇷🇺 Russia | Kviktel 2
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=/v1&security=none&encryption=none&type=ws#🇷🇺 Russia | MegaMax Network 1
+vless://379998c5-2a71-4202-9c74-522e0c3c5404@185.147.27.183:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=user-6a917f32.noooo.win&type=tcp#🇷🇺 Russia | Kviktel 2
 vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.9.15.206:443?&security=tls&fp=edge&sni=ru05.abvpn.ru&type=ws&headerType=none&host=ru05.abvpn.ru&path=%2Fwebsocket#🇷🇺 Russia | UFO Hosting 1
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@45.9.15.206:443?&security=tls&fp=edge&sni=ru05.abvpn.ru&type=ws&headerType=none&host=ru05.abvpn.ru&path=%2Fwebsocket#🇷🇺 Russia | UFO Hosting 2
+vless://29834e2e-729c-491f-af21-d1d9a8bde8c6@103.246.248.19:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=one.one.one.one&fp=firefox&pbk=n4fBPJmg0A5jzAPG6QyAV61gxCuYqw5sStpAZixgxkA&sid=bc2f177e31b60023#🇷🇺 Russia | VK 1

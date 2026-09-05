@@ -5,8 +5,8 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@31.77.220.184:7443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=RWu6ktBE4DFbUz_prmz-5KuolLhO53ehh19mNxhP-wI&sid=a1b2c3d4&sni=hotcoals.aeternavpn.space#🇲🇩 Moldova | AVA HOST SRL 1
-vless://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@31.77.220.184:7443?security=reality&encryption=none&pbk=RWu6ktBE4DFbUz_prmz-5KuolLhO53ehh19mNxhP-wI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hotcoals.aeternavpn.space&sid=a1b2c3d4#🇲🇩 Moldova | AVA HOST SRL 2
-vless://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@31.77.220.184:7443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=RWu6ktBE4DFbUz_prmz-5KuolLhO53ehh19mNxhP-wI&sid=a1b2c3d4&sni=hotcoals.aeternavpn.space#🇲🇩 Moldova | AVA HOST SRL 3
-vless://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@31.77.220.184:7443?security=reality&encryption=none&pbk=RWu6ktBE4DFbUz_prmz-5KuolLhO53ehh19mNxhP-wI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=hotcoals.aeternavpn.space&sid=a1b2c3d4#🇲🇩 Moldova | AVA HOST SRL 4
-vless://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@31.77.220.184:7443?security=reality&encryption=none&pbk=RWu6ktBE4DFbUz_prmz-5KuolLhO53ehh19mNxhP-wI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hotcoals.aeternavpn.space&sid=a1b2c3d4#🇲🇩 Moldova | AVA HOST SRL 5
+vless://92089155-6602-4122-86d4-fe6de20e8c4d@31.59.150.174:9443?encryption=none&flow=xtls-rprx-vision&pbk=RWu6ktBE4DFbUz_prmz-5KuolLhO53ehh19mNxhP-wI&security=reality&sid=a1b2c3d4&sni=hotcoals.aeternavpn.space&type=tcp&fp=chrome#🇲🇩 Moldova | AVA HOST SRL 1
+vless://92089155-6602-4122-86d4-fe6de20e8c4d@31.59.150.174:9443?flow=xtls-rprx-vision&fp=firefox&pbk=RWu6ktBE4DFbUz_prmz-5KuolLhO53ehh19mNxhP-wI&security=reality&sid=a1b2c3d4&sni=hotcoals.aeternavpn.space&type=tcp#🇲🇩 Moldova | AVA HOST SRL 2
+vless://92089155-6602-4122-86d4-fe6de20e8c4d@31.59.150.174:9443?encryption=none&flow=xtls-rprx-vision&pbk=RWu6ktBE4DFbUz_prmz-5KuolLhO53ehh19mNxhP-wI&security=reality&sid=a1b2c3d4&sni=hotcoals.aeternavpn.space&type=tcp&fp=firefox#🇲🇩 Moldova | AVA HOST SRL 3
+vless://92089155-6602-4122-86d4-fe6de20e8c4d@31.59.150.174:9443?encryption=none&flow=xtls-rprx-vision&pbk=RWu6ktBE4DFbUz_prmz-5KuolLhO53ehh19mNxhP-wI&security=reality&sid=a1b2c3d4&sni=hotcoals.aeternavpn.space&type=tcp&fp=safari#🇲🇩 Moldova | AVA HOST SRL 4
+vless://92089155-6602-4122-86d4-fe6de20e8c4d@31.59.150.174:9443?encryption=none&flow=xtls-rprx-vision&pbk=RWu6ktBE4DFbUz_prmz-5KuolLhO53ehh19mNxhP-wI&security=reality&sid=a1b2c3d4&sni=hotcoals.aeternavpn.space&type=tcp&fp=ios#🇲🇩 Moldova | AVA HOST SRL 5
