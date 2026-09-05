@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@194.154.29.149:443?&security=reality&flow=xtls-rprx-vision&pbk=bnUUlOHnKSj_dwJQP-zMTTVjJ9IierDOleYNKA_kpn4&fp=firefox&sni=ch-1.kihsuyhf8jkiugsxb.cfd&type=tcp&headerType=none&host=ch-1.kihsuyhf8jkiugsxb.cfd&path=%2F#🇨🇭 Switzerland | FORNEX 1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.194.30:8880?security=none&type=ws&path=/&host=vms.lifetime37.workers.dev&packetEncoding=xudp&encryption=none#🇨🇭 Switzerland | GLB Bulut Teknolojisi ... 1
+vless://1b5e85e9-fda3-4738-8ff1-1696b2bc994d@176.65.144.178:443?flow=xtls-rprx-vision&fp=firefox&pbk=Cve6RU_xmFPAsLiW2eIucli0lwEZyf7XFj6_rR8LukI&security=reality&sid=671047edbaa38eef&sni=google.com&type=tcp#🇨🇭 Switzerland | Dedik Services 1
