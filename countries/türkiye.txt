@@ -3,12 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@195-162-69-203.sslip.io:8443?security=tls&encryption=none&sni=195-162-69-203.sslip.io&alpn=h2%2Chttp%2F1.1&fp=android#🇹🇷 Türkiye | Cloudflare, 1
-vless://b052df40-d51c-456c-9bd6-57af01a87e4e@156.67.63.231:443?security=reality&encryption=none&pbk=PTqeBbbr2xJ1L3V1PyYjKjxanMKKqJHU-wtnpYmFQCI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sync-bridge.org&sid=5606d4a25c99e7af#🇹🇷 Türkiye | Hostkey B.V. 1
-vless://b052df40-d51c-456c-9bd6-57af01a87e4e@156.67.63.231:443?security=reality&flow=xtls-rprx-vision&pbk=PTqeBbbr2xJ1L3V1PyYjKjxanMKKqJHU-wtnpYmFQCI&sid=5606d4a25c99e7af&fp=chrome&sni=sync-bridge.org&type=tcp&headerType=none&host=sync-bridge.org&path=/#🇹🇷 Türkiye | Hostkey B.V. 2
+vless://953358cb-82ba-4296-960d-6d2ec3468f4c@195.162.69.203:8443?type=tcp&security=tls&encryption=none&sni=195-162-69-203.sslip.io&fp=safari#🇹🇷 Türkiye | Cloudflare, 1
+vless://b052df40-d51c-456c-9bd6-57af01a87e4e@156.67.63.231:443?security=reality&flow=xtls-rprx-vision&pbk=PTqeBbbr2xJ1L3V1PyYjKjxanMKKqJHU-wtnpYmFQCI&sid=5606d4a25c99e7af&fp=chrome&sni=sync-bridge.org&type=tcp&headerType=none&host=sync-bridge.org&path=/#🇹🇷 Türkiye | Hostkey B.V. 1
+vless://b052df40-d51c-456c-9bd6-57af01a87e4e@156.67.63.231:443?security=reality&encryption=none&pbk=PTqeBbbr2xJ1L3V1PyYjKjxanMKKqJHU-wtnpYmFQCI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sync-bridge.org&sid=5606d4a25c99e7af#🇹🇷 Türkiye | Hostkey B.V. 2
 vless://b052df40-d51c-456c-9bd6-57af01a87e4e@156.67.63.231:443?security=reality&encryption=none&pbk=PTqeBbbr2xJ1L3V1PyYjKjxanMKKqJHU-wtnpYmFQCI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sync-bridge.org&sid=5606d4a25c99e7af#🇹🇷 Türkiye | Hostkey B.V. 3
 vless://b052df40-d51c-456c-9bd6-57af01a87e4e@156.67.63.231:443?security=reality&flow=xtls-rprx-vision&pbk=PTqeBbbr2xJ1L3V1PyYjKjxanMKKqJHU-wtnpYmFQCI&sid=5606d4a25c99e7af&fp=chrome&sni=sync-bridge.org&type=tcp&headerType=none&host=sync-bridge.org&path=/#🇹🇷 Türkiye | Hostkey B.V. 4
-vless://a22bff60-a40a-4250-bde2-4c660e363b47@104.17.169.13:2053?alpn=http/1.1&host=inDeX.HaRMONiCA01.WORkers.DeV&path=/axch1mttbxz2k55y01&security=tls&sni=inDeX.HaRMONiCA01.WORkers.DeV&type=ws#🇹🇷 Türkiye | Ultahost, 1
-vless://a22bff60-a40a-4250-bde2-4c660e363b47@104.17.169.13:2053?alpn=http/1.1&host=inDeX.HaRMONiCA01.WORkers.DeV&path=/axch1mttbxz2k55y01&security=tls&sni=inDeX.HaRMONiCA01.WORkers.DeV&type=ws#🇹🇷 Türkiye | WorkTitans B.V. 1
