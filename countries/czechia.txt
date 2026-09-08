@@ -3,10 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://f2ad19e0-525a-4ccb-990c-5b9118e49385@94.241.141.23:56443?encryption=none&pbk=RtKpP2TIwEN1FX1TsGuQrJYot3ojLguMcFLhyZdrdAQ&security=reality&serviceName=grpc&sni=5post-gate.x5.ru&type=grpc&fp=firefox#🇨🇿 Czechia | Alinda 1
-vless://f2ad19e0-525a-4ccb-990c-5b9118e49385@94.241.141.23:56443?encryption=none&pbk=RtKpP2TIwEN1FX1TsGuQrJYot3ojLguMcFLhyZdrdAQ&security=reality&serviceName=grpc&sni=5post-gate.x5.ru&type=grpc&fp=edge#🇨🇿 Czechia | Alinda 2
-vless://f2ad19e0-525a-4ccb-990c-5b9118e49385@94.241.141.23:56443?encryption=none&fp=firefox&pbk=RtKpP2TIwEN1FX1TsGuQrJYot3ojLguMcFLhyZdrdAQ&security=reality&serviceName=grpc&sni=5post-gate.x5.ru&type=grpc#🇨🇿 Czechia | Alinda 3
-vless://f2ad19e0-525a-4ccb-990c-5b9118e49385@94.241.141.23:56443?encryption=none&pbk=RtKpP2TIwEN1FX1TsGuQrJYot3ojLguMcFLhyZdrdAQ&security=reality&serviceName=grpc&sni=5post-gate.x5.ru&type=grpc&fp=ios#🇨🇿 Czechia | Alinda 4
-vless://f2ad19e0-525a-4ccb-990c-5b9118e49385@94.241.141.23:56443?encryption=none&pbk=RtKpP2TIwEN1FX1TsGuQrJYot3ojLguMcFLhyZdrdAQ&security=reality&serviceName=grpc&sni=5post-gate.x5.ru&type=grpc&fp=qq#🇨🇿 Czechia | Alinda 5
+vless://cec9a167-6381-4752-9828-a92ab6e6ebdd@195.133.35.197:443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=node.cz.teleserch.ru&type=tcp#🇨🇿 Czechia | Host-Telecom.com s.r.o. 1
+vless://cec9a167-6381-4752-9828-a92ab6e6ebdd@node.cz.teleserch.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=node.cz.teleserch.ru&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&fp=chrome#🇨🇿 Czechia | Host-Telecom.com s.r.o. 2
