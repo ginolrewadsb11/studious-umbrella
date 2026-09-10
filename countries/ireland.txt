@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.163:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-viper.failspace.top&type=tcp#🇮🇪 Ireland | FDCservers.net 1
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ir.failspace.top:443?type=tcp&headerType=none&security=tls&encryption=none&sni=ir.failspace.top&fp=firefox&alpn=h2&flow=xtls-rprx-vision#🇮🇪 Ireland | FDCservers.net 1
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ir.failspace.top:443?type=tcp&headerType=none&security=tls&encryption=none&sni=ir.failspace.top&fp=firefox&alpn=h2&flow=xtls-rprx-vision#🇮🇪 Ireland | FDCservers.net 2

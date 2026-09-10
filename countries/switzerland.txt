@@ -3,7 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?flow=xtls-rprx-vision&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&security=reality&sid=19253fae84102271&sni=www.cloudflare.com&fp=firefox#🇨🇭 Switzerland | Route 95 1
-vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?security=reality&flow=xtls-rprx-vision&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&sid=19253fae84102271&sni=www.cloudflare.com&fp=chrome#🇨🇭 Switzerland | Route 95 2
+vless://f6b5a6a3-f3e1-63ca-bb68-bdc400000000@netlivpn5505.ffffdsaaa.workers.dev:443?encryption=none&security=tls&sni=netlivpn5505.ffffdsaaa.workers.dev&fp=chrome&type=ws&path=%2F#🇨🇭 Switzerland | HostHatch 1
+vless://bd9ff08b-d042-3650-48e4-c4b400000000@188.114.97.6:8080?encryption=none&host=netlivpn2950.bbxff.workers.dev&path=%2FNetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN&security=none&type=ws#🇨🇭 Switzerland | HostHatch 2
+vless://f6b5a6a3-f3e1-63ca-bb68-bdc400000000@104.17.147.22:443?security=tls&type=ws&path=%2FNetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN&host=netlivpn5505.ffffdsaaa.workers.dev&sni=netlivpn5505.ffffdsaaa.workers.dev&fp=chrome&encryption=none#🇨🇭 Switzerland | HostHatch 3
+vless://f6b5a6a3-f3e1-63ca-bb68-bdc400000000@netlivpn5505.ffffdsaaa.workers.dev:443?type=ws&security=tls&fp=qq#🇨🇭 Switzerland | HostHatch 4

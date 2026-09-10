@@ -3,11 +3,19 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDE0INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
+vless://dc8a9493-c54a-459e-d060-81a700000001@45.130.125.201:80?encryption=none&host=nahan-core.netizo09.workers.dev&path=%2Fsync&security=none&type=ws#🇦🇪 United Arab Emirates | CLOUD-NETWORK 1
+vless://ee556a4f-d9f6-44de-af02-42c51659416a@novantunnel.tech:443?encryption=none&fp=randomized&host=novantunnel.tech&path=/Novan-AE9&security=tls&type=ws#🇦🇪 United Arab Emirates | CLOUD-NETWORK 2
+vless://5ef04ae8-8d7c-0a66-13f4-6e3f00000005@104.17.147.22:443?fp=chrome&host=relay.lunetcloud.ir&path=%2Flunetnetwork&security=tls&sni=relay.lunetcloud.ir&type=ws#🇦🇪 United Arab Emirates | Itglobal COM Dmcc 1
 vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 1
-vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=/&host=uae.unixzone.us&sni=uae.unixzone.us#🇦🇪 United Arab Emirates | Oracle 2
-vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 3
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=%2F#🇦🇪 United Arab Emirates | Oracle 4
+vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=/&host=uae.unixzone.us&packetEncoding=xudp&sni=uae.unixzone.us#🇦🇪 United Arab Emirates | Oracle 2
+vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=/&host=uae.unixzone.us&encryption=none#🇦🇪 United Arab Emirates | Oracle 3
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 4
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&type=ws&path=/&host=uae.unixzone.us&sni=uae.unixzone.us#🇦🇪 United Arab Emirates | Oracle 5
-vless://da11650e-da81-42ef-b6e1-7ed8eab402b2@107.189.27.148:443?type=tcp&headerType=none&security=reality&encryption=none&sni=a2vonderenkerensheide.nl&fp=qq&pbk=SbL7vo39Xki9E_DnR8S7HATgsThHH4gK9V_G-aA7ZDk&sid=e361ba0c532788b2&flow=xtls-rprx-vision#🇦🇪 United Arab Emirates | RouterHosting 1
+vless://da11650e-da81-42ef-b6e1-7ed8eab402b2@107.189.27.148:443?security=reality&encryption=none&pbk=SbL7vo39Xki9E_DnR8S7HATgsThHH4gK9V_G-aA7ZDk&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=a2vonderenkerensheide.nl&sid=e361ba0c532788b2#🇦🇪 United Arab Emirates | RouterHosting 1
+vless://da11650e-da81-42ef-b6e1-7ed8eab402b2@107.189.27.148:443?security=reality&encryption=none&pbk=SbL7vo39Xki9E_DnR8S7HATgsThHH4gK9V_G-aA7ZDk&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=a2vonderenkerensheide.nl&sid=e361ba0c532788b2#🇦🇪 United Arab Emirates | RouterHosting 2
+vless://da11650e-da81-42ef-b6e1-7ed8eab402b2@107.189.27.148:443?encryption=none&type=raw&security=reality&flow=xtls-rprx-vision&sni=a2vonderenkerensheide.nl&pbk=SbL7vo39Xki9E_DnR8S7HATgsThHH4gK9V_G-aA7ZDk&sid=e361ba0c532788b2&fp=edge#🇦🇪 United Arab Emirates | RouterHosting 3
+vless://da11650e-da81-42ef-b6e1-7ed8eab402b2@107.189.27.148:443?encryption=none&type=raw&security=reality&flow=xtls-rprx-vision&sni=a2vonderenkerensheide.nl&pbk=SbL7vo39Xki9E_DnR8S7HATgsThHH4gK9V_G-aA7ZDk&sid=e361ba0c532788b2&fp=safari#🇦🇪 United Arab Emirates | RouterHosting 4
+vless://da11650e-da81-42ef-b6e1-7ed8eab402b2@107.189.27.148:443?encryption=none&type=raw&security=reality&flow=xtls-rprx-vision&sni=a2vonderenkerensheide.nl&pbk=SbL7vo39Xki9E_DnR8S7HATgsThHH4gK9V_G-aA7ZDk&sid=e361ba0c532788b2&fp=qq#🇦🇪 United Arab Emirates | RouterHosting 5
+vless://da11650e-da81-42ef-b6e1-7ed8eab402b2@107.189.27.148:443?encryption=none&type=raw&security=reality&flow=xtls-rprx-vision&sni=a2vonderenkerensheide.nl&pbk=SbL7vo39Xki9E_DnR8S7HATgsThHH4gK9V_G-aA7ZDk&sid=e361ba0c532788b2&fp=firefox#🇦🇪 United Arab Emirates | RouterHosting 6
