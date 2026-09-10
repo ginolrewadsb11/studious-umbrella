@@ -3,7 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNb25hY28K4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNb25hY28K4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://a1394087-75fb-489d-bdd0-0c9a70884e68@107.189.27.184:443?type=raw&security=reality&encryption=none&sni=cdn.dodostatic.net&fp=qq&pbk=T9qoEHG1hmfKvnhVytiNuFnAbrNLdYLFjpJJJZhJOzY&sid=02234b3f83a8251c&flow=xtls-rprx-vision#🌍 Monaco | H2nexus Cloud Services... 1
-vless://a1394087-75fb-489d-bdd0-0c9a70884e68@107.189.27.184:443?type=raw&security=reality&encryption=none&sni=cdn.dodostatic.net&fp=qq&pbk=T9qoEHG1hmfKvnhVytiNuFnAbrNLdYLFjpJJJZhJOzY&sid=02234b3f83a8251c&flow=xtls-rprx-vision#🌍 Monaco | H2nexus Cloud Services... 2
+vless://a1394087-75fb-489d-bdd0-0c9a70884e68@107.189.27.184:443?encryption=none&type=raw&security=reality&flow=xtls-rprx-vision&sni=cdn.dodostatic.net&pbk=T9qoEHG1hmfKvnhVytiNuFnAbrNLdYLFjpJJJZhJOzY&sid=02234b3f83a8251c&fp=ios#🌍 Monaco | H2nexus Cloud Services... 1
+vless://a1394087-75fb-489d-bdd0-0c9a70884e68@107.189.27.184:443?encryption=none&type=raw&security=reality&flow=xtls-rprx-vision&sni=cdn.dodostatic.net&pbk=T9qoEHG1hmfKvnhVytiNuFnAbrNLdYLFjpJJJZhJOzY&sid=02234b3f83a8251c&fp=qq#🌍 Monaco | H2nexus Cloud Services... 2
+vless://a1394087-75fb-489d-bdd0-0c9a70884e68@107.189.27.184:443?encryption=none&type=raw&security=reality&flow=xtls-rprx-vision&sni=cdn.dodostatic.net&pbk=T9qoEHG1hmfKvnhVytiNuFnAbrNLdYLFjpJJJZhJOzY&sid=02234b3f83a8251c&fp=safari#🌍 Monaco | H2nexus Cloud Services... 3
+vless://a1394087-75fb-489d-bdd0-0c9a70884e68@107.189.27.184:443?encryption=none&type=raw&security=reality&flow=xtls-rprx-vision&sni=cdn.dodostatic.net&pbk=T9qoEHG1hmfKvnhVytiNuFnAbrNLdYLFjpJJJZhJOzY&sid=02234b3f83a8251c&fp=chrome#🌍 Monaco | H2nexus Cloud Services... 4
