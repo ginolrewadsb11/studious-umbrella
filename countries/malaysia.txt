@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://e8358eb5-7210-4cf8-982f-68af141b7694@56.69.159.191:53271?security=reality&type=tcp&sni=www.tesla.com&fp=firefox&flow=xtls-rprx-vision&sid=0a9bd9db19578964&pbk=1P58ZYmo81kPDnL4U7SnEUA-aT2R86l-o6dbFXoeDjc#🌍 Malaysia | Amazon.com, 1
+vless://e8358eb5-7210-4cf8-982f-68af141b7694@56.69.159.191:53271?security=reality&type=tcp&sni=www.tesla.com&fp=firefox&flow=xtls-rprx-vision&sid=0a9bd9db19578964&pbk=1P58ZYmo81kPDnL4U7SnEUA-aT2R86l-o6dbFXoeDjc#🌍 Malaysia | Amazon.com, 2
+vless://8a346b7c-5b95-4845-affa-0e5d9929e9ae@38.60.168.98:2087?encryption=none&security=none&type=ws&path=/db55c40bbc75#🌍 Malaysia | Kaopu Cloud HK 1
+vless://8a346b7c-5b95-4845-affa-0e5d9929e9ae@38.60.168.98:2087?encryption=none&security=none&type=ws&path=/db55c40bbc75#🌍 Malaysia | Kaopu Cloud HK 2
