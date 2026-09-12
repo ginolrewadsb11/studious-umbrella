@@ -3,7 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://94248dca-e56b-424a-9232-401178a4f8f9@104.143.223.62:2085?type=grpc&mode=multi&serviceName=vless#🇺🇦 Ukraine | HSTQ-HOSTING-SERVICE 1
-vless://94248dca-e56b-424a-9232-401178a4f8f9@104.143.223.63:2085?type=grpc&mode=multi&serviceName=vless#🇺🇦 Ukraine | HSTQ-HOSTING-SERVICE 2
+vless://96b44347-cac5-cfae-383b-1724ae9b5aec@170.168.97.8:8443?pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&security=reality&sni=www.hp.com&serviceName=TunService&mode=gun&encryption=none&type=grpc&fp=edge#🇺🇦 Ukraine | Global Transit Systems 1
+vless://96b44347-cac5-cfae-383b-1724ae9b5aec@170.168.97.8:8443?pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&security=reality&sni=www.hp.com&serviceName=TunService&mode=gun&encryption=none&type=grpc&fp=chrome#🇺🇦 Ukraine | Global Transit Systems 2
+vless://96b44347-cac5-cfae-383b-1724ae9b5aec@170.168.97.8:8443?pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&security=reality&sni=www.hp.com&serviceName=TunService&mode=gun&encryption=none&type=grpc&fp=ios#🇺🇦 Ukraine | Global Transit Systems 3
+vless://96b44347-cac5-cfae-383b-1724ae9b5aec@170.168.97.8:8443?pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&security=reality&sni=www.hp.com&serviceName=TunService&mode=gun&encryption=none&type=grpc&fp=edge#🇺🇦 Ukraine | Global Transit Systems 4
