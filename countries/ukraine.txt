@@ -3,11 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMTAg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://96b44347-cac5-cfae-383b-1724ae9b5aec@170.168.97.8:8443?pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&security=reality&sni=www.hp.com&serviceName=TunService&mode=gun&encryption=none&type=grpc&fp=ios#🇺🇦 Ukraine | Global Transit Systems 1
-vless://96b44347-cac5-cfae-383b-1724ae9b5aec@170.168.97.8:8443?pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&security=reality&sni=www.hp.com&serviceName=TunService&mode=gun&encryption=none&type=grpc&fp=edge#🇺🇦 Ukraine | Global Transit Systems 2
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443?mode=gun&security=reality&encryption=none&pbk=TWaatavWGcWV-E7c4AXmBXypLKJzm6eR3FGG61spayQ&fp=chrome&type=grpc&serviceName=TunService&sni=www.sony.com#🇺🇦 Ukraine | Fast Servers (Pty) 1
+vless://96b44347-cac5-cfae-383b-1724ae9b5aec@170.168.97.8:8443?mode=gun&security=reality&encryption=none&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&fp=chrome&type=grpc&serviceName=TunService&sni=www.hp.com#🇺🇦 Ukraine | Global Transit Systems 1
+vless://96b44347-cac5-cfae-383b-1724ae9b5aec@170.168.97.8:8443?encryption=none&fp=firefox&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&security=reality&serviceName=TunService&sni=www.hp.com&type=grpc#🇺🇦 Ukraine | Global Transit Systems 2
 vless://96b44347-cac5-cfae-383b-1724ae9b5aec@170.168.97.8:8443?mode=gun&security=reality&encryption=none&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&fp=chrome&type=grpc&serviceName=TunService&sni=www.hp.com#🇺🇦 Ukraine | Global Transit Systems 3
 vless://96b44347-cac5-cfae-383b-1724ae9b5aec@170.168.97.8:8443?pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&security=reality&sni=www.hp.com&serviceName=TunService&mode=gun&encryption=none&type=grpc&fp=edge#🇺🇦 Ukraine | Global Transit Systems 4
-vless://96b44347-cac5-cfae-383b-1724ae9b5aec@170.168.97.8:8443?pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&security=reality&sni=www.hp.com&serviceName=TunService&mode=gun&encryption=none&type=grpc&fp=chrome#🇺🇦 Ukraine | Global Transit Systems 5
+vless://96b44347-cac5-cfae-383b-1724ae9b5aec@170.168.97.8:8443?pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&security=reality&sni=www.hp.com&serviceName=TunService&mode=gun&encryption=none&type=grpc&fp=ios#🇺🇦 Ukraine | Global Transit Systems 5
 vless://96b44347-cac5-cfae-383b-1724ae9b5aec@170.168.97.8:8443?pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&security=reality&sni=www.hp.com&serviceName=TunService&mode=gun&encryption=none&type=grpc&fp=edge#🇺🇦 Ukraine | Global Transit Systems 6
+vless://96b44347-cac5-cfae-383b-1724ae9b5aec@170.168.97.8:8443?pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&security=reality&sni=www.hp.com&serviceName=TunService&mode=gun&encryption=none&type=grpc&fp=firefox#🇺🇦 Ukraine | Global Transit Systems 7
+vless://96b44347-cac5-cfae-383b-1724ae9b5aec@170.168.97.8:8443?encryption=none&fp=firefox&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&security=reality&serviceName=TunService&sni=www.hp.com&type=grpc#🇺🇦 Ukraine | Global Transit Systems 8
+vless://96b44347-cac5-cfae-383b-1724ae9b5aec@170.168.97.8:8443?pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&security=reality&sni=www.hp.com&serviceName=TunService&mode=gun&encryption=none&type=grpc&fp=qq#🇺🇦 Ukraine | Global Transit Systems 9
