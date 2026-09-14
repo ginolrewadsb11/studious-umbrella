@@ -5,21 +5,21 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAxOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?encryption=none&fp=chrome&host=cf3.rumedia-cdn.com&path=/casc&security=tls&sni=cf3.rumedia-cdn.com&type=ws#🇷🇺 Russia | Adman 1
-vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?&security=tls&fp=firefox&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcasc#🇷🇺 Russia | Adman 2
-vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?&security=tls&fp=firefox&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcasc#🇷🇺 Russia | Adman 3
-vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@170.168.99.8:8443?encryption=none&fp=firefox&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&security=reality&serviceName=TunService&sni=www.epson.com&type=grpc#🇷🇺 Russia | Alex Largman 1
-vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@170.168.99.8:8443?mode=gun&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&fp=chrome&type=grpc&serviceName=TunService&sni=www.epson.com#🇷🇺 Russia | Alex Largman 2
-vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@170.168.99.8:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&fp=chrome&type=grpc&serviceName=TunService&sni=www.epson.com#🇷🇺 Russia | Alex Largman 3
+vless://b8201bab-fa6c-4f6e-b289-b5da660c6f69@46.8.200.91:443?encryption=none&security=tls&sni=cf3.rumedia-cdn.com&alpn=http%2F1.1&type=ws&host=cf3.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive&fp=chrome#🇷🇺 Russia | Adman 1
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?type=ws&security=tls&path=%2Fcasc&sni=cf3.rumedia-cdn.com&fp=edge#🇷🇺 Russia | Adman 2
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?type=ws&security=tls&path=%2Fcasc&sni=cf3.rumedia-cdn.com&fp=chrome#🇷🇺 Russia | Adman 3
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?security=tls&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcasc&fp=chrome#🇷🇺 Russia | Adman 4
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?&security=tls&fp=firefox&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcasc#🇷🇺 Russia | Adman 5
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?security=tls&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcasc&fp=chrome#🇷🇺 Russia | Adman 6
+vless://b8201bab-fa6c-4f6e-b289-b5da660c6f69@46.8.200.91:443?encryption=none&security=tls&sni=cf3.rumedia-cdn.com&alpn=http%2F1.1&type=ws&host=cf3.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive&fp=ios#🇷🇺 Russia | Adman 7
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?type=ws&security=tls&path=%2Fcasc&sni=cf3.rumedia-cdn.com&fp=safari#🇷🇺 Russia | Adman 8
+vless://b8201bab-fa6c-4f6e-b289-b5da660c6f69@46.8.200.91:443?encryption=none&security=tls&sni=cf3.rumedia-cdn.com&alpn=http%2F1.1&type=ws&host=cf3.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive&fp=qq#🇷🇺 Russia | Adman 9
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?&security=tls&fp=firefox&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcasc#🇷🇺 Russia | Adman 10
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?&security=tls&fp=firefox&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcasc#🇷🇺 Russia | Adman 11
 vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=firefox&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 1
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 2
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 3
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 4
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=qq&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 2
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 3
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 4
 vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 5
 vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 6
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=qq&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 7
-vless://379998c5-2a71-4202-9c74-522e0c3c5404@185.147.27.183:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=user-6a917f32.noooo.win&type=tcp#🇷🇺 Russia | Kviktel 1
-vless://379998c5-2a71-4202-9c74-522e0c3c5404@185.147.27.183:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=user-6a917f32.noooo.win&type=tcp#🇷🇺 Russia | Kviktel 2
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=/v1&security=none&encryption=none&type=ws#🇷🇺 Russia | MegaMax Network 1
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=/v1&security=none&encryption=none&type=ws#🇷🇺 Russia | MegaMax Network 2
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=/v1&security=none&encryption=none&type=ws#🇷🇺 Russia | MegaMax Network 3
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 7
