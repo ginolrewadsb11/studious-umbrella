@@ -3,14 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.180.214.110:5600#🇩🇰 Denmark | M247 Europe SRL 1
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.180.214.110:5600#🇩🇰 Denmark | M247 Europe SRL 2
-vless://aea9e420-de22-4dcb-93b8-af1f71a3c264@193.180.208.89:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qlnm4eHQTTfqHf_z0o4GBQwbY0FvX9Ubfne_8KW57go&security=reality&sid=8c754df1&sni=6705c.veloradigital.xyz&type=tcp#🇩🇰 Denmark | Webdock.io ApS 1
-vless://aea9e420-de22-4dcb-93b8-af1f71a3c264@193.180.208.245:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MtOyV-iCJ8lUoawUpFv4WezXLNSOQyeBY910U6VnVnE&security=reality&sid=2fdcdfdd&sni=2c8e4.veloradigital.xyz&type=tcp#🇩🇰 Denmark | Webdock.io ApS 2
-vless://aea9e420-de22-4dcb-93b8-af1f71a3c264@2c8e4.veloradigital.xyz:443?type=tcp&headerType=none&security=reality&encryption=none&sni=2c8e4.veloradigital.xyz&fp=firefox&pbk=MtOyV-iCJ8lUoawUpFv4WezXLNSOQyeBY910U6VnVnE&sid=2fdcdfdd&flow=xtls-rprx-vision#🇩🇰 Denmark | Webdock.io ApS 3
-vless://aea9e420-de22-4dcb-93b8-af1f71a3c264@6705c.veloradigital.xyz:443?type=tcp&headerType=none&security=reality&encryption=none&sni=6705c.veloradigital.xyz&fp=firefox&pbk=qlnm4eHQTTfqHf_z0o4GBQwbY0FvX9Ubfne_8KW57go&sid=8c754df1&flow=xtls-rprx-vision#🇩🇰 Denmark | Webdock.io ApS 4
-vless://aea9e420-de22-4dcb-93b8-af1f71a3c264@2c8e4.veloradigital.xyz:443?type=tcp&headerType=none&security=reality&encryption=none&sni=2c8e4.veloradigital.xyz&fp=firefox&pbk=MtOyV-iCJ8lUoawUpFv4WezXLNSOQyeBY910U6VnVnE&sid=2fdcdfdd&flow=xtls-rprx-vision#🇩🇰 Denmark | Webdock.io ApS 5
-vless://aea9e420-de22-4dcb-93b8-af1f71a3c264@2c8e4.veloradigital.xyz:443?type=tcp&headerType=none&security=reality&encryption=none&sni=2c8e4.veloradigital.xyz&fp=firefox&pbk=MtOyV-iCJ8lUoawUpFv4WezXLNSOQyeBY910U6VnVnE&sid=2fdcdfdd&flow=xtls-rprx-vision#🇩🇰 Denmark | Webdock.io ApS 6
-vless://aea9e420-de22-4dcb-93b8-af1f71a3c264@6705c.veloradigital.xyz:443?type=tcp&headerType=none&security=reality&encryption=none&sni=6705c.veloradigital.xyz&fp=firefox&pbk=qlnm4eHQTTfqHf_z0o4GBQwbY0FvX9Ubfne_8KW57go&sid=8c754df1&flow=xtls-rprx-vision#🇩🇰 Denmark | Webdock.io ApS 7
