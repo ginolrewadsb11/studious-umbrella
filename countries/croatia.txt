@@ -3,8 +3,14 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrfCfh7cgQm9iaVZQTiDigJQgQ3JvYXRpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrfCfh7cgQm9iaVZQTiDigJQgQ3JvYXRpYQrimqEgOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://4360f941-b541-43d4-8507-2de3763e0cfd@45.95.169.47:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885&sni=hr.convert-flow.net#🇭🇷 Croatia | MAXKO d.o.o. 1
-vless://4360f941-b541-43d4-8507-2de3763e0cfd@45.95.169.47:443?type=tcp&headerType=none&security=reality&encryption=none&sni=hr.convert-flow.net&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885&flow=xtls-rprx-vision&fp=chrome#🇭🇷 Croatia | MAXKO d.o.o. 2
-vless://4360f941-b541-43d4-8507-2de3763e0cfd@45.95.169.47:443?type=tcp&headerType=none&security=reality&encryption=none&sni=hr.convert-flow.net&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885&flow=xtls-rprx-vision&fp=chrome#🇭🇷 Croatia | MAXKO d.o.o. 3
+vless://4360f941-b541-43d4-8507-2de3763e0cfd@45.95.169.47:443?type=tcp&headerType=none&security=reality&encryption=none&sni=hr.convert-flow.net&fp=qq&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885&flow=xtls-rprx-vision#🇭🇷 Croatia | MAXKO d.o.o. 1
+vless://4360f941-b541-43d4-8507-2de3763e0cfd@45.95.169.47:443?security=reality&encryption=none&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=hr.convert-flow.net&sid=00a61d55a07de885#🇭🇷 Croatia | MAXKO d.o.o. 2
+vless://4360f941-b541-43d4-8507-2de3763e0cfd@45.95.169.47:443?type=tcp&headerType=none&security=reality&encryption=none&sni=hr.convert-flow.net&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885&flow=xtls-rprx-vision&fp=firefox#🇭🇷 Croatia | MAXKO d.o.o. 3
+vless://4360f941-b541-43d4-8507-2de3763e0cfd@45.95.169.47:443?type=tcp&headerType=none&security=reality&encryption=none&sni=hr.convert-flow.net&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885&flow=xtls-rprx-vision&fp=chrome#🇭🇷 Croatia | MAXKO d.o.o. 4
+vless://4360f941-b541-43d4-8507-2de3763e0cfd@45.95.169.47:443?type=tcp&headerType=none&security=reality&encryption=none&sni=hr.convert-flow.net&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885&flow=xtls-rprx-vision&fp=qq#🇭🇷 Croatia | MAXKO d.o.o. 5
+vless://4360f941-b541-43d4-8507-2de3763e0cfd@45.95.169.47:443?type=tcp&headerType=none&security=reality&encryption=none&sni=hr.convert-flow.net&fp=qq&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885&flow=xtls-rprx-vision#🇭🇷 Croatia | MAXKO d.o.o. 6
+vless://4360f941-b541-43d4-8507-2de3763e0cfd@45.95.169.47:443?encryption=none&type=tcp&security=reality&sni=hr.convert-flow.net&flow=xtls-rprx-vision&headerType=none&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885&allowInsecure=1#🇭🇷 Croatia | MAXKO d.o.o. 7
+vless://4360f941-b541-43d4-8507-2de3763e0cfd@45.95.169.47:443?type=tcp&headerType=none&security=reality&encryption=none&sni=hr.convert-flow.net&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885&flow=xtls-rprx-vision&fp=safari#🇭🇷 Croatia | MAXKO d.o.o. 8
+vless://4360f941-b541-43d4-8507-2de3763e0cfd@45.95.169.47:443?type=tcp&headerType=none&security=reality&encryption=none&sni=hr.convert-flow.net&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885&flow=xtls-rprx-vision&fp=firefox#🇭🇷 Croatia | MAXKO d.o.o. 9

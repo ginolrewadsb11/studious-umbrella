@@ -5,9 +5,9 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Hs/Cfh7QgQm9iaVZQTiDigJQgTm9yd2F5CuKaoSA2INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://c0700399-0862-4747-90d7-b1d85eb20bf2@151.242.169.120:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kfOp2ld8bGJfSDyngzRgKk4P3-_JuacNvAu4SrPORBI&security=reality&sid=dc6b3c4765a5f5d5&sni=yidio.com&type=tcp#🇳🇴 Norway | Gigahost 1
-vless://db320947-adfb-400d-b60b-383b8324bffe@46.29.238.88:40443?type=tcp&security=reality&fp=qq&pbk=aZOpodpnifoxDqTzWgxJRffgsiGnG9-h-EZd4SvOImc&sid=f7b2&sni=deepl.com#🇳🇴 Norway | GIR SER 1
+vless://8c46418f-053a-4573-ad72-fd2902037721@151.242.169.120:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kfOp2ld8bGJfSDyngzRgKk4P3-_JuacNvAu4SrPORBI&security=reality&sid=dc6b3c4765a5f5d5&sni=yidio.com&type=tcp#🇳🇴 Norway | Gigahost 1
+vless://79429ba9-7d92-4e7d-9279-b3436448b387@151.242.169.120:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=kfOp2ld8bGJfSDyngzRgKk4P3-_JuacNvAu4SrPORBI&sid=dc6b3c4765a5f5d5&sni=yidio.com#🇳🇴 Norway | Gigahost 2
+vless://db320947-adfb-400d-b60b-383b8324bffe@46.29.238.88:40443?type=tcp&headerType=none&security=reality&pbk=aZOpodpnifoxDqTzWgxJRffgsiGnG9-h-EZd4SvOImc&fp=chrome&sni=deepl.com&sid=f7b2&spx=/#🇳🇴 Norway | GIR SER 1
 vless://db320947-adfb-400d-b60b-383b8324bffe@46.29.238.88:40443?type=tcp&headerType=none&security=reality&pbk=aZOpodpnifoxDqTzWgxJRffgsiGnG9-h-EZd4SvOImc&fp=chrome&sni=deepl.com&sid=f7b2&spx=/#🇳🇴 Norway | GIR SER 2
-vless://db320947-adfb-400d-b60b-383b8324bffe@46.29.238.88:40443?type=tcp&headerType=none&security=reality&pbk=aZOpodpnifoxDqTzWgxJRffgsiGnG9-h-EZd4SvOImc&fp=chrome&sni=deepl.com&sid=f7b2&spx=/#🇳🇴 Norway | GIR SER 3
-vless://ed91e79c-f6bf-4fba-8cc0-6d45acaec22b@aldebaran.yokkastars.com:40443?encryption=none&type=tcp&security=reality&sni=deepl.com&fp=chrome&pbk=dvx6zPztKbgHpYaW6J4OZQC74Uy0JS6HUVdDfbjG5V4&sid=7606&allowInsecure=1#🇳🇴 Norway | GIR SER 4
-vless://ed91e79c-f6bf-4fba-8cc0-6d45acaec22b@aldebaran.yokkastars.com:40443?encryption=none&type=tcp&security=reality&sni=deepl.com&fp=chrome&pbk=dvx6zPztKbgHpYaW6J4OZQC74Uy0JS6HUVdDfbjG5V4&sid=7606&allowInsecure=1#🇳🇴 Norway | GIR SER 5
+vless://ed91e79c-f6bf-4fba-8cc0-6d45acaec22b@aldebaran.yokkastars.com:40443?security=reality&type=raw&packetEncoding=xudp&sni=deepl.com&fp=chrome&sid=7606&pbk=dvx6zPztKbgHpYaW6J4OZQC74Uy0JS6HUVdDfbjG5V4#🇳🇴 Norway | GIR SER 3
+vless://ed91e79c-f6bf-4fba-8cc0-6d45acaec22b@aldebaran.yokkastars.com:40443?security=reality&type=raw&packetEncoding=xudp&sni=deepl.com&fp=chrome&sid=7606&pbk=dvx6zPztKbgHpYaW6J4OZQC74Uy0JS6HUVdDfbjG5V4#🇳🇴 Norway | GIR SER 4
