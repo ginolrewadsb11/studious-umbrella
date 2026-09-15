@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://aea9e420-de22-4dcb-93b8-af1f71a3c264@64.130.61.73:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=R_ax16JLUFGtv5quE08v6l35O7B_-3j5C31ejUBElRU&security=reality&sid=6bcd199b&sni=82c0f.tornadonext.com&type=tcp#🇮🇪 Ireland | TeraSwitch Networks 1
-vless://aea9e420-de22-4dcb-93b8-af1f71a3c264@82c0f.tornadonext.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=82c0f.tornadonext.com&fp=firefox&pbk=R_ax16JLUFGtv5quE08v6l35O7B_-3j5C31ejUBElRU&sid=6bcd199b&flow=xtls-rprx-vision#🇮🇪 Ireland | TeraSwitch Networks 2
-vless://aea9e420-de22-4dcb-93b8-af1f71a3c264@82c0f.tornadonext.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=82c0f.tornadonext.com&fp=firefox&pbk=R_ax16JLUFGtv5quE08v6l35O7B_-3j5C31ejUBElRU&sid=6bcd199b&flow=xtls-rprx-vision#🇮🇪 Ireland | TeraSwitch Networks 3
-vless://aea9e420-de22-4dcb-93b8-af1f71a3c264@82c0f.tornadonext.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=82c0f.tornadonext.com&fp=firefox&pbk=R_ax16JLUFGtv5quE08v6l35O7B_-3j5C31ejUBElRU&sid=6bcd199b&flow=xtls-rprx-vision#🇮🇪 Ireland | TeraSwitch Networks 4
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ir-new.failspace.top:443?type=tcp&security=tls&sni=ir-new.failspace.top&fp=firefox&alpn=h2&encryption=none&flow=xtls-rprx-vision#🇮🇪 Ireland | FDCservers.net 1
