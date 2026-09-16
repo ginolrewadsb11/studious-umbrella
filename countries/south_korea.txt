@@ -3,10 +3,22 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh7cgQm9iaVZQTiDigJQgU291dGggS29yZWEK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HsPCfh7cgQm9iaVZQTiDigJQgU291dGggS29yZWEK4pqhIDE3INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇰🇷 South Korea | Amazon.com, 1
-vless://8102891d-7b37-4dc5-8261-9474b59b5c63@123.111.169.70:443?&security=tls&fp=random&sni=vip.868068.xyz&type=ws&headerType=none&host=vip.868068.xyz&path=%2Fproxyip%3Dus.xiabibi.cf#🇰🇷 South Korea | Cloudflare, 1
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@141.164.45.187:9090#🇰🇷 South Korea | KOR VULTR 1
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@141.164.45.187:5498#🇰🇷 South Korea | KOR VULTR 2
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#🇰🇷 South Korea | KOR VULTR 3
+vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@119.28.162.39:8443?&security=tls&fp=chrome&sni=mia11.pages.dev&type=ws&headerType=none&host=mia11.pages.dev&path=%2FTG%3A%40MiaChatChannel#🇰🇷 South Korea | Cloudflare, 1
+vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@119.28.162.39:8443?&security=tls&fp=chrome&sni=mia11.pages.dev&type=ws&headerType=none&host=mia11.pages.dev&path=%2FTG%3A%40MiaChatChannel#🇰🇷 South Korea | Cloudflare, 2
+vless://48b1d8af-1720-4462-a0ec-de493331ceb3@172.67.179.98:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=square-mountain-1d69.356-977.workers.dev&packetEncoding=xudp#🇰🇷 South Korea | KOR VULTR 1
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#🇰🇷 South Korea | KOR VULTR 2
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@141.164.45.187:5498#🇰🇷 South Korea | KOR VULTR 3
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@141.164.45.187:9090#🇰🇷 South Korea | KOR VULTR 4
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#🇰🇷 South Korea | KOR VULTR 5
+vless://38ede46b-d237-4c76-9de1-a10738642adc@172.66.170.53:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&host=summer-hat-ba5c.430.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#🇰🇷 South Korea | Oracle 1
+vless://7e3cd2f1-0de5-4717-9002-64d8597bc577@172.64.88.251:8880?encryption=none&host=dry-credit-fc26.203-d8c.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Oracle 2
+vless://17b2ed22-5fd0-47ad-b5f0-658379379ced@104.18.11.118:8880?encryption=none&host=black-wildflower-dd92.72-1e8.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Oracle 3
+vless://87a5d3eb-afd4-4193-9787-c54ef7c26c8c@172.64.88.251:8880?type=ws&host=patient-cake-39c7.44-e7a.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | Oracle 4
+vless://a5c7e18f-1701-46ed-8f42-00eb078d9445@172.65.90.53:8880?encryption=none&security=none&type=ws&host=weathered-snow-b87b.292-455.workers.dev&path=/pyip=proxyip.kr.cmliussss.net#🇰🇷 South Korea | Oracle 5
+vless://df26029b-bffe-4ce2-9246-25b52ed2b1c7@172.64.88.251:8880?host=polished-field-4448.186-705.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Oracle 6
+vless://d6bdda67-168d-4501-a2c1-ef01070cb327@crimson-smoke-7818.397.workers.dev:8880?path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=&encryption=none&type=ws#🇰🇷 South Korea | Oracle 7
+vless://8546bcef-8456-41a2-82bc-d2231b42b769@www.baipiao.eu.org:8880?encryption=none&host=small-tree-9ec0.84-971.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#🇰🇷 South Korea | Oracle 8
+vless://565326ee-c588-4843-9472-a051578ab1ae@104.17.21.137:8880?encryption=none&security=none&type=ws&host=lucky-cell-e8c5.490-f12.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇰🇷 South Korea | SK Broadband Co 1

@@ -3,7 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://dc8a9493-c54a-459e-d060-81a700000001@45.130.125.201:80?encryption=none&host=nahan-core.netizo09.workers.dev&path=%2Fsync&security=none&type=ws#🇦🇪 United Arab Emirates | CLOUD-NETWORK 1
+vless://ee556a4f-d9f6-44de-af02-42c51659416a@novantunnel.tech:443?security=tls&type=ws&path=/Novan-AE9&host=novantunnel.tech&packetEncoding=xudp&sni=novantunnel.tech&fp=randomized&encryption=none#🇦🇪 United Arab Emirates | CLOUD-NETWORK 1
+vless://ee556a4f-d9f6-44de-af02-42c51659416a@novantunnel.tech:443?encryption=none&fp=randomized&host=novantunnel.tech&path=/Novan-AE9&security=tls&type=ws#🇦🇪 United Arab Emirates | CLOUD-NETWORK 2
+vless://5ef04ae8-8d7c-0a66-13f4-6e3f00000005@104.17.147.22:443?fp=chrome&host=relay.lunetcloud.ir&path=%2Flunetnetwork&security=tls&sni=relay.lunetcloud.ir&type=ws#🇦🇪 United Arab Emirates | Itglobal COM Dmcc 1
+vless://5ef04ae8-8d7c-0a66-13f4-6e3f00000005@104.17.147.22:443?type=ws&security=tls&encryption=none&path=%2Flunetnetwork&host=relay.lunetcloud.ir&sni=relay.lunetcloud.ir&fp=chrome&headerType=none#🇦🇪 United Arab Emirates | Itglobal COM Dmcc 2
 vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 1
