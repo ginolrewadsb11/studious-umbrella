@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.166:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=ir-new.failspace.top#🇮🇪 Ireland | FDCservers.net 1
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.166:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=ir-new.failspace.top#🇮🇪 Ireland | FDCservers.net 2
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ir-new.failspace.top:443?type=tcp&security=tls&sni=ir-new.failspace.top&fp=firefox&alpn=h2&encryption=none&flow=xtls-rprx-vision#🇮🇪 Ireland | FDCservers.net 3
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ir-new.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=ir-new.failspace.top#🇮🇪 Ireland | FDCservers.net 4
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.166:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-new.failspace.top&type=tcp#🇮🇪 Ireland | FDCservers.net 1
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.166:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-new.failspace.top&type=tcp#🇮🇪 Ireland | FDCservers.net 2
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ir-new.failspace.top:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-new.failspace.top&type=tcp#🇮🇪 Ireland | FDCservers.net 3
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ir-new.failspace.top:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-new.failspace.top&type=tcp#🇮🇪 Ireland | FDCservers.net 4
