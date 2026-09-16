@@ -3,10 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@185.151.240.3:9882?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#🇨🇭 Switzerland | Datacamp 1
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@185.151.240.3:9882?security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb&fp=qq#🇨🇭 Switzerland | Datacamp 1
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@185.151.240.3:9882?security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#🇨🇭 Switzerland | Datacamp 2
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@185.151.240.3:9882?encryption=none&type=grpc&security=reality&sni=dl.google.com&serviceName=grpc-tunnel&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&allowInsecure=1&fp=firefox#🇨🇭 Switzerland | Datacamp 3
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@185.151.240.3:9882?encryption=none&type=grpc&security=reality&sni=dl.google.com&serviceName=grpc-tunnel&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&allowInsecure=1&fp=qq#🇨🇭 Switzerland | Datacamp 4
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@185.151.240.3:9882?encryption=none&type=grpc&security=reality&sni=dl.google.com&serviceName=grpc-tunnel&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&allowInsecure=1&fp=ios#🇨🇭 Switzerland | Datacamp 5
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@185.151.240.3:9882?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#🇨🇭 Switzerland | Datacamp 4
