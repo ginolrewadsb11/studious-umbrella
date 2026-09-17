@@ -6,5 +6,5 @@
 #announce: base64:8J+HsfCfh7sgQm9iaVZQTiDigJQgTGF0dmlhCuKaoSAzINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
 vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?flow=xtls-rprx-vision&fp=chrome&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=tcp#🇱🇻 Latvia | Baykov Ilya Sergeevich 1
-vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?security=reality&encryption=none&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=33acba1b#🇱🇻 Latvia | Baykov Ilya Sergeevich 2
-vless://tmp_user@atomic-prase23893.my-vm.work:8088?encryption=none&type=ws&host=queuev4.vk.com&path=%2Fapi&security=none#🇱🇻 Latvia | SEBEK sp. z o.o 1
+vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:9443?type=grpc&security=tls&encryption=none&sni=hub-lv-01.hanvpn.cc&fp=firefox&headerType=none&serviceName=lv01-grpc-8e47a&mode=gun#🇱🇻 Latvia | Cloudflare, 1
+vless://tmp_user@atomic-prase23893.my-vm.work:8088?&type=ws&headerType=none&host=queuev4.vk.com&path=%2Fapi#🇱🇻 Latvia | SEBEK sp. z o.o 1
