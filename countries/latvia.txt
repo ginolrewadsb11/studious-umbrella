@@ -10,5 +10,5 @@ vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?flow=xtls-rprx-
 vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:9443?type=grpc&security=tls&encryption=none&sni=hub-lv-01.hanvpn.cc&fp=firefox&headerType=none&serviceName=lv01-grpc-8e47a&mode=gun#🇱🇻 Latvia | Cloudflare, 1
 vless://f7c74a35-1da0-5097-9fa7-a20735610ac1@188.220.205.16:8088?security=none&type=ws&host=queuev4.vk.com&path=%2Fapi#🇱🇻 Latvia | SEBEK sp. z o.o 1
 vless://f7c74a35-1da0-5097-9fa7-a20735610ac1@atomic-prase23893.my-vm.work:8088?encryption=none&host=queuev4.vk.com&path=/api&security=none&type=ws#🇱🇻 Latvia | SEBEK sp. z o.o 2
-vless://f7c74a35-1da0-5097-9fa7-a20735610ac1@atomic-prase23893.my-vm.work:8088?encryption=none&host=queuev4.vk.com&path=/api&security=none&type=ws#🇱🇻 Latvia | SEBEK sp. z o.o 3
+vless://tmp_user@atomic-prase23893.my-vm.work:8088?type=ws&headerType=none&security=none&encryption=none&path=%2Fapi&host=queuev4.vk.com#🇱🇻 Latvia | SEBEK sp. z o.o 3
 vless://f7c74a35-1da0-5097-9fa7-a20735610ac1@atomic-prase23893.my-vm.work:8088?encryption=none&host=queuev4.vk.com&path=/api&security=none&type=ws#🇱🇻 Latvia | SEBEK sp. z o.o 4
