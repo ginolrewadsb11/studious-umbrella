@@ -3,16 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBRYXRhcgrimqEgMTEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBRYXRhcgrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://b6f775c2-70fd-4247-8d12-82cac46fdd50@34.18.212.19:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=tT6wEOh8ASizQYNRb51QdDlxAksSJbEaBnbQBajc6SQ&sid=c5426331173ca15c&fp=chrome#🌍 Qatar | Google 1
-vless://bd82d5e7-4395-40e1-b34e-2974eb0c8555@34.18.31.5:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=ZRWl48Ahw4vlnPSTMkNs6xcCEDd9Qq4AsChUp-mg7A4&sid=9c8748aa3f7d4219&fp=chrome#🌍 Qatar | Google 2
-vless://bd82d5e7-4395-40e1-b34e-2974eb0c8555@34.18.31.5:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=ZRWl48Ahw4vlnPSTMkNs6xcCEDd9Qq4AsChUp-mg7A4&sid=9c8748aa3f7d4219&fp=ios#🌍 Qatar | Google 3
-vless://bd82d5e7-4395-40e1-b34e-2974eb0c8555@34.18.31.5:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=ZRWl48Ahw4vlnPSTMkNs6xcCEDd9Qq4AsChUp-mg7A4&sid=9c8748aa3f7d4219&fp=firefox#🌍 Qatar | Google 4
-vless://bd82d5e7-4395-40e1-b34e-2974eb0c8555@34.18.31.5:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=ZRWl48Ahw4vlnPSTMkNs6xcCEDd9Qq4AsChUp-mg7A4&sid=9c8748aa3f7d4219&fp=chrome#🌍 Qatar | Google 5
-vless://b6f775c2-70fd-4247-8d12-82cac46fdd50@34.18.212.19:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=tT6wEOh8ASizQYNRb51QdDlxAksSJbEaBnbQBajc6SQ&sid=c5426331173ca15c&fp=qq#🌍 Qatar | Google 6
-vless://b6f775c2-70fd-4247-8d12-82cac46fdd50@34.18.212.19:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=tT6wEOh8ASizQYNRb51QdDlxAksSJbEaBnbQBajc6SQ&sid=c5426331173ca15c&fp=ios#🌍 Qatar | Google 7
-vless://b6f775c2-70fd-4247-8d12-82cac46fdd50@34.18.212.19:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=tT6wEOh8ASizQYNRb51QdDlxAksSJbEaBnbQBajc6SQ&sid=c5426331173ca15c&fp=firefox#🌍 Qatar | Google 8
-vless://b6f775c2-70fd-4247-8d12-82cac46fdd50@34.18.212.19:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=tT6wEOh8ASizQYNRb51QdDlxAksSJbEaBnbQBajc6SQ&sid=c5426331173ca15c&fp=safari#🌍 Qatar | Google 9
-vless://b6f775c2-70fd-4247-8d12-82cac46fdd50@34.18.212.19:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=tT6wEOh8ASizQYNRb51QdDlxAksSJbEaBnbQBajc6SQ&sid=c5426331173ca15c&fp=chrome#🌍 Qatar | Google 10
-vless://bd82d5e7-4395-40e1-b34e-2974eb0c8555@34.18.31.5:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=ZRWl48Ahw4vlnPSTMkNs6xcCEDd9Qq4AsChUp-mg7A4&sid=9c8748aa3f7d4219&fp=safari#🌍 Qatar | Google 11
+vless://b6f775c2-70fd-4247-8d12-82cac46fdd50@34.18.212.19:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=tT6wEOh8ASizQYNRb51QdDlxAksSJbEaBnbQBajc6SQ&sid=c5426331173ca15c&fp=ios#🌍 Qatar | Google 1
+vless://b6f775c2-70fd-4247-8d12-82cac46fdd50@34.18.212.19:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=tT6wEOh8ASizQYNRb51QdDlxAksSJbEaBnbQBajc6SQ&sid=c5426331173ca15c&fp=chrome#🌍 Qatar | Google 2
+vless://bd82d5e7-4395-40e1-b34e-2974eb0c8555@34.18.31.5:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=ZRWl48Ahw4vlnPSTMkNs6xcCEDd9Qq4AsChUp-mg7A4&sid=9c8748aa3f7d4219&fp=chrome#🌍 Qatar | Google 3
+vless://bd82d5e7-4395-40e1-b34e-2974eb0c8555@34.18.31.5:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=ZRWl48Ahw4vlnPSTMkNs6xcCEDd9Qq4AsChUp-mg7A4&sid=9c8748aa3f7d4219#🌍 Qatar | Google 4
+vless://bd82d5e7-4395-40e1-b34e-2974eb0c8555@34.18.31.5:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=ZRWl48Ahw4vlnPSTMkNs6xcCEDd9Qq4AsChUp-mg7A4&sid=9c8748aa3f7d4219&fp=ios#🌍 Qatar | Google 5
+vless://bd82d5e7-4395-40e1-b34e-2974eb0c8555@34.18.31.5:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=ZRWl48Ahw4vlnPSTMkNs6xcCEDd9Qq4AsChUp-mg7A4&sid=9c8748aa3f7d4219&fp=safari#🌍 Qatar | Google 6
