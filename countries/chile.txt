@@ -3,9 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGlsZQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGlsZQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://4fe7ceb2-160c-4564-89e6-8f5fd0b05cd5@34.176.98.128:443?encryption=none&security=reality&sni=www.cloudflare.com&pbk=3ekBKAuIIAOjtkKJ0T-qpC7uJsqsY2fVLRB6C70A5hw&sid=d7676b6a468a03b3&type=tcp&headerType=none&fp=ios#🌍 Chile | Google 1
-vless://4fe7ceb2-160c-4564-89e6-8f5fd0b05cd5@34.176.98.128:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=3ekBKAuIIAOjtkKJ0T-qpC7uJsqsY2fVLRB6C70A5hw&sid=d7676b6a468a03b3&type=tcp&headerType=none#🌍 Chile | Google 2
+vless://4fe7ceb2-160c-4564-89e6-8f5fd0b05cd5@34.176.98.128:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=3ekBKAuIIAOjtkKJ0T-qpC7uJsqsY2fVLRB6C70A5hw&sid=d7676b6a468a03b3&type=tcp&headerType=none#🌍 Chile | Google 1
+vless://4fe7ceb2-160c-4564-89e6-8f5fd0b05cd5@34.176.98.128:443?encryption=none&security=reality&sni=www.cloudflare.com&pbk=3ekBKAuIIAOjtkKJ0T-qpC7uJsqsY2fVLRB6C70A5hw&sid=d7676b6a468a03b3&type=tcp&headerType=none&fp=ios#🌍 Chile | Google 2
 vless://4fe7ceb2-160c-4564-89e6-8f5fd0b05cd5@34.176.98.128:443?&security=reality&pbk=3ekBKAuIIAOjtkKJ0T-qpC7uJsqsY2fVLRB6C70A5hw&sid=d7676b6a468a03b3&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#🌍 Chile | Google 3
-vless://4fe7ceb2-160c-4564-89e6-8f5fd0b05cd5@34.176.98.128:443?encryption=none&security=reality&sni=www.cloudflare.com&pbk=3ekBKAuIIAOjtkKJ0T-qpC7uJsqsY2fVLRB6C70A5hw&sid=d7676b6a468a03b3&type=tcp&headerType=none&fp=chrome#🌍 Chile | Google 4
+vless://4fe7ceb2-160c-4564-89e6-8f5fd0b05cd5@34.176.98.128:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=3ekBKAuIIAOjtkKJ0T-qpC7uJsqsY2fVLRB6C70A5hw&sid=d7676b6a468a03b3&type=tcp&headerType=none#🌍 Chile | Google 4
+vless://4fe7ceb2-160c-4564-89e6-8f5fd0b05cd5@34.176.98.128:443?&security=reality&pbk=3ekBKAuIIAOjtkKJ0T-qpC7uJsqsY2fVLRB6C70A5hw&sid=d7676b6a468a03b3&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#🌍 Chile | Google 5
+vless://4fe7ceb2-160c-4564-89e6-8f5fd0b05cd5@34.176.98.128:443?encryption=none&security=reality&sni=www.cloudflare.com&pbk=3ekBKAuIIAOjtkKJ0T-qpC7uJsqsY2fVLRB6C70A5hw&sid=d7676b6a468a03b3&type=tcp&headerType=none&fp=ios#🌍 Chile | Google 6
+vless://4fe7ceb2-160c-4564-89e6-8f5fd0b05cd5@34.176.98.128:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=3ekBKAuIIAOjtkKJ0T-qpC7uJsqsY2fVLRB6C70A5hw&sid=d7676b6a468a03b3&type=tcp&headerType=none#🌍 Chile | Google 7
+vless://4fe7ceb2-160c-4564-89e6-8f5fd0b05cd5@34.176.98.128:443?security=reality&pbk=3ekBKAuIIAOjtkKJ0T-qpC7uJsqsY2fVLRB6C70A5hw&sid=d7676b6a468a03b3&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#🌍 Chile | Google 8
