@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDkg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.41.18:443?security=reality&encryption=none&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheetpeek.com&sid=84be686ea1d16478#🇧🇬 Bulgaria | Alexhost SRL 1
-vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.41.18:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&security=reality&sid=84be686ea1d16478&sni=sheetpeek.com&type=tcp#🇧🇬 Bulgaria | Alexhost SRL 2
-vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.41.18:443?security=reality&encryption=none&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheetpeek.com&sid=84be686ea1d16478#🇧🇬 Bulgaria | Alexhost SRL 3
-vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.39.29:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&sid=84be686ea1d16478&sni=sheetpeek.com#🇧🇬 Bulgaria | Alexhost SRL 4
-vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.41.18:443?security=reality&encryption=none&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheetpeek.com&sid=84be686ea1d16478#🇧🇬 Bulgaria | Alexhost SRL 5
-vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.41.18:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&security=reality&sid=84be686ea1d16478&sni=sheetpeek.com&type=tcp#🇧🇬 Bulgaria | Alexhost SRL 6
-vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.41.18:8081?path=%2Fvless-test&security=&encryption=none&type=ws#🇧🇬 Bulgaria | Alexhost SRL 7
-vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.41.18:443?security=reality&encryption=none&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheetpeek.com&sid=84be686ea1d16478#🇧🇬 Bulgaria | Alexhost SRL 8
-ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw@213.183.63.60:9098#🇧🇬 Bulgaria | Melbikomas UAB 1
+vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.37.199:8081?path=%2Fvless-test&security=&encryption=none&type=ws#🇧🇬 Bulgaria | Alexhost SRL 1

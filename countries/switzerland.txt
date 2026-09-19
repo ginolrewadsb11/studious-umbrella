@@ -3,10 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#🇨🇭 Switzerland | Alexhost SRL 1
-vless://bd93a117-2e9d-4e1e-b9b9-69d8d7089bdb@34.65.191.159:443?fp=chrome&pbk=DE-S0R0KYYTuBsuQmT-iip6rJ2QsuH6z3SJYlsNyUUI&security=reality&sid=5214a92cad4ad90e&sni=www.cloudflare.com#🇨🇭 Switzerland | Google 1
-vless://bd93a117-2e9d-4e1e-b9b9-69d8d7089bdb@34.65.191.159:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=DE-S0R0KYYTuBsuQmT-iip6rJ2QsuH6z3SJYlsNyUUI&sid=5214a92cad4ad90e&type=tcp&headerType=none#🇨🇭 Switzerland | Google 2
-vless://bd93a117-2e9d-4e1e-b9b9-69d8d7089bdb@34.65.191.159:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=DE-S0R0KYYTuBsuQmT-iip6rJ2QsuH6z3SJYlsNyUUI&sid=5214a92cad4ad90e&type=tcp&headerType=none#🇨🇭 Switzerland | Google 3
-vless://bd93a117-2e9d-4e1e-b9b9-69d8d7089bdb@34.65.191.159:443?fp=chrome&pbk=DE-S0R0KYYTuBsuQmT-iip6rJ2QsuH6z3SJYlsNyUUI&security=reality&sid=5214a92cad4ad90e&sni=www.cloudflare.com#🇨🇭 Switzerland | Google 4
+vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.145:8081?type=ws&security=none&path=/vless-test#🇨🇭 Switzerland | AlexHost-CH 1
