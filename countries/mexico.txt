@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNZXhpY28K4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNZXhpY28K4pqhIDEwINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=/vless/#🌍 Mexico | Latitude.sh 1
+vless://79bc7b01-6e4e-4365-a120-fefac8182bd9@34.51.23.2:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=vFcM44RcbcO5jcrSWHLd_0exXAnnJLhpCNnMrWCwlzI&sid=65f01b4b99e52015&type=tcp&headerType=none#🌍 Mexico | Google 1
+vless://9ad81959-02c6-4679-a419-2af6a16ca07a@34.51.29.171:443?fp=chrome&pbk=8vHditYTXXNZ37iNTraU4w129svOplF0QUhZwX2n3FA&security=reality&sid=dcabbf24adf88abc&sni=www.cloudflare.com#🌍 Mexico | Google 2
+vless://79bc7b01-6e4e-4365-a120-fefac8182bd9@34.51.23.2:443?fp=chrome&pbk=vFcM44RcbcO5jcrSWHLd_0exXAnnJLhpCNnMrWCwlzI&security=reality&sid=65f01b4b99e52015&sni=www.cloudflare.com#🌍 Mexico | Google 3
+vless://9ad81959-02c6-4679-a419-2af6a16ca07a@34.51.29.171:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=8vHditYTXXNZ37iNTraU4w129svOplF0QUhZwX2n3FA&sid=dcabbf24adf88abc&type=tcp&headerType=none#🌍 Mexico | Google 4
+vless://9ad81959-02c6-4679-a419-2af6a16ca07a@34.51.29.171:443?fp=chrome&pbk=8vHditYTXXNZ37iNTraU4w129svOplF0QUhZwX2n3FA&security=reality&sid=dcabbf24adf88abc&sni=www.cloudflare.com#🌍 Mexico | Google 5
+vless://9ad81959-02c6-4679-a419-2af6a16ca07a@34.51.29.171:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=8vHditYTXXNZ37iNTraU4w129svOplF0QUhZwX2n3FA&sid=dcabbf24adf88abc&type=tcp&headerType=none#🌍 Mexico | Google 6
+vless://79bc7b01-6e4e-4365-a120-fefac8182bd9@34.51.23.2:443?fp=chrome&pbk=vFcM44RcbcO5jcrSWHLd_0exXAnnJLhpCNnMrWCwlzI&security=reality&sid=65f01b4b99e52015&sni=www.cloudflare.com#🌍 Mexico | Google 7
+vless://9ad81959-02c6-4679-a419-2af6a16ca07a@34.51.29.171:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=8vHditYTXXNZ37iNTraU4w129svOplF0QUhZwX2n3FA&sid=dcabbf24adf88abc&type=tcp&headerType=none#🌍 Mexico | Google 8
+vless://79bc7b01-6e4e-4365-a120-fefac8182bd9@34.51.23.2:443?&security=reality&pbk=vFcM44RcbcO5jcrSWHLd_0exXAnnJLhpCNnMrWCwlzI&sid=65f01b4b99e52015&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#🌍 Mexico | Google 9
+ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA@64.177.90.30:8388#🌍 Mexico | The Constant Company, 1
