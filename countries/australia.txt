@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh7ogQm9iaVZQTiDigJQgQXVzdHJhbGlhCuKaoSAyINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://325bc1be-0cb7-4cf7-bd35-a79ded91bbbd@34.87.244.111:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=fsdIMU2apN1C_NbkL7mHTsBKEfhwbDhgCRcB8ICf03E&sid=d725f0dd8cce210f&fp=qq#🇦🇺 Australia | Google 1
-vless://325bc1be-0cb7-4cf7-bd35-a79ded91bbbd@34.87.244.111:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=fsdIMU2apN1C_NbkL7mHTsBKEfhwbDhgCRcB8ICf03E&sid=d725f0dd8cce210f&fp=chrome#🇦🇺 Australia | Google 2
+vless://42026ed0-7d74-4585-8e46-0fe6aa4d665a@104.18.155.229:443?security=tls&type=ws&path=/au-do&host=www.genflix.co.id.r3xxe.eu.cc&packetEncoding=xudp&sni=www.genflix.co.id.r3xxe.eu.cc&fp=chrome&encryption=none#🇦🇺 Australia | DigitalOcean, 1
+vless://325bc1be-0cb7-4cf7-bd35-a79ded91bbbd@34.87.244.111:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=fsdIMU2apN1C_NbkL7mHTsBKEfhwbDhgCRcB8ICf03E&sid=d725f0dd8cce210f#🇦🇺 Australia | Google 1
