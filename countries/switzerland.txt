@@ -5,8 +5,8 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.145:8081?type=ws&security=none&path=/vless-test#🇨🇭 Switzerland | AlexHost-CH 1
 vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@179.43.162.252:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lYVz8iVZI2XjTCw_XS9wi08P1DLXO0c7jQo-_xyw2xY&security=reality&sid=9d84de9d9f7b85e9&sni=ch.cache-4d8a.com&type=tcp#🇨🇭 Switzerland | Private Layer INC 1
 vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@179.43.162.252:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lYVz8iVZI2XjTCw_XS9wi08P1DLXO0c7jQo-_xyw2xY&security=reality&sid=9d84de9d9f7b85e9&sni=ch.cache-4d8a.com&type=tcp#🇨🇭 Switzerland | Private Layer INC 2
 vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@179.43.162.252:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lYVz8iVZI2XjTCw_XS9wi08P1DLXO0c7jQo-_xyw2xY&security=reality&sid=9d84de9d9f7b85e9&sni=ch.cache-4d8a.com&type=tcp#🇨🇭 Switzerland | Private Layer INC 3
 vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@ch.cache-4d8a.com:443?encryption=none&type=tcp&security=reality&sni=ch.cache-4d8a.com&flow=xtls-rprx-vision&headerType=none&pbk=lYVz8iVZI2XjTCw_XS9wi08P1DLXO0c7jQo-_xyw2xY&sid=9d84de9d9f7b85e9&spx=%2F&allowInsecure=1#🇨🇭 Switzerland | Private Layer INC 4
+vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@ch.cache-4d8a.com:443?encryption=none&type=tcp&security=reality&sni=ch.cache-4d8a.com&flow=xtls-rprx-vision&headerType=none&pbk=lYVz8iVZI2XjTCw_XS9wi08P1DLXO0c7jQo-_xyw2xY&sid=9d84de9d9f7b85e9&spx=%2F&allowInsecure=1#🇨🇭 Switzerland | Private Layer INC 5
