@@ -3,13 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@179.43.162.252:443?encryption=none&flow=xtls-rprx-vision&pbk=lYVz8iVZI2XjTCw_XS9wi08P1DLXO0c7jQo-_xyw2xY&security=reality&sid=9d84de9d9f7b85e9&sni=ch.cache-4d8a.com&type=tcp&fp=ios#🇨🇭 Switzerland | Private Layer INC 1
-vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@179.43.162.252:443?encryption=none&flow=xtls-rprx-vision&pbk=lYVz8iVZI2XjTCw_XS9wi08P1DLXO0c7jQo-_xyw2xY&security=reality&sid=9d84de9d9f7b85e9&sni=ch.cache-4d8a.com&type=tcp&fp=firefox#🇨🇭 Switzerland | Private Layer INC 2
-vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@179.43.162.252:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lYVz8iVZI2XjTCw_XS9wi08P1DLXO0c7jQo-_xyw2xY&security=reality&sid=9d84de9d9f7b85e9&sni=ch.cache-4d8a.com&type=tcp#🇨🇭 Switzerland | Private Layer INC 3
-vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@179.43.162.252:443?encryption=none&flow=xtls-rprx-vision&pbk=lYVz8iVZI2XjTCw_XS9wi08P1DLXO0c7jQo-_xyw2xY&security=reality&sid=9d84de9d9f7b85e9&sni=ch.cache-4d8a.com&type=tcp&fp=firefox#🇨🇭 Switzerland | Private Layer INC 4
-vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@179.43.162.252:443?encryption=none&flow=xtls-rprx-vision&pbk=lYVz8iVZI2XjTCw_XS9wi08P1DLXO0c7jQo-_xyw2xY&security=reality&sid=9d84de9d9f7b85e9&sni=ch.cache-4d8a.com&type=tcp&fp=firefox#🇨🇭 Switzerland | Private Layer INC 5
-vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@ch.cache-4d8a.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=lYVz8iVZI2XjTCw_XS9wi08P1DLXO0c7jQo-_xyw2xY&sid=9d84de9d9f7b85e9&sni=ch.cache-4d8a.com&fp=safari#🇨🇭 Switzerland | Private Layer INC 6
-vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@ch.cache-4d8a.com:443?&security=reality&flow=xtls-rprx-vision&pbk=lYVz8iVZI2XjTCw_XS9wi08P1DLXO0c7jQo-_xyw2xY&sid=9d84de9d9f7b85e9&fp=chrome&sni=ch.cache-4d8a.com&type=tcp&headerType=none&host=ch.cache-4d8a.com&path=%2F#🇨🇭 Switzerland | Private Layer INC 7
-vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@ch.cache-4d8a.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=lYVz8iVZI2XjTCw_XS9wi08P1DLXO0c7jQo-_xyw2xY&sid=9d84de9d9f7b85e9&sni=ch.cache-4d8a.com&fp=chrome#🇨🇭 Switzerland | Private Layer INC 8
+vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@179.43.162.252:443?encryption=none&flow=xtls-rprx-vision&pbk=lYVz8iVZI2XjTCw_XS9wi08P1DLXO0c7jQo-_xyw2xY&security=reality&sid=9d84de9d9f7b85e9&sni=ch.cache-4d8a.com&type=tcp&fp=firefox#🇨🇭 Switzerland | Private Layer INC 1
+vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@179.43.162.252:443?encryption=none&flow=xtls-rprx-vision&pbk=lYVz8iVZI2XjTCw_XS9wi08P1DLXO0c7jQo-_xyw2xY&security=reality&sid=9d84de9d9f7b85e9&sni=ch.cache-4d8a.com&type=tcp&fp=qq#🇨🇭 Switzerland | Private Layer INC 2
+vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@ch.cache-4d8a.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=lYVz8iVZI2XjTCw_XS9wi08P1DLXO0c7jQo-_xyw2xY&sid=9d84de9d9f7b85e9&sni=ch.cache-4d8a.com#🇨🇭 Switzerland | Private Layer INC 3
+vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@ch.cache-4d8a.com:443?&security=reality&flow=xtls-rprx-vision&pbk=lYVz8iVZI2XjTCw_XS9wi08P1DLXO0c7jQo-_xyw2xY&sid=9d84de9d9f7b85e9&fp=chrome&sni=ch.cache-4d8a.com&type=tcp&headerType=none&host=ch.cache-4d8a.com&path=%2F#🇨🇭 Switzerland | Private Layer INC 4
