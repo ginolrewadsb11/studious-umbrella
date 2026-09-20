@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.37.199:8081?path=%2Fvless-test&security=&encryption=none&type=ws#🇧🇬 Bulgaria | Alexhost SRL 1
-vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.41.177:8081?encryption=none&security=none&type=ws&path=%2Fvless-test#🇧🇬 Bulgaria | Alexhost SRL 2
+vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.41.177:8081?encryption=none&security=none&type=ws&path=%2Fvless-test#🇧🇬 Bulgaria | Alexhost SRL 1
+vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.37.199:8081?path=%2Fvless-test&security=&encryption=none&type=ws#🇧🇬 Bulgaria | Alexhost SRL 2
