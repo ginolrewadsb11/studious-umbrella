@@ -3,10 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@109.172.8.37:443?encryption=none&fp=firefox&host=shuma.ccwu.cc&security=tls&sni=shuma.ccwu.cc&type=ws#🇨🇿 Czechia | Cloudflare, 1
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@109.172.8.37:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#🇨🇿 Czechia | Cloudflare, 2
-vless://585fdc07-0305-427c-abfb-7c94dc83466e@153.76.185.82:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿 Czechia | Reliable Communication... 1
-vless://585fdc07-0305-427c-abfb-7c94dc83466e@153.76.185.82:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿 Czechia | Reliable Communication... 2
-vless://64a38b01-074e-49c4-bf23-0ed61ad30c85@153.76.185.92:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿 Czechia | Reliable Communication... 3
+vless://5ba9f3dc-e8ec-4c8c-b273-68daed2fef12@153.76.185.88:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿 Czechia | Reliable Communication... 1
+vless://5bcba788-5e2d-457b-8bd2-67fa99e49e0f@153.76.185.86:3090?type=grpc&security=none&encryption=none&serviceName=vless&mode=multi#🇨🇿 Czechia | Reliable Communication... 2
