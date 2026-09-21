@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@141.227.137.177:2053?&security=tls&fp=chrome&sni=kkkk-xcd.pages.dev&type=ws&headerType=none&host=kkkk-xcd.pages.dev&path=%2F%3Fed%3D2048#🇧🇪 Belgium | Cloudflare, 1
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.186.38:2053?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇪 Belgium | Cloudflare, 1
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.137.177:2053?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇪 Belgium | Cloudflare, 2
