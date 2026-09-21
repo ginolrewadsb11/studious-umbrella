@@ -3,21 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDE2INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.113.223.183:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=cdn8848.776676.xyz&path=/channels/act&security=tls&sni=cdn8848.776676.xyz&type=ws#🇹🇷 Türkiye | Cloudflare, 1
-vless://a22bff60-a40a-4250-bde2-4c660e363b47@104.20.6.153:8880?path=/j100sy9wn073cxbvir&security=&encryption=none&host=index.harmonica02.workers.dev&fp=chrome&type=ws#🇹🇷 Türkiye | Hostigger INC. 1
-vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?encryption=none&fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&security=reality&sid=9e419c0759b54d6f&sni=www.apple.com&type=tcp#🇹🇷 Türkiye | Hostkey B.V. 1
-vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&sid=9e419c0759b54d6f#🇹🇷 Türkiye | Hostkey B.V. 2
-vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&sid=9e419c0759b54d6f#🇹🇷 Türkiye | Hostkey B.V. 3
-vless://418c8163-706c-4f5f-9bfc-3e8687daaad0@93.190.9.31:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Türkiye | Ideal Hosting Teknoloj... 1
-vless://585fdc07-0305-427c-abfb-7c94dc83466e@93.190.9.11:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Türkiye | Ideal Hosting Teknoloj... 2
-vless://64a38b01-074e-49c4-bf23-0ed61ad30c85@93.190.9.51:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Türkiye | Ideal Hosting Teknoloj... 3
-vless://64a38b01-074e-49c4-bf23-0ed61ad30c85@93.190.9.6:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Türkiye | Ideal Hosting Teknoloj... 4
-vless://a02acef7-4321-43b7-a10d-d5445b999e84@93.190.9.58:3090?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=multi#🇹🇷 Türkiye | Ideal Hosting Teknoloj... 5
-vless://418c8163-706c-4f5f-9bfc-3e8687daaad0@93.190.9.47:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Türkiye | Ideal Hosting Teknoloj... 6
-vless://585fdc07-0305-427c-abfb-7c94dc83466e@93.190.9.11:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Türkiye | Ideal Hosting Teknoloj... 7
-vless://418c8163-706c-4f5f-9bfc-3e8687daaad0@93.190.9.43:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Türkiye | Ideal Hosting Teknoloj... 8
-vless://a02acef7-4321-43b7-a10d-d5445b999e84@93.190.9.24:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Türkiye | Ideal Hosting Teknoloj... 9
+vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&sid=9e419c0759b54d6f#🇹🇷 Türkiye | Hostkey B.V. 1
+vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?encryption=none&fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&security=reality&sid=9e419c0759b54d6f&sni=www.apple.com&type=tcp#🇹🇷 Türkiye | Hostkey B.V. 2
+vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&sid=9e419c0759b54d6f#🇹🇷 Türkiye | Hostkey B.V. 3
+vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&sid=9e419c0759b54d6f#🇹🇷 Türkiye | Hostkey B.V. 4
+vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?encryption=none&fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&security=reality&sid=9e419c0759b54d6f&sni=www.apple.com&type=tcp#🇹🇷 Türkiye | Hostkey B.V. 5
+vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?encryption=none&fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&security=reality&sid=9e419c0759b54d6f&sni=www.apple.com&type=tcp#🇹🇷 Türkiye | Hostkey B.V. 6
 vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@31.214.152.140:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=bjqOUjqNQMF6NZ2kRis0NTNTcpdLBrr7CvZjFATrhg8&sid=08&sni=dw.b-cdn.net#🇹🇷 Türkiye | MUV Bilisim ve Telekom... 1
-vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@tr.curry-load.rutube.info:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=bjqOUjqNQMF6NZ2kRis0NTNTcpdLBrr7CvZjFATrhg8&fp=firefox&sni=dw.b-cdn.net&sid=08#🇹🇷 Türkiye | MUV Bilisim ve Telekom... 2
