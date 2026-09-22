@@ -3,8 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.37.199:8081?encryption=none&path=/vless-test&security=none&type=ws#🇧🇬 Bulgaria | Alexhost SRL 1
-vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.41.18:443?security=reality&encryption=none&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheetpeek.com&sid=84be686ea1d16478#🇧🇬 Bulgaria | Alexhost SRL 2
-vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.37.199:8081?encryption=none&path=/vless-test&security=none&type=ws#🇧🇬 Bulgaria | Alexhost SRL 3
+vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.41.18:443?security=reality&encryption=none&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheetpeek.com&sid=84be686ea1d16478#🇧🇬 Bulgaria | Alexhost SRL 1
+vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.37.199:8081?encryption=none&path=/vless-test&security=none&type=ws#🇧🇬 Bulgaria | Alexhost SRL 2
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@2.56.207.67:443?encryption=none&security=tls&sni=shuma.ccwu.cc&fp=chrome&type=ws&host=shuma.ccwu.cc&path=%2F#🇧🇬 Bulgaria | Cloudflare, 1
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@2.56.207.67:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#🇧🇬 Bulgaria | Cloudflare, 2
+vless://9ae5940b-0278-403d-a1e1-9dddc47bdcf6@136.175.82.85:18775?flow=xtls-rprx-vision&pbk=oR75S6pg_RDAKIuzv_WrCiwaUqqFoek2iuo5N22llQQ&security=reality&sid=6ba85179e30d4fc2&sni=addons.mozilla.org&type=tcp&fp=edge#🇧🇬 Bulgaria | InterLIR 1
+vless://9ae5940b-0278-403d-a1e1-9dddc47bdcf6@136.175.82.85:18775?flow=xtls-rprx-vision&pbk=oR75S6pg_RDAKIuzv_WrCiwaUqqFoek2iuo5N22llQQ&security=reality&sid=6ba85179e30d4fc2&sni=addons.mozilla.org&type=tcp&fp=qq#🇧🇬 Bulgaria | InterLIR 2
+vless://9ae5940b-0278-403d-a1e1-9dddc47bdcf6@136.175.82.85:18775?flow=xtls-rprx-vision&pbk=oR75S6pg_RDAKIuzv_WrCiwaUqqFoek2iuo5N22llQQ&security=reality&sid=6ba85179e30d4fc2&sni=addons.mozilla.org&type=tcp&fp=chrome#🇧🇬 Bulgaria | InterLIR 3
