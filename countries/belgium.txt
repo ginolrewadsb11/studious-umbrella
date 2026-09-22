@@ -3,13 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.186.38:2053?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🇧🇪 Belgium | Cloudflare, 1
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.186.38:2053?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🇧🇪 Belgium | Cloudflare, 2
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.137.177:2053?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🇧🇪 Belgium | Cloudflare, 3
-vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@141.227.137.177:2053?&security=tls&fp=chrome&sni=kkkk-xcd.pages.dev&type=ws&headerType=none&host=kkkk-xcd.pages.dev&path=%2F%3Fed%3D2048#🇧🇪 Belgium | Cloudflare, 4
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.137.177:2053?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🇧🇪 Belgium | Cloudflare, 2
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.186.38:2053?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🇧🇪 Belgium | Cloudflare, 3
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.186.38:2053?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🇧🇪 Belgium | Cloudflare, 4
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.186.38:2053?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🇧🇪 Belgium | Cloudflare, 5
-vless://38eb3e71-4349-4bd6-9baf-9740e1896495@bel.accessgate.link:8080?security=reality&encryption=none&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=unpkg.com&sid=b0d8c9a285c70f6f#🇧🇪 Belgium | GCS SER 1
-vless://38eb3e71-4349-4bd6-9baf-9740e1896495@bel.accessgate.link:8080?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=unpkg.com&type=tcp#🇧🇪 Belgium | GCS SER 2
-vless://38eb3e71-4349-4bd6-9baf-9740e1896495@bel.accessgate.link:8080?security=reality&encryption=none&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=unpkg.com&sid=b0d8c9a285c70f6f#🇧🇪 Belgium | GCS SER 3
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@141.227.186.38:2053?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🇧🇪 Belgium | Cloudflare, 6
+vless://38eb3e71-4349-4bd6-9baf-9740e1896495@bel.accessgate.link:8080?&security=reality&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&sid=b0d8c9a285c70f6f&fp=qq&sni=unpkg.com&type=tcp&headerType=none&host=unpkg.com&path=%2F#🇧🇪 Belgium | GCS SER 1

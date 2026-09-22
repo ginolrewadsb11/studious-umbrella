@@ -3,22 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAxNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSA4INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 1
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=qq&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 2
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?security=reality&type=raw&packetEncoding=xudp&sni=ya.ru&fp=chrome&sid=23103e1e&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&encryption=none#🇷🇺 Russia | Beget 3
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=firefox&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 4
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?type=raw&security=reality&fp=qq&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e&sni=ya.ru#🇷🇺 Russia | Beget 5
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sni=ya.ru&sid=23103e1e#🇷🇺 Russia | Beget 6
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?security=reality&type=raw&packetEncoding=xudp&sni=ya.ru&fp=chrome&sid=23103e1e&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&encryption=none#🇷🇺 Russia | Beget 7
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 8
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?type=raw&security=reality&fp=firefox&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e&sni=ya.ru#🇷🇺 Russia | Beget 9
-vless://ed189537-41de-4abe-9f8b-bb75d457722d@104.21.12.116:8880?path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&encryption=none&host=lucky-cake-4f58.318-5ee.workers.dev&type=ws#🇷🇺 Russia | HLL 1
-vless://fee1da7e-a258-4456-8e5e-8ecf6518ed12@104.21.19.76:2096?&security=tls&fp=chrome&sni=ez-82c7e7.abobaba.workers.dev&type=ws&headerType=none&host=ez-82c7e7.abobaba.workers.dev&path=%2FeyJqdW5rIjoiemxGMEFDU1VDRyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0#🇷🇺 Russia | HLL 2
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.39.218:8080?&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#🇷🇺 Russia | HLL 3
-vless://9a3de3e0-2a6e-4bb2-81bd-1a4e51dfa110@vpn.renshengxuanze.ccwu.cc:443?encryption=none&fp=chrome&host=vpn.renshengxuanze.ccwu.cc&path=%2F&security=tls&sni=vpn.renshengxuanze.ccwu.cc&type=ws#🇷🇺 Russia | HLL 4
-vless://8057eabc-921d-4ef5-9acb-80ccc6b48379@72.56.1.5:443?type=grpc&security=reality&fp=firefox&pbk=0FeZt3p4idHrFpZRIjn69W_zUFiVBKmoGhkqSqbAvRw&sid=271684C10127374D&sni=www.siemens.com&serviceName=Popka#🇷🇺 Russia | JSC "TIMEWEB" 1
-vless://8057eabc-921d-4ef5-9acb-80ccc6b48379@72.56.1.5:443?type=grpc&security=reality&pbk=0FeZt3p4idHrFpZRIjn69W_zUFiVBKmoGhkqSqbAvRw&sid=271684C10127374D&sni=www.siemens.com&mode=multi&serviceName=Popka&fp=edge#🇷🇺 Russia | JSC "TIMEWEB" 2
-vless://8057eabc-921d-4ef5-9acb-80ccc6b48379@72.56.1.5:443?type=grpc&security=reality&pbk=0FeZt3p4idHrFpZRIjn69W_zUFiVBKmoGhkqSqbAvRw&sid=271684C10127374D&sni=www.siemens.com&mode=multi&serviceName=Popka&fp=qq#🇷🇺 Russia | JSC "TIMEWEB" 3
-vless://8057eabc-921d-4ef5-9acb-80ccc6b48379@72.56.1.5:443?type=grpc&security=reality&pbk=0FeZt3p4idHrFpZRIjn69W_zUFiVBKmoGhkqSqbAvRw&sid=271684C10127374D&sni=www.siemens.com&mode=multi&serviceName=Popka&fp=firefox#🇷🇺 Russia | JSC "TIMEWEB" 4
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 1
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?type=tcp&security=reality&sni=ya.ru&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#🇷🇺 Russia | Beget 2
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=firefox&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 3
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=qq&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 4
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 5
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 6
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 7
+vless://496a2c7a-c963-4275-b317-4d4a68901456@200.165.224.58:443?security=reality&encryption=none&pbk=JCZ8mEl6zHhf121a099v2EhqDKbvbvXBwLJEGgEauyM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com&sid=8f1a1fff&fp=chrome#🇷🇺 Russia | JSC "TIMEWEB" 1
