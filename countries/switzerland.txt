@@ -3,9 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#🇨🇭 Switzerland | Alexhost SRL 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#🇨🇭 Switzerland | Alexhost SRL 2
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.145:8081?encryption=none&type=ws&path=/vless-test&packetEncoding=xudp#🇨🇭 Switzerland | AlexHost-CH 1
-vless://bd93a117-2e9d-4e1e-b9b9-69d8d7089bdb@34.65.54.139:443?type=tcp&security=reality&path=%2F&sni=www.cloudflare.com&pbk=DE-S0R0KYYTuBsuQmT-iip6rJ2QsuH6z3SJYlsNyUUI&sid=5214a92cad4ad90e&fp=firefox#🇨🇭 Switzerland | Google 1
+vless://bd93a117-2e9d-4e1e-b9b9-69d8d7089bdb@34.65.54.139:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&sid=5214a92cad4ad90e&pbk=DE-S0R0KYYTuBsuQmT-iip6rJ2QsuH6z3SJYlsNyUUI#🇨🇭 Switzerland | Google 1

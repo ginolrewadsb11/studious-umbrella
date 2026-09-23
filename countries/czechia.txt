@@ -3,8 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@5.39.202.140:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=WU5baXUzRH9BceiYI8MPBmDMEloTFImx2vvE5uh1yjM&security=reality&sid=f19e02a2fb573c18&sni=cepchik.nxxzxaw.beer&type=tcp#🇨🇿 Czechia | GamerHost s.r.o. 1
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@5.39.202.140:443?security=reality&encryption=none&sni=cepchik.nxxzxaw.beer&fp=firefox&pbk=WU5baXUzRH9BceiYI8MPBmDMEloTFImx2vvE5uh1yjM&sid=f19e02a2fb573c18&flow=xtls-rprx-vision#🇨🇿 Czechia | GamerHost s.r.o. 2
-vless://1d2656d5-89b9-408a-8ecf-0d804f056abc@153.76.185.81:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿 Czechia | Reliable Communication... 1
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@5.39.202.140:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=WU5baXUzRH9BceiYI8MPBmDMEloTFImx2vvE5uh1yjM&sid=f19e02a2fb573c18&sni=cepchik.nxxzxaw.beer#🇨🇿 Czechia | GamerHost s.r.o. 1
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@cepchik.nxxzxaw.beer:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=cepchik.nxxzxaw.beer&pbk=WU5baXUzRH9BceiYI8MPBmDMEloTFImx2vvE5uh1yjM&sid=f19e02a2fb573c18&spx=%2F&fp=chrome#🇨🇿 Czechia | GamerHost s.r.o. 2
