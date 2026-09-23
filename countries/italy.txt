@@ -5,20 +5,20 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDE3INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
+vless://c5694dc5-39fd-4a92-8430-3837baa522a3@31.77.201.33:443?encryption=none&security=reality&type=tcp&sni=italia.superbuba.top&flow=xtls-rprx-vision&fp=firefox&pbk=G2U8_BvRAgcOw0sX8u_0yYdVAlD8CWLSi-uYjvH07hw&sid=4fa44664f6a566d3#🇮🇹 Italy | Akenai-Products-AS 1
+vless://c5694dc5-39fd-4a92-8430-3837baa522a3@italia.superbuba.top:443?&security=reality&flow=xtls-rprx-vision&pbk=G2U8_BvRAgcOw0sX8u_0yYdVAlD8CWLSi-uYjvH07hw&sid=4fa44664f6a566d3&fp=firefox&sni=italia.superbuba.top&type=tcp&headerType=none&host=italia.superbuba.top&path=%2F#🇮🇹 Italy | Akenai-Products-AS 2
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.164.175.81:19999#🇮🇹 Italy | Datacamp 1
 vmess://eyJhZGQiOiI4OS40MS4xNzIuODUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiQHFhcmFfYXRheWkgfCDwn4eu8J-HuSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#🇮🇹 Italy | G-Core Labs S.A. 1
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=&type=tcp#🇮🇹 Italy | Oracle 1
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle 2
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#🇮🇹 Italy | Oracle 3
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#🇮🇹 Italy | Oracle 4
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle 5
-vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#🇮🇹 Italy | OVH SAS 1
-vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#🇮🇹 Italy | OVH SAS 2
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#🇮🇹 Italy | OVH SAS 3
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#🇮🇹 Italy | OVH SAS 4
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#🇮🇹 Italy | OVH SAS 5
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#🇮🇹 Italy | OVH SAS 6
-vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?encryption=none&security=tls&sni=milan.adaspoloandco.com&allowinsecure=0&type=ws&host=milan.adaspoloandco.com&path=%2FRoBeRt#🇮🇹 Italy | OVH SAS 7
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#🇮🇹 Italy | Oracle 1
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle 2
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle 3
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle 4
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=&type=tcp#🇮🇹 Italy | Oracle 5
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#🇮🇹 Italy | OVH SAS 1
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#🇮🇹 Italy | OVH SAS 2
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#🇮🇹 Italy | OVH SAS 3
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#🇮🇹 Italy | OVH SAS 4
+vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#🇮🇹 Italy | OVH SAS 5
+vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?encryption=none&security=tls&sni=milan.adaspoloandco.com&allowinsecure=0&type=ws&host=milan.adaspoloandco.com&path=%2FRoBeRt#🇮🇹 Italy | OVH SAS 6
+vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#🇮🇹 Italy | OVH SAS 7
 vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?encryption=none&host=milan.adaspoloandco.com&path=/RoBeRt&security=tls&sni=milan.adaspoloandco.com&type=ws#🇮🇹 Italy | OVH SAS 8
-vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?encryption=none&host=milan.adaspoloandco.com&path=/RoBeRt&security=tls&sni=milan.adaspoloandco.com&type=ws#🇮🇹 Italy | OVH SAS 9
-vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#🇮🇹 Italy | OVH SAS 10
