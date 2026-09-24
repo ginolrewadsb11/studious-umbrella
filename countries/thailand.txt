@@ -3,9 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?encryption=none&security=none&type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws#🌍 Thailand | Bangmod Enterprise Co., . 1
-vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?encryption=none&security=none&type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws#🌍 Thailand | Bangmod Enterprise Co., . 2
-vless://2b1d0c2a-9c80-4b72-892e-93d0500b9210@34.15.162.1:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=LklWoqMQz_TWiuLCUNRwHAKX1adVRSGMhtbo98fbDxw&sid=ca672c53fbbac555&type=tcp&headerType=none#🌍 Thailand | Google 1
-vless://2b1d0c2a-9c80-4b72-892e-93d0500b9210@34.15.162.1:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=LklWoqMQz_TWiuLCUNRwHAKX1adVRSGMhtbo98fbDxw&sid=ca672c53fbbac555&type=tcp&headerType=none#🌍 Thailand | Google 2
+vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=%2Fws&security=&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#🌍 Thailand | Bangmod Enterprise Co., . 1
+vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?type=ws&host=v2ray.simspeedup.com&path=/ws#🌍 Thailand | Bangmod Enterprise Co., . 2
