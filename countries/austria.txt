@@ -3,13 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://ce230b9c-0531-40da-bc3f-f27a8e059db1@45.86.245.107:5865?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1UlHWXQ11dMmBYHq7XYsyKnfPVGTh9UssmiJE_zRnjI&security=reality&sid=a4f7c2e91b6d8035&sni=ru.vkroom-it-service.xyz&type=tcp#🇦🇹 Austria | Aeza International LTD 1
-vless://ce230b9c-0531-40da-bc3f-f27a8e059db1@45.86.245.107:5865?security=reality&encryption=none&pbk=1UlHWXQ11dMmBYHq7XYsyKnfPVGTh9UssmiJE_zRnjI&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=ru.vkroom-it-service.xyz&sid=a4f7c2e91b6d8035#🇦🇹 Austria | Aeza International LTD 2
-vless://ce230b9c-0531-40da-bc3f-f27a8e059db1@45.86.245.107:5865?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1UlHWXQ11dMmBYHq7XYsyKnfPVGTh9UssmiJE_zRnjI&security=reality&sid=a4f7c2e91b6d8035&sni=ru.vkroom-it-service.xyz&type=tcp#🇦🇹 Austria | Aeza International LTD 3
+vless://ce230b9c-0531-40da-bc3f-f27a8e059db1@45.86.245.107:5865?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=1UlHWXQ11dMmBYHq7XYsyKnfPVGTh9UssmiJE_zRnjI&sni=ru.vkroom-it-service.xyz&sid=a4f7c2e91b6d8035#🇦🇹 Austria | Aeza International LTD 1
 vless://edde565e-41f5-400e-84ea-7b87a3e84488@152.53.1.40:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=at.quattro-tech.ru&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&allowInsecure=1#🇦🇹 Austria | ANX 1
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@82.110.60.9:19999#🇦🇹 Austria | NET 1
-vless://61da8f4b-6ab1-4ca7-bae0-1cec4f9be2f8@31.76.69.58:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fastly.jsdelivr.net&fp=safari&pbk=J9-352rPmu8GybqIDnC22sE3zs6Vg8tnMbbi-DyLFR8&sid=830b93d6a086e00e&type=tcp&headerType=none#🇦🇹 Austria | SERV.HOST GROUP LTD 1
-vless://61da8f4b-6ab1-4ca7-bae0-1cec4f9be2f8@31.76.69.58:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fastly.jsdelivr.net&fp=chrome&pbk=J9-352rPmu8GybqIDnC22sE3zs6Vg8tnMbbi-DyLFR8&sid=830b93d6a086e00e&type=tcp&headerType=none#🇦🇹 Austria | SERV.HOST GROUP LTD 2
-vless://61da8f4b-6ab1-4ca7-bae0-1cec4f9be2f8@31.76.69.58:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fastly.jsdelivr.net&fp=chrome&pbk=J9-352rPmu8GybqIDnC22sE3zs6Vg8tnMbbi-DyLFR8&sid=830b93d6a086e00e&type=tcp&headerType=none#🇦🇹 Austria | SERV.HOST GROUP LTD 3
+vless://61da8f4b-6ab1-4ca7-bae0-1cec4f9be2f8@31.76.69.22:443?encryption=none&type=tcp&security=reality&sni=fastly.jsdelivr.net&flow=xtls-rprx-vision&headerType=none&pbk=J9-352rPmu8GybqIDnC22sE3zs6Vg8tnMbbi-DyLFR8&sid=830b93d6a086e00e&allowInsecure=1&fp=ios#🇦🇹 Austria | SERV.HOST GROUP LTD 1
