@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://edfc660c-3cc9-4d36-8acd-5daca185f3e6@104.143.223.75:2085?encryption=none&security=none&type=grpc&serviceName=vless#🇺🇦 Ukraine | HSTQ-HOSTING-SERVICE 1
-vless://82d81f5d-51be-4132-afaf-46f6218f4127@104.143.223.71:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇺🇦 Ukraine | HSTQ-HOSTING-SERVICE 2
-vless://82d81f5d-51be-4132-afaf-46f6218f4127@104.143.223.71:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇺🇦 Ukraine | HSTQ-HOSTING-SERVICE 3
+vless://04e22546-96b6-4d43-8301-c098d822789b@maple-press.justext.space:2096?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=maple-press.justext.space&fp=firefox#🇺🇦 Ukraine | HSTQ-HOSTING-SERVICE 1

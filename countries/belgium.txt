@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://fa45096d-bed0-ad80-c773-23c30000001b@172.67.209.13:443?type=ws&security=tls&encryption=none&path=%2Fsync&host=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&sni=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&fp=chrome&headerType=none#🇧🇪 Belgium | Google 1
+vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@141.227.137.177:2053?security=tls&sni=kkkk-xcd.pages.dev&type=ws&headerType=none&host=kkkk-xcd.pages.dev&path=%2F%3Fed%3D2048&fp=safari#🇧🇪 Belgium | Cloudflare, 1
+vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@141.227.137.177:2053?&security=tls&fp=chrome&sni=kkkk-xcd.pages.dev&type=ws&headerType=none&host=kkkk-xcd.pages.dev&path=%2F%3Fed%3D2048#🇧🇪 Belgium | Cloudflare, 2
