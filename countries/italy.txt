@@ -5,13 +5,13 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDEwINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
+vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@31.77.154.14:8443?security=reality&encryption=none&pbk=3O__mdy-whzI07V-QEyR6GQnag1FNwtHijDxt2_jkDQ&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=swscan.apple.com#🇮🇹 Italy | Akenai-Products-AS 1
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.164.175.81:19999#🇮🇹 Italy | Datacamp 1
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=&type=tcp#🇮🇹 Italy | Oracle 1
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=&type=tcp#🇮🇹 Italy | Oracle 2
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#🇮🇹 Italy | Oracle 3
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#🇮🇹 Italy | Oracle 1
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle 2
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=&type=tcp#🇮🇹 Italy | Oracle 3
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#🇮🇹 Italy | OVH SAS 1
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#🇮🇹 Italy | OVH SAS 2
-vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#🇮🇹 Italy | OVH SAS 3
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#🇮🇹 Italy | OVH SAS 2
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#🇮🇹 Italy | OVH SAS 3
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#🇮🇹 Italy | OVH SAS 4
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#🇮🇹 Italy | OVH SAS 5
-vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f&type=tcp&headerType=none#🇮🇹 Italy | SERV.HOST GROUP LTD 1
+vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#🇮🇹 Italy | OVH SAS 5
