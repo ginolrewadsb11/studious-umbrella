@@ -3,28 +3,25 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAyMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAyMCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZQ@195.133.23.200:30210#🇷🇺 Russia | Baxet 1
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?&security=tls&fp=firefox&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcasc#🇷🇺 Russia | Adman 1
+vless://b8201bab-fa6c-4f6e-b289-b5da660c6f69@46.8.200.91:443?encryption=none&security=tls&sni=cf3.rumedia-cdn.com&alpn=http%2F1.1&type=ws&host=cf3.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive&fp=chrome#🇷🇺 Russia | Adman 2
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?security=tls&fp=firefox&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcasc#🇷🇺 Russia | Adman 3
+vless://0a2dde28-70da-4863-a06f-35d007d94d35@46.8.200.91:443?security=tls&fp=firefox&sni=cf3.rumedia-cdn.com&type=ws&headerType=none&host=cf3.rumedia-cdn.com&path=%2Fcasc#🇷🇺 Russia | Adman 4
+vless://b8201bab-fa6c-4f6e-b289-b5da660c6f69@46.8.200.91:443?path=%2Fcdn%2Fv3%2Flive&security=tls&encryption=none&insecure=0&host=cf3.rumedia-cdn.com&type=ws&allowInsecure=0&sni=cf3.rumedia-cdn.com#🇷🇺 Russia | Adman 5
+vless://5413edfb-08d6-4fba-b51c-809c04feb127@185.103.100.136:2087?encryption=none&security=reality&sni=www.chitai-gorod.ru&fp=firefox&pbk=Eq3c19Y0WGB1APWMADQB-oxCvZFSVFAQxG5L6b8EkUg&sid=b1ad165f903c62fe&type=grpc&serviceName=astracat#🇷🇺 Russia | Aeza Group 1
 vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 1
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 2
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 3
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=firefox&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 4
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 5
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=qq&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 6
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@72.4.65.116:443?encryption=none&fp=firefox&security=tls&serviceName=cdn.v1.AssetService&sni=assets-de2.pleiades.codes&type=grpc#🇷🇺 Russia | Mikhail Fedorov 1
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@72.4.65.116:443?encryption=none&security=tls&serviceName=cdn.v1.AssetService&sni=assets-de2.pleiades.codes&type=grpc&fp=edge#🇷🇺 Russia | Mikhail Fedorov 2
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@72.4.65.116:443?encryption=none&security=tls&serviceName=cdn.v1.AssetService&sni=assets-de2.pleiades.codes&type=grpc&fp=safari#🇷🇺 Russia | Mikhail Fedorov 3
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@72.4.65.116:443?encryption=none&security=tls&serviceName=cdn.v1.AssetService&sni=assets-de2.pleiades.codes&type=grpc&fp=ios#🇷🇺 Russia | Mikhail Fedorov 4
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-de2.pleiades.codes:443?type=grpc&headerType=none&security=tls&encryption=none&sni=assets-de2.pleiades.codes&serviceName=cdn.v1.AssetService&fp=safari#🇷🇺 Russia | Mikhail Fedorov 5
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-de2.pleiades.codes:443?type=grpc&headerType=none&security=tls&encryption=none&sni=assets-de2.pleiades.codes&serviceName=cdn.v1.AssetService&fp=edge#🇷🇺 Russia | Mikhail Fedorov 6
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-de2.pleiades.codes:443?type=grpc&headerType=none&security=tls&encryption=none&sni=assets-de2.pleiades.codes&serviceName=cdn.v1.AssetService&fp=safari#🇷🇺 Russia | Mikhail Fedorov 7
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-de2.pleiades.codes:443?type=grpc&headerType=none&security=tls&encryption=none&sni=assets-de2.pleiades.codes&serviceName=cdn.v1.AssetService&fp=ios#🇷🇺 Russia | Mikhail Fedorov 8
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@217.19.122.65:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=fbsv6.guardora.pro&path=%2Fws&security=tls&sni=fbsv6.guardora.pro&type=ws#🇷🇺 Russia | VK 1
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@217.19.122.65:443?alpn=http%2F1.1&encryption=none&fp=safari&host=fbsv6.guardora.pro&path=%2Fws&security=tls&sni=fbsv6.guardora.pro&type=ws#🇷🇺 Russia | VK 2
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@217.19.122.65:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=fbsv6.guardora.pro&path=%2Fws&security=tls&sni=fbsv6.guardora.pro&type=ws#🇷🇺 Russia | VK 3
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@217.19.122.65:443?alpn=http%2F1.1&encryption=none&fp=safari&host=fbsv6.guardora.pro&path=%2Fws&security=tls&sni=fbsv6.guardora.pro&type=ws#🇷🇺 Russia | VK 4
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@217.19.122.65:443?type=ws&security=tls&encryption=none&path=%2Fws&host=fbsv6.guardora.pro&sni=fbsv6.guardora.pro&fp=firefox&alpn=http%2F1.1&headerType=none#🇷🇺 Russia | VK 5
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=fbsv6.guardora.pro&type=ws&headerType=none&host=fbsv6.guardora.pro&path=%2Fws#🇷🇺 Russia | VK 6
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?encryption=none&fp=firefox&fm=ahmadV2ray&host=fbsv6.guardora.pro&sni=fbsv6.guardora.pro&allowInsecure=0&alpn=http%2F1.1&security=tls&path=%2Fws&insecure=0&type=ws#🇷🇺 Russia | VK 7
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?encryption=none&fp=firefox&fm=ahmadV2ray&host=fbsv6.guardora.pro&sni=fbsv6.guardora.pro&allowInsecure=0&alpn=http%2F1.1&security=tls&path=%2Fws&insecure=0&type=ws#🇷🇺 Russia | VK 8
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 2
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=firefox&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 3
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 4
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=qq&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 5
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 6
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.38.127:2086?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#🇷🇺 Russia | HLL 1
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.38.127:2086?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#🇷🇺 Russia | HLL 2
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@72.4.65.116:443?encryption=none&security=tls&serviceName=cdn.v1.AssetService&sni=assets-de2.pleiades.codes&type=grpc&fp=chrome#🇷🇺 Russia | Mikhail Fedorov 1
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@72.4.65.116:443?encryption=none&security=tls&serviceName=cdn.v1.AssetService&sni=assets-de2.pleiades.codes&type=grpc&fp=ios#🇷🇺 Russia | Mikhail Fedorov 2
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-de2.pleiades.codes:443?type=grpc&headerType=none&security=tls&encryption=none&sni=assets-de2.pleiades.codes&serviceName=cdn.v1.AssetService&fp=chrome#🇷🇺 Russia | Mikhail Fedorov 3
+vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=fbsv6.guardora.pro&type=ws&headerType=none&host=fbsv6.guardora.pro&path=%2Fws#🇷🇺 Russia | VK 1
+vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?encryption=none&fp=chrome&fm=ahmadV2ray&host=fbsv6.guardora.pro&sni=fbsv6.guardora.pro&allowInsecure=0&alpn=http/1.1&security=tls&path=/ws&insecure=0&type=ws#🇷🇺 Russia | VK 2
+vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=fbsv6.guardora.pro&type=ws&headerType=none&host=fbsv6.guardora.pro&path=%2Fws#🇷🇺 Russia | VK 3

@@ -3,10 +3,16 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMTEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.187:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=ireland-new-ded1.failspace.top#🇮🇪 Ireland | FDCservers.net 1
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.187:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ireland-new-ded1.failspace.top&type=tcp#🇮🇪 Ireland | FDCservers.net 2
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ireland-new-ded1.failspace.top:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&type=tcp&headerType=none&host=ireland-new-ded1.failspace.top&path=%2F#🇮🇪 Ireland | FDCservers.net 3
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ireland-new-ded1.failspace.top:443?flow=xtls-rprx-vision&security=tls&type=tcp#🇮🇪 Ireland | FDCservers.net 4
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ireland-new-ded1.failspace.top:443?flow=xtls-rprx-vision&security=tls&type=tcp#🇮🇪 Ireland | FDCservers.net 5
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.187:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ireland-new-ded1.failspace.top&type=tcp#🇮🇪 Ireland | FDCservers.net 1
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.187:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ireland-new-ded1.failspace.top&type=tcp&fp=firefox#🇮🇪 Ireland | FDCservers.net 2
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.187:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ireland-new-ded1.failspace.top&type=tcp&fp=safari#🇮🇪 Ireland | FDCservers.net 3
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.187:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ireland-new-ded1.failspace.top&type=tcp&fp=qq#🇮🇪 Ireland | FDCservers.net 4
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.187:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=ireland-new-ded1.failspace.top#🇮🇪 Ireland | FDCservers.net 5
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.187:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ireland-new-ded1.failspace.top&type=tcp&fp=qq#🇮🇪 Ireland | FDCservers.net 6
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.187:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ireland-new-ded1.failspace.top&type=tcp&fp=qq#🇮🇪 Ireland | FDCservers.net 7
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ireland-new-ded1.failspace.top:443?flow=xtls-rprx-vision&security=tls&type=tcp#🇮🇪 Ireland | FDCservers.net 8
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ireland-new-ded1.failspace.top:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&type=tcp&headerType=none&host=ireland-new-ded1.failspace.top&path=%2F#🇮🇪 Ireland | FDCservers.net 9
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ireland-new-ded1.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=ireland-new-ded1.failspace.top#🇮🇪 Ireland | FDCservers.net 10
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ireland-new-ded1.failspace.top:443?flow=xtls-rprx-vision&security=tls&type=tcp#🇮🇪 Ireland | FDCservers.net 11
