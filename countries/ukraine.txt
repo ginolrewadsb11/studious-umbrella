@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HuvCfh6YgQm9iaVZQTiDigJQgVWtyYWluZQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://6f91e9a0-d5de-4bd2-a692-8aa94d024ad7@104.143.223.83:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇺🇦 Ukraine | HSTQ-HOSTING-SERVICE 1
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=%2F#🇺🇦 Ukraine | Cloudflare, 1
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=%2F#🇺🇦 Ukraine | Cloudflare, 2
+vless://df95425f-b822-4279-bd97-3699361293dd@104.143.223.235:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇺🇦 Ukraine | HSTQ-HOSTING-SERVICE 1
+vless://df95425f-b822-4279-bd97-3699361293dd@104.143.223.235:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇺🇦 Ukraine | HSTQ-HOSTING-SERVICE 2
