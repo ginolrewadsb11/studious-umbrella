@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://85261643-2fd5-4889-8da9-43abc3c08405@130.49.188.4:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lk.s.dn.iki-servers.com&fp=random&pbk=GW-DWwk3vtXtXBEqQxY_Cf83JIisyyk34rUrtkMZ90g&spx=%2F&type=tcp#🇩🇰 Denmark | Global Connectivity So... 1
-vless://85261643-2fd5-4889-8da9-43abc3c08405@130.49.188.4:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=lk.s.dn.iki-servers.com&fp=chrome&pbk=GW-DWwk3vtXtXBEqQxY_Cf83JIisyyk34rUrtkMZ90g&spx=/&allowInsecure=1#🇩🇰 Denmark | Global Connectivity So... 2
+vless://85261643-2fd5-4889-8da9-43abc3c08405@130.49.188.4:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=lk.s.dn.iki-servers.com&fp=chrome&pbk=GW-DWwk3vtXtXBEqQxY_Cf83JIisyyk34rUrtkMZ90g&spx=/&allowInsecure=1#🇩🇰 Denmark | Global Connectivity So... 1
