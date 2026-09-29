@@ -3,34 +3,29 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAyOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAyNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru.xiaoliyu.cyou:18333?insecure=1#🇷🇺 Russia | BAXET 1
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru.xiaoliyu.cyou:18333?insecure=1&sni=ru.xiaoliyu.cyou#🇷🇺 Russia | BAXET 2
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru.xiaoliyu.cyou:18333?insecure=1&sni=ru.xiaoliyu.cyou#🇷🇺 Russia | BAXET 3
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=firefox&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 1
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 2
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 3
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=qq&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 4
+vless://5413edfb-08d6-4fba-b51c-809c04feb127@193.233.247.60:443?type=grpc&security=reality&encryption=none&pbk=c5VEuaQj6ClJwRZvXbXwb2vMBxdye2O-0jHi2Q3NEGU&sid=7e93843097e0c549&sni=www.chitai-gorod.ru&serviceName=astracat&fp=ios#🇷🇺 Russia | Aeza Group 1
+vless://5413edfb-08d6-4fba-b51c-809c04feb127@193.233.247.60:443?type=grpc&security=reality&encryption=none&pbk=c5VEuaQj6ClJwRZvXbXwb2vMBxdye2O-0jHi2Q3NEGU&sid=7e93843097e0c549&sni=www.chitai-gorod.ru&serviceName=astracat&fp=qq#🇷🇺 Russia | Aeza Group 2
+vless://5413edfb-08d6-4fba-b51c-809c04feb127@193.233.247.60:443?type=grpc&security=reality&encryption=none&pbk=c5VEuaQj6ClJwRZvXbXwb2vMBxdye2O-0jHi2Q3NEGU&sid=7e93843097e0c549&sni=www.chitai-gorod.ru&serviceName=astracat&fp=qq#🇷🇺 Russia | Aeza Group 3
+vless://5413edfb-08d6-4fba-b51c-809c04feb127@193.233.247.60:443?type=grpc&security=reality&encryption=none&pbk=c5VEuaQj6ClJwRZvXbXwb2vMBxdye2O-0jHi2Q3NEGU&sid=7e93843097e0c549&sni=www.chitai-gorod.ru&serviceName=astracat&fp=safari#🇷🇺 Russia | Aeza Group 4
+vless://5413edfb-08d6-4fba-b51c-809c04feb127@193.233.247.60:443?type=grpc&security=reality&encryption=none&pbk=c5VEuaQj6ClJwRZvXbXwb2vMBxdye2O-0jHi2Q3NEGU&sid=7e93843097e0c549&sni=www.chitai-gorod.ru&serviceName=astracat&fp=safari#🇷🇺 Russia | Aeza Group 5
+vless://5413edfb-08d6-4fba-b51c-809c04feb127@193.233.247.60:443?type=grpc&security=reality&encryption=none&pbk=c5VEuaQj6ClJwRZvXbXwb2vMBxdye2O-0jHi2Q3NEGU&sid=7e93843097e0c549&sni=www.chitai-gorod.ru&serviceName=astracat&fp=ios#🇷🇺 Russia | Aeza Group 6
+vless://5413edfb-08d6-4fba-b51c-809c04feb127@193.233.247.60:443?type=grpc&security=reality&encryption=none&pbk=c5VEuaQj6ClJwRZvXbXwb2vMBxdye2O-0jHi2Q3NEGU&sid=7e93843097e0c549&sni=www.chitai-gorod.ru&serviceName=astracat&fp=edge#🇷🇺 Russia | Aeza Group 7
+vless://5413edfb-08d6-4fba-b51c-809c04feb127@193.233.247.60:443?type=grpc&security=reality&encryption=none&pbk=c5VEuaQj6ClJwRZvXbXwb2vMBxdye2O-0jHi2Q3NEGU&sid=7e93843097e0c549&sni=www.chitai-gorod.ru&serviceName=astracat&fp=edge#🇷🇺 Russia | Aeza Group 8
+vless://5413edfb-08d6-4fba-b51c-809c04feb127@193.233.247.60:443?type=grpc&security=reality&encryption=none&pbk=c5VEuaQj6ClJwRZvXbXwb2vMBxdye2O-0jHi2Q3NEGU&sid=7e93843097e0c549&sni=www.chitai-gorod.ru&serviceName=astracat&fp=firefox#🇷🇺 Russia | Aeza Group 9
+vless://5413edfb-08d6-4fba-b51c-809c04feb127@193.233.247.60:443?type=grpc&security=reality&encryption=none&pbk=c5VEuaQj6ClJwRZvXbXwb2vMBxdye2O-0jHi2Q3NEGU&sid=7e93843097e0c549&sni=www.chitai-gorod.ru&serviceName=astracat&fp=qq#🇷🇺 Russia | Aeza Group 10
+vless://5413edfb-08d6-4fba-b51c-809c04feb127@193.233.247.60:443?type=grpc&security=reality&encryption=none&pbk=c5VEuaQj6ClJwRZvXbXwb2vMBxdye2O-0jHi2Q3NEGU&sid=7e93843097e0c549&sni=www.chitai-gorod.ru&serviceName=astracat&fp=firefox#🇷🇺 Russia | Aeza Group 11
+vless://5413edfb-08d6-4fba-b51c-809c04feb127@193.233.247.60:443?type=grpc&security=reality&encryption=none&pbk=c5VEuaQj6ClJwRZvXbXwb2vMBxdye2O-0jHi2Q3NEGU&sid=7e93843097e0c549&sni=www.chitai-gorod.ru&serviceName=astracat&fp=safari#🇷🇺 Russia | Aeza Group 12
+ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg@46.29.163.78:40440#🇷🇺 Russia | Baxet 1
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru.xiaoliyu.cyou:18333?insecure=1&sni=ru.xiaoliyu.cyou#🇷🇺 Russia | BAXET 1
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru.xiaoliyu.cyou:18333?insecure=1#🇷🇺 Russia | BAXET 2
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 1
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=firefox&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 2
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 3
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 4
 vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 5
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 6
-vless://55bfbfcd-26e5-45bc-b39b-cfc830d7ff2f@188.130.209.220:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=edge-fr.extazy.org&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&sid=ba4b2afa9e7193ea&fp=firefox#🇷🇺 Russia | Delta 1
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=qq&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 6
 vless://3e2591b2-4739-4c59-b540-344f0b6505ac@193.163.203.199:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xa2v36oJSdYGM1SSiMYyehw9RTdlBHOLcE5-YOK6unE&security=reality&sid=3c7ab85b281ecc8f&sni=x6.megabitvpn.org&type=tcp#🇷🇺 Russia | Miglovets Egor Andreevich 1
-vless://5dff1842-c02f-4dd4-b1ad-2e597b99dc31@ru59.mech-pro.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ru59.mech-pro.online&pbk=CkA-mj6UVyllbl5b8xaSLFfrB7lCot86GZx2tcMbKn4&sid=c42e96a6&fp=chrome#🇷🇺 Russia | MT FINANCE 1
-vless://55bfbfcd-26e5-45bc-b39b-cfc830d7ff2f@188.130.209.220:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=edge-fr.extazy.org&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&sid=ba4b2afa9e7193ea&fp=safari#🇷🇺 Russia | VK 1
-vless://55bfbfcd-26e5-45bc-b39b-cfc830d7ff2f@188.130.209.220:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=edge-fr.extazy.org&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&sid=ba4b2afa9e7193ea&fp=ios#🇷🇺 Russia | VK 2
-vless://55bfbfcd-26e5-45bc-b39b-cfc830d7ff2f@188.130.209.220:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=edge-fr.extazy.org&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&sid=ba4b2afa9e7193ea&fp=firefox#🇷🇺 Russia | VK 3
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@217.19.122.200:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=fbsv6.guardora.pro&path=%2Fws&security=tls&sni=fbsv6.guardora.pro&type=ws#🇷🇺 Russia | VK 4
-vless://55bfbfcd-26e5-45bc-b39b-cfc830d7ff2f@188.130.209.220:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=edge-fr.extazy.org&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&sid=ba4b2afa9e7193ea&fp=firefox#🇷🇺 Russia | VK 5
-vless://55bfbfcd-26e5-45bc-b39b-cfc830d7ff2f@188.130.209.220:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=edge-fr.extazy.org&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&sid=ba4b2afa9e7193ea&fp=chrome#🇷🇺 Russia | VK 6
-vless://55bfbfcd-26e5-45bc-b39b-cfc830d7ff2f@188.130.209.220:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=edge-fr.extazy.org&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&sid=ba4b2afa9e7193ea&fp=chrome#🇷🇺 Russia | VK 7
-vless://55bfbfcd-26e5-45bc-b39b-cfc830d7ff2f@188.130.209.220:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=edge-fr.extazy.org&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&sid=ba4b2afa9e7193ea&fp=qq#🇷🇺 Russia | VK 8
-vless://55bfbfcd-26e5-45bc-b39b-cfc830d7ff2f@188.130.209.220:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=edge-fr.extazy.org&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&sid=ba4b2afa9e7193ea&fp=qq#🇷🇺 Russia | VK 9
-vless://55bfbfcd-26e5-45bc-b39b-cfc830d7ff2f@188.130.209.220:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=edge-fr.extazy.org&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&sid=ba4b2afa9e7193ea&fp=edge#🇷🇺 Russia | VK 10
-vless://55bfbfcd-26e5-45bc-b39b-cfc830d7ff2f@188.130.209.220:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=edge-fr.extazy.org&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&sid=ba4b2afa9e7193ea&fp=safari#🇷🇺 Russia | VK 11
-vless://55bfbfcd-26e5-45bc-b39b-cfc830d7ff2f@188.130.209.220:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=edge-fr.extazy.org&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&sid=ba4b2afa9e7193ea&fp=safari#🇷🇺 Russia | VK 12
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@217.19.122.200:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=fbsv6.guardora.pro&path=%2Fws&security=tls&sni=fbsv6.guardora.pro&type=ws#🇷🇺 Russia | VK 13
-vless://55bfbfcd-26e5-45bc-b39b-cfc830d7ff2f@188.130.209.220:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=edge-fr.extazy.org&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&sid=ba4b2afa9e7193ea&fp=qq#🇷🇺 Russia | VK 14
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?encryption=none&security=tls&type=ws&host=fbsv6.guardora.pro&path=%2Fws&sni=fbsv6.guardora.pro&fp=firefox#🇷🇺 Russia | VK 15
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?encryption=none&security=tls&type=ws&host=fbsv6.guardora.pro&path=%2Fws&sni=fbsv6.guardora.pro&fp=firefox#🇷🇺 Russia | VK 16
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?encryption=none&security=tls&type=ws&path=%2Fws&sni=fbsv6.guardora.pro&fp=chrome#🇷🇺 Russia | VK 17
+vless://bc5ec86c-3e65-4272-994c-59a924c72a68@217.19.122.200:443?type=ws&security=tls&encryption=none&path=%2Fws&host=fbsv6.guardora.pro&sni=fbsv6.guardora.pro&fp=chrome&headerType=none#🇷🇺 Russia | VK 1
+vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?encryption=none&security=tls&type=ws&path=%2Fws&sni=fbsv6.guardora.pro&fp=firefox#🇷🇺 Russia | VK 2
