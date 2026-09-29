@@ -6,22 +6,22 @@
 #announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMjAg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://edde565e-41f5-400e-84ea-7b87a3e84488@152.53.1.40:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=at.quattro-tech.ru&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&allowInsecure=1#🇦🇹 Austria | ANX 1
-vless://9e3132b8-b595-444a-833a-2de44789f9d7@132.243.203.214:8443?path=%2F&security=tls&encryption=none&insecure=0&host=shephe.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=shephe.dpdns.org#🇦🇹 Austria | Cloudflare, 1
+vless://9e3132b8-b595-444a-833a-2de44789f9d7@132.243.203.214:8443?security=tls&type=ws&path=/&host=shephe.dpdns.org&packetEncoding=xudp&sni=shephe.dpdns.org&fp=chrome&encryption=none#🇦🇹 Austria | Cloudflare, 1
 vless://9e3132b8-b595-444a-833a-2de44789f9d7@132.243.203.214:8443?path=%2F&security=tls&encryption=none&insecure=0&host=shephe.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=shephe.dpdns.org#🇦🇹 Austria | Cloudflare, 2
-vless://9e3132b8-b595-444a-833a-2de44789f9d7@132.243.203.214:8443?path=%2F&security=tls&encryption=none&insecure=0&host=shephe.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=shephe.dpdns.org#🇦🇹 Austria | Cloudflare, 3
+vless://9e3132b8-b595-444a-833a-2de44789f9d7@132.243.203.214:8443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=shephe.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=shephe.dpdns.org#🇦🇹 Austria | Cloudflare, 3
 vless://9e3132b8-b595-444a-833a-2de44789f9d7@132.243.203.214:8443?encryption=none&fp=chrome&host=shephe.dpdns.org&path=%2F&security=tls&sni=shephe.dpdns.org&type=ws#🇦🇹 Austria | Cloudflare, 4
-vless://9e3132b8-b595-444a-833a-2de44789f9d7@132.243.203.214:8443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=shephe.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=shephe.dpdns.org#🇦🇹 Austria | Cloudflare, 5
-vless://9e3132b8-b595-444a-833a-2de44789f9d7@132.243.203.214:8443?encryption=none&security=tls&sni=shephe.dpdns.org&fp=random&type=ws&path=%2F&host=shephe.dpdns.org#🇦🇹 Austria | Cloudflare, 6
+vless://9e3132b8-b595-444a-833a-2de44789f9d7@132.243.203.214:8443?path=%2F&security=tls&encryption=none&insecure=0&host=shephe.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=shephe.dpdns.org#🇦🇹 Austria | Cloudflare, 5
+vless://9e3132b8-b595-444a-833a-2de44789f9d7@132.243.203.214:8443?path=%2F&security=tls&encryption=none&insecure=0&host=shephe.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=shephe.dpdns.org#🇦🇹 Austria | Cloudflare, 6
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=/#🇦🇹 Austria | Cloudflare, 7
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=%2F#🇦🇹 Austria | Cloudflare, 8
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=/#🇦🇹 Austria | Cloudflare, 8
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=%2F#🇦🇹 Austria | Cloudflare, 9
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=/#🇦🇹 Austria | Cloudflare, 10
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=%2F#🇦🇹 Austria | Cloudflare, 11
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=%2F#🇦🇹 Austria | Cloudflare, 10
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=/#🇦🇹 Austria | Cloudflare, 11
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=%2F#🇦🇹 Austria | Cloudflare, 12
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?encryption=none&security=tls&sni=edgetunnel-4uw.pages.dev&fp=random&type=ws&path=%2F&host=edgetunnel-4uw.pages.dev#🇦🇹 Austria | Cloudflare, 13
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=%2F#🇦🇹 Austria | Cloudflare, 14
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=%2F#🇦🇹 Austria | Cloudflare, 13
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=/#🇦🇹 Austria | Cloudflare, 14
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=/#🇦🇹 Austria | Cloudflare, 15
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=%2F#🇦🇹 Austria | Cloudflare, 16
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=/#🇦🇹 Austria | Cloudflare, 17
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@82.110.60.9:19999#🇦🇹 Austria | Datacamp 1
 vless://bc659d88-a1e0-076c-a49a-7b51b26a7a7f@31.77.227.6:52006?flow=xtls-rprx-vision&security=tls&sni=bigdick.gamegrow.ru&type=tcp#🇦🇹 Austria | Evolus IT Solutions GmbH 1
+vless://bc659d88-a1e0-076c-a49a-7b51b26a7a7f@31.77.227.6:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=bigdick.gamegrow.ru&type=tcp&headerType=none#🇦🇹 Austria | Evolus IT Solutions GmbH 2
+vless://bc659d88-a1e0-076c-a49a-7b51b26a7a7f@31.77.227.6:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=bigdick.gamegrow.ru&type=tcp&headerType=none#🇦🇹 Austria | Evolus IT Solutions GmbH 3
