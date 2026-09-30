@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsfCfh7sgQm9iaVZQTiDigJQgTGF0dmlhCuKaoSAyINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?flow=xtls-rprx-vision&fp=chrome&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=tcp#🇱🇻 Latvia | Baykov Ilya Sergeevich 1
-vless://2412bd96-925b-43f2-81d1-0ed4f0793699@31.57.28.147:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=d7yg69dK4DkaV1EPpQcgd4GBncMN9u1o1Nk9u-i7wGc&sid=7a18a196e730e1d5&sni=download-cdn.jetbrains.com#🇱🇻 Latvia | CGI GLOBAL LIMITED 1
+vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?security=reality&encryption=none&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=33acba1b#🇱🇻 Latvia | Baykov Ilya Sergeevich 1
+vless://9e3132b8-b595-444a-833a-2de44789f9d7@213.183.55.153:8443?path=/&security=tls&encryption=none&insecure=0&host=shephe.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=shephe.dpdns.org#🇱🇻 Latvia | Cloudflare, 1
