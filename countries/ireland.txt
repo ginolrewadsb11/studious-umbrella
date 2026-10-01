@@ -3,17 +3,19 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMTIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMTQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 trojan://Trojan@82164024@ie.tronsg.com:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=ie.tronsg.com#🇮🇪 Ireland | Amazon Technologies 1
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?sni=edgetunnel-4uw.pages.dev&type=ws&host=edgetunnel-4uw.pages.dev&path=/fp=chrome&security=tls#🇮🇪 Ireland | Cloudflare, 1
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?sni=edgetunnel-4uw.pages.dev&type=ws&host=edgetunnel-4uw.pages.dev&path=/fp=chrome&security=tls#🇮🇪 Ireland | Cloudflare, 2
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?encryption=none&fp=chrome&host=edgetunnel-4uw.pages.dev&path=/&security=tls&sni=edgetunnel-4uw.pages.dev&type=ws#🇮🇪 Ireland | Cloudflare, 3
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?encryption=none&fp=chrome&host=edgetunnel-4uw.pages.dev&path=%2F&security=tls&sni=edgetunnel-4uw.pages.dev&type=ws#🇮🇪 Ireland | Cloudflare, 4
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?encryption=none&fp=chrome&host=edgetunnel-4uw.pages.dev&path=/&security=tls&sni=edgetunnel-4uw.pages.dev&type=ws#🇮🇪 Ireland | Cloudflare, 5
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?encryption=none&fp=chrome&host=edgetunnel-4uw.pages.dev&path=%2F&security=tls&sni=edgetunnel-4uw.pages.dev&type=ws#🇮🇪 Ireland | Cloudflare, 6
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?encryption=none&fp=chrome&host=edgetunnel-4uw.pages.dev&path=/&security=tls&sni=edgetunnel-4uw.pages.dev&type=ws#🇮🇪 Ireland | Cloudflare, 1
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?encryption=none&fp=chrome&host=edgetunnel-4uw.pages.dev&path=%2F&security=tls&sni=edgetunnel-4uw.pages.dev&type=ws#🇮🇪 Ireland | Cloudflare, 2
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?sni=edgetunnel-4uw.pages.dev&type=ws&host=edgetunnel-4uw.pages.dev&path=/fp=chrome&security=tls#🇮🇪 Ireland | Cloudflare, 3
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?encryption=none&fp=chrome&host=edgetunnel-4uw.pages.dev&path=/&security=tls&sni=edgetunnel-4uw.pages.dev&type=ws#🇮🇪 Ireland | Cloudflare, 4
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?sni=edgetunnel-4uw.pages.dev&type=ws&host=edgetunnel-4uw.pages.dev&path=/fp=chrome&security=tls#🇮🇪 Ireland | Cloudflare, 5
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?sni=edgetunnel-4uw.pages.dev&type=ws&host=edgetunnel-4uw.pages.dev&path=/fp=chrome&security=tls#🇮🇪 Ireland | Cloudflare, 6
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?encryption=none&fp=chrome&host=edgetunnel-4uw.pages.dev&path=%2F&security=tls&sni=edgetunnel-4uw.pages.dev&type=ws#🇮🇪 Ireland | Cloudflare, 7
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?encryption=none&fp=chrome&host=edgetunnel-4uw.pages.dev&path=/&security=tls&sni=edgetunnel-4uw.pages.dev&type=ws#🇮🇪 Ireland | Cloudflare, 8
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?encryption=none&fp=chrome&host=edgetunnel-4uw.pages.dev&path=%2F&security=tls&sni=edgetunnel-4uw.pages.dev&type=ws#🇮🇪 Ireland | Cloudflare, 9
 vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=/?TELEGRAM&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#🇮🇪 Ireland | IBIS 1
-vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=%2F%3FTELEGRAM--`V2ray_confiig`&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#🇮🇪 Ireland | IBIS 2
-vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#🇮🇪 Ireland | IBIS 3
-vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=/?TELEGRAM&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#🇮🇪 Ireland | IBIS 4
-vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#🇮🇪 Ireland | IBIS 5
+vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#🇮🇪 Ireland | IBIS 2
+vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=%2F%3FTELEGRAM--`V2ray_confiig`&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#🇮🇪 Ireland | IBIS 3
+vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#🇮🇪 Ireland | IBIS 4

@@ -3,23 +3,19 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDE4INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+HufCfh7cgQm9iaVZQTiDigJQgVMO8cmtpeWUK4pqhIDE0INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@130.94.0.228:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&fp=chrome&host=edgetunnel-4uw.pages.dev&path=/&security=tls&sni=edgetunnel-4uw.pages.dev&type=ws#🇹🇷 Türkiye | Cloudflare, 1
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@130.94.0.228:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&fp=chrome&host=edgetunnel-4uw.pages.dev&path=/&security=tls&sni=edgetunnel-4uw.pages.dev&type=ws#🇹🇷 Türkiye | Cloudflare, 2
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@130.94.0.228:443?sni=edgetunnel-4uw.pages.dev&type=ws&host=edgetunnel-4uw.pages.dev&path=/fp=chrome&security=tls#🇹🇷 Türkiye | Cloudflare, 2
 vless://fdc48be3-a615-41ac-8bd1-ed844c931048@130.94.0.228:443?sni=edgetunnel-4uw.pages.dev&type=ws&host=edgetunnel-4uw.pages.dev&path=/fp=chrome&security=tls#🇹🇷 Türkiye | Cloudflare, 3
-vless://cd6d5df9-4217-4dab-98a7-ff212a792d2e@turk1.zulacdn.ir:443?security=reality&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&pbk=EW4wbYV1o5FPKkOVHx4Z572oP__5usAVE7K8bXtxzQ8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=secureconnect-pa.mtls.clients6.google.com&sid=04ac4765d572b7b7&fp=ios#🇹🇷 Türkiye | Eniyisunucum Veri Merk... 1
-vless://cd6d5df9-4217-4dab-98a7-ff212a792d2e@turk1.zulacdn.ir:443?security=reality&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&pbk=EW4wbYV1o5FPKkOVHx4Z572oP__5usAVE7K8bXtxzQ8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=secureconnect-pa.mtls.clients6.google.com&sid=04ac4765d572b7b7&fp=firefox#🇹🇷 Türkiye | Eniyisunucum Veri Merk... 2
-vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?encryption=none&fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&security=reality&sid=9e419c0759b54d6f&sni=www.apple.com&type=tcp#🇹🇷 Türkiye | Hostkey B.V. 1
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@130.94.0.228:443?sni=edgetunnel-4uw.pages.dev&type=ws&host=edgetunnel-4uw.pages.dev&path=/fp=chrome&security=tls#🇹🇷 Türkiye | Cloudflare, 4
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@130.94.0.228:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&fp=chrome&host=edgetunnel-4uw.pages.dev&path=/&security=tls&sni=edgetunnel-4uw.pages.dev&type=ws#🇹🇷 Türkiye | Cloudflare, 5
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@130.94.0.228:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&fp=chrome&host=edgetunnel-4uw.pages.dev&path=/&security=tls&sni=edgetunnel-4uw.pages.dev&type=ws#🇹🇷 Türkiye | Cloudflare, 6
+vless://85163fd9-6f73-4eea-b1df-3b327dacbabf@83.217.9.140:43000?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ptE_QnAka3pXNEf8BYKpA9CHdgj4U4xXTixjYWOji0U&security=reality&sid=68d2eb23&type=tcp#🇹🇷 Türkiye | Global Connectivity So... 1
+vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&sid=9e419c0759b54d6f#🇹🇷 Türkiye | Hostkey B.V. 1
 vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?encryption=none&fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&security=reality&sid=9e419c0759b54d6f&sni=www.apple.com&type=tcp#🇹🇷 Türkiye | Hostkey B.V. 2
 vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&sid=9e419c0759b54d6f#🇹🇷 Türkiye | Hostkey B.V. 3
-vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&sid=9e419c0759b54d6f#🇹🇷 Türkiye | Hostkey B.V. 4
-vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?encryption=none&fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&security=reality&sid=9e419c0759b54d6f&sni=www.apple.com&type=tcp#🇹🇷 Türkiye | Hostkey B.V. 5
-vless://eb95d26f-2200-4780-9986-cc4960c665f2@93.190.9.25:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Türkiye | Ideal Hosting Teknoloj... 1
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@178.83.46.216:2053?encryption=none&security=none&type=tcp#🇹🇷 Türkiye | Netlen Internet Hizmet... 1
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?security=&encryption=none&headerType=&type=tcp#🇹🇷 Türkiye | Netlen Internet Hizmet... 2
+vless://46e62b9b-f9db-4310-8f18-7d6e449cfd5c@tr2.gigobingo.ru:443?type=tcp&flow=xtls-rprx-vision&fp=chrome&pbk=Aj6Op88j_eYXxoBw095KS_NnKCBm5uwa874uumXdiDQ&security=reality&sid=ef7c4e4302bd52d7&sni=tr2.gigobingo.ru&encryption=none#🇹🇷 Türkiye | Netlen Internet Hizmet... 1
+vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryption=none&security=none&type=tcp#🇹🇷 Türkiye | Netlen Internet Hizmet... 2
 vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?#🇹🇷 Türkiye | Netlen Internet Hizmet... 3
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryption=none&security=none&type=tcp#🇹🇷 Türkiye | Netlen Internet Hizmet... 4
-vless://46e62b9b-f9db-4310-8f18-7d6e449cfd5c@45.74.158.103:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Aj6Op88j_eYXxoBw095KS_NnKCBm5uwa874uumXdiDQ&security=reality&sid=ef7c4e4302bd52d7&sni=tr2.gigobingo.ru&type=tcp#🇹🇷 Türkiye | Tres Teknoloji A.S. 1
-vless://46e62b9b-f9db-4310-8f18-7d6e449cfd5c@tr2.gigobingo.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=tr2.gigobingo.ru&fp=firefox&pbk=Aj6Op88j_eYXxoBw095KS_NnKCBm5uwa874uumXdiDQ&sid=ef7c4e4302bd52d7&flow=xtls-rprx-vision#🇹🇷 Türkiye | Tres Teknoloji A.S. 2
-vless://46e62b9b-f9db-4310-8f18-7d6e449cfd5c@tr2.gigobingo.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=tr2.gigobingo.ru&fp=firefox&pbk=Aj6Op88j_eYXxoBw095KS_NnKCBm5uwa874uumXdiDQ&sid=ef7c4e4302bd52d7&flow=xtls-rprx-vision#🇹🇷 Türkiye | Tres Teknoloji A.S. 3
+vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?security=&encryption=none&headerType=&type=tcp#🇹🇷 Türkiye | Netlen Internet Hizmet... 4
