@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrfCfh7ogQm9iaVZQTiDigJQgSHVuZ2FyeQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrfCfh7ogQm9iaVZQTiDigJQgSHVuZ2FyeQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://dc9e93bc-b53a-11f1-91d3-52540030ba36@31.76.249.87:443?security=reality&encryption=none&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.akamai.com#🇭🇺 Hungary | Akenai-Products 1
+vless://dc9e93bc-b53a-11f1-91d3-52540030ba36@31.76.249.87:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.akamai.com&fp=chrome&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ&type=tcp&headerType=none#🇭🇺 Hungary | Akenai-Products 1
+vless://dc9e93bc-b53a-11f1-91d3-52540030ba36@31.76.249.87:443?security=reality&encryption=none&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.akamai.com#🇭🇺 Hungary | Akenai-Products 2
