@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 trojan://Trojan@82164024@ie.tronsg.com:443?security=tls&sni=ie.tronsg.com#🇮🇪 Ireland | Amazon Technologies 1
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh6ogQWV0cmlzVlBOIiwiYWRkIjoidjQuaGRhY2QuY29tIiwicG9ydCI6IjMwODA0IiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJmcCI6InJhbmRvbSJ9#🇮🇪 Ireland | HostPapa 1
+vless://7f86f371-5a85-48be-babc-7af1ae7ffb75@198.55.102.59:4443?type=tcp&security=reality&sni=vk.com&fp=chrome&flow=xtls-rprx-vision&pbk=9gYnZLxZAPxIKzu9e-cOLBpbCn9p9og9gBodOCh5HB8&sid=ce6767c3f1#🇮🇪 Ireland | Cloudflare, 1
+vless://7f86f371-5a85-48be-babc-7af1ae7ffb75@198.55.102.59:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vk.com&fp=chrome&security=reality&pbk=9gYnZLxZAPxIKzu9e-cOLBpbCn9p9og9gBodOCh5HB8&sid=ce6767c3f1#🇮🇪 Ireland | Cloudflare, 2
