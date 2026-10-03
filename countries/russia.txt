@@ -3,21 +3,28 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAxNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAyMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://1cb94b70-76e6-40af-99a3-ba07bd80b4f7@176.108.240.66:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=nethnet.alsobuzz.info&pbk=AIDLwIUuO7eFeX0qOqZ6ulDNDD_pqf6DZt_UU3VxNGo&allowInsecure=1&fp=qq#🇷🇺 Russia | "Cloud Technologies"  ... 1
+vless://65cd649c-f2f5-49c4-8f57-94d9b706e846@45.9.24.205:443?alpn=http%2F1.1&encryption=none&fp=random&host=promsnab.cc&path=%2Fassets%2Fchunk%2FTULMHho3NN91&security=tls&sni=promsnab.cc&type=ws#🇷🇺 Russia | "Cloud Technologies"  ... 1
+vless://1cb94b70-76e6-40af-99a3-ba07bd80b4f7@176.108.240.66:8443?security=reality&encryption=none&pbk=AIDLwIUuO7eFeX0qOqZ6ulDNDD_pqf6DZt_UU3VxNGo&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=nethnet.alsobuzz.info#🇷🇺 Russia | "Cloud Technologies"  ... 2
+vless://1cb94b70-76e6-40af-99a3-ba07bd80b4f7@176.108.240.66:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=AIDLwIUuO7eFeX0qOqZ6ulDNDD_pqf6DZt_UU3VxNGo&sni=nethnet.alsobuzz.info#🇷🇺 Russia | "Cloud Technologies"  ... 3
+vless://65cd649c-f2f5-49c4-8f57-94d9b706e846@45.9.24.205:443?encryption=none&host=promsnab.cc&path=%2Fassets%2Fchunk%2FTULMHho3NN91&security=tls&sni=promsnab.cc&type=ws&fp=qq#🇷🇺 Russia | "Cloud Technologies"  ... 4
+vless://65cd649c-f2f5-49c4-8f57-94d9b706e846@45.9.24.205:443?alpn=http%2F1.1&encryption=none&fp=ios&host=promsnab.cc&path=%2Fassets%2Fchunk%2FTULMHho3NN91&security=tls&sni=promsnab.cc&type=ws#🇷🇺 Russia | "Cloud Technologies"  ... 5
+vless://65cd649c-f2f5-49c4-8f57-94d9b706e846@45.9.24.205:443?encryption=none&fp=chrome&host=promsnab.cc&path=%2Fassets%2Fchunk%2FTULMHho3NN91&security=tls&sni=promsnab.cc&type=ws#🇷🇺 Russia | "Cloud Technologies"  ... 6
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru.xiaoliyu.cyou:18333?insecure=1#🇷🇺 Russia | BAXET 1
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 1
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru.xiaoliyu.cyou:18333?sni=ru.xiaoliyu.cyou&insecure=1#🇷🇺 Russia | BAXET 2
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 1
 vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 2
 vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 3
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=qq&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 4
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 5
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=firefox&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 6
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=firefox&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 4
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=qq&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 5
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 6
 vless://94def50e-5f3c-4e4c-9719-3325f42d2131@31.76.34.216:443?security=reality&encryption=none&pbk=XrgbY2hKJQG8QOZO2J1pGmZsbvjSsSWoM9iULIMGK00&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ru-c-1.minzt.su#🇷🇺 Russia | Denis Aleksandrovich I... 1
 vless://94def50e-5f3c-4e4c-9719-3325f42d2131@31.76.34.216:443?security=reality&encryption=none&pbk=XrgbY2hKJQG8QOZO2J1pGmZsbvjSsSWoM9iULIMGK00&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ru-c-1.minzt.su#🇷🇺 Russia | Denis Aleksandrovich I... 2
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:2052?encryption=none&security=none&type=ws&host=zb1zi.s3nx.dyz.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%221%22%5D%2C%20%22delays%22%3A%20%5B%224%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D#🇷🇺 Russia | HLL 1
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.38.127:2052?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#🇷🇺 Russia | HLL 2
-vless://5d0e5029-061f-4d75-ac97-718dbf827957@201.51.11.117:443?security=reality&encryption=none&pbk=9eiEOSjRUJfWtjR5_h6qYOIIC7oihvCNtyFFvtu7MEM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=ed07a0272e0123e0&fp=safari#🇷🇺 Russia | JSC "TIMEWEB" 1
-vless://5d0e5029-061f-4d75-ac97-718dbf827957@201.51.11.117:443?security=reality&encryption=none&pbk=9eiEOSjRUJfWtjR5_h6qYOIIC7oihvCNtyFFvtu7MEM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=ed07a0272e0123e0&fp=qq#🇷🇺 Russia | JSC "TIMEWEB" 2
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:2095?&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F#🇷🇺 Russia | HLL 1
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.42.85:2095?&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#🇷🇺 Russia | HLL 2
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.43.187:80?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#🇷🇺 Russia | HLL 3
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:8880?eh=Sec-WebSocket-Protocol&encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F&security=none&type=ws#🇷🇺 Russia | HLL 4
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:80?eh=Sec-WebSocket-Protocol&encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F&security=none&type=ws#🇷🇺 Russia | HLL 5
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@45.152.113.206:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=1.ru.oncloudnineservicestreang.com&fp=chrome&pbk=Thx57ocixT-wpeK_mdnJaluVW6eAwhlMgglxgjxEmhs&sid=65557338e1cd5605&type=tcp&headerType=none#🇷🇺 Russia | JSC Selectel 1
-vless://cb0ccf90-0e8f-4621-b042-4e35c797de2b@2.26.80.235:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dl.google.com&fp=safari&pbk=_gjcl5q-hkJIFmKYSY9DbBcSiBHK3YUAKOfZzZqnkT8&sid=c17f1d8951b3bf90&type=tcp&headerType=none#🇷🇺 Russia | VK 1
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@45.152.113.206:443?type=tcp&headerType=none&flow=xtls-rprx-vision&security=reality&pbk=Thx57ocixT-wpeK_mdnJaluVW6eAwhlMgglxgjxEmhs&fp=chrome&sid=65557338e1cd5605&sni=1.ru.oncloudnineservicestreang.com&encryption=none#🇷🇺 Russia | JSC Selectel 2
