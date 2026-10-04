@@ -3,8 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrPCfh6ogQm9iaVZQTiDigJQgR2VvcmdpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrPCfh6ogQm9iaVZQTiDigJQgR2VvcmdpYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://76ac91c5-ea82-4046-8ee7-2ffbb563ac94@geo.shkola112.site:443?encryption=none&host=geo.shkola112.site&path=%2Fapi-vless&security=tls&sni=geo.shkola112.site&type=ws#🇬🇪 Georgia | Proservice 1
-vless://76ac91c5-ea82-4046-8ee7-2ffbb563ac94@geo.shkola112.site:443?encryption=none&host=geo.shkola112.site&path=%2Fapi-vless&security=tls&sni=geo.shkola112.site&type=ws#🇬🇪 Georgia | Proservice 2
+vless://76ac91c5-ea82-4046-8ee7-2ffbb563ac94@geo.shkola112.site:443?encryption=none&host=geo.shkola112.site&path=/api-vless&security=tls&sni=geo.shkola112.site&type=ws#🇬🇪 Georgia | Proservice 2
 vless://76ac91c5-ea82-4046-8ee7-2ffbb563ac94@geo.shkola112.site:443?encryption=none&host=geo.shkola112.site&path=%2Fapi-vless&security=tls&sni=geo.shkola112.site&type=ws#🇬🇪 Georgia | Proservice 3
+vless://76ac91c5-ea82-4046-8ee7-2ffbb563ac94@geo.shkola112.site:443?encryption=none&host=geo.shkola112.site&path=%2Fapi-vless&security=tls&sni=geo.shkola112.site&type=ws#🇬🇪 Georgia | Proservice 4
