@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrfCfh7ogQm9iaVZQTiDigJQgSHVuZ2FyeQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrfCfh7ogQm9iaVZQTiDigJQgSHVuZ2FyeQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://645b9f64-f87e-4ca8-90e1-41da798d7485@78.154.116.245:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=data.amigo.mail.ru&fp=firefox&pbk=3L3i_4b1jo-cCwx3TwIEjjOxQIMm6ysblH3AvTlvgBk&sid=6ab35813f22b9cea&type=tcp&headerType=none#🇭🇺 Hungary | Datacamp 1
+vless://3aef55f1-4824-432e-82ce-6f8a9e8b2700@37.221.210.188:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hu888.bearbeer.digital&fp=random&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&spx=%2F&type=tcp#🇭🇺 Hungary | ATW Internet Kft 1
+vless://3aef55f1-4824-432e-82ce-6f8a9e8b2700@37.221.210.188:443?type=tcp&encryption=none&security=reality&flow=xtls-rprx-vision&sni=hu888.bearbeer.digital&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&fp=qq&spx=%2F#🇭🇺 Hungary | ATW Internet Kft 2
+vless://3aef55f1-4824-432e-82ce-6f8a9e8b2700@37.221.210.188:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hu888.bearbeer.digital&fp=random&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&spx=%2F&type=tcp#🇭🇺 Hungary | ATW Internet Kft 3
