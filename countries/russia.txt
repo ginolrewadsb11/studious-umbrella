@@ -3,31 +3,19 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAyNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAxNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru.xiaoliyu.cyou:18333?sni=ru.xiaoliyu.cyou&insecure=1#🇷🇺 Russia | BAXET 1
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru.xiaoliyu.cyou:18333?insecure=1#🇷🇺 Russia | BAXET 2
 vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=qq&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 1
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 2
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 3
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=firefox&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 2
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 3
 vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 4
 vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 5
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=firefox&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 6
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 Russia | Beget 6
 vless://94def50e-5f3c-4e4c-9719-3325f42d2131@31.76.34.216:443?security=reality&encryption=none&pbk=XrgbY2hKJQG8QOZO2J1pGmZsbvjSsSWoM9iULIMGK00&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ru-c-1.minzt.su#🇷🇺 Russia | Denis Aleksandrovich I... 1
-vless://94def50e-5f3c-4e4c-9719-3325f42d2131@31.76.34.216:443?encryption=none&security=reality&type=tcp&sni=ru-c-1.minzt.su&flow=xtls-rprx-vision&fp=chrome&pbk=XrgbY2hKJQG8QOZO2J1pGmZsbvjSsSWoM9iULIMGK00#🇷🇺 Russia | Denis Aleksandrovich I... 2
-vless://94def50e-5f3c-4e4c-9719-3325f42d2131@31.76.34.216:443?encryption=none&security=reality&type=tcp&host=ru-c-1.minzt.su&sni=ru-c-1.minzt.su&flow=xtls-rprx-vision&fp=chrome&pbk=XrgbY2hKJQG8QOZO2J1pGmZsbvjSsSWoM9iULIMGK00#🇷🇺 Russia | Denis Aleksandrovich I... 3
-vless://94def50e-5f3c-4e4c-9719-3325f42d2131@31.76.34.216:443?encryption=none&security=reality&type=tcp&sni=ru-c-1.minzt.su&flow=xtls-rprx-vision&fp=safari&pbk=XrgbY2hKJQG8QOZO2J1pGmZsbvjSsSWoM9iULIMGK00#🇷🇺 Russia | Denis Aleksandrovich I... 4
-vless://94def50e-5f3c-4e4c-9719-3325f42d2131@31.76.34.216:443?security=reality&encryption=none&pbk=XrgbY2hKJQG8QOZO2J1pGmZsbvjSsSWoM9iULIMGK00&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ru-c-1.minzt.su#🇷🇺 Russia | Denis Aleksandrovich I... 5
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@78.159.246.110:443?encryption=none&fp=firefox&host=fbsv6.guardora.pro&path=%2Fws&security=tls&sni=fbsv6.guardora.pro&type=ws#🇷🇺 Russia | VK 1
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@217.19.122.200:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=fbsv6.guardora.pro&path=%2Fws&security=tls&sni=fbsv6.guardora.pro&type=ws#🇷🇺 Russia | VK 2
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@217.19.122.200:443?type=ws&security=tls&encryption=none&path=%2Fws&host=fbsv6.guardora.pro&sni=fbsv6.guardora.pro&fp=chrome&headerType=none#🇷🇺 Russia | VK 3
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@78.159.246.110:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=fbsv6.guardora.pro&path=%2Fws&security=tls&sni=fbsv6.guardora.pro&type=ws#🇷🇺 Russia | VK 4
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@217.19.122.200:443?type=ws&security=tls&encryption=none&path=%2Fws&host=fbsv6.guardora.pro&sni=fbsv6.guardora.pro&fp=firefox&headerType=none#🇷🇺 Russia | VK 5
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@78.159.246.110:443?alpn=http%2F1.1&encryption=none&fp=random&host=fbsv6.guardora.pro&path=%2Fws&security=tls&sni=fbsv6.guardora.pro&type=ws#🇷🇺 Russia | VK 6
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@78.159.246.110:443?type=ws&security=tls&encryption=none&path=%2Fws&host=fbsv6.guardora.pro&sni=fbsv6.guardora.pro&fp=firefox&alpn=http%2F1.1&headerType=none#🇷🇺 Russia | VK 7
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@81.94.148.214:443?alpn=http%2F1.1&encryption=none&fp=random&host=fbsv6.guardora.pro&path=%2Fws&security=tls&sni=fbsv6.guardora.pro&type=ws#🇷🇺 Russia | VK 8
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@46.243.232.125:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=fbsv6.guardora.pro&path=%2Fws&security=tls&sni=fbsv6.guardora.pro&type=ws#🇷🇺 Russia | VK 9
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@217.19.122.200:443?encryption=none&security=tls&sni=fbsv6.guardora.pro&fp=random&type=ws&path=%2Fws&host=fbsv6.guardora.pro#🇷🇺 Russia | VK 10
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@78.159.246.110:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=fbsv6.guardora.pro&path=%2Fws&security=tls&sni=fbsv6.guardora.pro&type=ws#🇷🇺 Russia | VK 11
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@81.94.148.214:443?alpn=http%2F1.1&encryption=none&fp=random&host=fbsv6.guardora.pro&path=%2Fws&security=tls&sni=fbsv6.guardora.pro&type=ws#🇷🇺 Russia | VK 12
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?encryption=none&security=tls&type=ws&host=fbsv6.guardora.pro&path=%2Fws&sni=fbsv6.guardora.pro&fp=firefox#🇷🇺 Russia | VK 13
+vless://94def50e-5f3c-4e4c-9719-3325f42d2131@31.76.34.216:443?security=reality&encryption=none&pbk=XrgbY2hKJQG8QOZO2J1pGmZsbvjSsSWoM9iULIMGK00&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ru-c-1.minzt.su#🇷🇺 Russia | Denis Aleksandrovich I... 2
+vless://bc5ec86c-3e65-4272-994c-59a924c72a68@46.243.232.125:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=fbsv6.guardora.pro&path=%2Fws&security=tls&sni=fbsv6.guardora.pro&type=ws#🇷🇺 Russia | VK 1
+vless://bc5ec86c-3e65-4272-994c-59a924c72a68@217.19.122.200:443?&security=tls&fp=chrome&sni=fbsv6.guardora.pro&type=ws&headerType=none&host=fbsv6.guardora.pro&path=%2Fws#🇷🇺 Russia | VK 2
+vless://bc5ec86c-3e65-4272-994c-59a924c72a68@217.19.122.200:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=fbsv6.guardora.pro&path=%2Fws&security=tls&sni=fbsv6.guardora.pro&type=ws#🇷🇺 Russia | VK 3
+vless://bc5ec86c-3e65-4272-994c-59a924c72a68@46.243.232.125:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=fbsv6.guardora.pro&path=%2Fws&security=tls&sni=fbsv6.guardora.pro&type=ws#🇷🇺 Russia | VK 4
+vless://bc5ec86c-3e65-4272-994c-59a924c72a68@81.94.148.214:443?encryption=none&fp=chrome&host=fbsv6.guardora.pro&path=%2Fws&security=tls&sni=fbsv6.guardora.pro&type=ws#🇷🇺 Russia | VK 5

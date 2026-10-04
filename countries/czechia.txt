@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://0575005f-0ba9-4d6d-85e0-4a6a8cbafc1b@85.137.165.97:443?encryption=none&security=tls&sni=kclx.eu.org&fp=random&type=ws&path=%2F154.16.10.34-8080&host=kclx.eu.org#🇨🇿 Czechia | Cloudflare, 1
-trojan://f8b-U5TxjNRYKLvU0Js_6YeMCdj_82km@cz-musicc.moritech.net:443/?type=grpc&serviceName=grpcbeast&security=tls&alpn=h2#🇨🇿 Czechia | SERV.HOST GROUP LTD 1
-trojan://f8b-U5TxjNRYKLvU0Js_6YeMCdj_82km@cz-musicc.moritech.net:443/?type=grpc&serviceName=grpcbeast&security=tls&alpn=h2&fp=android#🇨🇿 Czechia | SERV.HOST GROUP LTD 2
-vless://f4d71fd6-1c25-4748-836b-1dbda9268039@85.117.235.50:443?security=reality&encryption=none&pbk=PmdZ2ETkHc0zjYcs22xT_wyZk5fEpX7mg7RP396HBBc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cz1.animeteka.info&sid=232b1b09e45325a4#🇨🇿 Czechia | SmartApe OU 1
-vless://f4d71fd6-1c25-4748-836b-1dbda9268039@85.117.235.50:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=PmdZ2ETkHc0zjYcs22xT_wyZk5fEpX7mg7RP396HBBc&security=reality&sid=232b1b09e45325a4&sni=cz1.animeteka.info&type=raw#🇨🇿 Czechia | SmartApe OU 2
-vless://f4d71fd6-1c25-4748-836b-1dbda9268039@85.117.235.50:443?security=reality&encryption=none&pbk=PmdZ2ETkHc0zjYcs22xT_wyZk5fEpX7mg7RP396HBBc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cz1.animeteka.info&sid=232b1b09e45325a4#🇨🇿 Czechia | SmartApe OU 3
-vless://f4d71fd6-1c25-4748-836b-1dbda9268039@85.117.235.50:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PmdZ2ETkHc0zjYcs22xT_wyZk5fEpX7mg7RP396HBBc&security=reality&sid=232b1b09e45325a4&sni=cz1.animeteka.info&type=raw#🇨🇿 Czechia | SmartApe OU 4
+vless://f4d71fd6-1c25-4748-836b-1dbda9268039@85.117.235.50:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PmdZ2ETkHc0zjYcs22xT_wyZk5fEpX7mg7RP396HBBc&security=reality&sid=232b1b09e45325a4&sni=cz1.animeteka.info&type=raw#🇨🇿 Czechia | SmartApe OU 1
