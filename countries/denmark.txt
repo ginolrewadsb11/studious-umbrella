@@ -3,8 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://3aef55f1-4824-432e-82ce-6f8a9e8b2700@81.17.159.115:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dk88.sonicsonic.icu&fp=random&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&spx=%2F&type=tcp#🇩🇰 Denmark | Global Connectivity So... 1
-vless://3aef55f1-4824-432e-82ce-6f8a9e8b2700@81.17.159.115:443?type=tcp&encryption=none&security=reality&flow=xtls-rprx-vision&sni=dk88.sonicsonic.icu&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&fp=qq&spx=%2F#🇩🇰 Denmark | Global Connectivity So... 2
-vless://f0a52dd3-4377-4402-a450-210bc81bcf25@id-nl-01.mintrocket.org:443?security=reality&type=tcp&packetEncoding=xudp&sni=id-nl-01.mintrocket.org&fp=safari&flow=xtls-rprx-vision&sid=fee1f986a72444db&pbk=XU7da9vkBex4TUPo1d-ctFY_N6zouBiCRnbnUK82i3Q&encryption=none#🇩🇰 Denmark | Imad Nabil Daher tradi... 1
+vless://f0a52dd3-4377-4402-a450-210bc81bcf25@id-nl-01.mintrocket.org:443?security=reality&encryption=none&pbk=XU7da9vkBex4TUPo1d-ctFY_N6zouBiCRnbnUK82i3Q&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=id-nl-01.mintrocket.org&sid=fee1f986a72444db#🇩🇰 Denmark | Imad Nabil Daher tradi... 1
+vless://f0a52dd3-4377-4402-a450-210bc81bcf25@id-nl-01.mintrocket.org:443?security=reality&encryption=none&pbk=XU7da9vkBex4TUPo1d-ctFY_N6zouBiCRnbnUK82i3Q&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=id-nl-01.mintrocket.org&sid=fee1f986a72444db#🇩🇰 Denmark | Imad Nabil Daher tradi... 2
