@@ -3,7 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBTcmkgTGFua2EK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBTcmkgTGFua2EK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://684f9a2e-4f96-497f-bfd9-ff1e34637952@support.zoom.us:80?host=free.sahanwickramasinghe.me&path=%2F&security=none&sni=free.sahanwickramasinghe.me&type=ws#🌍 Sri Lanka | Cyberzone S.A. 1
-vless://684f9a2e-4f96-497f-bfd9-ff1e34637952@51.75.67.209:80?encryption=none&security=none&type=ws&path=%2F#🌍 Sri Lanka | Cyberzone S.A. 2
+vless://684f9a2e-4f96-497f-bfd9-ff1e34637952@170.114.45.6:80/?type=ws&encryption=none&flow=&host=free.sahanwickramasinghe.me&path=%2F#🌍 Sri Lanka | Cyberzone S.A. 1
+vless://684f9a2e-4f96-497f-bfd9-ff1e34637952@support.zoom.us:80?host=free.sahanwickramasinghe.me&path=%2F&security=none&sni=support.zoom.us&type=ws#🌍 Sri Lanka | Cyberzone S.A. 2
+vless://684f9a2e-4f96-497f-bfd9-ff1e34637952@support.zoom.us:80?host=free.sahanwickramasinghe.me&path=%2F&security=none&sni=free.sahanwickramasinghe.me&type=ws#🌍 Sri Lanka | Cyberzone S.A. 3
+vless://684f9a2e-4f96-497f-bfd9-ff1e34637952@support.zoom.us:80?security=none&type=ws&path=%2F&host=free.sahanwickramasinghe.me#🌍 Sri Lanka | Cyberzone S.A. 4
+vless://684f9a2e-4f96-497f-bfd9-ff1e34637952@51.75.67.209:80?encryption=none&security=none&type=ws&path=%2F#🌍 Sri Lanka | Cyberzone S.A. 5
