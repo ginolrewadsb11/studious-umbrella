@@ -5,11 +5,11 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.164.175.81:19999#🇮🇹 Italy | Datacamp 1
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#🇮🇹 Italy | Oracle 1
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle 2
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#🇮🇹 Italy | Oracle 3
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=&type=tcp#🇮🇹 Italy | Oracle 4
-vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=/RoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#🇮🇹 Italy | OVH SAS 1
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=&type=tcp#🇮🇹 Italy | Oracle 2
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle 3
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle 4
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#🇮🇹 Italy | OVH SAS 1
 vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&fp=qq&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#🇮🇹 Italy | OVH SAS 2
 vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#🇮🇹 Italy | OVH SAS 3
+vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?path=/RoBeRt&security=tls&encryption=none&insecure=0&host=milan.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#🇮🇹 Italy | OVH SAS 4

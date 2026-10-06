@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@113.30.152.2:443?security=reality&encryption=none&pbk=cceRo0o9bFMlCNVahZCrQWRzMAsR5M6abWXADIapY0w&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=be-root.sworkingvpn.com&sid=15bcc0a77c3cacdf#🇧🇪 Belgium | GCS SER 1
+vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@113.30.152.2:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=cceRo0o9bFMlCNVahZCrQWRzMAsR5M6abWXADIapY0w&sid=15bcc0a77c3cacdf&sni=be-root.sworkingvpn.com#🇧🇪 Belgium | GCS SER 2
