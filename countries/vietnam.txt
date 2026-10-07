@@ -3,25 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBWaWV0bmFtCuKaoSAyMCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBWaWV0bmFtCuKaoSAyINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@43.255.157.118:44988?encryption=none&flow=xtls-rprx-vision&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&security=reality&sid=bb82c8&sni=www.tesla.com&type=tcp&fp=ios#🌍 Vietnam | BAOVECAS 1
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@43.255.157.118:44988?encryption=none&flow=xtls-rprx-vision&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&security=reality&sid=bb82c8&sni=www.tesla.com&type=tcp&fp=qq#🌍 Vietnam | BAOVECAS 2
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@103.214.173.198:44988?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=random&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&sid=bb82c8&type=tcp#🌍 Vietnam | BAOVECAS 3
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@45.153.130.35:44988?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=random&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&sid=bb82c8&type=tcp#🌍 Vietnam | BAOVECAS 4
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@45.153.130.161:44988?encryption=none&flow=xtls-rprx-vision&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&security=reality&sid=bb82c8&sni=www.tesla.com&type=tcp&fp=edge#🌍 Vietnam | BAOVECAS 5
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@45.153.130.161:44988?encryption=none&flow=xtls-rprx-vision&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&security=reality&sid=bb82c8&sni=www.tesla.com&type=tcp&fp=firefox#🌍 Vietnam | BAOVECAS 6
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@45.153.130.119:44988?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&security=reality&sid=bb82c8&sni=www.tesla.com&type=tcp#🌍 Vietnam | BAOVECAS 7
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@45.153.130.119:44988?encryption=none&flow=xtls-rprx-vision&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&security=reality&sid=bb82c8&sni=www.tesla.com&type=tcp&fp=qq#🌍 Vietnam | BAOVECAS 8
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@45.153.130.119:44988?encryption=none&flow=xtls-rprx-vision&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&security=reality&sid=bb82c8&sni=www.tesla.com&type=tcp&fp=ios#🌍 Vietnam | BAOVECAS 9
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@45.153.130.161:44988?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&security=reality&sid=bb82c8&sni=www.tesla.com&type=tcp#🌍 Vietnam | BAOVECAS 10
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@45.153.130.140:44988?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=random&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&sid=bb82c8&type=tcp#🌍 Vietnam | BAOVECAS 11
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@45.153.130.119:44988?encryption=none&flow=xtls-rprx-vision&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&security=reality&sid=bb82c8&sni=www.tesla.com&type=tcp&fp=safari#🌍 Vietnam | BAOVECAS 12
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@103.214.173.39:44988?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&security=reality&sid=bb82c8&sni=www.tesla.com&type=tcp#🌍 Vietnam | BAOVECAS 13
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@43.255.157.118:44988?encryption=none&flow=xtls-rprx-vision&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&security=reality&sid=bb82c8&sni=www.tesla.com&type=tcp&fp=firefox#🌍 Vietnam | BAOVECAS 14
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@45.153.130.119:44988?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=random&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&sid=bb82c8&type=tcp#🌍 Vietnam | BAOVECAS 15
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@45.153.130.119:44988?encryption=none&flow=xtls-rprx-vision&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&security=reality&sid=bb82c8&sni=www.tesla.com&type=tcp&fp=safari#🌍 Vietnam | BAOVECAS 16
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@apinbxs.zalolink.com:44988?flow=xtls-rprx-vision&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&security=reality&sid=bb82c8&sni=www.tesla.com&type=tcp&fp=edge#🌍 Vietnam | BAOVECAS 17
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@apinbxs.zalolink.com:44988?flow=xtls-rprx-vision&fp=ios&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&security=reality&sid=bb82c8&sni=www.tesla.com&type=tcp#🌍 Vietnam | BAOVECAS 18
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@45.153.130.119:44988?encryption=none&flow=xtls-rprx-vision&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&security=reality&sid=bb82c8&sni=www.tesla.com&type=tcp&fp=firefox#🌍 Vietnam | BAOVECAS 19
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?encryption=none&security=none&type=tcp#🌍 Vietnam | GMO-Z.com Runsystem Jo... 1
+trojan://80L0GT8FBWLLP39qdXJCtYRRqD1yG_ut@178.72.180.67:4443?type=tcp&security=tls&sni=viet.federal-usa.com&fp=randomized&alpn=h2%2Chttp/1.1#🌍 Vietnam | H2nexus Cloud Services... 1
+vless://836e3596-09ce-4439-8493-39b1c3fd3616@178.72.180.67:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=viet.federal-usa.com&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&fp=firefox#🌍 Vietnam | H2nexus Cloud Services... 2

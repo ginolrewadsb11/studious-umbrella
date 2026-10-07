@@ -3,16 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsfCfh7sgQm9iaVZQTiDigJQgTGF0dmlhCuKaoSAxMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsfCfh7sgQm9iaVZQTiDigJQgTGF0dmlhCuKaoSA2INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
 vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?security=reality&encryption=none&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=33acba1b#🇱🇻 Latvia | Baykov Ilya Sergeevich 1
-vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?flow=xtls-rprx-vision&fp=chrome&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=tcp#🇱🇻 Latvia | Baykov Ilya Sergeevich 2
 vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@138.124.63.93:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=lv-root.sworkingvpn.com&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf&fp=firefox#🇱🇻 Latvia | Global Connectivity So... 1
 vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@138.124.63.93:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=lv-root.sworkingvpn.com&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf&fp=firefox#🇱🇻 Latvia | Global Connectivity So... 2
 vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@138.124.63.94:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=lv-root.sworkingvpn.com&type=tcp#🇱🇻 Latvia | Global Connectivity So... 3
-vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@138.124.63.93:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=lv-root.sworkingvpn.com&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf&fp=firefox#🇱🇻 Latvia | Global Connectivity So... 4
-vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@138.124.63.94:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=lv-root.sworkingvpn.com&type=tcp#🇱🇻 Latvia | Global Connectivity So... 5
-vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@138.124.63.94:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=lv-root.sworkingvpn.com&type=tcp#🇱🇻 Latvia | Global Connectivity So... 6
-vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@138.124.63.94:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=lv-root.sworkingvpn.com&fp=chrome&security=reality&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf#🇱🇻 Latvia | Global Connectivity So... 7
-vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@138.124.63.94:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lv-root.sworkingvpn.com&fp=firefox&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf&type=tcp#🇱🇻 Latvia | Global Connectivity So... 8
-vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@138.124.63.94:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=lv-root.sworkingvpn.com&fp=chrome&security=reality&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf#🇱🇻 Latvia | Global Connectivity So... 9
+vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@138.124.63.94:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=lv-root.sworkingvpn.com&type=tcp#🇱🇻 Latvia | Global Connectivity So... 4
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@216.173.71.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=miDhSALrcCvSfc38VjCDYlzNh5M61NMR5IkUli7IN08&security=reality&sid=0da7e14db353e7d0&sni=lv.nztvpn.com&type=tcp#🇱🇻 Latvia | SIA VEESP 1

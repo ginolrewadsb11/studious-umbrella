@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://b79172e2-06f1-4d78-86f1-d38fa0e3cc1e@153.76.185.164:3090?type=grpc&mode=multi&serviceName=vless#🇨🇿 Czechia | Reliable Communication... 1
 vless://953358cb-82ba-4296-960d-6d2ec3468f4c@31.76.6.221:17001?encryption=none&flow=xtls-rprx-vision&pbk=Sui5lSCrqQCG3IlB2YstVMAJdmPkOk4Dim5GpNNLWxU&security=reality&sid=5d38f235a6e0916c&sni=media2.h2corp.org&type=tcp&fp=firefox#🇨🇿 Czechia | Wuldi 1
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@31.76.6.221:17001?encryption=none&flow=xtls-rprx-vision&pbk=Sui5lSCrqQCG3IlB2YstVMAJdmPkOk4Dim5GpNNLWxU&security=reality&sid=5d38f235a6e0916c&sni=media2.h2corp.org&type=tcp&fp=safari#🇨🇿 Czechia | Wuldi 2
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@31.76.6.221:17001?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Sui5lSCrqQCG3IlB2YstVMAJdmPkOk4Dim5GpNNLWxU&security=reality&sid=5d38f235a6e0916c&sni=media2.h2corp.org&type=tcp#🇨🇿 Czechia | Wuldi 3
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@31.76.6.221:17001?encryption=none&flow=xtls-rprx-vision&pbk=Sui5lSCrqQCG3IlB2YstVMAJdmPkOk4Dim5GpNNLWxU&security=reality&sid=5d38f235a6e0916c&sni=media2.h2corp.org&type=tcp&fp=firefox#🇨🇿 Czechia | Wuldi 4
