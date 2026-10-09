@@ -3,13 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://31c236ad-92ed-4771-9d51-0d1f5a9b850a@185.229.9.16:1443?security=reality&encryption=none&pbk=eIwe5pSZs414JJDSuBA3R4-ikllq0oITezzVIdUkACI&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ligastavok.ru&sid=ad7dab462a323acb#🇮🇹 Italy | Akenai-Products-AS 1
-vless://31c236ad-92ed-4771-9d51-0d1f5a9b850a@188.225.34.111:1443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ligastavok.ru&pbk=eIwe5pSZs414JJDSuBA3R4-ikllq0oITezzVIdUkACI&sid=ad7dab462a323acb&type=tcp&fp=edge#🇮🇹 Italy | Akenai-Products-AS 2
-vless://31c236ad-92ed-4771-9d51-0d1f5a9b850a@188.225.34.111:1443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ligastavok.ru&pbk=eIwe5pSZs414JJDSuBA3R4-ikllq0oITezzVIdUkACI&sid=ad7dab462a323acb&type=tcp&fp=random#🇮🇹 Italy | Akenai-Products-AS 3
-vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@45.155.68.166:443?security=reality&encryption=none&pbk=m36Bb1dQ2v4zhgPAtkJnNmFY_4K75zvBo5e1JiitciM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it-root.sworkingvpn.com&sid=15bcc0a77c3cacdf#🇮🇹 Italy | Global Connectivity So... 1
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#🇮🇹 Italy | Oracle 1
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle 2
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=&type=tcp#🇮🇹 Italy | Oracle 3
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle 4
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle 1
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=&type=tcp#🇮🇹 Italy | Oracle 2
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?#🇮🇹 Italy | Oracle 3
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#🇮🇹 Italy | Oracle 4
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#🇮🇹 Italy | OVH SAS 1
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#🇮🇹 Italy | OVH SAS 2
