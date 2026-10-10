@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGluYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGluYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-trojan://80L0GT8FBWLLP39qdXJCtYRRqD1yG_ut@178.72.180.67:2443?type=tcp&security=tls&sni=ch.federal-usa.com&fp=randomized&alpn=h2%2Chttp/1.1#🌍 China | H2nexus Cloud Services... 1
-vless://836e3596-09ce-4439-8493-39b1c3fd3616@178.72.180.67:3443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ch.federal-usa.com&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&fp=firefox#🌍 China | H2nexus Cloud Services... 2
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqvCfh7ogQWV0cmlzVlBOIiwiYWRkIjoiMTEyLjEzMi4yMTUuMTA4IiwicG9ydCI6IjUwMDAyIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IjExMi4xMzIuMjE1LjEwOCIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=#🌍 China | China Unicom CHINA169 ... 1
