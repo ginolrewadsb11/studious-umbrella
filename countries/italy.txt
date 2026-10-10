@@ -3,13 +3,14 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDkg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://3eec23c1-2a0d-4d53-afa5-62745a1f5ffe@31.76.65.216:30002?path=%2Fjournal-11ff0bb2fa767891c2fc03ebc9a59aa7&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=olivejournal.gazette.help&fp=firefox&type=ws&allowInsecure=0&sni=olivejournal.gazette.help#🇮🇹 Italy | HSTQ-HOSTING-SERVICE 1
-vless://3eec23c1-2a0d-4d53-afa5-62745a1f5ffe@31.76.65.216:30002?path=/journal-11ff0bb2fa767891c2fc03ebc9a59aa7&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=olivejournal.gazette.help&fp=chrome&type=ws&allowInsecure=0&sni=olivejournal.gazette.help#🇮🇹 Italy | HSTQ-HOSTING-SERVICE 2
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#🇮🇹 Italy | Oracle 1
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle 2
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=&type=tcp#🇮🇹 Italy | Oracle 3
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle 4
-vless://12e95f93-443c-45f0-9a2a-5b318b9124cf@itak.ali-bard.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=itak.ali-bard.online&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&fp=firefox#🇮🇹 Italy | Route 95 1
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle 3
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=&type=tcp#🇮🇹 Italy | Oracle 4
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#🇮🇹 Italy | OVH SAS 1
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#🇮🇹 Italy | OVH SAS 2
+vless://12e95f93-443c-45f0-9a2a-5b318b9124cf@82.118.16.115:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=itak.ali-bard.online&fp=random&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&type=tcp#🇮🇹 Italy | Route 95 1
 vless://12e95f93-443c-45f0-9a2a-5b318b9124cf@itak.ali-bard.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=itak.ali-bard.online&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&fp=firefox#🇮🇹 Italy | Route 95 2
