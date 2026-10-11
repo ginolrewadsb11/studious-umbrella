@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@45.132.177.156:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=glazatushi.yandex-api.com&fp=random&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&type=tcp#🇨🇿 Czechia | Interkvm Host SRL 1
-vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@glazatushi.yandex-api.com:443?flow=xtls-rprx-vision&security=reality&sni=glazatushi.yandex-api.com&fp=random&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&type=raw#🇨🇿 Czechia | Interkvm Host SRL 2
-vless://a7a4e6f3-4e63-4cc2-ba22-4635f3ff6aca@153.76.185.164:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿 Czechia | Reliable Communication... 1
-vless://a7a4e6f3-4e63-4cc2-ba22-4635f3ff6aca@153.76.185.164:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿 Czechia | Reliable Communication... 2
-vless://a7a4e6f3-4e63-4cc2-ba22-4635f3ff6aca@153.76.185.164:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿 Czechia | Reliable Communication... 3
+vless://2e065d01-2ac9-48d7-bc4f-c1e3e6ef3de4@153.76.185.161:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿 Czechia | Reliable Communication... 1
