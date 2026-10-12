@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://7ac594a4-fabc-486c-9a91-5662c09e63cd@81.94.148.50:7449?encryption=none&flow=xtls-rprx-vision&security=reality&sni=passport.yandex.ru&fp=random&pbk=SbSuvgEeMrvFIV7C3tLaJhEADo_2RQdGvwFFrfJJQE0&sid=7abd137540629e9d&type=tcp#🇨🇿 Czechia | WorkTitans B.V 1
+vless://7ac594a4-fabc-486c-9a91-5662c09e63cd@81.94.148.50:7449?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=SbSuvgEeMrvFIV7C3tLaJhEADo_2RQdGvwFFrfJJQE0&security=reality&sid=7abd137540629e9d&sni=passport.yandex.ru&type=raw#🇨🇿 Czechia | WorkTitans B.V 1
+vless://7ac594a4-fabc-486c-9a91-5662c09e63cd@81.94.148.50:7449?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbSuvgEeMrvFIV7C3tLaJhEADo_2RQdGvwFFrfJJQE0&security=reality&sid=7abd137540629e9d&sni=passport.yandex.ru&type=raw#🇨🇿 Czechia | WorkTitans B.V 2
+vless://7ac594a4-fabc-486c-9a91-5662c09e63cd@81.94.148.50:7449?encryption=none&flow=xtls-rprx-vision&security=reality&sni=passport.yandex.ru&fp=random&pbk=SbSuvgEeMrvFIV7C3tLaJhEADo_2RQdGvwFFrfJJQE0&sid=7abd137540629e9d&type=tcp#🇨🇿 Czechia | WorkTitans B.V 3
