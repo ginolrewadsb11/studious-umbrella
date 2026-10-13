@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 1
-vless://f8842728-bf43-47e2-83bf-283e21f33664@94.249.188.202:43000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=94.249.188.202&fp=random&pbk=TdLpPmh5-Tbcj3bUPp7uw9znQ_Asao8z9jG7Eccrhwk&sid=7887c27d&type=tcp#🇦🇪 United Arab Emirates | Tom Gewiese 1
-vless://f8842728-bf43-47e2-83bf-283e21f33664@94.249.188.202:43000?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=TdLpPmh5-Tbcj3bUPp7uw9znQ_Asao8z9jG7Eccrhwk&sid=7887c27d&fp=chrome#🇦🇪 United Arab Emirates | Tom Gewiese 2
-vless://f8842728-bf43-47e2-83bf-283e21f33664@94.249.188.202:43000?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=TdLpPmh5-Tbcj3bUPp7uw9znQ_Asao8z9jG7Eccrhwk&sid=7887c27d&fp=ios#🇦🇪 United Arab Emirates | Tom Gewiese 3
-vless://f8842728-bf43-47e2-83bf-283e21f33664@94.249.188.202:43000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=94.249.188.202&fp=chrome&pbk=TdLpPmh5-Tbcj3bUPp7uw9znQ_Asao8z9jG7Eccrhwk&sid=7887c27d&type=tcp#🇦🇪 United Arab Emirates | Tom Gewiese 4
-vless://f8842728-bf43-47e2-83bf-283e21f33664@94.249.188.202:43000?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=TdLpPmh5-Tbcj3bUPp7uw9znQ_Asao8z9jG7Eccrhwk&sid=7887c27d&sni=94.249.188.202#🇦🇪 United Arab Emirates | Tom Gewiese 5
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 1
