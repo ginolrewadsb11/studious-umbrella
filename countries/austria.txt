@@ -3,7 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://a80674d8-c4e8-4af8-914b-9aa919ae7054@au1.sream-rutube.shop:443?encryption=none&security=tls&sni=au1.sream-rutube.shop&type=grpc&serviceName=trgrpc#🇦🇹 Austria | Aeza International LTD 1
+vless://a80674d8-c4e8-4af8-914b-9aa919ae7054@z2ycf.guardora.pro:443?encryption=none&security=tls&sni=z2ycf.guardora.pro&type=ws&path=%2Fd9dae2bff26d97d2#🇦🇹 Austria | Aeza International LTD 1
+vless://a80674d8-c4e8-4af8-914b-9aa919ae7054@z2ycf.guardora.pro:443?encryption=none&security=tls&sni=z2ycf.guardora.pro&type=ws&path=%2Fd9dae2bff26d97d2#🇦🇹 Austria | Aeza International LTD 2
+vless://40af9131-d540-448a-bc56-5bba147a1dc3@213.111.148.137:443?encryption=none&security=tls&sni=proxy-1cu.pages.dev&fp=android&type=ws&host=proxy-1cu.pages.dev&path=%2F#🇦🇹 Austria | Cloudflare, 1
+vless://40af9131-d540-448a-bc56-5bba147a1dc3@213.111.148.137:443?encryption=none&security=tls&sni=proxy-1cu.pages.dev&fp=android&type=ws&host=proxy-1cu.pages.dev&path=%2F#🇦🇹 Austria | Cloudflare, 2
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@82.110.60.9:19999#🇦🇹 Austria | Datacamp 1
