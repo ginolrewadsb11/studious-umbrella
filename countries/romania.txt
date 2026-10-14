@@ -3,10 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgMTQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://0cf8e402-e801-4aeb-9b7a-00a933f9f1c1@83.147.245.126:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=assets-str-53.nexus-infinitus.com&fp=random&pbk=gLO2GRqV0iVDmVdytcJLqGyZEB5Swxb-NAOC9AL13UM&sid=344f1f56582dda0f&type=tcp#🇷🇴 Romania | BL Networks 1
-vless://0cf8e402-e801-4aeb-9b7a-00a933f9f1c1@83.147.245.126:443?security=reality&encryption=none&pbk=gLO2GRqV0iVDmVdytcJLqGyZEB5Swxb-NAOC9AL13UM&headerType=&fp=random&type=tcp&flow=xtls-rprx-vision&sni=assets-str-53.nexus-infinitus.com&sid=344f1f56582dda0f#🇷🇴 Romania | BL Networks 2
+vless://0cf8e402-e801-4aeb-9b7a-00a933f9f1c1@83.147.245.126:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=assets-str-53.nexus-infinitus.com&fp=random&pbk=gLO2GRqV0iVDmVdytcJLqGyZEB5Swxb-NAOC9AL13UM&sid=344f1f56582dda0f&type=tcp&headerType=none#🇷🇴 Romania | BL Networks 2
+vless://0cf8e402-e801-4aeb-9b7a-00a933f9f1c1@83.147.245.126:443?security=reality&encryption=none&pbk=gLO2GRqV0iVDmVdytcJLqGyZEB5Swxb-NAOC9AL13UM&headerType=&type=tcp&flow=xtls-rprx-vision&sni=assets-str-53.nexus-infinitus.com&sid=344f1f56582dda0f#🇷🇴 Romania | BL Networks 3
+vless://0cf8e402-e801-4aeb-9b7a-00a933f9f1c1@83.147.245.126:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=assets-str-53.nexus-infinitus.com&fp=random&pbk=gLO2GRqV0iVDmVdytcJLqGyZEB5Swxb-NAOC9AL13UM&sid=344f1f56582dda0f&type=tcp#🇷🇴 Romania | BL Networks 4
+vless://0cf8e402-e801-4aeb-9b7a-00a933f9f1c1@83.147.245.126:443?security=reality&encryption=none&pbk=gLO2GRqV0iVDmVdytcJLqGyZEB5Swxb-NAOC9AL13UM&headerType=&fp=random&type=tcp&flow=xtls-rprx-vision&sni=assets-str-53.nexus-infinitus.com&sid=344f1f56582dda0f#🇷🇴 Romania | BL Networks 5
+vless://0cf8e402-e801-4aeb-9b7a-00a933f9f1c1@83.147.245.126:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=assets-str-53.nexus-infinitus.com&fp=random&pbk=gLO2GRqV0iVDmVdytcJLqGyZEB5Swxb-NAOC9AL13UM&sid=344f1f56582dda0f&type=tcp#🇷🇴 Romania | BL Networks 6
+vless://0cf8e402-e801-4aeb-9b7a-00a933f9f1c1@app-str-53.nexus-infinitus.com:443?security=reality&encryption=none&pbk=gLO2GRqV0iVDmVdytcJLqGyZEB5Swxb-NAOC9AL13UM&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=assets-str-53.nexus-infinitus.com&sid=344f1f56582dda0f#🇷🇴 Romania | BL Networks 7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇷🇴 Romania | Dotro Telecom SRL 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇷🇴 Romania | Dotro Telecom SRL 2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇷🇴 Romania | Dotro Telecom SRL 3
