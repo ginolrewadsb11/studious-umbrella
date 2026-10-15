@@ -3,13 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
+vless://3a0e4040-67cc-43e0-a9fb-98e15ddb0526@138.124.90.177:10443?&sni=138.124.90.177&type=tcp&headerType=none&path=%2F#🇦🇹 Austria | Aeza International LTD 1
+vless://3a0e4040-67cc-43e0-a9fb-98e15ddb0526@138.124.90.177:10443?&sni=138.124.90.177&type=tcp&headerType=none&path=%2F#🇦🇹 Austria | Aeza International LTD 2
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@82.110.60.9:19999#🇦🇹 Austria | Datacamp 1
-vless://2b173b69-8045-4fb8-b713-6db630337970@62.83.11.211:2087?type=grpc&security=reality&encryption=none&sni=at3.tsumshop.org&serviceName=fortress-tunnel&fp=chrome&pbk=RNE9785FGHj63g_Dht-Cx0FzOPpdTPXgMFIYHurOVys&spx=%2F#🇦🇹 Austria | netcup GmbH 1
-vless://2b173b69-8045-4fb8-b713-6db630337970@62.83.11.211:2087?type=grpc&security=reality&encryption=none&sni=at3.tsumshop.org&serviceName=fortress-tunnel&fp=chrome&pbk=RNE9785FGHj63g_Dht-Cx0FzOPpdTPXgMFIYHurOVys&spx=%2F#🇦🇹 Austria | netcup GmbH 2
-vless://768712b8-81dc-440f-9b38-4523bf767df4@153.76.167.140:2096?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=edge#🇦🇹 Austria | netcup GmbH 3
-vless://768712b8-81dc-440f-9b38-4523bf767df4@153.76.167.140:2096?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=firefox#🇦🇹 Austria | netcup GmbH 4
-vless://768712b8-81dc-440f-9b38-4523bf767df4@153.76.167.140:2096?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=edge#🇦🇹 Austria | netcup GmbH 5
-vless://768712b8-81dc-440f-9b38-4523bf767df4@153.76.167.140:2096?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=safari#🇦🇹 Austria | netcup GmbH 6
-vless://768712b8-81dc-440f-9b38-4523bf767df4@153.76.167.140:2096?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=safari#🇦🇹 Austria | netcup GmbH 7
+vless://768712b8-81dc-440f-9b38-4523bf767df4@77.246.159.77:2096?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=firefox#🇦🇹 Austria | netcup GmbH 1
+vless://768712b8-81dc-440f-9b38-4523bf767df4@153.76.167.140:2096?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=firefox#🇦🇹 Austria | netcup GmbH 2
+vless://768712b8-81dc-440f-9b38-4523bf767df4@153.76.167.140:2096?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=safari#🇦🇹 Austria | netcup GmbH 3
