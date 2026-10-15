@@ -3,14 +3,21 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDkg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HrvCfh7kgQm9iaVZQTiDigJQgSXRhbHkK4pqhIDE2INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
 vless://244d9eab-3311-40c7-b47f-4968dc3088a6@195.231.37.150:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=firefox&type=tcp&sni=tcpit3.figurapn.ru&sid=868419504747f6de#🇮🇹 Italy | Aruba S.p.A. 1
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.164.175.81:19999#🇮🇹 Italy | Datacamp 1
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?#🇮🇹 Italy | Oracle 1
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#🇮🇹 Italy | Oracle 2
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=&type=tcp#🇮🇹 Italy | Oracle 3
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle 4
+vless://244d9eab-3311-40c7-b47f-4968dc3088a6@195.231.37.150:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=firefox&type=tcp&sni=tcpit3.figurapn.ru&sid=868419504747f6de#🇮🇹 Italy | Aruba S.p.A. 2
+vless://244d9eab-3311-40c7-b47f-4968dc3088a6@195.231.37.150:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=firefox&type=tcp&sni=tcpit3.figurapn.ru&sid=868419504747f6de#🇮🇹 Italy | Aruba S.p.A. 3
+vless://244d9eab-3311-40c7-b47f-4968dc3088a6@195.231.37.150:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=firefox&type=tcp&sni=tcpit3.figurapn.ru&sid=868419504747f6de#🇮🇹 Italy | Aruba S.p.A. 4
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#🇮🇹 Italy | Datacamp 1
+vless://f3a55e59-9838-4216-aebb-02ea105ef2ef@it.sorat-fazaei.ir:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=v0.dev&fp=ios&pbk=iUWld2FzESEhfLQF-2LQKGJn7QE81hgoYaOupYysETA&sid=b65fca1d58f3c245#🇮🇹 Italy | G-Core Labs S.A. 1
+vless://f3a55e59-9838-4216-aebb-02ea105ef2ef@it.sorat-fazaei.ir:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=v0.dev&fp=ios&pbk=iUWld2FzESEhfLQF-2LQKGJn7QE81hgoYaOupYysETA&sid=b65fca1d58f3c245#🇮🇹 Italy | G-Core Labs S.A. 2
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=&type=tcp#🇮🇹 Italy | Oracle 1
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=&encryption=none&headerType=none&type=tcp#🇮🇹 Italy | Oracle 2
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?#🇮🇹 Italy | Oracle 3
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#🇮🇹 Italy | Oracle 4
 vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#🇮🇹 Italy | OVH SAS 1
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@31.59.180.155:443?encryption=none&security=reality&type=tcp&sni=italynew.nztvpn.com&flow=xtls-rprx-vision&fp=firefox&pbk=_0bRaAOYHd4ccDCmnlIq9I13WLRuT4LzlXfV_GGHKE0&sid=5aab0b0401044801#🇮🇹 Italy | SUNSERVERS 1
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@31.59.180.155:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=italynew.nztvpn.com&pbk=_0bRaAOYHd4ccDCmnlIq9I13WLRuT4LzlXfV_GGHKE0&sid=5aab0b0401044801&fp=firefox#🇮🇹 Italy | SUNSERVERS 2
+vless://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?flow=xtls-rprx-vision&fp=random&pbk=R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU&security=reality&sid=cd6065902eea7a02&sni=www.cloudflare.com&type=tcp#🇮🇹 Italy | Route 95 1
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@31.59.180.155:443?&security=reality&flow=xtls-rprx-vision&pbk=_0bRaAOYHd4ccDCmnlIq9I13WLRuT4LzlXfV_GGHKE0&sid=5aab0b0401044801&fp=chrome&sni=italynew.nztvpn.com&type=tcp&headerType=none&path=%2F#🇮🇹 Italy | SUNSERVERS 1
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@31.59.180.155:443?&security=reality&flow=xtls-rprx-vision&pbk=_0bRaAOYHd4ccDCmnlIq9I13WLRuT4LzlXfV_GGHKE0&sid=5aab0b0401044801&fp=chrome&sni=italynew.nztvpn.com&type=tcp&headerType=none&path=%2F#🇮🇹 Italy | SUNSERVERS 2
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@31.59.180.155:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=italynew.nztvpn.com&pbk=_0bRaAOYHd4ccDCmnlIq9I13WLRuT4LzlXfV_GGHKE0&sid=5aab0b0401044801&fp=firefox#🇮🇹 Italy | SUNSERVERS 3
