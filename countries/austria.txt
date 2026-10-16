@@ -3,8 +3,17 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMTIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://3a0e4040-67cc-43e0-a9fb-98e15ddb0526@138.124.90.177:10443?&sni=138.124.90.177&type=tcp&headerType=none&path=%2F#🇦🇹 Austria | Aeza International LTD 1
-vless://3a0e4040-67cc-43e0-a9fb-98e15ddb0526@138.124.90.177:10443?&sni=138.124.90.177&type=tcp&headerType=none&path=%2F#🇦🇹 Austria | Aeza International LTD 2
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@82.110.60.9:19999#🇦🇹 Austria | Datacamp 1
+vless://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.115.14:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediapereval.cc&type=tcp#🇦🇹 Austria | FDCservers.net 1
+vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapereval.cc:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.mediapereval.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=qq#🇦🇹 Austria | FDCservers.net 2
+vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapereval.cc:443?security=reality&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.mediapereval.cc&type=tcp&headerType=none&host=api.mediapereval.cc&path=%2F&fp=firefox#🇦🇹 Austria | FDCservers.net 3
+vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapereval.cc:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.mediapereval.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=ios#🇦🇹 Austria | FDCservers.net 4
+vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapereval.cc:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.mediapereval.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=qq#🇦🇹 Austria | FDCservers.net 5
+vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapereval.cc:443?security=reality&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.mediapereval.cc&type=tcp&headerType=none&host=api.mediapereval.cc&path=%2F&fp=safari#🇦🇹 Austria | FDCservers.net 6
+vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapereval.cc:443?&security=reality&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=qq&sni=api.mediapereval.cc&type=tcp&headerType=none&host=api.mediapereval.cc&path=%2F#🇦🇹 Austria | FDCservers.net 7
+vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapereval.cc:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.mediapereval.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=chrome#🇦🇹 Austria | FDCservers.net 8
+vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapereval.cc:443?security=reality&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.mediapereval.cc&type=tcp&headerType=none&host=api.mediapereval.cc&path=%2F&fp=ios#🇦🇹 Austria | FDCservers.net 9
+vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapereval.cc:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.mediapereval.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=edge#🇦🇹 Austria | FDCservers.net 10
