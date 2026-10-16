@@ -3,9 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
+vless://3a0e4040-67cc-43e0-a9fb-98e15ddb0526@138.124.90.177:10443?&sni=138.124.90.177&type=tcp&headerType=none&path=%2F#🇦🇹 Austria | Aeza International LTD 1
+vless://3a0e4040-67cc-43e0-a9fb-98e15ddb0526@138.124.90.177:10443?&sni=138.124.90.177&type=tcp&headerType=none&path=%2F#🇦🇹 Austria | Aeza International LTD 2
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@82.110.60.9:19999#🇦🇹 Austria | Datacamp 1
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapereval.cc:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.mediapereval.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=qq#🇦🇹 Austria | FDCservers.net 1
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapereval.cc:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.mediapereval.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=qq#🇦🇹 Austria | FDCservers.net 2
-vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@kozyavka.yandex-api.com:443?&security=reality&flow=xtls-rprx-vision&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&fp=random&sni=kozyavka.yandex-api.com&type=tcp&headerType=none&host=kozyavka.yandex-api.com&path=%2F#🇦🇹 Austria | Interkvm Host SRL 1
