@@ -3,10 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7IgQm9iaVZQTiDigJQgQXJtZW5pYQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7IgQm9iaVZQTiDigJQgQXJtZW5pYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://b8df3f50-ffef-4c7e-9ef3-d5b156a47c02@88.218.95.88:443?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=rRg3JiP2006ldJYh2TDPAn7dtlXLcSHdgHgkGI_HZTE&sid=43adea0ec9f97a0a&type=grpc&authority=&serviceName=grpc&mode=gun#🇦🇲 Armenia | GNC-Alfa CJSC 1
-vless://b8df3f50-ffef-4c7e-9ef3-d5b156a47c02@88.218.95.88:443?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=rRg3JiP2006ldJYh2TDPAn7dtlXLcSHdgHgkGI_HZTE&sid=43adea0ec9f97a0a&type=grpc&authority=&serviceName=grpc&mode=gun#🇦🇲 Armenia | GNC-Alfa CJSC 2
-vless://b8df3f50-ffef-4c7e-9ef3-d5b156a47c02@88.218.95.88:443?type=grpc&security=reality&fp=firefox&pbk=rRg3JiP2006ldJYh2TDPAn7dtlXLcSHdgHgkGI_HZTE&sid=43adea0ec9f97a0a&sni=www.google.com&serviceName=grpc#🇦🇲 Armenia | GNC-Alfa CJSC 3
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&type=tcp&sni=yahoo.com&sid=0e#🇦🇲 Armenia | Partners INC 1
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&headerType=none&path=%2F#🇦🇲 Armenia | Partners INC 2
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&headerType=none&path=/#🇦🇲 Armenia | Partners INC 2
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&headerType=none&path=%2f#🇦🇲 Armenia | Partners INC 3
