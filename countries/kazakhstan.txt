@@ -3,10 +3,21 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMTYg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://5a4f865d-7480-45a8-b487-248a46819aa1@185.91.126.213:443?flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&fp=random#🇰🇿 Kazakhstan | Goodhost.KZ LLP 1
-vless://5a4f865d-7480-45a8-b487-248a46819aa1@185.91.126.213:443?flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&fp=random#🇰🇿 Kazakhstan | Goodhost.KZ LLP 2
-vless://5a4f865d-7480-45a8-b487-248a46819aa1@185.91.126.213:443?flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&fp=safari#🇰🇿 Kazakhstan | Goodhost.KZ LLP 3
+vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa&type=tcp&headerType=none&path=/#🇰🇿 Kazakhstan | BEGET 1
+vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa&type=tcp&headerType=none&path=/#🇰🇿 Kazakhstan | BEGET 2
+vless://6bd87180-71cf-018e-bf36-07f2e615d020@131.123.25.26:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&security=reality&sid=00a61d55a07de885&sni=de-cdn.convert-flow.net&type=tcp#🇰🇿 Kazakhstan | G-Core Labs S.A. 1
+vless://5a4f865d-7480-45a8-b487-248a46819aa1@185.91.126.213:443?flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=random&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA#🇰🇿 Kazakhstan | Goodhost.KZ LLP 1
+vless://5a4f865d-7480-45a8-b487-248a46819aa1@185.91.126.213:443?flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=random&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&encryption=none&type=tcp#🇰🇿 Kazakhstan | Goodhost.KZ LLP 2
+vless://7b822cbc-2bce-4381-bb1e-cdd058c89294@185.91.126.213:443?flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&fp=random#🇰🇿 Kazakhstan | Goodhost.KZ LLP 3
+vless://7b822cbc-2bce-4381-bb1e-cdd058c89294@185.91.126.213:443?flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&fp=qq#🇰🇿 Kazakhstan | Goodhost.KZ LLP 4
+vless://5a4f865d-7480-45a8-b487-248a46819aa1@185.91.126.213:443?flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&fp=qq#🇰🇿 Kazakhstan | Goodhost.KZ LLP 5
+vless://5a4f865d-7480-45a8-b487-248a46819aa1@185.91.126.213:443?flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=random&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&encryption=none&type=tcp#🇰🇿 Kazakhstan | Goodhost.KZ LLP 6
+vless://5a4f865d-7480-45a8-b487-248a46819aa1@185.91.126.213:443?flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&fp=firefox#🇰🇿 Kazakhstan | Goodhost.KZ LLP 7
+vless://5a4f865d-7480-45a8-b487-248a46819aa1@185.91.126.213:443?flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&fp=safari#🇰🇿 Kazakhstan | Goodhost.KZ LLP 8
+vless://5a4f865d-7480-45a8-b487-248a46819aa1@185.91.126.213:443?flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&fp=safari#🇰🇿 Kazakhstan | Goodhost.KZ LLP 9
+vless://7b822cbc-2bce-4381-bb1e-cdd058c89294@185.91.126.213:443?flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&fp=firefox#🇰🇿 Kazakhstan | Goodhost.KZ LLP 10
+vless://7b822cbc-2bce-4381-bb1e-cdd058c89294@185.91.126.213:443?flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&fp=chrome#🇰🇿 Kazakhstan | Goodhost.KZ LLP 11
 vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&encryption=none&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=69a2#🇰🇿 Kazakhstan | NLS ASTANA LLP 1
 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#🇰🇿 Kazakhstan | PE Fedinyak Sergey Vya... 1
