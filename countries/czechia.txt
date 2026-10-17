@@ -3,11 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://6206cb76-491d-4237-baf1-8c29eea4eafb@81.28.12.12:443?encryption=none&host=node-3.wt419.site&path=%2FqVnRkTxmLwBzHjYpFaDgUcSeNrKxMtVbWqZhPcLsJfGy&security=tls&sni=node-3.wt419.site&type=ws&fp=ios#🇨🇿 Czechia | Mastersoft S.R.L. 1
+vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediavolna.cc:443?type=grpc&security=tls&sni=api.mediavolna.cc&mode=gun&serviceName=r7Kp4mN9tQ2v&fp=ios#🇨🇿 Czechia | FDCservers.net 1
+vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediavolna.cc:443?mode=gun&security=tls&serviceName=r7Kp4mN9tQ2v&sni=api.mediavolna.cc&type=grpc&fp=firefox#🇨🇿 Czechia | FDCservers.net 2
+vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediavolna.cc:443?alpn=h2&encryption=none&insecure=0&mode=gun&security=tls&serviceName=r7Kp4mN9tQ2v&sni=api.mediavolna.cc&type=grpc&fp=safari#🇨🇿 Czechia | FDCservers.net 3
+vless://6206cb76-491d-4237-baf1-8c29eea4eafb@81.28.12.12:443?encryption=none&fp=firefox&host=node-3.wt419.site&path=/qVnRkTxmLwBzHjYpFaDgUcSeNrKxMtVbWqZhPcLsJfGy&security=tls&sni=node-3.wt419.site&type=ws#🇨🇿 Czechia | Mastersoft S.R.L. 1
 vless://6206cb76-491d-4237-baf1-8c29eea4eafb@81.28.12.12:443?encryption=none&host=node-3.wt419.site&path=%2FqVnRkTxmLwBzHjYpFaDgUcSeNrKxMtVbWqZhPcLsJfGy&security=tls&sni=node-3.wt419.site&type=ws&fp=chrome#🇨🇿 Czechia | Mastersoft S.R.L. 2
-vless://6206cb76-491d-4237-baf1-8c29eea4eafb@81.28.12.12:443?encryption=none&host=node-3.wt419.site&path=%2FqVnRkTxmLwBzHjYpFaDgUcSeNrKxMtVbWqZhPcLsJfGy&security=tls&sni=node-3.wt419.site&type=ws&fp=safari#🇨🇿 Czechia | Mastersoft S.R.L. 3
-vless://6206cb76-491d-4237-baf1-8c29eea4eafb@81.28.12.12:443?encryption=none&fp=firefox&host=node-3.wt419.site&path=/qVnRkTxmLwBzHjYpFaDgUcSeNrKxMtVbWqZhPcLsJfGy&security=tls&sni=node-3.wt419.site&type=ws#🇨🇿 Czechia | Mastersoft S.R.L. 4
-vless://6206cb76-491d-4237-baf1-8c29eea4eafb@81.28.12.12:443?encryption=none&host=node-3.wt419.site&path=%2FqVnRkTxmLwBzHjYpFaDgUcSeNrKxMtVbWqZhPcLsJfGy&security=tls&sni=node-3.wt419.site&type=ws&fp=firefox#🇨🇿 Czechia | Mastersoft S.R.L. 5
-vless://6206cb76-491d-4237-baf1-8c29eea4eafb@cl-glb6e059ee.gcdn.co:443?security=tls&sni=node-3.wt419.site&alpn=http%2F1.1&fp=random&type=ws&path=%2FqVnRkTxmLwBzHjYpFaDgUcSeNrKxMtVbWqZhPcLsJfGy&host=node-3.wt419.site#🇨🇿 Czechia | Mastersoft S.R.L. 6
