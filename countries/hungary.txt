@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrfCfh7ogQm9iaVZQTiDigJQgSHVuZ2FyeQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrfCfh7ogQm9iaVZQTiDigJQgSHVuZ2FyeQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://d0d08709-093d-45dc-ac6f-fd18890fa2c5@hu3.aiage.work:443?encryption=none&security=reality&sni=hu3.aiage.work&flow=xtls-rprx-vision&pbk=M67-jEVPxSEjAhdBgL-lFgzQt_FloM7tL092KC7LTFE&sid=a09ef132e6a308ae&fp=edge#🇭🇺 Hungary | Rackhost Zrt. 1
-vless://d0d08709-093d-45dc-ac6f-fd18890fa2c5@217.13.105.12:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=M67-jEVPxSEjAhdBgL-lFgzQt_FloM7tL092KC7LTFE&security=reality&sid=a09ef132e6a308ae&sni=hu3.aiage.work&type=tcp#🇭🇺 Hungary | Rackhost Zrt. 2
-vless://d0d08709-093d-45dc-ac6f-fd18890fa2c5@hu3.aiage.work:443?encryption=none&security=reality&sni=hu3.aiage.work&flow=xtls-rprx-vision&pbk=M67-jEVPxSEjAhdBgL-lFgzQt_FloM7tL092KC7LTFE&sid=a09ef132e6a308ae&fp=ios#🇭🇺 Hungary | Rackhost Zrt. 3
-vless://d0d08709-093d-45dc-ac6f-fd18890fa2c5@87.229.84.158:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=M67-jEVPxSEjAhdBgL-lFgzQt_FloM7tL092KC7LTFE&security=reality&sid=a09ef132e6a308ae&sni=hu3.aiage.work&type=tcp#🇭🇺 Hungary | SZERVERPLEX 1
+vless://d0d08709-093d-45dc-ac6f-fd18890fa2c5@hu3.aiage.work:443?encryption=none&flow=xtls-rprx-vision&pbk=M67-jEVPxSEjAhdBgL-lFgzQt_FloM7tL092KC7LTFE&security=reality&sid=a09ef132e6a308ae&sni=hu3.aiage.work&fp=edge#🇭🇺 Hungary | Rackhost Zrt. 1
