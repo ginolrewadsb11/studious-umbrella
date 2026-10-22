@@ -5,13 +5,13 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNYWxheXNpYQrimqEgMTAg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh7Lwn4e+TVktNSIsImFkZCI6IjQ3LjI1MC4xMzUuMjQ0IiwicG9ydCI6IjEwMDAwIiwiaWQiOiJhZWRjNjZiOC05OWQ3LTRhMjEtODMxMC02MTg3MGU3Zjg3MGQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIiwidmNuIjoiIiwicGNzIjoiIn0=#🌍 Malaysia | Alibaba (US) Technolog... 1
-vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@188.114.98.0:443?alpn=http%2F1.1&encryption=none&host=vpn.cintaku.qzz.io&path=%2Fvlessws&security=tls&sni=vpn.cintaku.qzz.io&type=ws&fp=chrome#🌍 Malaysia | TENCENT-CN 1
-vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@188.114.98.0:443?alpn=http%2F1.1&encryption=none&host=vpn.cintaku.qzz.io&path=%2Fvlessws&security=tls&sni=vpn.cintaku.qzz.io&type=ws&fp=safari#🌍 Malaysia | TENCENT-CN 2
-vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@188.114.98.0:443?alpn=http%2F1.1&encryption=none&host=vpn.cintaku.qzz.io&path=%2Fvlessws&security=tls&sni=vpn.cintaku.qzz.io&type=ws&fp=ios#🌍 Malaysia | TENCENT-CN 3
-vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@vpn.cintaku.qzz.io:443?fp=firefox&host=vpn.cintaku.qzz.io&path=%2Fvlessws&security=tls&sni=vpn.cintaku.qzz.io&type=ws#🌍 Malaysia | TENCENT-CN 4
-vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@188.114.98.0:443?alpn=http%2F1.1&encryption=none&host=vpn.cintaku.qzz.io&path=%2Fvlessws&security=tls&sni=vpn.cintaku.qzz.io&type=ws&fp=firefox#🌍 Malaysia | TENCENT-CN 5
+vless://3c5f522d-6695-474f-abcf-2b1a65d503fa@my2.frnhk.xyz:443?flow=xtls-rprx-vision&headerType=none&host=www.waseda.jp&path=%2F&pbk=SPtkbd9O6y-rdGoR2CLzW1IFr6WMlqt2lM9wU-VURig&security=reality&sid=6b7a8c9d&sni=www.waseda.jp&type=tcp&fp=firefox#🌍 Malaysia | Datacamp 1
+vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@vpn.cintaku.qzz.io:443?host=vpn.cintaku.qzz.io&path=%2Fvlessws&security=tls&sni=vpn.cintaku.qzz.io&type=ws&fp=chrome#🌍 Malaysia | TENCENT-CN 1
+vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@vpn.cintaku.qzz.io:443?security=tls&sni=vpn.cintaku.qzz.io&fp=&type=ws&path=/vlessws&host=vpn.cintaku.qzz.io&packetEncoding=xudp&encryption=none#🌍 Malaysia | TENCENT-CN 2
+vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@vpn.cintaku.qzz.io:443?host=vpn.cintaku.qzz.io&path=%2Fvlessws&security=tls&sni=vpn.cintaku.qzz.io&type=ws&fp=ios#🌍 Malaysia | TENCENT-CN 3
+vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@vpn.cintaku.qzz.io:443?host=vpn.cintaku.qzz.io&path=%2Fvlessws&security=tls&sni=vpn.cintaku.qzz.io&type=ws&fp=safari#🌍 Malaysia | TENCENT-CN 4
+vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@vpn.cintaku.qzz.io:443?host=vpn.cintaku.qzz.io&path=%2Fvlessws&security=tls&sni=vpn.cintaku.qzz.io&type=ws&fp=safari#🌍 Malaysia | TENCENT-CN 5
 vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@vpn.cintaku.qzz.io:443?host=vpn.cintaku.qzz.io&path=%2Fvlessws&security=tls&sni=vpn.cintaku.qzz.io&type=ws&fp=ios#🌍 Malaysia | TENCENT-CN 6
-vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@vpn.cintaku.qzz.io:443?host=vpn.cintaku.qzz.io&path=%2Fvlessws&security=tls&sni=vpn.cintaku.qzz.io&type=ws&fp=safari#🌍 Malaysia | TENCENT-CN 7
-vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@vpn.cintaku.qzz.io:443?host=vpn.cintaku.qzz.io&path=%2Fvlessws&security=tls&sni=vpn.cintaku.qzz.io&type=ws&fp=chrome#🌍 Malaysia | TENCENT-CN 8
+vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@vpn.cintaku.qzz.io:443?host=vpn.cintaku.qzz.io&path=%2Fvlessws&security=tls&sni=vpn.cintaku.qzz.io&type=ws&fp=chrome#🌍 Malaysia | TENCENT-CN 7
+vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@vpn.cintaku.qzz.io:443?fp=firefox&host=vpn.cintaku.qzz.io&path=%2Fvlessws&security=tls&sni=vpn.cintaku.qzz.io&type=ws#🌍 Malaysia | TENCENT-CN 8
 vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@vpn.cintaku.qzz.io:443?host=vpn.cintaku.qzz.io&path=%2Fvlessws&security=tls&sni=vpn.cintaku.qzz.io&type=ws&fp=firefox#🌍 Malaysia | TENCENT-CN 9
