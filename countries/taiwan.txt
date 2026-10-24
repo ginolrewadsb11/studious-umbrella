@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HufCfh7wgQm9iaVZQTiDigJQgVGFpd2FuCuKaoSA0INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@59.125.69.23:443?&security=tls&fp=chrome&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇹🇼 Taiwan | Chunghwa Telecom Co., . 1
-trojan://82f1c096fc0d4b1a@iwt196.zxom.eu.org:20015?type=tcp&security=tls&fp=android#🇹🇼 Taiwan | Chunghwa Telecom Co., . 2
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=chrome&type=tcp&sni=addons.mozilla.org#🇹🇼 Taiwan | Chunghwa Telecom Co., . 3
-trojan://82f1c096fc0d4b1a@iwt196.zxom.eu.org:20015?type=tcp&security=tls&fp=chrome#🇹🇼 Taiwan | Chunghwa Telecom Co., . 4
+vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?security=tls&type=ws&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz&packetEncoding=none&allowInsecure=1&sni=ty986gfazs.cainiaohub.xyz#🇹🇼 Taiwan | Chunghwa Telecom Co., . 1
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=chrome&type=tcp&sni=addons.mozilla.org#🇹🇼 Taiwan | Chunghwa Telecom Co., . 2
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&type=tcp&packetEncoding=xudp&sni=addons.mozilla.org&fp=chrome&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE#🇹🇼 Taiwan | Chunghwa Telecom Co., . 3
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&type=tcp&packetEncoding=xudp&sni=addons.mozilla.org&fp=chrome&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE#🇹🇼 Taiwan | Chunghwa Telecom Co., . 4
