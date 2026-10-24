@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh7MgQm9iaVZQTiDigJQgSW5kaWEK4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HrvCfh7MgQm9iaVZQTiDigJQgSW5kaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?alpn=h2&encryption=none&host=app-6ada5023.deploy.meerasolution.com&insecure=0&path=%2Fws%2F16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&sni=app-6ada5023.deploy.meerasolution.com&type=ws&fp=chrome#🇮🇳 India | Bharti Airtel 1
-vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?path=%2Fws%2F16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&alpn=h2&encryption=none&insecure=0&host=app-6ada5023.deploy.meerasolution.com&fp=chrome&type=ws&allowInsecure=0&sni=app-6ada5023.deploy.meerasolution.com#🇮🇳 India | Bharti Airtel 2
-vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?alpn=h2&encryption=none&host=app-6ada5023.deploy.meerasolution.com&insecure=0&path=%2Fws%2F16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&sni=app-6ada5023.deploy.meerasolution.com&type=ws&fp=safari#🇮🇳 India | Bharti Airtel 3
-vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?alpn=h2&encryption=none&host=app-6ada5023.deploy.meerasolution.com&insecure=0&path=%2Fws%2F16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&sni=app-6ada5023.deploy.meerasolution.com&type=ws&fp=firefox#🇮🇳 India | Bharti Airtel 4
-vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?alpn=h2&encryption=none&host=app-6ada5023.deploy.meerasolution.com&insecure=0&path=%2Fws%2F16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&sni=app-6ada5023.deploy.meerasolution.com&type=ws&fp=ios#🇮🇳 India | Bharti Airtel 5
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#🇮🇳 India | Akamai Technologies 1

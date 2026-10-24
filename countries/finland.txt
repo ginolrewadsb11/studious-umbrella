@@ -3,14 +3,16 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hq/Cfh64gQm9iaVZQTiDigJQgRmlubGFuZArimqEgOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hq/Cfh64gQm9iaVZQTiDigJQgRmlubGFuZArimqEgMTEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://5a96c1fc-f167-44b9-9020-8f6867537d14@31.77.202.166:8443?encryption=none&fp=firefox&pbk=fQ1M2sO50w5A3oM55Hfs8vmZ320I8VaKdzRqeXOMMnQ&security=reality&sid=07f508fe5d2355d3&sni=finland02.azotvpn.xyz&type=grpc#🇫🇮 Finland | DpkgSoft International 1
-vless://5a96c1fc-f167-44b9-9020-8f6867537d14@2.26.106.232:8443?encryption=none&type=grpc&security=reality&sni=finland02.azotvpn.xyz&pbk=fQ1M2sO50w5A3oM55Hfs8vmZ320I8VaKdzRqeXOMMnQ&sid=07f508fe5d2355d3&fp=random&spx=/#🇫🇮 Finland | DpkgSoft International 2
-vless://5a96c1fc-f167-44b9-9020-8f6867537d14@144.31.126.156:8443?encryption=none&fp=firefox&pbk=fQ1M2sO50w5A3oM55Hfs8vmZ320I8VaKdzRqeXOMMnQ&security=reality&sid=07f508fe5d2355d3&sni=finland02.azotvpn.xyz&type=grpc#🇫🇮 Finland | DpkgSoft International 3
-vless://ebdf87e8-4f75-4b84-94e0-65ce4894993a@168.222.143.254:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=3_Qy1SAtWfbiQbznyhlXxJtqB-5QQ46VF1Uz2h5A7Q4&sid=2dc17935&sni=st.avito.ru#🇫🇮 Finland | HD-decor Oy 1
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@177.3.214.156:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=6lZ5dkQN2sH9tYca374W4N1n9eCanD_F2FfghcksKSo&sni=finlandlanzarotte.live#🇫🇮 Finland | Play2go - Fzco 1
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@finlandlanzarotte.live:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=6lZ5dkQN2sH9tYca374W4N1n9eCanD_F2FfghcksKSo&sni=finlandlanzarotte.live#🇫🇮 Finland | Play2go - Fzco 2
+vless://78559873-84ef-4cab-a0b2-46d4cd20de4a@31.77.17.148:8443?encryption=none&fp=firefox&path=/assets&security=tls&sni=finp2g.yandex-api.store&type=ws#🇫🇮 Finland | Ace Data Centers II, L... 1
+vless://78559873-84ef-4cab-a0b2-46d4cd20de4a@finp2g.yandex-api.store:8443?encryption=none&type=ws&security=tls&sni=finp2g.yandex-api.store&fp=firefox&alpn=http/1.1&path=/assets#🇫🇮 Finland | Ace Data Centers II, L... 2
+vless://2f5cfa10-43e5-4912-800d-557308a26a29@185.119.81.7:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9BUlinkTIxNgD2Em4KShtEbXOjBKvz2mDwT1VqoeR1k&security=reality&sid=80c4e0bda641d6c9&sni=ht689zw45oor.cloudydigital.net&type=tcp#🇫🇮 Finland | DigitalEra Tech OU 1
+vless://2f5cfa10-43e5-4912-800d-557308a26a29@185.119.81.7:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9BUlinkTIxNgD2Em4KShtEbXOjBKvz2mDwT1VqoeR1k&security=reality&sid=80c4e0bda641d6c9&sni=ht689zw45oor.cloudydigital.net&type=tcp#🇫🇮 Finland | DigitalEra Tech OU 2
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@177.3.214.156:443?encryption=none&flow=xtls-rprx-vision&pbk=6lZ5dkQN2sH9tYca374W4N1n9eCanD_F2FfghcksKSo&security=reality&sni=finlandlanzarotte.live&type=tcp&fp=safari#🇫🇮 Finland | Play2go - Fzco 1
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@177.3.214.156:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=6lZ5dkQN2sH9tYca374W4N1n9eCanD_F2FfghcksKSo&sni=finlandlanzarotte.live#🇫🇮 Finland | Play2go - Fzco 2
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@177.3.214.156:443?encryption=none&flow=xtls-rprx-vision&pbk=6lZ5dkQN2sH9tYca374W4N1n9eCanD_F2FfghcksKSo&security=reality&sni=finlandlanzarotte.live&type=tcp&fp=chrome#🇫🇮 Finland | Play2go - Fzco 3
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@177.3.214.156:443?encryption=none&flow=xtls-rprx-vision&pbk=6lZ5dkQN2sH9tYca374W4N1n9eCanD_F2FfghcksKSo&security=reality&sni=finlandlanzarotte.live&type=tcp&fp=firefox#🇫🇮 Finland | Play2go - Fzco 4
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@finlandlanzarotte.live:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=6lZ5dkQN2sH9tYca374W4N1n9eCanD_F2FfghcksKSo&sni=finlandlanzarotte.live#🇫🇮 Finland | Play2go - Fzco 5
 vless://3a4c521f-ac6d-4f82-ace9-2c630b8f0b9d@fina2.white-aist.com:8443?security=reality&sni=fina2.white-aist.com&fp=firefox&pbk=o9U5XYcmUmSH6C9wtK3E-47DmQ3LyehHSCEl1Pj_vj0&type=grpc&serviceName=grpc#🇫🇮 Finland | Play2go International 1
-vless://3a4c521f-ac6d-4f82-ace9-2c630b8f0b9d@fina2.white-aist.com:443?flow=xtls-rprx-vision&security=reality&sni=fina2.white-aist.com&fp=firefox&pbk=o9U5XYcmUmSH6C9wtK3E-47DmQ3LyehHSCEl1Pj_vj0#🇫🇮 Finland | Play2go International 2
-vless://b73f766e-d807-4cf0-9a26-94ca1b2e9c6a@201.24.122.135:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=yn7yv7g2xpt.altrexon-net76.cfd&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&sid=6ba85179e30d4fc2&fp=firefox&spx=%2F#🇫🇮 Finland | Zhilian Technology CO.... 1
+vless://b6c67edd-763b-4929-b655-4f328d13a279@185.188.30.137:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=D3LM6JIYP6kL--jSCj-BPj-qy-J7rzX0Jp9Z4ygNeV4&security=reality&sid=7791e189a518d69e&sni=seznam.cz&type=tcp#🇫🇮 Finland | Web1 Oy 1

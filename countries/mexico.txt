@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNZXhpY28K4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://caf3d607-95c9-4ea0-98b5-864027056ba0@147.78.1.73:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&security=reality&sid=1c5869a95671bcb0&sni=mx1.accessboy.com&type=tcp#🌍 Mexico | ONEPROVIDER 1
-vless://caf3d607-95c9-4ea0-98b5-864027056ba0@mx1.accessboy.com:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=mx1.accessboy.com&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&fp=firefox&spx=%2F#🌍 Mexico | ONEPROVIDER 2
+vless://caf3d607-95c9-4ea0-98b5-864027056ba0@147.78.1.73:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&sni=mx1.accessboy.com#🌍 Mexico | ONEPROVIDER 1
+vless://caf3d607-95c9-4ea0-98b5-864027056ba0@mx1.accessboy.com:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&sni=mx1.accessboy.com#🌍 Mexico | ONEPROVIDER 2
