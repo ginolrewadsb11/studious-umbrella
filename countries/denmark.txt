@@ -3,11 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@212.147.234.124:443?encryption=none&fp=firefox&host=vp5.1145678.xyz&path=/pic/rank&security=tls&sni=vp5.1145678.xyz&type=ws#🇩🇰 Denmark | Cloudflare, 1
-vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@212.147.234.124:443?&security=tls&fp=chrome&sni=vp5.1145678.xyz&type=ws&headerType=none&host=vp5.1145678.xyz&path=%2Fpic%2Frank#🇩🇰 Denmark | Cloudflare, 2
 vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@193.233.253.180:8444?security=reality&type=grpc&mode=gun&serviceName=GunService&packetEncoding=xudp&sni=github.com&fp=chrome&sid=457fab2ac885dbe0&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0#🇩🇰 Denmark | Global Connectivity So... 1
-vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@193.233.253.180:8444?encryption=none&security=reality&sni=github.com&fp=random&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&sid=457fab2ac885dbe0&type=grpc&serviceName=GunService&mode=gun#🇩🇰 Denmark | Global Connectivity So... 2
-vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@193.233.253.180:8444?security=reality&type=grpc&mode=gun&serviceName=GunService&packetEncoding=xudp&sni=github.com&fp=chrome&sid=457fab2ac885dbe0&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0#🇩🇰 Denmark | Global Connectivity So... 3
-vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@193.233.253.180:8444?security=reality&type=grpc&mode=gun&serviceName=GunService&packetEncoding=xudp&sni=github.com&fp=chrome&sid=457fab2ac885dbe0&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0#🇩🇰 Denmark | Global Connectivity So... 4
+vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@193.233.253.180:8444?security=reality&type=grpc&mode=gun&serviceName=GunService&packetEncoding=xudp&sni=github.com&fp=chrome&sid=457fab2ac885dbe0&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0#🇩🇰 Denmark | Global Connectivity So... 2
