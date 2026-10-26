@@ -3,15 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBQaGlsaXBwaW5lcwrimqEgMTAg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBQaGlsaXBwaW5lcwrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.53.51:15656?encryption=none&security=tls&sni=ph001.zestapp778.com&type=tcp&fp=chrome#🌍 Philippines | Light Node 1
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.53.51:15656?encryption=none&security=tls&sni=ph001.zestapp778.com&type=tcp&fp=safari#🌍 Philippines | Light Node 2
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.53.51:15656?type=tcp&security=tls&fp=firefox&sni=ph001.zestapp778.com&encryption=none#🌍 Philippines | Light Node 3
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.53.51:15656?encryption=none&security=tls&sni=ph001.zestapp778.com&type=tcp&fp=chrome#🌍 Philippines | Light Node 4
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.53.51:15656?encryption=none&security=tls&sni=ph001.zestapp778.com&type=tcp&fp=safari#🌍 Philippines | Light Node 5
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.53.51:15656?encryption=none&security=tls&sni=ph001.zestapp778.com&type=tcp&fp=ios#🌍 Philippines | Light Node 6
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.53.51:15656?encryption=none&security=tls&sni=ph001.zestapp778.com&type=tcp&fp=ios#🌍 Philippines | Light Node 7
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.53.51:15656?encryption=none&security=tls&sni=ph001.zestapp778.com&type=tcp&fp=firefox#🌍 Philippines | Light Node 8
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ph001.zestapp778.com:15656?fp=chrome&security=tls&sni=ph001.zestapp778.com&type=tcp#🌍 Philippines | Light Node 9
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ph001.zestapp778.com:15656?fp=chrome&security=tls&sni=ph001.zestapp778.com&type=tcp#🌍 Philippines | Light Node 10
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.53.51:15656?type=tcp&security=tls&fp=firefox&sni=ph001.zestapp778.com&encryption=none#🌍 Philippines | Light Node 1
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.53.51:15656?encryption=none&fp=firefox&security=tls&sni=ph001.zestapp778.com&type=tcp#🌍 Philippines | Light Node 2
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ph001.zestapp778.com:15656?fp=chrome&security=tls&sni=ph001.zestapp778.com&type=tcp#🌍 Philippines | Light Node 3
