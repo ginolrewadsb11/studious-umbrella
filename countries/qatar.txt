@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBRYXRhcgrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBRYXRhcgrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://b6f775c2-70fd-4247-8d12-82cac46fdd50@34.18.161.225:443?encryption=none&security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&pbk=tT6wEOh8ASizQYNRb51QdDlxAksSJbEaBnbQBajc6SQ&sid=c5426331173ca15c#🌍 Qatar | Google 1
-vless://b6f775c2-70fd-4247-8d12-82cac46fdd50@34.18.161.225:443?security=reality&pbk=tT6wEOh8ASizQYNRb51QdDlxAksSJbEaBnbQBajc6SQ&sid=c5426331173ca15c&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F&fp=qq#🌍 Qatar | Google 2
-vless://b6f775c2-70fd-4247-8d12-82cac46fdd50@34.18.161.225:443?&security=reality&pbk=tT6wEOh8ASizQYNRb51QdDlxAksSJbEaBnbQBajc6SQ&sid=c5426331173ca15c&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#🌍 Qatar | Google 3
-vless://b6f775c2-70fd-4247-8d12-82cac46fdd50@34.18.161.225:443?security=reality&pbk=tT6wEOh8ASizQYNRb51QdDlxAksSJbEaBnbQBajc6SQ&sid=c5426331173ca15c&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F&fp=qq#🌍 Qatar | Google 4
-vless://b6f775c2-70fd-4247-8d12-82cac46fdd50@34.18.161.225:443?security=reality&pbk=tT6wEOh8ASizQYNRb51QdDlxAksSJbEaBnbQBajc6SQ&sid=c5426331173ca15c&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F&fp=chrome#🌍 Qatar | Google 5
+vless://1506f2e0-ae12-4718-b5ab-c5609161300e@149.104.121.174:8443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=&fp=firefox&type=tcp&sni=as10.cdn77.icu#🌍 Qatar | Bedge CO 1
