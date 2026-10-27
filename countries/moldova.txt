@@ -3,7 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://a094cdfb-8894-4a0e-8299-5ece1078a857@217.69.167.203:43000?flow=xtls-rprx-vision&encryption=none&security=reality&fp=chrome&pbk=A8sWghnS7fSui7vIrx18mCX4rx1nr-yBpYKmwmkcXjo&sid=870721a2&spx=%2F&type=tcp&headerType=none#🇲🇩 Moldova | Tom Gewiese 1
-vless://a094cdfb-8894-4a0e-8299-5ece1078a857@217.69.167.203:43000?encryption=none&flow=xtls-rprx-vision&fp=&pbk=A8sWghnS7fSui7vIrx18mCX4rx1nr-yBpYKmwmkcXjo&security=reality&sid=870721a2&type=tcp#🇲🇩 Moldova | Tom Gewiese 2
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@185.153.198.86:443?security=tls&type=ws&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080&host=vlso5.1d.mom&packetEncoding=xudp&sni=vlso5.1d.mom&fp=chrome&encryption=none#🇲🇩 Moldova | Cloudflare, 1
+vless://a094cdfb-8894-4a0e-8299-5ece1078a857@217.69.167.203:43000?encryption=none&flow=xtls-rprx-vision&fp=&pbk=A8sWghnS7fSui7vIrx18mCX4rx1nr-yBpYKmwmkcXjo&security=reality&sid=870721a2&type=tcp#🇲🇩 Moldova | Tom Gewiese 1
+vless://a094cdfb-8894-4a0e-8299-5ece1078a857@217.69.167.203:43000?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=A8sWghnS7fSui7vIrx18mCX4rx1nr-yBpYKmwmkcXjo&security=reality&sid=870721a2&type=tcp#🇲🇩 Moldova | Tom Gewiese 2
+vless://a094cdfb-8894-4a0e-8299-5ece1078a857@217.69.167.203:43000?flow=xtls-rprx-vision&encryption=none&security=reality&fp=chrome&pbk=A8sWghnS7fSui7vIrx18mCX4rx1nr-yBpYKmwmkcXjo&sid=870721a2&spx=%2F&type=tcp&headerType=none#🇲🇩 Moldova | Tom Gewiese 3
+vless://a094cdfb-8894-4a0e-8299-5ece1078a857@217.69.167.203:43000?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=A8sWghnS7fSui7vIrx18mCX4rx1nr-yBpYKmwmkcXjo&security=reality&sid=870721a2&sni=217.69.167.203&type=tcp#🇲🇩 Moldova | Tom Gewiese 4
+vless://a094cdfb-8894-4a0e-8299-5ece1078a857@217.69.167.203:43000?flow=xtls-rprx-vision&encryption=none&security=reality&fp=chrome&pbk=A8sWghnS7fSui7vIrx18mCX4rx1nr-yBpYKmwmkcXjo&sid=870721a2&spx=%2F&type=tcp&headerType=none#🇲🇩 Moldova | Tom Gewiese 5
+vless://a094cdfb-8894-4a0e-8299-5ece1078a857@217.69.167.203:43000?encryption=none&flow=xtls-rprx-vision&fp=&pbk=A8sWghnS7fSui7vIrx18mCX4rx1nr-yBpYKmwmkcXjo&security=reality&sid=870721a2&type=tcp#🇲🇩 Moldova | Tom Gewiese 6
