@@ -3,10 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7IgQm9iaVZQTiDigJQgQXJtZW5pYQrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7IgQm9iaVZQTiDigJQgQXJtZW5pYQrimqEgMTAg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&type=raw&security=reality&sni=yahoo.com&fp=firefox&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&spx=%2F@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-%3Fed%3D2560&headertype=none#🇦🇲 Armenia | Partners INC 1
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&sid=0e&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&encryption=none#🇦🇲 Armenia | Partners INC 2
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&headerType=none&path=%2f#🇦🇲 Armenia | Partners INC 3
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&type=tcp&sni=yahoo.com&sid=0e#🇦🇲 Armenia | Partners INC 4
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&security=reality&sid=0e&sni=yahoo.com&type=tcp#🇦🇲 Armenia | Partners INC 5
+vless://4b1be712-774c-4b65-8491-a3339e124a70@194.36.36.152:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v36yrZJ-5Zikx9eh_SXaoDS2GuobOA4_WLagBVO0vxk&security=reality&sid=a9c3f7e2&sni=am1.pc-nodalys.top&type=tcp#🇦🇲 Armenia | GNC-Alfa CJSC 1
+vless://4b1be712-774c-4b65-8491-a3339e124a70@am1.pc-nodalys.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=am1.pc-nodalys.top&fp=qq&security=reality&pbk=v36yrZJ-5Zikx9eh_SXaoDS2GuobOA4_WLagBVO0vxk&sid=a9c3f7e2#🇦🇲 Armenia | GNC-Alfa CJSC 2
+vless://4b1be712-774c-4b65-8491-a3339e124a70@am1.pc-nodalys.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=am1.pc-nodalys.top&security=reality&pbk=v36yrZJ-5Zikx9eh_SXaoDS2GuobOA4_WLagBVO0vxk&sid=a9c3f7e2&fp=safari#🇦🇲 Armenia | GNC-Alfa CJSC 3
+vless://4b1be712-774c-4b65-8491-a3339e124a70@am1.pc-nodalys.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=am1.pc-nodalys.top&security=reality&pbk=v36yrZJ-5Zikx9eh_SXaoDS2GuobOA4_WLagBVO0vxk&sid=a9c3f7e2&fp=ios#🇦🇲 Armenia | GNC-Alfa CJSC 4
+vless://4b1be712-774c-4b65-8491-a3339e124a70@am1.pc-nodalys.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=am1.pc-nodalys.top&security=reality&pbk=v36yrZJ-5Zikx9eh_SXaoDS2GuobOA4_WLagBVO0vxk&sid=a9c3f7e2&fp=qq#🇦🇲 Armenia | GNC-Alfa CJSC 5
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&security=reality&sid=0e&sni=yahoo.com&type=tcp#🇦🇲 Armenia | Partners INC 1
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&headerType=none&path=%2f#🇦🇲 Armenia | Partners INC 2
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&sid=0e&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&encryption=none#🇦🇲 Armenia | Partners INC 3
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&type=raw&security=reality&sni=yahoo.com&fp=firefox&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&spx=%2F@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-%3Fed%3D2560&headertype=none#🇦🇲 Armenia | Partners INC 4
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&type=tcp&sni=yahoo.com&sid=0e#🇦🇲 Armenia | Partners INC 5

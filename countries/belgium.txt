@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://fa45096d-bed0-ad80-c773-23c30000001b@103.228.169.140:443?encryption=none&security=tls&sni=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&type=ws&host=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&path=%2Fsync&fp=qq#🇧🇪 Belgium | Google 1
-vless://fa45096d-bed0-ad80-c773-23c30000001b@103.228.169.140:443?encryption=none&security=tls&sni=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&fp=chrome&type=ws&host=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&path=%2Fsync#🇧🇪 Belgium | Google 2
+vless://FastKey_145297@185.22.154.131:8080?path=%2Fapi&security=none&encryption=none&host=google.com&type=ws#🇧🇪 Belgium | Baxet Group 1

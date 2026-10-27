@@ -3,9 +3,15 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMTAg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://a094cdfb-8894-4a0e-8299-5ece1078a857@217.69.167.203:43000?encryption=none&flow=xtls-rprx-vision&security=reality&pbk=A8sWghnS7fSui7vIrx18mCX4rx1nr-yBpYKmwmkcXjo&sid=870721a2&type=tcp&headerType=none#🇲🇩 Moldova | Tom Gewiese 1
-vless://a094cdfb-8894-4a0e-8299-5ece1078a857@217.69.167.203:43000?flow=xtls-rprx-vision&encryption=none&security=reality&fp=chrome&pbk=A8sWghnS7fSui7vIrx18mCX4rx1nr-yBpYKmwmkcXjo&sid=870721a2&spx=%2F&type=tcp&headerType=none#🇲🇩 Moldova | Tom Gewiese 2
+vless://4b1be712-774c-4b65-8491-a3339e124a70@37.221.66.135:443?flow=xtls-rprx-vision&fp=firefox&pbk=vIfPrMro2GFmeRpxEEt2Q1lJUYO-bRDK2y7WdBaekQs&security=reality&sid=37d5880f&sni=md-x3n8.youtub-arvelys.top&type=raw#🇲🇩 Moldova | AVA HOST SRL 1
+vless://4b1be712-774c-4b65-8491-a3339e124a70@md-x3n8.youtub-arvelys.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=md-x3n8.youtub-arvelys.top&fp=firefox&security=reality&pbk=vIfPrMro2GFmeRpxEEt2Q1lJUYO-bRDK2y7WdBaekQs&sid=37d5880f#🇲🇩 Moldova | AVA HOST SRL 2
+vless://4b1be712-774c-4b65-8491-a3339e124a70@md-x3n8.youtub-arvelys.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=md-x3n8.youtub-arvelys.top&security=reality&pbk=vIfPrMro2GFmeRpxEEt2Q1lJUYO-bRDK2y7WdBaekQs&sid=37d5880f&fp=qq#🇲🇩 Moldova | AVA HOST SRL 3
+vless://4b1be712-774c-4b65-8491-a3339e124a70@md-x3n8.youtub-arvelys.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=md-x3n8.youtub-arvelys.top&security=reality&pbk=vIfPrMro2GFmeRpxEEt2Q1lJUYO-bRDK2y7WdBaekQs&sid=37d5880f&fp=edge#🇲🇩 Moldova | AVA HOST SRL 4
+vless://4b1be712-774c-4b65-8491-a3339e124a70@md-x3n8.youtub-arvelys.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=md-x3n8.youtub-arvelys.top&fp=firefox&security=reality&pbk=vIfPrMro2GFmeRpxEEt2Q1lJUYO-bRDK2y7WdBaekQs&sid=37d5880f#🇲🇩 Moldova | AVA HOST SRL 5
+vless://4b1be712-774c-4b65-8491-a3339e124a70@md-x3n8.youtub-arvelys.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=md-x3n8.youtub-arvelys.top&security=reality&pbk=vIfPrMro2GFmeRpxEEt2Q1lJUYO-bRDK2y7WdBaekQs&sid=37d5880f&fp=firefox#🇲🇩 Moldova | AVA HOST SRL 6
+vless://a094cdfb-8894-4a0e-8299-5ece1078a857@217.69.167.203:43000?flow=xtls-rprx-vision&encryption=none&security=reality&fp=chrome&pbk=A8sWghnS7fSui7vIrx18mCX4rx1nr-yBpYKmwmkcXjo&sid=870721a2&spx=%2F&type=tcp&headerType=none#🇲🇩 Moldova | Tom Gewiese 1
+vless://a094cdfb-8894-4a0e-8299-5ece1078a857@217.69.167.203:43000?encryption=none&flow=xtls-rprx-vision&security=reality&pbk=A8sWghnS7fSui7vIrx18mCX4rx1nr-yBpYKmwmkcXjo&sid=870721a2&type=tcp&headerType=none#🇲🇩 Moldova | Tom Gewiese 2
 vless://a094cdfb-8894-4a0e-8299-5ece1078a857@217.69.167.203:43000?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=A8sWghnS7fSui7vIrx18mCX4rx1nr-yBpYKmwmkcXjo&sid=870721a2&spx=%2F&type=tcp&headerType=none#🇲🇩 Moldova | Tom Gewiese 3
 vless://a094cdfb-8894-4a0e-8299-5ece1078a857@217.69.167.203:43000?security=reality&encryption=none&pbk=A8sWghnS7fSui7vIrx18mCX4rx1nr-yBpYKmwmkcXjo&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sid=870721a2#🇲🇩 Moldova | Tom Gewiese 4
