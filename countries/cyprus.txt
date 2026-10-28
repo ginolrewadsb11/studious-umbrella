@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDeXBydXMK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDeXBydXMK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@213.111.177.107:443?sni=vlso5.1d.mom&type=ws&host=vlso5.1d.mom&path=/socks5=888:888@hkip.1d.mom:1080fp=chrome&security=tls#🌍 Cyprus | Cloudflare, 1
+vless://26f751bc-2edc-4338-9c3f-abeb32aba3b7@92.51.23.133:443?security=reality&encryption=none&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=zjlavrpl7kwo.staticpool.store#🌍 Cyprus | H2nexus Cloud Services... 1
+vless://26f751bc-2edc-4338-9c3f-abeb32aba3b7@92.51.23.133:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&sni=zjlavrpl7kwo.staticpool.store#🌍 Cyprus | H2nexus Cloud Services... 2
