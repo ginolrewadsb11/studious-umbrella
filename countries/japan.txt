@@ -3,46 +3,48 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hr/Cfh7UgQm9iaVZQTiDigJQgSmFwYW4K4pqhIDQxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+Hr/Cfh7UgQm9iaVZQTiDigJQgSmFwYW4K4pqhIDQzINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@31.76.91.98:443?security=reality&type=tcp&packetEncoding=xudp&sni=fuji.etherhub.cc&fp=firefox&flow=xtls-rprx-vision&sid=bd6f67b6b2152b45&pbk=ejx56dFtS4LK_Th6HSLFFdm7v7zqRpv8KfjrWAw4Sjg#🇯🇵 Japan | Akenai-Products-AS 1
+vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@31.76.91.98:443?security=reality&encryption=none&pbk=ejx56dFtS4LK_Th6HSLFFdm7v7zqRpv8KfjrWAw4Sjg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuji.etherhub.cc&sid=bd6f67b6b2152b45#🇯🇵 Japan | Akenai-Products-AS 1
 vless://e01fcb68-3112-49da-b85d-dffb799cfc9b@156.246.88.125:26518?security=reality&sni=github.com&fp=chrome&pbk=1fa6iCY7vhoQyKu91FeaK04FN-mr1qeHnrtdyLZ79mk&sid=6caead99&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇯🇵 Japan | Akile LTD 1
 hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?sni=bing.com&path=%2f&allow_insecure=1#🇯🇵 Japan | Alibaba (US) Technolog... 1
-hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?sni=bing.com&path=%2f&allow_insecure=1#🇯🇵 Japan | Alibaba (US) Technolog... 2
+vless://2c055e6f-ab6e-4cf6-a73c-959597719221@47.79.39.35:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=KH6xPPsoxEKZx34hCFM7FAxGkLaW_aFPcYq9zWLmhF8&sid=b42e93c37966e913&sni=dl.google.com#🇯🇵 Japan | Alibaba.com 1
+vless://2c055e6f-ab6e-4cf6-a73c-959597719221@47.79.39.35:443?security=reality&flow=xtls-rprx-vision&pbk=KH6xPPsoxEKZx34hCFM7FAxGkLaW_aFPcYq9zWLmhF8&sid=b42e93c37966e913&sni=dl.google.com&fp=firefox#🇯🇵 Japan | Alibaba.com 2
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇯🇵 Japan | Amazon Technologies 1
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#🇯🇵 Japan | Amazon Technologies 2
 vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:12683?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇯🇵 Japan | BrainStorm Network 1
-vless://4a270d3e-27b4-497d-8c8c-28f1f54958d9@176.97.71.90:443?flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=firefox&pbk=0hIFPaEn4RdFib8_eP8HYxMywR5izEwM3JA2W1Zo8U4&sid=b390142456517acc#🇯🇵 Japan | CLOUD-NETWORK 1
 vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#🇯🇵 Japan | Cloudflare, 1
-vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#🇯🇵 Japan | Cloudflare, 2
+vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🇯🇵 Japan | Cloudflare, 2
 vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🇯🇵 Japan | Cloudflare, 3
-vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🇯🇵 Japan | Cloudflare, 4
-vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🇯🇵 Japan | Cloudflare, 5
+vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#🇯🇵 Japan | Cloudflare, 4
+vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?security=tls&type=ws&path=%2F&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome#🇯🇵 Japan | Cloudflare, 5
 vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?security=tls&type=ws&path=%2F&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome#🇯🇵 Japan | Cloudflare, 6
 vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#🇯🇵 Japan | Cloudflare, 7
-vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?security=tls&type=ws&path=%2F&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome#🇯🇵 Japan | Cloudflare, 8
-vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?security=tls&type=ws&path=%2F&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome#🇯🇵 Japan | Cloudflare, 9
-vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?security=tls&type=ws&path=/&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome#🇯🇵 Japan | Cloudflare, 10
+vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🇯🇵 Japan | Cloudflare, 8
+vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#🇯🇵 Japan | Cloudflare, 9
+vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🇯🇵 Japan | Cloudflare, 10
 vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#🇯🇵 Japan | Cloudflare, 11
-vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#🇯🇵 Japan | Cloudflare, 12
-vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🇯🇵 Japan | Cloudflare, 13
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#🇯🇵 Japan | Contabo GmbH 1
+vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🇯🇵 Japan | Cloudflare, 12
+vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?security=tls&type=ws&path=%2F&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome#🇯🇵 Japan | Cloudflare, 13
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#🇯🇵 Japan | Contabo GmbH 1
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#🇯🇵 Japan | Contabo GmbH 2
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#🇯🇵 Japan | Contabo GmbH 3
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#🇯🇵 Japan | Contabo GmbH 4
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#🇯🇵 Japan | Contabo GmbH 5
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#🇯🇵 Japan | Contabo GmbH 6
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#🇯🇵 Japan | Contabo GmbH 3
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#🇯🇵 Japan | Contabo GmbH 4
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#🇯🇵 Japan | Contabo GmbH 5
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#🇯🇵 Japan | Contabo GmbH 6
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#🇯🇵 Japan | Contabo GmbH 7
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#🇯🇵 Japan | Contabo GmbH 8
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#🇯🇵 Japan | Contabo GmbH 9
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#🇯🇵 Japan | Contabo GmbH 10
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#🇯🇵 Japan | Contabo GmbH 11
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#🇯🇵 Japan | Contabo GmbH 9
 vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&encryption=none&headerType=none&type=tcp#🇯🇵 Japan | CTG Server . 1
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🇯🇵 Japan | Datacamp 1
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#🇯🇵 Japan | Datacamp 2
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#🇯🇵 Japan | Datacamp 1
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🇯🇵 Japan | Datacamp 2
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🇯🇵 Japan | Datacamp 3
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🇯🇵 Japan | Datacamp 4
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🇯🇵 Japan | Datacamp 5
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOF/nvo7lm70gKDc1KSIsDQogICJhZGQiOiAiMTYyLjE1OS4xMzUuMjM0IiwNCiAgInBvcnQiOiAiMjA4MyIsDQogICJpZCI6ICJhYzI1MTIzNy01NzZmLTQwYzgtYTU0My01NTQ5NjBjOTU4YjEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIm9yMy5zZmFjZy51ayIsDQogICJwYXRoIjogIi9vcjMiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAib3IzLnNmYWNnLnVrIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiIsDQogICJpbnNlY3VyZSI6ICIwIg0KfQ==#🇯🇵 Japan | Oracle 1
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.42.98:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#🇯🇵 Japan | Oracle 2
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzEiLCJhZGQiOiJvcjMuc2ZhY2cudWsiLCJwb3J0IjoiMjA4MyIsImlkIjoiYWMyNTEyMzctNTc2Zi00MGM4LWE1NDMtNTU0OTYwYzk1OGIxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Im9yMy5zZmFjZy51ayIsInBhdGgiOiIvb3IzIiwidGxzIjoidGxzIiwic25pIjoiY2RuLnNmYWNnLnVrIiwidGVzdF9uYW1lIjoiNzEifQ==#🇯🇵 Japan | Oracle 3
+vmess://eyJ2IjogbnVsbCwgInBzIjoiS2luZ28gcGluZyAxMDkxIiwgImFkZCI6ICIxNjguMTM4LjQzLjc1IiwgInBvcnQiOiA4MCwgImlkIjogIjExYzM2MjdmLTMxZTgtNDY5NS1kZmJkLTM0MDc2ZTJmMWY1ZCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6IG51bGwsICJob3N0IjogbnVsbCwgImFscG4iOiBudWxsLCAicGF0aCI6ICIvY2N0djEzLm0zdTgiLCAidGxzIjogIm5vbmUiLCAic25pIjogbnVsbCwgImZwIjogbnVsbCwgIm5hbWUiOiAi8J+Hr/Cfh7UgSlAgMSJ9#🇯🇵 Japan | Oracle 4
+vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJqcDAxLmEwYS54eXoiLCJpZCI6IjExYzM2MjdmLTMxZTgtNDY5NS1kZmJkLTM0MDc2ZTJmMWY1ZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInBvcnQiOiI4MCIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=#🇯🇵 Japan | Oracle 5
+vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIxNjguMTM4LjQzLjc1IiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6IktpbmdvIHBpbmcgMzA0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=#🇯🇵 Japan | Oracle 6
 trojan://9646699a-18b0-4ebc-9f53-453cc1c8e637@43.167.186.78:8443?allowInsecure=1&insecure=1&type=tcp&security=tls#🇯🇵 Japan | Shenzhen Tencent Compu... 1
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.179.108.225:443?security=tls&sni=discoverparttimepositionsandsupplementyourincomeguide.com#🇯🇵 Japan | The Constant Company, 1
+trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?allowInsecure=1&sni=45.32.52.173#🇯🇵 Japan | The Constant Company 1

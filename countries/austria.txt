@@ -3,13 +3,16 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgMTEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://706bce83-91db-4260-b175-cba29145cd56@193.8.215.116:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HhT-m2xbI4X_o99Hzkh40v-r32sIydYNCbA7Bnqh7AY&security=reality&sid=8f0f92607e5b353c&sni=aezau1.uni-plan.com&type=tcp#🇦🇹 Austria | Aeza International LTD 1
-vless://706bce83-91db-4260-b175-cba29145cd56@193.8.215.116:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HhT-m2xbI4X_o99Hzkh40v-r32sIydYNCbA7Bnqh7AY&sid=8f0f92607e5b353c&sni=aezau1.uni-plan.com#🇦🇹 Austria | Aeza International LTD 2
-vless://ca14493b-b984-4ffb-bc0e-9cb5da969e15@146.19.143.218:443?flow=xtls-rprx-vision&fp=qq&pbk=l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg&security=reality&sid=4a7b1c8d&sni=tau1.freerunet.online&type=tcp#🇦🇹 Austria | Aeza International LTD 3
-vless://ca14493b-b984-4ffb-bc0e-9cb5da969e15@146.19.143.218:443?encryption=none&flow=xtls-rprx-vision&pbk=l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg&security=reality&sid=4a7b1c8d&sni=tau1.freerunet.online&type=tcp&fp=qq#🇦🇹 Austria | Aeza International LTD 4
-vless://ca14493b-b984-4ffb-bc0e-9cb5da969e15@146.19.143.218:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tau1.freerunet.online&fp=firefox&pbk=l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg&sid=4a7b1c8d&type=tcp&headerType=none#🇦🇹 Austria | Aeza International LTD 5
-vless://ca14493b-b984-4ffb-bc0e-9cb5da969e15@146.19.143.218:443?encryption=none&flow=xtls-rprx-vision&pbk=l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg&security=reality&sid=4a7b1c8d&sni=tau1.freerunet.online&type=tcp&fp=qq#🇦🇹 Austria | Aeza International LTD 6
+vless://a9fe0131-af95-4599-bc7f-7205479ec7c7@94.228.162.222:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rvDa0xNkcJYEIJ-1Ncrq54BUjjwm99C_8Vv_-He6j1U&security=reality&sni=vena.solomon-planet.ru&type=tcp#🇦🇹 Austria | Aeza International LTD 1
+vless://706bce83-91db-4260-b175-cba29145cd56@193.8.215.116:8443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HhT-m2xbI4X_o99Hzkh40v-r32sIydYNCbA7Bnqh7AY&sid=8f0f92607e5b353c&sni=aezau1.uni-plan.com#🇦🇹 Austria | Aeza International LTD 2
+vless://706bce83-91db-4260-b175-cba29145cd56@193.8.215.116:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HhT-m2xbI4X_o99Hzkh40v-r32sIydYNCbA7Bnqh7AY&sid=8f0f92607e5b353c&sni=aezau1.uni-plan.com#🇦🇹 Austria | Aeza International LTD 3
+vless://706bce83-91db-4260-b175-cba29145cd56@193.8.215.116:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HhT-m2xbI4X_o99Hzkh40v-r32sIydYNCbA7Bnqh7AY&security=reality&sid=8f0f92607e5b353c&sni=aezau1.uni-plan.com&type=tcp#🇦🇹 Austria | Aeza International LTD 4
+vless://706bce83-91db-4260-b175-cba29145cd56@193.8.215.116:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HhT-m2xbI4X_o99Hzkh40v-r32sIydYNCbA7Bnqh7AY&sid=8f0f92607e5b353c&sni=aezau1.uni-plan.com#🇦🇹 Austria | Aeza International LTD 5
+vless://706bce83-91db-4260-b175-cba29145cd56@193.8.215.116:8443?flow=xtls-rprx-vision&security=reality&sni=aezau1.uni-plan.com&fp=firefox&pbk=HhT-m2xbI4X_o99Hzkh40v-r32sIydYNCbA7Bnqh7AY&sid=8f0f92607e5b353c#🇦🇹 Austria | Aeza International LTD 6
+vless://ca14493b-b984-4ffb-bc0e-9cb5da969e15@146.19.143.218:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=tau1.freerunet.online&pbk=l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg&sid=4a7b1c8d&allowInsecure=1#🇦🇹 Austria | Aeza International LTD 7
+vless://ca14493b-b984-4ffb-bc0e-9cb5da969e15@146.19.143.218:443?encryption=none&flow=xtls-rprx-vision&pbk=l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg&security=reality&sid=4a7b1c8d&sni=tau1.freerunet.online&type=tcp&fp=qq#🇦🇹 Austria | Aeza International LTD 8
+vless://ca14493b-b984-4ffb-bc0e-9cb5da969e15@146.19.143.218:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tau1.freerunet.online&fp=firefox&pbk=l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg&sid=4a7b1c8d&type=tcp&headerType=none#🇦🇹 Austria | Aeza International LTD 9
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@82.110.60.9:19999#🇦🇹 Austria | Datacamp 1
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#🇦🇹 Austria | Datacamp 2

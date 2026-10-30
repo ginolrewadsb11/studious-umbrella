@@ -3,8 +3,16 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMTEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@95.56.251.12:47443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=z1GSwCEACvO9RLcMVpcURiT8er4oeIdeSJhraw_0cGU&security=reality&sid=ae97223a8f799877&sni=kz1.waspnest.space&type=tcp#🇰🇿 Kazakhstan | LLP Internet Company F... 1
+vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@95.56.251.12:47443?encryption=none&flow=xtls-rprx-vision&pbk=z1GSwCEACvO9RLcMVpcURiT8er4oeIdeSJhraw_0cGU&security=reality&sid=ae97223a8f799877&sni=kz1.waspnest.space&type=tcp&fp=firefox#🇰🇿 Kazakhstan | JSC Kazakhtelecom 1
+vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@95.56.251.12:47443?flow=xtls-rprx-vision&fp=firefox&pbk=z1GSwCEACvO9RLcMVpcURiT8er4oeIdeSJhraw_0cGU&security=reality&sid=ae97223a8f799877&sni=kz1.waspnest.space&type=tcp#🇰🇿 Kazakhstan | JSC Kazakhtelecom 2
+vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@95.56.251.12:47443?flow=xtls-rprx-vision&fp=firefox&pbk=z1GSwCEACvO9RLcMVpcURiT8er4oeIdeSJhraw_0cGU&security=reality&sid=ae97223a8f799877&sni=kz1.waspnest.space&type=tcp#🇰🇿 Kazakhstan | JSC Kazakhtelecom 3
+vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@95.56.251.12:47443?encryption=none&flow=xtls-rprx-vision&pbk=z1GSwCEACvO9RLcMVpcURiT8er4oeIdeSJhraw_0cGU&security=reality&sid=ae97223a8f799877&sni=kz1.waspnest.space&type=tcp&fp=chrome#🇰🇿 Kazakhstan | JSC Kazakhtelecom 4
+vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@95.56.251.12:47443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=z1GSwCEACvO9RLcMVpcURiT8er4oeIdeSJhraw_0cGU&security=reality&sid=ae97223a8f799877&sni=kz1.waspnest.space&type=tcp#🇰🇿 Kazakhstan | JSC Kazakhtelecom 5
+vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@95.56.251.12:47443?encryption=none&flow=xtls-rprx-vision&pbk=z1GSwCEACvO9RLcMVpcURiT8er4oeIdeSJhraw_0cGU&security=reality&sid=ae97223a8f799877&sni=kz1.waspnest.space&type=tcp&fp=safari#🇰🇿 Kazakhstan | JSC Kazakhtelecom 6
+vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@95.56.251.12:47443?encryption=none&flow=xtls-rprx-vision&pbk=z1GSwCEACvO9RLcMVpcURiT8er4oeIdeSJhraw_0cGU&security=reality&sid=ae97223a8f799877&sni=kz1.waspnest.space&type=tcp&fp=ios#🇰🇿 Kazakhstan | JSC Kazakhtelecom 7
+vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@95.56.251.12:47443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=kz1.waspnest.space&fp=firefox&security=reality&pbk=z1GSwCEACvO9RLcMVpcURiT8er4oeIdeSJhraw_0cGU&sid=ae97223a8f799877#🇰🇿 Kazakhstan | JSC Kazakhtelecom 8
 vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&encryption=none&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=69a2#🇰🇿 Kazakhstan | NLS ASTANA LLP 1
-vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#🇰🇿 Kazakhstan | PE Fedinyak Sergey Vya... 1
+vless://f190853d-4cc5-4a67-acfb-5e0b3b750537@46.8.43.125:443?encryption=none&fp=firefox&pbk=ER-T5En54-sn6IXy7jU8vQVcBbOiWvznnezf3qZ273w&security=reality&sni=kz-central.v8x2b.lol&type=tcp#🇰🇿 Kazakhstan | PE Fedinyak Sergey Vya... 1
+vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#🇰🇿 Kazakhstan | PE Fedinyak Sergey Vya... 2
