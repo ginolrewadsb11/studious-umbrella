@@ -3,9 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://1c8f7130-8c1a-4949-831d-1d45b39c795b@5.181.158.193:443?flow=xtls-rprx-vision&fp=firefox&pbk=TS4XYds5zXG3-cU_zgA3jE6zoDc-Q1WXMQnVj4bdRhA&security=reality&sid=7c41ea9b53d618af&sni=svoboda18.bystriynet.online&type=raw#🇲🇩 Moldova | MivoCloud SRL 1
-vless://1c8f7130-8c1a-4949-831d-1d45b39c795b@5.181.158.193:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=TS4XYds5zXG3-cU_zgA3jE6zoDc-Q1WXMQnVj4bdRhA&sid=7c41ea9b53d618af&sni=svoboda18.bystriynet.online#🇲🇩 Moldova | MivoCloud SRL 2
-vless://1c8f7130-8c1a-4949-831d-1d45b39c795b@5.181.158.193:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=TS4XYds5zXG3-cU_zgA3jE6zoDc-Q1WXMQnVj4bdRhA&sid=7c41ea9b53d618af&sni=svoboda18.bystriynet.online#🇲🇩 Moldova | MivoCloud SRL 3
-vless://1c8f7130-8c1a-4949-831d-1d45b39c795b@5.181.158.193:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TS4XYds5zXG3-cU_zgA3jE6zoDc-Q1WXMQnVj4bdRhA&security=reality&sid=7c41ea9b53d618af&sni=svoboda18.bystriynet.online&type=tcp#🇲🇩 Moldova | MivoCloud SRL 4
+vless://1c8f7130-8c1a-4949-831d-1d45b39c795b@5.181.158.193:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=TS4XYds5zXG3-cU_zgA3jE6zoDc-Q1WXMQnVj4bdRhA&sid=7c41ea9b53d618af&sni=svoboda18.bystriynet.online#🇲🇩 Moldova | MivoCloud SRL 1
+vless://1c8f7130-8c1a-4949-831d-1d45b39c795b@5.181.158.193:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=TS4XYds5zXG3-cU_zgA3jE6zoDc-Q1WXMQnVj4bdRhA&sid=7c41ea9b53d618af&sni=svoboda18.bystriynet.online#🇲🇩 Moldova | MivoCloud SRL 2
