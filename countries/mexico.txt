@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNZXhpY28K4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNZXhpY28K4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA@64.177.90.30:8388#🌍 Mexico | The Constant Company, 1
+trojan://5t6i121em5lkmsmk@149.104.87.33:15083?security=tls&sni=mx001.zestapp778.com&type=tcp&headerType=none#🌍 Mexico | Bedge CO 1
+trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?security=tls&sni=mx001.zestapp778.com&type=tcp&headerType=none#🌍 Mexico | Bedge CO 2
