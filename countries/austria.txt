@@ -3,14 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7kgQm9iaVZQTiDigJQgQXVzdHJpYQrimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://4670f60e-cd56-44cc-bc22-5e2b756d62e4@193.233.161.169:2054?encryption=none&fp=firefox&pbk=tPBzeL2YxY3HeuLHFcqiMcWGOJGKFjavHA8acamM0AE&security=reality&serviceName=grpc-tunnel&sni=shopcart.tsumshop.org&type=grpc#🇦🇹 Austria | Aeza Group 1
-vless://a9fe0131-af95-4599-bc7f-7205479ec7c7@94.228.162.222:443?flow=xtls-rprx-vision&pbk=rvDa0xNkcJYEIJ-1Ncrq54BUjjwm99C_8Vv_-He6j1U&security=reality&sni=vena.solomon-planet.ru&fp=chrome#🇦🇹 Austria | Aeza Group 2
-vless://4670f60e-cd56-44cc-bc22-5e2b756d62e4@193.233.161.169:2054?type=grpc&headerType=none&security=reality&encryption=none&sni=shopcart.tsumshop.org&fp=chrome&pbk=tPBzeL2YxY3HeuLHFcqiMcWGOJGKFjavHA8acamM0AE&spx=%2F&serviceName=grpc-tunnel&mode=gun#🇦🇹 Austria | Aeza Group 3
-vless://a9fe0131-af95-4599-bc7f-7205479ec7c7@94.228.162.222:443?flow=xtls-rprx-vision&pbk=rvDa0xNkcJYEIJ-1Ncrq54BUjjwm99C_8Vv_-He6j1U&security=reality&sni=vena.solomon-planet.ru&fp=firefox#🇦🇹 Austria | Aeza Group 4
-vless://4670f60e-cd56-44cc-bc22-5e2b756d62e4@193.233.161.169:2054?type=grpc&headerType=none&security=reality&encryption=none&sni=shopcart.tsumshop.org&fp=chrome&pbk=tPBzeL2YxY3HeuLHFcqiMcWGOJGKFjavHA8acamM0AE&spx=%2F&serviceName=grpc-tunnel&mode=gun#🇦🇹 Austria | Aeza Group 5
-vless://a9fe0131-af95-4599-bc7f-7205479ec7c7@94.228.162.222:443?flow=xtls-rprx-vision&pbk=rvDa0xNkcJYEIJ-1Ncrq54BUjjwm99C_8Vv_-He6j1U&security=reality&sni=vena.solomon-planet.ru&fp=safari#🇦🇹 Austria | Aeza Group 6
-vless://a9fe0131-af95-4599-bc7f-7205479ec7c7@94.228.162.222:443?flow=xtls-rprx-vision&pbk=rvDa0xNkcJYEIJ-1Ncrq54BUjjwm99C_8Vv_-He6j1U&security=reality&sni=vena.solomon-planet.ru&fp=ios#🇦🇹 Austria | Aeza Group 7
-vless://4670f60e-cd56-44cc-bc22-5e2b756d62e4@193.233.161.169:2054?type=grpc&headerType=none&security=reality&encryption=none&sni=shopcart.tsumshop.org&fp=chrome&pbk=tPBzeL2YxY3HeuLHFcqiMcWGOJGKFjavHA8acamM0AE&spx=%2F&serviceName=grpc-tunnel&mode=gun#🇦🇹 Austria | Aeza Group 8
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@82.110.60.9:19999#🇦🇹 Austria | Datacamp 1
+vless://a9fe0131-af95-4599-bc7f-7205479ec7c7@94.228.162.222:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vena.solomon-planet.ru&fp=firefox&security=reality&pbk=rvDa0xNkcJYEIJ-1Ncrq54BUjjwm99C_8Vv_-He6j1U&sid=#🇦🇹 Austria | Aeza Group 1
+vless://a9fe0131-af95-4599-bc7f-7205479ec7c7@94.228.162.222:443?flow=xtls-rprx-vision&pbk=rvDa0xNkcJYEIJ-1Ncrq54BUjjwm99C_8Vv_-He6j1U&security=reality&sni=vena.solomon-planet.ru&fp=firefox#🇦🇹 Austria | Aeza Group 2
+vless://a9fe0131-af95-4599-bc7f-7205479ec7c7@94.228.162.222:443?flow=xtls-rprx-vision&pbk=rvDa0xNkcJYEIJ-1Ncrq54BUjjwm99C_8Vv_-He6j1U&security=reality&sni=vena.solomon-planet.ru&fp=chrome#🇦🇹 Austria | Aeza Group 3
+vless://a9fe0131-af95-4599-bc7f-7205479ec7c7@94.228.162.222:443?flow=xtls-rprx-vision&pbk=rvDa0xNkcJYEIJ-1Ncrq54BUjjwm99C_8Vv_-He6j1U&security=reality&sni=vena.solomon-planet.ru&fp=ios#🇦🇹 Austria | Aeza Group 4
+vless://a9fe0131-af95-4599-bc7f-7205479ec7c7@94.228.162.222:443?flow=xtls-rprx-vision&pbk=rvDa0xNkcJYEIJ-1Ncrq54BUjjwm99C_8Vv_-He6j1U&security=reality&sni=vena.solomon-planet.ru&fp=safari#🇦🇹 Austria | Aeza Group 5
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#🇦🇹 Austria | Datacamp 1
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@82.110.60.9:19999#🇦🇹 Austria | Datacamp 2
