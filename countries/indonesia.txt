@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?allowInsecure=1&sni=in001.zestapp778.com&fp=firefox&security=tls#🌍 Indonesia | Light Node 1
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?allowInsecure=1&sni=in001.zestapp778.com&fp=firefox&security=tls#🌍 Indonesia | Light Node 2
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?encryption=none&fp=firefox&security=tls&sni=in001.zestapp778.com&type=tcp#🌍 Indonesia | Light Node 2
+vless://dffb7646-1656-427a-8187-9c056a6a5fd5@104.17.3.81:443?security=tls&type=ws&path=%2Fid-dnva&host=vff67.eu.cc&packetEncoding=xudp&sni=vff67.eu.cc&fp=chrome&encryption=none#🌍 Indonesia | PT Deneva 1
