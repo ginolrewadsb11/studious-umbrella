@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgOCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://c9c029e2-5d7a-490a-89ad-298e05182dc3@46.8.158.52:34008?encryption=none&security=reality&type=grpc&sni=usher.ttvnw.net&fp=edge&pbk=qbzFUDCvyvACx1IOpbS4Gf1cHeg-GYZ8XqkzVx6xIH8&sid=f399294e67b56ab9&serviceName=cosmos-reserve-230-8#🇲🇩 Moldova | Cloudflare, 1
+vless://255a8044-3337-473e-af26-46a37208adcc@194.33.40.67:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=wRmMiCGZjpdyIxZSPF0EGeFcsBk8TDqPu9pYRxLzIEA&security=reality&sni=md.flicker.work&type=tcp#🇲🇩 Moldova | amplica 1
+vless://255a8044-3337-473e-af26-46a37208adcc@md.flicker.work:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=md.flicker.work&pbk=wRmMiCGZjpdyIxZSPF0EGeFcsBk8TDqPu9pYRxLzIEA&fp=firefox#🇲🇩 Moldova | amplica 2
+vless://255a8044-3337-473e-af26-46a37208adcc@md.flicker.work:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=wRmMiCGZjpdyIxZSPF0EGeFcsBk8TDqPu9pYRxLzIEA&sni=md.flicker.work#🇲🇩 Moldova | amplica 3
+vless://255a8044-3337-473e-af26-46a37208adcc@md.flicker.work:443?encryption=none&flow=xtls-rprx-vision&pbk=wRmMiCGZjpdyIxZSPF0EGeFcsBk8TDqPu9pYRxLzIEA&security=reality&sni=md.flicker.work&type=tcp&fp=safari#🇲🇩 Moldova | amplica 4
+vless://255a8044-3337-473e-af26-46a37208adcc@md.flicker.work:443?encryption=none&flow=xtls-rprx-vision&pbk=wRmMiCGZjpdyIxZSPF0EGeFcsBk8TDqPu9pYRxLzIEA&security=reality&sni=md.flicker.work&type=tcp&fp=ios#🇲🇩 Moldova | amplica 5
+vless://255a8044-3337-473e-af26-46a37208adcc@md.flicker.work:443?encryption=none&flow=xtls-rprx-vision&pbk=wRmMiCGZjpdyIxZSPF0EGeFcsBk8TDqPu9pYRxLzIEA&security=reality&sni=md.flicker.work&type=tcp&fp=firefox#🇲🇩 Moldova | amplica 6
+vless://255a8044-3337-473e-af26-46a37208adcc@md.flicker.work:443?encryption=none&flow=xtls-rprx-vision&pbk=wRmMiCGZjpdyIxZSPF0EGeFcsBk8TDqPu9pYRxLzIEA&security=reality&sni=md.flicker.work&type=tcp&fp=chrome#🇲🇩 Moldova | amplica 7
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@185.153.198.86:443?security=tls&type=ws&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080&host=vlso5.1d.mom&packetEncoding=xudp&sni=vlso5.1d.mom&fp=chrome&encryption=none#🇲🇩 Moldova | Cloudflare, 1
