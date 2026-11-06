@@ -6,6 +6,6 @@
 #announce: base64:8J+HsfCfh7sgQm9iaVZQTiDigJQgTGF0dmlhCuKaoSA0INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
 vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&flow=xtls-rprx-vision&sid=33acba1b&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&encryption=none#🇱🇻 Latvia | Baykov Ilya Sergeevich 1
-vless://caedb3a1-6395-40b9-a9a8-4b9694eb224a@31.76.62.158:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.maxima.lv&fp=firefox&security=reality&pbk=q97mUwRiZeygHgoRa6PJHDamhGS5lrMMB0zh6qFY6gk&sid=#🇱🇻 Latvia | SERV.HOST GROUP LTD 1
-vless://caedb3a1-6395-40b9-a9a8-4b9694eb224a@31.76.62.158:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=q97mUwRiZeygHgoRa6PJHDamhGS5lrMMB0zh6qFY6gk&sni=www.maxima.lv#🇱🇻 Latvia | SERV.HOST GROUP LTD 2
-vless://caedb3a1-6395-40b9-a9a8-4b9694eb224a@31.76.62.158:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=q97mUwRiZeygHgoRa6PJHDamhGS5lrMMB0zh6qFY6gk&security=reality&sni=www.maxima.lv&type=tcp#🇱🇻 Latvia | SERV.HOST GROUP LTD 3
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@176.124.218.80:993?security=tls&sni=lv.gacvpn.site&type=ws&path=%2Fstatic%2Fjs%2Fvendor.448f02e7.js&host=lv.gacvpn.site&ed=2048&fp=chrome#🇱🇻 Latvia | Baykov Ilya Sergeevich 2
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@176.124.218.80:993?security=tls&sni=lv.gacvpn.site&type=ws&path=%2Fstatic%2Fjs%2Fvendor.448f02e7.js&host=lv.gacvpn.site&ed=2048&fp=firefox#🇱🇻 Latvia | Baykov Ilya Sergeevich 3
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@176.124.218.80:993?encryption=none&fp=firefox&host=lv.gacvpn.site&path=/static/js/vendor.448f02e7.js&security=tls&sni=lv.gacvpn.site&type=ws#🇱🇻 Latvia | Baykov Ilya Sergeevich 4
