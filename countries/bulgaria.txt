@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-ss://YWVzLTI1Ni1jZmI6OWVlSjJmd25aQTVGeGd6OA@213.183.63.60:9028#🇧🇬 Bulgaria | Melbikomas UAB 1
-ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA@213.183.63.60:9061#🇧🇬 Bulgaria | Melbikomas UAB 2
 vless://9c05ffa3-cc8f-4d44-9ce0-015a7465e786@2.27.105.13:31238?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1KhMuUHbT2C7FKp0DHT1MNE-NHiQhy5yiOqqstvthlQ&sid=a9d8f11690e70dd8&sni=rbc.ru#🇧🇬 Bulgaria | Netgrid Host LTD 1
-vless://9c05ffa3-cc8f-4d44-9ce0-015a7465e786@2.27.105.13:31238?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1KhMuUHbT2C7FKp0DHT1MNE-NHiQhy5yiOqqstvthlQ&sid=a9d8f11690e70dd8&sni=rbc.ru#🇧🇬 Bulgaria | Netgrid Host LTD 2
