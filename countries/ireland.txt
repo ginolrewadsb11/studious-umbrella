@@ -3,7 +3,11 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://f4ef1d6a-8f01-4ccd-8547-5b5a2a572d00@83.141.67.164:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qUq7a-iukyszVvH-5C74VBujzYAMC_shfv8O-1crZlY&security=reality&sid=09fd8f6666eec544&sni=360.yandex.ru&type=tcp#🇮🇪 Ireland | Irish Broadband Intern... 1
-vless://f4ef1d6a-8f01-4ccd-8547-5b5a2a572d00@83.141.67.164:8444?encryption=none&fp=firefox&pbk=qUq7a-iukyszVvH-5C74VBujzYAMC_shfv8O-1crZlY&security=reality&serviceName=grpc-reality&sid=09fd8f6666eec544&sni=360.yandex.ru&type=grpc#🇮🇪 Ireland | Irish Broadband Intern... 2
+vless://f4ef1d6a-8f01-4ccd-8547-5b5a2a572d00@83.141.67.164:8443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=qUq7a-iukyszVvH-5C74VBujzYAMC_shfv8O-1crZlY&sid=09fd8f6666eec544&sni=360.yandex.ru#🇮🇪 Ireland | Irish Broadband Intern... 1
+vless://f4ef1d6a-8f01-4ccd-8547-5b5a2a572d00@83.141.67.164:8444?type=grpc&security=reality&fp=firefox&pbk=qUq7a-iukyszVvH-5C74VBujzYAMC_shfv8O-1crZlY&sid=09fd8f6666eec544&sni=360.yandex.ru&serviceName=grpc-reality#🇮🇪 Ireland | Irish Broadband Intern... 2
+vless://f4ef1d6a-8f01-4ccd-8547-5b5a2a572d00@83.141.67.164:8443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=qUq7a-iukyszVvH-5C74VBujzYAMC_shfv8O-1crZlY&sid=09fd8f6666eec544&sni=360.yandex.ru#🇮🇪 Ireland | Irish Broadband Intern... 3
+vless://f4ef1d6a-8f01-4ccd-8547-5b5a2a572d00@83.141.67.164:8443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=qUq7a-iukyszVvH-5C74VBujzYAMC_shfv8O-1crZlY&sid=09fd8f6666eec544&sni=360.yandex.ru#🇮🇪 Ireland | Irish Broadband Intern... 4
+vless://f4ef1d6a-8f01-4ccd-8547-5b5a2a572d00@83.141.67.164:8444?encryption=none&fp=firefox&pbk=qUq7a-iukyszVvH-5C74VBujzYAMC_shfv8O-1crZlY&security=reality&serviceName=grpc-reality&sid=09fd8f6666eec544&sni=360.yandex.ru&type=grpc#🇮🇪 Ireland | Irish Broadband Intern... 5
+vless://f4ef1d6a-8f01-4ccd-8547-5b5a2a572d00@83.141.67.164:8444?type=grpc&security=reality&fp=firefox&pbk=qUq7a-iukyszVvH-5C74VBujzYAMC_shfv8O-1crZlY&sid=09fd8f6666eec544&sni=360.yandex.ru&serviceName=grpc-reality#🇮🇪 Ireland | Irish Broadband Intern... 6
