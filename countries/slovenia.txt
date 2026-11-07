@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuPCfh64gQm9iaVZQTiDigJQgU2xvdmVuaWEK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HuPCfh64gQm9iaVZQTiDigJQgU2xvdmVuaWEK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://a60da2ca-0abf-49f8-9dcb-156989d76ad2@92.42.201.155:14443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=mGTe1s-luknrPURs4KI4fjdCXZAq03f_-b7by6Dr-CI&sid=e204defc87a8949e&sni=node-slo04.rkitman.ru#🇸🇮 Slovenia | Pipe Networks GmbH 1
+vless://a60da2ca-0abf-49f8-9dcb-156989d76ad2@92.42.201.155:14443?security=reality&encryption=none&pbk=mGTe1s-luknrPURs4KI4fjdCXZAq03f_-b7by6Dr-CI&host=/%3&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node-slo04.rkitman.ru&sid=e204defc87a8949e#🇸🇮 Slovenia | Pipe Networks GmbH 1
 vless://a60da2ca-0abf-49f8-9dcb-156989d76ad2@92.42.201.160:14443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=fmZQYGYXw4xYtiuMFvH4Dgse1DBoGazt-vWM7LOdchY&sid=e013fa99a81badcc&sni=node-slo05.rkitman.ru#🇸🇮 Slovenia | Pipe Networks GmbH 2
+vless://a60da2ca-0abf-49f8-9dcb-156989d76ad2@92.42.201.155:14443?security=reality&encryption=none&pbk=mGTe1s-luknrPURs4KI4fjdCXZAq03f_-b7by6Dr-CI&host=/%3&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node-slo04.rkitman.ru&sid=e204defc87a8949e#🇸🇮 Slovenia | Pipe Networks GmbH 3
