@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
+vless://34d87bf0-4d55-4013-ab4b-deae7fe34f2e@45.148.244.194:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=nlalex.potatosubge20.org&fp=firefox&alpn=http/1.1#🇲🇩 Moldova | Alexhost S.R.L. 1
 vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@185.153.198.86:443?sni=vlso5.1d.mom&type=ws&host=vlso5.1d.mom&path=/socks5=888:888@hkip.1d.mom:1080fp=chrome&security=tls#🇲🇩 Moldova | Cloudflare, 1
