@@ -3,12 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBBcmdlbnRpbmEK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBBcmdlbnRpbmEK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20005?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&fp=chrome#🌍 Argentina | Scalaxy B.V. 1
-vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20005?type=raw&security=reality&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sni=eu64.cdn77.icu#🌍 Argentina | Scalaxy B.V. 2
-vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20005?type=raw&security=reality&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sni=eu64.cdn77.icu#🌍 Argentina | Scalaxy B.V. 3
-vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20005?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&fp=chrome#🌍 Argentina | Scalaxy B.V. 4
-vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20005?security=reality&sni=eu64.cdn77.icu&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&type=tcp&encryption=none#🌍 Argentina | Scalaxy B.V. 5
-vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20005?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&fp=chrome#🌍 Argentina | Scalaxy B.V. 6
-vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20005?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&fp=chrome#🌍 Argentina | Scalaxy B.V. 7
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:59899?flow=xtls-rprx-vision&security=reality&sni=api.adidas.com&fp=qq&pbk=5RmlkTNSD3o7K21MaILXo6_tAox6WCFeB3srTxkWIAM&sid=4ac1692abefd#🌍 Argentina | BrainStorm Network, Inc 1
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:59899?security=reality&flow=xtls-rprx-vision&fp=qq&pbk=5RmlkTNSD3o7K21MaILXo6_tAox6WCFeB3srTxkWIAM&sid=4ac1692abefd&sni=api.adidas.com#🌍 Argentina | BrainStorm Network, Inc 2

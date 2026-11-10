@@ -3,9 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBOZXcgWmVhbGFuZArimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBOZXcgWmVhbGFuZArimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://9647129d-57ff-4fe2-bbd8-4a49d622612a@185.121.179.11:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=de-01.atlanta-api.com&alpn=h2,http/1.1&type=tcp&headerType=none#🌍 New Zealand | Zappie Host 1
-vless://9647129d-57ff-4fe2-bbd8-4a49d622612a@185.121.179.11:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=de-01.atlanta-api.com&alpn=h2,http/1.1&type=tcp&headerType=none#🌍 New Zealand | Zappie Host 2
-vless://9647129d-57ff-4fe2-bbd8-4a49d622612a@185.121.179.11:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=de-01.atlanta-api.com#🌍 New Zealand | Zappie Host 3
-vless://9647129d-57ff-4fe2-bbd8-4a49d622612a@185.121.179.11:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=de-01.atlanta-api.com#🌍 New Zealand | Zappie Host 4
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:55419?security=reality&flow=xtls-rprx-vision&fp=edge&pbk=4-zwh3OxBO8mnUu0G9nEAP56veE-F6-wzF87hNLOIyY&sid=2f745f3c3c&sni=api.adidas.com#🌍 New Zealand | Zappie Host 1
+vless://9a5e7b1c-bf39-4b1f-891f-ac87824ee38f@23.95.72.244:55419?flow=xtls-rprx-vision&security=reality&sni=api.adidas.com&fp=edge&pbk=4-zwh3OxBO8mnUu0G9nEAP56veE-F6-wzF87hNLOIyY&sid=2f745f3c3c#🌍 New Zealand | Zappie Host 2
