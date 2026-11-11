@@ -3,7 +3,12 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgNyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
+vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10403?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=6859f5b59e55aa30&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko#🇰🇿 Kazakhstan | IPXO-LEASED 1
+vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10403?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=6859f5b59e55aa30&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko#🇰🇿 Kazakhstan | IPXO-LEASED 2
+vmess://eyJ2IjogIjIiLCAicHMiOiJLaW5nbyBwaW5nIDIxMjMiLCAiYWRkIjogIjM4LjEwNy4yMzQuNTciLCAicG9ydCI6IDgwLCAiaWQiOiAiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIzOC4xMDcuMjM0LjU3IiwgInBhdGgiOiAiL3ZtZXNzLyIsICJ0bHMiOiAibm9uZSIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJuYW1lIjogIjA4MTctTGluay0wMSJ9#🇰🇿 Kazakhstan | Newserverlife 1
 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&type=raw&packetEncoding=xudp&sni=yahoo.com&fp=chrome&sid=83&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE#🇰🇿 Kazakhstan | PE Fedinyak Sergey Vya... 1
 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#🇰🇿 Kazakhstan | PE Fedinyak Sergey Vya... 2
+vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&sid=83&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE#🇰🇿 Kazakhstan | PE Fedinyak Sergey Vya... 3
+vless://db57c865-2318-4fd2-8aea-e8ba58ec696d@212.41.9.190:2093?encryption=none&pbk=QbKQ1yte4_2YD425jzcAy4Ibvj0BYfqKJ54k9WMSRFs&security=reality&serviceName=cas-kz&sid=5284fea4&sni=s3.storage.selcloud.ru&type=grpc&fp=ios#🇰🇿 Kazakhstan | Scalaxy B.V. 1
