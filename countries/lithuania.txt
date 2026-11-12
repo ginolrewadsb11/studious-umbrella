@@ -3,9 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsfCfh7kgQm9iaVZQTiDigJQgTGl0aHVhbmlhCuKaoSA0INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+HsfCfh7kgQm9iaVZQTiDigJQgTGl0aHVhbmlhCuKaoSAyINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
 vless://3f25b15b-1777-4c08-9ade-60336ac92a82@84.32.209.103:443?sni=edge-lt.lindenpixel.com&type=grpc&serviceName=grpc&fp=edge&security=tls#🇱🇹 Lithuania | UAB Cherry Servers 1
 vless://3f25b15b-1777-4c08-9ade-60336ac92a82@84.32.209.103:443?sni=edge-lt.lindenpixel.com&type=grpc&serviceName=grpc&fp=edge&security=tls#🇱🇹 Lithuania | UAB Cherry Servers 2
-vless://3f25b15b-1777-4c08-9ade-60336ac92a82@84.32.209.103:443?mode=gun&security=tls&encryption=none&insecure=0&fp=edge&type=grpc&serviceName=grpc&allowInsecure=0&sni=edge-lt.lindenpixel.com#🇱🇹 Lithuania | UAB Cherry Servers 3
-vless://3f25b15b-1777-4c08-9ade-60336ac92a82@84.32.209.103:443?sni=edge-lt.lindenpixel.com&type=grpc&serviceName=grpc&fp=edge&security=tls#🇱🇹 Lithuania | UAB Cherry Servers 4
