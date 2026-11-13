@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNb25hY28K4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNb25hY28K4pqhIDUg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://63eecfaa-50b7-4ea9-9bec-a176bf03a215@107.189.23.205:443?flow=xtls-rprx-vision&security=reality&sni=suffolkprimarycare.uk&fp=edge&pbk=5Xgf3UO6yZb7gCK3R3GULk8jyNIp7Sr-26YXZfSW71c&sid=13975a8e0bd50e7c#🌍 Monaco | H2nexus Cloud Services... 1
+vless://63eecfaa-50b7-4ea9-9bec-a176bf03a215@107.189.23.205:443?&security=reality&flow=xtls-rprx-vision&pbk=5Xgf3UO6yZb7gCK3R3GULk8jyNIp7Sr-26YXZfSW71c&sid=13975a8e0bd50e7c&fp=firefox&sni=suffolkprimarycare.uk&type=tcp&headerType=none&host=suffolkprimarycare.uk&path=%2F#🌍 Monaco | H2nexus Cloud Services... 1
+vless://63eecfaa-50b7-4ea9-9bec-a176bf03a215@107.189.23.205:443?flow=xtls-rprx-vision&security=reality&sni=suffolkprimarycare.uk&fp=edge&pbk=5Xgf3UO6yZb7gCK3R3GULk8jyNIp7Sr-26YXZfSW71c&sid=13975a8e0bd50e7c#🌍 Monaco | H2nexus Cloud Services... 2
+vless://63eecfaa-50b7-4ea9-9bec-a176bf03a215@107.189.23.205:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5Xgf3UO6yZb7gCK3R3GULk8jyNIp7Sr-26YXZfSW71c&security=reality&sid=13975a8e0bd50e7c&sni=suffolkprimarycare.uk&type=tcp#🌍 Monaco | H2nexus Cloud Services... 3
+vless://63eecfaa-50b7-4ea9-9bec-a176bf03a215@107.189.23.205:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=5Xgf3UO6yZb7gCK3R3GULk8jyNIp7Sr-26YXZfSW71c&sid=13975a8e0bd50e7c&sni=suffolkprimarycare.uk#🌍 Monaco | H2nexus Cloud Services... 4
+vless://63eecfaa-50b7-4ea9-9bec-a176bf03a215@107.189.23.205:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=5Xgf3UO6yZb7gCK3R3GULk8jyNIp7Sr-26YXZfSW71c&sid=13975a8e0bd50e7c&sni=suffolkprimarycare.uk#🌍 Monaco | H2nexus Cloud Services... 5

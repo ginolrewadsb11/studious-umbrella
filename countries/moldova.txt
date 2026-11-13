@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://c1208c5a-2350-4506-affd-fc41b4319286@groupbackoff.ratethatrestaurant.org:443?encryption=none&type=ws&security=tls&sni=groupbackoff.ratethatrestaurant.org&fp=chrome&path=/media/ws/&host=groupbackoff.ratethatrestaurant.org#🇲🇩 Moldova | Alexhost S.R.L. 1
+vless://f8cb3c89-32af-4255-bebc-d90aad175069@217.156.123.33:443?encryption=none&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&security=reality&serviceName=neurex&sid=27350908de933e09&sni=mda.kosmosapp.net&type=grpc#🇲🇩 Moldova | Alexhost S.R.L. 1
+vless://f8cb3c89-32af-4255-bebc-d90aad175069@217.156.123.33:443?type=grpc&security=reality&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&sni=mda.kosmosapp.net&mode=gun&serviceName=neurex#🇲🇩 Moldova | Alexhost S.R.L. 2
