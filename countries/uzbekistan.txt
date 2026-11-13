@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBVemJla2lzdGFuCuKaoSA5INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBVemJla2lzdGFuCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://367d74e7-0204-4b92-ba57-ae31344dce7f@95.143.188.113:443?encryption=none&fp=firefox&mode=gun&security=tls&serviceName=sync.v1&sni=ar5v3uc2o9.j.cloudfront.hls.hlsnode.net&type=grpc#🌍 Uzbekistan | G-Core Labs S.A. 1
-vless://367d74e7-0204-4b92-ba57-ae31344dce7f@95.143.188.113:443?encryption=none&fp=firefox&mode=gun&security=tls&serviceName=sync.v1&sni=ar5v3uc2o9.j.cloudfront.hls.hlsnode.net&type=grpc#🌍 Uzbekistan | G-Core Labs S.A. 2
-vless://367d74e7-0204-4b92-ba57-ae31344dce7f@95.143.188.113:443?type=grpc&security=tls&fp=safari&sni=ar5v3uc2o9.j.cloudfront.hls.hlsnode.net&mode=multi&serviceName=sync.v1#🌍 Uzbekistan | G-Core Labs S.A. 3
-vless://367d74e7-0204-4b92-ba57-ae31344dce7f@95.143.188.113:443?alpn=h2&encryption=none&fp=firefox&mode=multi&security=tls&serviceName=sync.v1&sni=ar5v3uc2o9.j.cloudfront.hls.hlsnode.net&type=grpc#🌍 Uzbekistan | G-Core Labs S.A. 4
-vless://367d74e7-0204-4b92-ba57-ae31344dce7f@95.143.188.113:443?alpn=h2&mode=multi&security=tls&serviceName=sync.v1&sni=ar5v3uc2o9.j.cloudfront.hls.hlsnode.net&type=grpc&fp=firefox#🌍 Uzbekistan | G-Core Labs S.A. 5
-vless://367d74e7-0204-4b92-ba57-ae31344dce7f@95.143.188.113:443?type=grpc&security=tls&fp=safari&sni=ar5v3uc2o9.j.cloudfront.hls.hlsnode.net&mode=multi&serviceName=sync.v1#🌍 Uzbekistan | G-Core Labs S.A. 6
-vless://367d74e7-0204-4b92-ba57-ae31344dce7f@95.143.188.113:443?security=tls&sni=ar5v3uc2o9.j.cloudfront.hls.hlsnode.net&alpn=h2&fp=safari&type=grpc&serviceName=sync.v1&mode=multi#🌍 Uzbekistan | G-Core Labs S.A. 7
-vless://367d74e7-0204-4b92-ba57-ae31344dce7f@95.143.188.113:443?alpn=h2&encryption=none&fp=safari&mode=multi&security=tls&serviceName=sync.v1&sni=ar5v3uc2o9.j.cloudfront.hls.hlsnode.net&type=grpc#🌍 Uzbekistan | G-Core Labs S.A. 8
-vless://367d74e7-0204-4b92-ba57-ae31344dce7f@95.143.188.113:443?encryption=none&fp=firefox&security=tls&serviceName=sync.v1&sni=ar5v3uc2o9.j.cloudfront.hls.hlsnode.net&type=grpc#🌍 Uzbekistan | G-Core Labs S.A. 9
+vless://367d74e7-0204-4b92-ba57-ae31344dce7f@95.143.188.113:443?alpn=h2&encryption=none&fp=safari&mode=multi&security=tls&serviceName=sync.v1&sni=ar5v3uc2o9.j.cloudfront.hls.hlsnode.net&type=grpc#🌍 Uzbekistan | G-Core Labs S.A. 1
