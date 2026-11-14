@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HrvCfh6ogQm9iaVZQTiDigJQgSXJlbGFuZArimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@83.141.68.232:443?flow=xtls-rprx-vision&security=reality&sni=fieldnote.lalibobi.online&fp=firefox&pbk=RDFOZiTfbF3lzMcJGSm9rODFi1ErzlqqADAHQUpU2xs&sid=d06c37930f65c360#🇮🇪 Ireland | Irish Broadband Intern... 1
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@83.141.68.232:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=RDFOZiTfbF3lzMcJGSm9rODFi1ErzlqqADAHQUpU2xs&sid=d06c37930f65c360&sni=fieldnote.lalibobi.online#🇮🇪 Ireland | Irish Broadband Intern... 2
+vless://20d56ff9-359e-4983-9b04-6402e9ebce08@83.141.69.189:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=X5QCQAU6PhQ0ZYdMfsOD8SzK2tAcKqGbqHcGKOCkHg0&security=reality&sid=3e70d4cbb01bddfd&sni=cdn.savesafe.space&type=tcp#🇮🇪 Ireland | IBIS 1
+vless://7d718630-7a1a-4af8-9332-aa0610634e8a@83.141.68.232:443?flow=xtls-rprx-vision&pbk=RDFOZiTfbF3lzMcJGSm9rODFi1ErzlqqADAHQUpU2xs&security=reality&sid=d06c37930f65c360&sni=fieldnote.lalibobi.online&fp=firefox#🇮🇪 Ireland | Irish Broadband Intern... 1
+vless://7d718630-7a1a-4af8-9332-aa0610634e8a@fieldnote.lalibobi.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fieldnote.lalibobi.online&fp=firefox&pbk=RDFOZiTfbF3lzMcJGSm9rODFi1ErzlqqADAHQUpU2xs&sid=d06c37930f65c360&flow=xtls-rprx-vision#🇮🇪 Ireland | Irish Broadband Intern... 2
