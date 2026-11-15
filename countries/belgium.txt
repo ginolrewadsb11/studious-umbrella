@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hp/Cfh6ogQm9iaVZQTiDigJQgQmVsZ2l1bQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@167.17.64.67:10303?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=14f18ef16e7c32cc&pbk=RCm8x1FrSdaJ2NY9k5deQQZilwbubeK-4bcH_6E31wk#🇧🇪 Belgium | Karolio IT paslaugos, UAB 1
-vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@167.17.64.67:10303?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=14f18ef16e7c32cc&pbk=RCm8x1FrSdaJ2NY9k5deQQZilwbubeK-4bcH_6E31wk#🇧🇪 Belgium | Karolio IT paslaugos, UAB 2
+vless://FastKey_331443@185.22.155.97:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=api#🇧🇪 Belgium | Baxet Group 1
