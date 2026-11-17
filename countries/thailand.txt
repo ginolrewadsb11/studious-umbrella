@@ -3,8 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?&type=ws&headerType=none&host=dcm4kwis2exkw.cloudfront.net&path=/#🌍 Thailand | Siamdata Communication... 1
-vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?type=ws&host=dcm4kwis2exkw.cloudfront.net&path=/#🌍 Thailand | Siamdata Communication... 2
-vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?type=ws&host=dcm4kwis2exkw.cloudfront.net&path=/#🌍 Thailand | Siamdata Communication... 3
+vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?type=ws&host=dcm4kwis2exkw.cloudfront.net&path=/#🌍 Thailand | Siamdata Communication... 1
+vless://f4c5605a-8424-441e-b23d-d6384d012c28@52.84.199.15:80?type=ws&host=dcm4kwis2exkw.cloudfront.net#🌍 Thailand | Siamdata Communication... 2
+vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?&type=ws&headerType=none&host=dcm4kwis2exkw.cloudfront.net&path=/#🌍 Thailand | Siamdata Communication... 3
+vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?type=ws&host=dcm4kwis2exkw.cloudfront.net&path=/#🌍 Thailand | Siamdata Communication... 4
