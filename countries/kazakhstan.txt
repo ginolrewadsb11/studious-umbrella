@@ -3,14 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgOSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10403?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&sid=6859f5b59e55aa30&sni=www.apple.com&encryption=none#🇰🇿 Kazakhstan | IPXO-LEASED 1
-vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10403?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=6859f5b59e55aa30&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko#🇰🇿 Kazakhstan | IPXO-LEASED 2
-vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10403?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&flow=xtls-rprx-vision&sid=6859f5b59e55aa30&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&encryption=none#🇰🇿 Kazakhstan | IPXO-LEASED 3
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@91.217.10.237:443?encryption=none&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=api-ns-mgr.galioncc.com&type=tcp#🇰🇿 Kazakhstan | Newserverlife 1
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@91.217.10.237:443?security=reality&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&sni=api-ns-mgr.galioncc.com#🇰🇿 Kazakhstan | Newserverlife 2
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@91.217.10.237:443?security=reality&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&sni=api-ns-mgr.galioncc.com#🇰🇿 Kazakhstan | Newserverlife 3
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@91.217.10.237:443?security=reality&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&sni=api-ns-mgr.galioncc.com#🇰🇿 Kazakhstan | Newserverlife 4
+vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10403?type=tcp&headerType=none&security=reality&encryption=none&sni=www.apple.com&fp=firefox&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&sid=6859f5b59e55aa30&host=www.apple.com&flow=xtls-rprx-vision#🇰🇿 Kazakhstan | IPXO-LEASED 2
+vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10403?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=6859f5b59e55aa30&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko#🇰🇿 Kazakhstan | IPXO-LEASED 3
 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&sid=83&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE#🇰🇿 Kazakhstan | PE Fedinyak Sergey Vya... 1
-vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&sid=83&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE#🇰🇿 Kazakhstan | PE Fedinyak Sergey Vya... 2
