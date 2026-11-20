@@ -3,8 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://6589c320-db68-43cd-a273-b46299bab355@195.123.226.21:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=gateway.icloud.com&fp=chrome&pbk=rabtI-ymNXBUvYYRwAw8DiR-1pdP7U0WPIaCBHEkgzo&sid=77bb0d07bddbc832#🇧🇬 Bulgaria | LAYER6 1
 vless://6589c320-db68-43cd-a273-b46299bab355@195.123.226.21:443?security=reality&type=tcp&sni=gateway.icloud.com&flow=xtls-rprx-vision&fp=chrome&pbk=rabtI-ymNXBUvYYRwAw8DiR-1pdP7U0WPIaCBHEkgzo&sid=77bb0d07bddbc832#🇧🇬 Bulgaria | LAYER6 2
-hysteria2://9a9f167d-b461-466f-be50-f0ffd598a6f8@87.121.112.83:443?sni=bulghys.live#🇧🇬 Bulgaria | Neterra servers infras... 1
