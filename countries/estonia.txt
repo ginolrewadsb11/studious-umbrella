@@ -5,9 +5,9 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqvCfh6ogQm9iaVZQTiDigJQgRXN0b25pYQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?encryption=none&packetEncoding=xudp#🇪🇪 Estonia | Edge Core FZE 1
-vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?#🇪🇪 Estonia | Edge Core FZE 2
-vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?encryption=none&type=tcp&security=none#🇪🇪 Estonia | Edge Core FZE 3
-vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?#🇪🇪 Estonia | Edge Core FZE 4
+vless://f2650b14-ff3d-486d-9b7c-5f109a1e51f9@109.206.241.143:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=exton.xanka.best&pbk=6pZWjiFTUUuL3tjB8ls0cnyXTMbRbSdQ9Y31xi5NhEI&sid=5be9fe01&fp=firefox#🇪🇪 Estonia | Baykov Ilya Sergeevich 1
+vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?encryption=none&type=tcp&security=none#🇪🇪 Estonia | Edge Core FZE 1
+vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?encryption=none&packetEncoding=xudp#🇪🇪 Estonia | Edge Core FZE 2
+vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?#🇪🇪 Estonia | Edge Core FZE 3
 vless://9a597d68-6688-4046-bf24-a5a541e115e0@77.83.198.104:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&security=reality&sid=f8d0271b4b5f9efc&sni=www.apple.com&type=tcp#🇪🇪 Estonia | HZ Hosting 1
 vless://097eae28-f0e7-4b18-bce2-16cf7d9deb05@191.217.238.38:443?security=reality&pbk=vq0Fi871QaDVmxY7F0XWByt9muX3-16E31XfHWZj9D8&fp=firefox&flow=xtls-rprx-vision&sni=www.bmw.de&sid=28138197d12e8e38#🇪🇪 Estonia | PowerRDP Network LTD 1
