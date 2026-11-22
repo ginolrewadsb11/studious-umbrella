@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://a197af05-7048-478e-8d99-c3151adb4064@147.139.197.200:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ebay.com&fp=chrome&security=reality&pbk=ulPGCwIg38AVGww0FBfCNROmu_0N1hykbHbhcAFgcl0&sid=6135361d11cc2b31&packetEncoding=xudp#🌍 Indonesia | Alibaba Cloud 1
-vless://a197af05-7048-478e-8d99-c3151adb4064@147.139.197.200:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ebay.com&fp=chrome&security=reality&pbk=ulPGCwIg38AVGww0FBfCNROmu_0N1hykbHbhcAFgcl0&sid=6135361d11cc2b31&packetEncoding=xudp#🌍 Indonesia | Alibaba Cloud 2
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@149.33.27.162:443?security=tls&sni=i1tr.mateflora.com#🌍 Indonesia | M247 Europe SRL 1
