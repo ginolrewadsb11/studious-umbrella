@@ -3,26 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSAyMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Ht/Cfh7ogQm9iaVZQTiDigJQgUnVzc2lhCuKaoSA1INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://cfd6ce74-f4c5-4815-bba4-2fd0fa77bf4e@109.107.189.69:8443?security=reality&type=tcp&sni=gw-721bd5.dobry.monster&host=gw-721bd5.dobry.monster&flow=xtls-rprx-vision&pbk=q1EhO97gyUBlF7LiAfeAESI0O2Mg95T4yIk7keOnMEE&sid=0912cc7f28aa26ba&fp=ios&encryption=none#🇷🇺 Russia | Cloudflare, 1
-vless://cfd6ce74-f4c5-4815-bba4-2fd0fa77bf4e@109.107.189.69:8443?security=reality&type=tcp&packetEncoding=xudp&sni=gw-721bd5.dobry.monster&fp=firefox&flow=xtls-rprx-vision&sid=0912cc7f28aa26ba&pbk=q1EhO97gyUBlF7LiAfeAESI0O2Mg95T4yIk7keOnMEE&encryption=none#🇷🇺 Russia | Cloudflare, 2
-vless://cfd6ce74-f4c5-4815-bba4-2fd0fa77bf4e@109.107.189.69:8443?encryption=none&flow=xtls-rprx-vision&pbk=q1EhO97gyUBlF7LiAfeAESI0O2Mg95T4yIk7keOnMEE&security=reality&sid=0912cc7f28aa26ba&sni=gw-721bd5.dobry.monster&type=tcp&fp=safari#🇷🇺 Russia | Cloudflare, 3
-vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@200.169.179.233:443?security=tls&serviceName=mobile.api.Event&sni=vps3.nemnogogo.com&type=grpc&fp=firefox#🇷🇺 Russia | JSC "TIMEWEB" 1
-vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@200.169.179.233:443?mode=gun&security=tls&serviceName=mobile.api.Event&sni=vps3.nemnogogo.com&type=grpc&fp=safari#🇷🇺 Russia | JSC "TIMEWEB" 2
-vless://08ef7604-b3a5-0001-b264-0038fa7c44fc@188.68.216.33:443?&security=tls&fp=chrome&sni=pmdhivnevikmltdhqp.fcloudservices.site&type=tcp&headerType=none&path=%2F#🇷🇺 Russia | Procloud 1
-vless://2490af5e-3d73-0001-8289-ea9803c50e24@188.68.216.33:443?security=tls&fp=chrome&sni=pmdhivnevikmltdhqp.fcloudservices.site#🇷🇺 Russia | Procloud 2
-vless://08ef7604-b3a5-0001-b264-0038fa7c44fc@188.68.216.33:443?type=tcp&security=tls&fp=chrome&sni=pmdhivnevikmltdhqp.fcloudservices.site#🇷🇺 Russia | Procloud 3
-vless://f139c8e2-d5f6-0001-bf9e-1601f0c40a6f@188.68.216.33:443?security=tls&fp=chrome&sni=pmdhivnevikmltdhqp.fcloudservices.site#🇷🇺 Russia | Procloud 4
-vless://08ef7604-b3a5-0001-b264-0038fa7c44fc@188.68.216.33:443?type=tcp&security=tls&fp=firefox&sni=pmdhivnevikmltdhqp.fcloudservices.site&encryption=none#🇷🇺 Russia | Procloud 5
-vless://2ed34e7c-45c5-4e0e-bcab-42fe99a7bd25@48.103.133.47:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=6ba85179e30d4fc2#🇷🇺 Russia | Shabalov Grigoriy Pavl... 1
-vless://2ed34e7c-45c5-4e0e-bcab-42fe99a7bd25@48.103.133.47:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&packetEncoding=xudp#🇷🇺 Russia | Shabalov Grigoriy Pavl... 2
-vless://2ed34e7c-45c5-4e0e-bcab-42fe99a7bd25@48.103.133.47:8443?security=reality&type=tcp&packetEncoding=xudp&sni=apple.com&fp=firefox&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#🇷🇺 Russia | Shabalov Grigoriy Pavl... 3
-vless://2ed34e7c-45c5-4e0e-bcab-42fe99a7bd25@48.103.133.47:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&packetEncoding=xudp#🇷🇺 Russia | Shabalov Grigoriy Pavl... 4
-vless://2ed34e7c-45c5-4e0e-bcab-42fe99a7bd25@48.103.133.47:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=6ba85179e30d4fc2#🇷🇺 Russia | Shabalov Grigoriy Pavl... 5
-vless://2ed34e7c-45c5-4e0e-bcab-42fe99a7bd25@48.103.133.47:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=/%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=6ba85179e30d4fc2#🇷🇺 Russia | Shabalov Grigoriy Pavl... 6
-vless://2ed34e7c-45c5-4e0e-bcab-42fe99a7bd25@48.103.133.47:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=6ba85179e30d4fc2#🇷🇺 Russia | Shabalov Grigoriy Pavl... 7
-vless://2ed34e7c-45c5-4e0e-bcab-42fe99a7bd25@48.103.133.47:8443?security=reality&type=tcp&packetEncoding=xudp&sni=apple.com&fp=firefox&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#🇷🇺 Russia | Shabalov Grigoriy Pavl... 8
-vless://2ed34e7c-45c5-4e0e-bcab-42fe99a7bd25@48.103.133.47:8443?security=reality&type=tcp&packetEncoding=xudp&sni=apple.com&fp=firefox&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#🇷🇺 Russia | Shabalov Grigoriy Pavl... 9
-vless://2ed34e7c-45c5-4e0e-bcab-42fe99a7bd25@48.103.133.47:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=6ba85179e30d4fc2&host=/%3FV2ray_confiig#🇷🇺 Russia | Shabalov Grigoriy Pavl... 10
-vless://2ed34e7c-45c5-4e0e-bcab-42fe99a7bd25@48.103.133.47:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=6ba85179e30d4fc2#🇷🇺 Russia | Shabalov Grigoriy Pavl... 11
+ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@46.17.42.129:18443#🇷🇺 Russia | BAXET 1
+vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?type=grpc&security=tls&fp=ios&sni=vps3.nemnogogo.com&mode=gun&serviceName=mobile.api.Event#🇷🇺 Russia | JSC "TIMEWEB" 1
+vless://2e627c65-92d7-0001-b8a8-aaa3b2469494@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&fp=safari#🇷🇺 Russia | Procloud 1
+vless://43b2f457-35fe-0001-b072-bd45a66d105d@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&fp=safari#🇷🇺 Russia | Procloud 2
+vless://2e627c65-92d7-0001-b8a8-aaa3b2469494@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&fp=safari#🇷🇺 Russia | Procloud 3

@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBUaGFpbGFuZArimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://33330382-a046-428d-9e95-9aae8bd6b90e@47.81.32.116:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=chrome&security=reality&pbk=P3MHfKzFZhV5TRjdEj2r43fUr24iijLqB_k7rbSR2Bg&sid=4446248c38c846e6&packetEncoding=xudp#🌍 Thailand | Alibaba.com 1
-vless://33330382-a046-428d-9e95-9aae8bd6b90e@47.81.32.116:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=P3MHfKzFZhV5TRjdEj2r43fUr24iijLqB_k7rbSR2Bg&security=reality&sid=4446248c38c846e6&sni=www.amazon.com&type=tcp#🌍 Thailand | Alibaba.com 2
-vless://33330382-a046-428d-9e95-9aae8bd6b90e@47.81.32.116:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=P3MHfKzFZhV5TRjdEj2r43fUr24iijLqB_k7rbSR2Bg&security=reality&sid=4446248c38c846e6&sni=www.amazon.com&type=tcp#🌍 Thailand | Alibaba.com 3
-vless://33330382-a046-428d-9e95-9aae8bd6b90e@47.81.32.116:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=chrome&security=reality&pbk=P3MHfKzFZhV5TRjdEj2r43fUr24iijLqB_k7rbSR2Bg&sid=4446248c38c846e6&packetEncoding=xudp#🌍 Thailand | Alibaba.com 4
-vless://33330382-a046-428d-9e95-9aae8bd6b90e@47.81.32.116:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=chrome&security=reality&pbk=P3MHfKzFZhV5TRjdEj2r43fUr24iijLqB_k7rbSR2Bg&sid=4446248c38c846e6&packetEncoding=xudp#🌍 Thailand | Alibaba.com 5
+vmess://eyJhZGQiOiAiMTE5LjQ2LjUxLjQ1IiwgImFpZCI6ICIwIiwgImFscG4iOiBudWxsLCAiZnAiOiBudWxsLCAiaG9zdCI6IG51bGwsICJpZCI6ICI5Yjc2YmMzMS0xN2E1LTQ0NTQtOTM0YS04ZDVmYjYwMmNkNzAiLCAibmFtZSI6ICJ2MmdvIHwg8J+HufCfh60gVEggfCBWTUVTUyB8IDQ1OCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMzc1MTUsICJwcyI6IktpbmdvIHBpbmcgMzUzNCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiBudWxsLCAidGxzIjogIm5vbmUiLCAidHlwZSI6IG51bGwsICJ2IjogbnVsbH0=#🌍 Thailand | Kaopu Cloud HK 1
