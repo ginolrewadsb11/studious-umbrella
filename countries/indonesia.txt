@@ -3,8 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBJbmRvbmVzaWEK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@149.33.27.162:443?allowInsecure=1&sni=i1tr.mateflora.com#🌍 Indonesia | M247 Europe SRL 1
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@149.33.27.162:443?security=tls&sni=i1tr.mateflora.com#🌍 Indonesia | M247 Europe SRL 1
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?allowInsecure=1&sni=i1tr.mateflora.com#🌍 Indonesia | M247 Europe SRL 2
-vless://3b01a777-55e7-49f6-8637-d94ee69607c6@kozel.cc.cd:443?encryption=none&security=tls&type=ws&host=kozel.cc.cd&path=/118.151.222.66=17317&sni=kozel.cc.cd#🌍 Indonesia | PT FASTEL SARANA INDON... 1
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@149.33.27.162:443?allowInsecure=1&sni=i1tr.mateflora.com#🌍 Indonesia | M247 Europe SRL 3
+hysteria2://814cf107-dbe1-453e-935c-5d71824261d9@31.59.117.50:443?sni=img34.lernkino.online#🌍 Indonesia | RIPE-GOERNET 1

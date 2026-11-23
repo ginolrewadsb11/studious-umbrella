@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://aea0ed55-4e5e-0001-a4fe-5d626d914a9f@168.113.253.178:443?security=tls&sni=uzndiuvzvqqljdyhzs.fcloudservices.site&fp=chrome#🇧🇬 Bulgaria | Cogent Communications 1
+vless://0259e5aa-c188-4334-b204-32cd5ea859f6@157.228.163.23:443?type=tcp&security=reality&sni=sofia-talking.keno.su&fp=firefox&pbk=hSoDrLr8MWmV05ffU4OLAmCgvh7AsoSiwkVjzPPVWSk&sid=d84583b7258ac883&flow=xtls-rprx-vision#🇧🇬 Bulgaria | First Server 1
+hysteria2://9a9f167d-b461-466f-be50-f0ffd598a6f8@87.121.112.83:443?sni=bulghys.live#🇧🇬 Bulgaria | Neterra servers infras... 1
