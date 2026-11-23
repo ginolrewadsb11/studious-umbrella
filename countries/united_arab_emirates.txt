@@ -5,12 +5,12 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDkg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://0259e5aa-c188-4334-b204-32cd5ea859f6@135.136.183.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dubai-cdn-keno.keno.su&fp=firefox&pbk=56r4YuaW-BUEapWGlOvv-QX75OgLNP8KuE_Z1bBxO1g&sid=47912f9d36a0a52b&packetEncoding=xudp#🇦🇪 United Arab Emirates | IP MARKET - FZCO 1
+vless://0259e5aa-c188-4334-b204-32cd5ea859f6@135.136.183.53:443?security=reality&flow=xtls-rprx-vision&pbk=56r4YuaW-BUEapWGlOvv-QX75OgLNP8KuE_Z1bBxO1g&sid=47912f9d36a0a52b&fp=firefox&sni=dubai-cdn-keno.keno.su&type=tcp&headerType=none&host=dubai-cdn-keno.keno.su&path=%2F&encryption=none#🇦🇪 United Arab Emirates | IP MARKET - FZCO 1
+vless://0259e5aa-c188-4334-b204-32cd5ea859f6@135.136.183.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dubai-cdn-keno.keno.su&fp=firefox&pbk=56r4YuaW-BUEapWGlOvv-QX75OgLNP8KuE_Z1bBxO1g&sid=47912f9d36a0a52b&packetEncoding=xudp#🇦🇪 United Arab Emirates | IP MARKET - FZCO 2
 trojan://d9064589-74af-432a-9390-5d8a9da281bf@217.217.222.230:20123?allowInsecure=0&security=tls&sni=hk.catxstar.com#🇦🇪 United Arab Emirates | Melbikomas UAB 1
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20123?security=tls&sni=hk.catxstar.com#🇦🇪 United Arab Emirates | Melbikomas UAB 2
+vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?sni=95.174.68.188&type=ws&host=95.174.68.188&path=/vless#🇦🇪 United Arab Emirates | Melbikomas UAB 2
 vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?&sni=95.174.68.188&type=ws&headerType=none&host=95.174.68.188&path=/vless#🇦🇪 United Arab Emirates | Melbikomas UAB 3
 vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?sni=95.174.68.188&type=ws&host=95.174.68.188&path=/vless#🇦🇪 United Arab Emirates | Melbikomas UAB 4
-vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?sni=95.174.68.188&type=ws&host=95.174.68.188&path=/vless#🇦🇪 United Arab Emirates | Melbikomas UAB 5
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&type=ws&host=uae.unixzone.us&path=%2F&packetEncoding=xudp&insecure=0#🇦🇪 United Arab Emirates | Oracle 1
-vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?sni=uae.unixzone.us&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 2
-vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?sni=uae.unixzone.us&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 3
+trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-00.catcat321.com:20123?security=tls&sni=hk.catxstar.com#🇦🇪 United Arab Emirates | Melbikomas UAB 5
+vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?sni=uae.unixzone.us&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 1
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&type=ws&host=uae.unixzone.us&path=%2F&packetEncoding=xudp&insecure=0#🇦🇪 United Arab Emirates | Oracle 2

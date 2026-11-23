@@ -3,71 +3,160 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hr/Cfh7UgQm9iaVZQTiDigJQgSmFwYW4K4pqhIDY2INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+#announce: base64:8J+Hr/Cfh7UgQm9iaVZQTiDigJQgSmFwYW4K4pqhIDE1NSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?security=tls&type=ws&path=%2Fproxyip%3DProxyIP.JP.CMLiussss.net&host=freeceshi6.frii.site&packetEncoding=none&sni=freeceshi6.frii.site&fp=firefox#🇯🇵 Japan | Akamai Technologies, 1
-vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?security=tls&fp=chrome&sni=freeceshi6.frii.site&type=ws&headerType=none&host=freeceshi6.frii.site&path=%2Fproxyip%3DProxyIP.JP.CMLiussss.net#🇯🇵 Japan | Alibaba (US) Technolog... 1
+vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?&security=tls&fp=chrome&sni=freeceshi6.frii.site&type=ws&headerType=none&host=freeceshi6.frii.site&path=%2Fproxyip%3DProxyIP.JP.CMLiussss.net#🇯🇵 Japan | Alibaba (US) Technolog... 1
+vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?security=tls&type=ws&path=%2Fproxyip%3DProxyIP.JP.CMLiussss.net&host=freeceshi6.frii.site&packetEncoding=none&sni=freeceshi6.frii.site&fp=firefox#🇯🇵 Japan | Alibaba (US) Technolog... 2
 vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:12683?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇯🇵 Japan | BrainStorm Network 1
-vless://39303679-4e68-4233-8def-8f4f9e48d611@103.201.130.126:443?&security=tls&fp=chrome&sni=tt-9nz.pages.dev&type=ws&headerType=none&host=tt-9nz.pages.dev&path=%2Fitem%2Ffavourites#🇯🇵 Japan | Cloudflare, 1
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#🇯🇵 Japan | Contabo Asia Private 1
+vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:12683?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇯🇵 Japan | BrainStorm Network 2
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqvCfh7ogQWV0cmlzVlBOIiwiYWRkIjoib3IzLnNmYWNnLnVrIiwicG9ydCI6IjIwODMiLCJpZCI6ImFjMjUxMjM3LTU3NmYtNDBjOC1hNTQzLTU1NDk2MGM5NThiMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJvcjMuc2ZhY2cudWsiLCJhbHBuIjoiIiwicGF0aCI6Ii9vcjMiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJvcjMuc2ZhY2cudWsiLCJmcCI6IiJ9#🇯🇵 Japan | Cloudflare, 1
+vless://39303679-4e68-4233-8def-8f4f9e48d611@103.201.130.126:443?&security=tls&fp=chrome&sni=tt-9nz.pages.dev&type=ws&headerType=none&host=tt-9nz.pages.dev&path=%2Fitem%2Ffavourites#🇯🇵 Japan | Cloudflare, 2
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#🇯🇵 Japan | Contabo Asia Private 1
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#🇯🇵 Japan | Contabo Asia Private 2
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#🇯🇵 Japan | Contabo Asia Private 3
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#🇯🇵 Japan | Contabo Asia Private 4
 vless://b538377e-c372-414d-bd02-becfed21852f@185.16.110.71:443?security=tls&sni=shazam.wbciran.com&fp=firefox&type=ws&host=shazam.wbciran.com&path=%2FjpyBT7v#🇯🇵 Japan | Datacamp 1
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#🇯🇵 Japan | Datacamp 2
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🇯🇵 Japan | Datacamp 3
-vless://f131d292-d3c2-42b3-bcea-f9712c31b303@185.71.216.95:2090?security=reality&encryption=none&pbk=qBobe6KSNkFLqTPCffcJo0nXgxy-3JKru9WRqY9rkjk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=bb472a184677af64#🇯🇵 Japan | FDCservers.net 1
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@kuruish.org:443?encryption=none&security=tls&sni=kuruish.org&packetEncoding=xudp#🇯🇵 Japan | G-Core Labs S.A. 1
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@94.177.131.113:443?encryption=none&security=tls&sni=kuruish.org&packetEncoding=xudp#🇯🇵 Japan | G-Core Labs S.A. 2
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.70.228:443?fp=firefox&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Japan | Oracle 1
-vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?security=tls&fp=chrome&sni=freeceshi6.frii.site&type=ws&headerType=none&host=freeceshi6.frii.site&path=%2Fproxyip%3DProxyIP.JP.CMLiussss.net#🇯🇵 Japan | Oracle 2
-vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?encryption=none&security=tls&sni=freeceshi6.frii.site&type=ws&host=freeceshi6.frii.site&path=/proxyip%3DProxyIP.JP.CMLiussss.net&packetEncoding=xudp#🇯🇵 Japan | Oracle 3
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.70.21:443?encryption=none&security=tls&type=ws&path=%2Ftyxyws&host=jp3.yohototo.top&sni=jp3.yohototo.top&fp=edge#🇯🇵 Japan | Oracle 4
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@162.159.254.3:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 5
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.111.102:443?encryption=none&security=tls&sni=jp3.yohototo.top&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 6
-vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?&security=tls&fp=chrome&sni=freeceshi6.frii.site&type=ws&headerType=none&host=freeceshi6.frii.site&path=%2Fproxyip%3DProxyIP.JP.CMLiussss.net#🇯🇵 Japan | Oracle 7
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.22:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 8
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.164.155:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Japan | Oracle 9
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.33.59:443?encryption=none&security=tls&sni=jp3.yohototo.top&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 10
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.217.240:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Japan | Oracle 11
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.50.53:443?security=tls&sni=jp3.yohototo.top&type=ws&host=jp3.yohototo.top&path=tyxyws&fp=chrome#🇯🇵 Japan | Oracle 12
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.9:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=android#🇯🇵 Japan | Oracle 13
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.70.228:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 14
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.27.46.35:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=safari#🇯🇵 Japan | Oracle 15
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.6.186:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 16
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.70.21:443?type=ws&headerType=none&security=tls&encryption=none&sni=jp3.yohototo.top&fp=chrome&path=%2Ftyxyws&host=jp3.yohototo.top#🇯🇵 Japan | Oracle 17
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.217.240:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 18
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.153.10:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Japan | Oracle 19
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@188.114.97.6:443?encryption=none&security=tls&sni=jp3.yohototo.top&alpn=http%2F1.1&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 20
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.64.190.13:443?encryption=none&security=tls&type=ws&path=%2Ftyxyws&host=jp3.yohototo.top&sni=jp3.yohototo.top&fp=safari#🇯🇵 Japan | Oracle 21
-vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?&security=tls&fp=chrome&sni=freeceshi6.frii.site&type=ws&headerType=none&host=freeceshi6.frii.site&path=%2Fproxyip%3DProxyIP.JP.CMLiussss.net#🇯🇵 Japan | Oracle 22
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.33.59:443?encryption=none&security=tls&type=ws&path=%2Ftyxyws&host=jp3.yohototo.top&sni=jp3.yohototo.top#🇯🇵 Japan | Oracle 23
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.9:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 24
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.37.127:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=ios#🇯🇵 Japan | Oracle 25
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.37.127:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 26
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.50.227:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Japan | Oracle 27
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.33.237:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 28
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.0.1:443?encryption=none&security=tls&sni=jp3.yohototo.top&alpn=http%2F1.1&fp=chrome&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 29
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@131.143.180.53:443?security=tls&fp=chrome&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#🇯🇵 Japan | Oracle 30
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@154.12.53.59:8443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#🇯🇵 Japan | Oracle 31
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@38.47.119.139:8443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#🇯🇵 Japan | Oracle 32
-vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=firefox&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8&sid=684c7531e599dec0&encryption=none&type=tcp#🇯🇵 Japan | Oracle 33
-ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@168.138.205.100:53758#🇯🇵 Japan | Oracle 34
-vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?security=reality&type=tcp&allowInsecure=1&sni=www.microsoft.com&fp=firefox&flow=xtls-rprx-vision&sid=684c7531e599dec0&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8#🇯🇵 Japan | Oracle 35
-vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?encryption=none&security=reality&sni=www.microsoft.com&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8&sid=684c7531e599dec0&packetEncoding=xudp&insecure=0&flow=xtls-rprx-vision#🇯🇵 Japan | Oracle 36
-vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?security=reality&type=tcp&sni=www.microsoft.com&flow=xtls-rprx-vision&fp=firefox&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8&sid=684c7531e599dec0#🇯🇵 Japan | Oracle 37
-vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?security=reality&type=tcp&packetEncoding=none&sni=www.microsoft.com&fp=firefox&flow=xtls-rprx-vision&sid=684c7531e599dec0&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8#🇯🇵 Japan | Oracle 38
-ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@168.138.205.100:53758#🇯🇵 Japan | Oracle 39
-vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.microsoft.com&fp=firefox&flow=xtls-rprx-vision&sid=684c7531e599dec0&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8#🇯🇵 Japan | Oracle 40
-ss://YWVzLTEyOC1nY206QndscWg3R2NGQg==@168.138.205.100:53758#🇯🇵 Japan | Oracle 41
-vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIxNjguMTM4LjQzLjc1IiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoiODAiLCJwcyI6IktpbmdvIHBpbmcgMjk0OCIsInNjeSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJzbmkiOiIxNjguMTM4LjQzLjc1IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#🇯🇵 Japan | Oracle 42
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@45.129.8.204:443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#🇯🇵 Japan | Oracle 43
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@62.106.75.2:443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#🇯🇵 Japan | Oracle 44
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@45.153.245.217:443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#🇯🇵 Japan | Oracle 45
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@45.153.245.181:443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#🇯🇵 Japan | Oracle 46
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@62.106.70.68:443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#🇯🇵 Japan | Oracle 47
-ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@jpa.123069.xyz:53758#🇯🇵 Japan | Oracle 48
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.129.80.179:8443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#🇯🇵 Japan | Oracle 49
-ss://YWVzLTEyOC1nY206QndscWg3R2NGQg==@jpa.123069.xyz:53758#🇯🇵 Japan | Oracle 50
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@23.144.124.76:443?path=%2Ftyxyws&security=tls&encryption=none&insecure=0&host=jp3.yohototo.top&type=ws&allowInsecure=0&sni=jp3.yohototo.top#🇯🇵 Japan | Oracle 51
-vless://9da605d3-f5f7-4135-f806-450f036f9351@djj.zjlo.top:23169?security=tls&type=tcp&packetEncoding=none&allowInsecure=0&sni=djj.zjlo.top&fp=chrome&flow=xtls-rprx-vision#🇯🇵 Japan | Oracle 52
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@23.144.124.76:443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#🇯🇵 Japan | Oracle 53
-vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?security=tls&type=ws&path=%2Fproxyip%3DProxyIP.JP.CMLiussss.net&host=freeceshi6.frii.site&packetEncoding=none&sni=freeceshi6.frii.site&fp=chrome#🇯🇵 Japan | SAKURA Internet 1
-vmess://eyJhZGQiOiI2NC4xNzYuMzQuMTAyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjQ3NzM1MGIyLTc1MzYtNGYzOC1lZTIxLTAyMGVmZGRlMmQxZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDYxMzAiLCJwcyI6IktpbmdvIHBpbmcgMjk3OSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#🇯🇵 Japan | The Constant Company 1
+vless://b538377e-c372-414d-bd02-becfed21852f@185.16.110.71:443?security=tls&sni=shazam.wbciran.com&fp=firefox&type=ws&host=shazam.wbciran.com&path=%2FjpyBT7v&encryption=none#🇯🇵 Japan | Datacamp 2
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#🇯🇵 Japan | Datacamp 3
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🇯🇵 Japan | Datacamp 4
+vmess://eyJ2IjoiMiIsInBzIjoi8J+MgCBDWUJFUlBPUlRBTCB8IFdoaXRlIEtleXMgIzE3MiIsImFkZCI6IjE2Mi4xOS4xOTIuODkiLCJwb3J0IjoiMTY2MTciLCJpZCI6IjkwNGYwNTY5LTg2OTUtNDY2Zi05N2NmLTBkZTJmYWNlMWI0NiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJmOTMwOWNjODg2MzdjMjZmNTUyYTFhNjRmYjMxMWNhZS5tb2Jnc2xiLnRiY2FjaGUuY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==#🇯🇵 Japan | FDCservers.net 1
+vless://f131d292-d3c2-42b3-bcea-f9712c31b303@185.71.216.95:2090?security=reality&encryption=none&pbk=qBobe6KSNkFLqTPCffcJo0nXgxy-3JKru9WRqY9rkjk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=bb472a184677af64#🇯🇵 Japan | FDCservers.net 2
+vless://f131d292-d3c2-42b3-bcea-f9712c31b303@185.71.216.94:2090?security=reality&type=tcp&sni=www.apple.com&flow=xtls-rprx-vision&fp=chrome&pbk=qBobe6KSNkFLqTPCffcJo0nXgxy-3JKru9WRqY9rkjk&sid=bb472a184677af64#🇯🇵 Japan | FDCservers.net 3
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@94.177.131.113:443?encryption=none&security=tls&sni=kuruish.org&packetEncoding=xudp#🇯🇵 Japan | G-Core Labs S.A. 1
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.210.74:443?security=tls&type=ws&path=%2Ftyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=qq#🇯🇵 Japan | Oracle 1
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.210.74:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=firefox#🇯🇵 Japan | Oracle 2
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.156.147:443?&security=tls&fp=chrome&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#🇯🇵 Japan | Oracle 3
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.0.87:443?security=tls&type=ws&path=%2Ftyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=safari#🇯🇵 Japan | Oracle 4
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.156.147:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=firefox#🇯🇵 Japan | Oracle 5
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.24.0.1:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=safari#🇯🇵 Japan | Oracle 6
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.33.59:443?encryption=none&security=tls&type=ws&path=%2Ftyxyws&host=jp3.yohototo.top&sni=jp3.yohototo.top#🇯🇵 Japan | Oracle 7
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.33.59:443?security=tls&type=ws&path=%2Ftyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=firefox#🇯🇵 Japan | Oracle 8
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.24.0.1:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Japan | Oracle 9
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.70.21:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Japan | Oracle 10
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.0.1:443?security=tls&type=ws&path=%2Ftyxyws&host=jp3.yohototo.top&packetEncoding=xudp&alpn=http%2F1.1&sni=jp3.yohototo.top&fp=safari#🇯🇵 Japan | Oracle 11
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@162.159.254.3:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=ios#🇯🇵 Japan | Oracle 12
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.27.46.35:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=edge#🇯🇵 Japan | Oracle 13
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.48.107:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=firefox#🇯🇵 Japan | Oracle 14
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.50.227:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 15
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.6.186:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=safari#🇯🇵 Japan | Oracle 16
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.34.106:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=ios#🇯🇵 Japan | Oracle 17
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.0.87:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=edge#🇯🇵 Japan | Oracle 18
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.50.227:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=edge#🇯🇵 Japan | Oracle 19
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.210.74:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 20
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.37.127:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=ios#🇯🇵 Japan | Oracle 21
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.22:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 22
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.33.237:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 23
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.63:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Japan | Oracle 24
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@162.159.254.3:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=qq#🇯🇵 Japan | Oracle 25
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.111.102:443?encryption=none&security=tls&sni=jp3.yohototo.top&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 26
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.111.202:443?security=tls&type=ws&path=/tyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=chrome#🇯🇵 Japan | Oracle 27
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.24.31.89:443?security=tls&type=ws&path=/tyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=chrome#🇯🇵 Japan | Oracle 28
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.33.59:443?security=tls&type=ws&path=%2Ftyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=safari#🇯🇵 Japan | Oracle 29
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.33.237:443?&security=tls&sni=jp3.yohototo.top&type=ws&headerType=&host=jp3.yohototo.top&path=%2Ftyxyws#🇯🇵 Japan | Oracle 30
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.27.46.35:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=firefox#🇯🇵 Japan | Oracle 31
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.210.74:443?security=tls&type=ws&path=%2Ftyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=chrome#🇯🇵 Japan | Oracle 32
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.33.237:443?security=tls&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws&fp=qq#🇯🇵 Japan | Oracle 33
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.6.186:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Japan | Oracle 34
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.12.94:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Japan | Oracle 35
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.27.46.35:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=safari#🇯🇵 Japan | Oracle 36
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.185:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=qq#🇯🇵 Japan | Oracle 37
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.50.227:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=firefox#🇯🇵 Japan | Oracle 38
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.64.152.19:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Japan | Oracle 39
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.27.46.35:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=chrome#🇯🇵 Japan | Oracle 40
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.9:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 41
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.64.190.13:443?cs=semi-python&path=%2Ftyxyws&security=tls&encryption=none&fm=tlshello-0-len&skip-cert-verify=0&host=jp3.yohototo.top&type=ws&skip-cert-verify=0&sni=jp3.yohototo.top&fp=firefox#🇯🇵 Japan | Oracle 42
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@188.114.97.6:443?encryption=none&security=tls&sni=jp3.yohototo.top&alpn=http%2F1.1&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 43
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@188.114.97.6:443?fp=firefox&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Japan | Oracle 44
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.156.147:443?type=ws&headerType=none&security=tls&encryption=none&sni=jp3.yohototo.top&fp=chrome&path=%2Ftyxyws&host=jp3.yohototo.top#🇯🇵 Japan | Oracle 45
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@162.159.254.3:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 46
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@188.114.97.6:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Japan | Oracle 47
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.48:443?security=tls&type=ws&path=%2Ftyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=safari#🇯🇵 Japan | Oracle 48
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.234:443?security=tls&sni=jp3.yohototo.top&type=ws&host=jp3.yohototo.top&path=tyxyws&fp=chrome#🇯🇵 Japan | Oracle 49
+vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?&security=tls&fp=chrome&sni=freeceshi6.frii.site&type=ws&headerType=none&host=freeceshi6.frii.site&path=%2Fproxyip%3DProxyIP.JP.CMLiussss.net#🇯🇵 Japan | Oracle 50
+vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?&security=tls&fp=chrome&sni=freeceshi6.frii.site&type=ws&headerType=none&host=freeceshi6.frii.site&path=%2Fproxyip%3DProxyIP.JP.CMLiussss.net#🇯🇵 Japan | Oracle 51
+vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?encryption=none&security=tls&sni=freeceshi6.frii.site&type=ws&host=freeceshi6.frii.site&path=%2Fproxyip%3DProxyIP.JP.CMLiussss.net#🇯🇵 Japan | Oracle 52
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.153.10:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=firefox#🇯🇵 Japan | Oracle 53
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.37.127:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=safari#🇯🇵 Japan | Oracle 54
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@162.159.254.3:443?type=ws&headerType=none&security=tls&encryption=none&sni=jp3.yohototo.top&fp=chrome&path=%2Ftyxyws&host=jp3.yohototo.top#🇯🇵 Japan | Oracle 55
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.6.186:443?security=tls&sni=jp3.yohototo.top&type=ws&host=jp3.yohototo.top&path=tyxyws&fp=chrome#🇯🇵 Japan | Oracle 56
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.217.240:443?fp=firefox&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Japan | Oracle 57
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.22:443?security=tls&type=ws&path=/tyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=chrome#🇯🇵 Japan | Oracle 58
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.33.59:443?encryption=none&security=tls&sni=jp3.yohototo.top&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 59
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.185:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=qq#🇯🇵 Japan | Oracle 60
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.0.1:443?security=tls&type=ws&path=%2Ftyxyws&host=jp3.yohototo.top&packetEncoding=xudp&alpn=http%2F1.1&sni=jp3.yohototo.top&fp=chrome#🇯🇵 Japan | Oracle 61
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.64.190.13:443?cs=semi-python&path=%2Ftyxyws&security=tls&encryption=none&fm=tlshello-0-len&skip-cert-verify=0&host=jp3.yohototo.top&type=ws&skip-cert-verify=0&sni=jp3.yohototo.top&fp=qq#🇯🇵 Japan | Oracle 62
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.0.87:443?security=tls&type=ws&path=%2Ftyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=android#🇯🇵 Japan | Oracle 63
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.0.1:443?encryption=none&security=tls&sni=jp3.yohototo.top&alpn=http%2F1.1&fp=chrome&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 64
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@188.114.97.6:443?alpn=http%2F1.1&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=android#🇯🇵 Japan | Oracle 65
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.37.127:443?security=tls&sni=jp3.yohototo.top&type=ws&host=jp3.yohototo.top&path=tyxyws&fp=chrome#🇯🇵 Japan | Oracle 66
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.156.147:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=firefox#🇯🇵 Japan | Oracle 67
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.56:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=android#🇯🇵 Japan | Oracle 68
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.70.228:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 69
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.24.0.1:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=qq#🇯🇵 Japan | Oracle 70
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.33.59:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=ios#🇯🇵 Japan | Oracle 71
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.24.0.1:443?alpn=http%2F1.1&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=qq#🇯🇵 Japan | Oracle 72
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.24.0.1:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=safari#🇯🇵 Japan | Oracle 73
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.153.10:443?security=tls&type=ws&path=%2Ftyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=safari#🇯🇵 Japan | Oracle 74
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.84:443?security=tls&type=ws&path=/tyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=chrome#🇯🇵 Japan | Oracle 75
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.37.127:443?fp=chrome&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Japan | Oracle 76
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.70.228:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Japan | Oracle 77
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.234:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=qq#🇯🇵 Japan | Oracle 78
+vmess://eyJhZGQiOiIxNjIuMTU5LjEzMC4yMzQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im9yMy5zZmFjZy51ayIsImlkIjoiYWMyNTEyMzctNTc2Zi00MGM4LWE1NDMtNTU0OTYwYzk1OGIxIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL29yMyIsInBjcyI6IiIsInBvcnQiOiIyMDgzIiwicHMiOiJLaW5nbyBwaW5nIDMzMDUiLCJzY3kiOiJhdXRvIiwic25pIjoib3IzLnNmYWNnLnVrIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9#🇯🇵 Japan | Oracle 79
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.70.228:443?fp=firefox&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Japan | Oracle 80
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.217.240:443?fp=firefox&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Japan | Oracle 81
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.70.21:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=edge&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 82
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.6.186:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 83
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.2:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#🇯🇵 Japan | Oracle 84
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.12.94:443?&security=tls&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#🇯🇵 Japan | Oracle 85
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@23.144.124.76:443?path=%2Ftyxyws&security=tls&encryption=none&insecure=0&host=jp3.yohototo.top&type=ws&allowInsecure=0&sni=jp3.yohototo.top#🇯🇵 Japan | Oracle 86
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@23.144.68.90:8443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=qq&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&packetEncoding=xudp&insecure=0#🇯🇵 Japan | Oracle 87
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@38.47.119.139:8443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#🇯🇵 Japan | Oracle 88
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@23.144.68.90:8443?encryption=none&security=tls&type=ws&path=%2Ftyxyws&host=jp3.yohototo.top&sni=jp3.yohototo.top&fp=qq#🇯🇵 Japan | Oracle 89
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@131.143.180.53:443?security=tls&fp=chrome&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#🇯🇵 Japan | Oracle 90
+vless://7318caa1-93d1-4a9d-c481-504599902700@155.248.175.201:23169?sni=djj.zjlo.top&flow=xtls-rprx-vision&fp=firefox&security=tls#🇯🇵 Japan | Oracle 91
+vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=firefox&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8&sid=684c7531e599dec0&encryption=none&type=tcp#🇯🇵 Japan | Oracle 92
+vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.microsoft.com&fp=firefox&flow=xtls-rprx-vision&sid=684c7531e599dec0&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8#🇯🇵 Japan | Oracle 93
+ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@168.138.205.100:53758#🇯🇵 Japan | Oracle 94
+vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?security=reality&type=raw&packetEncoding=xudp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=684c7531e599dec0&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8&encryption=none#🇯🇵 Japan | Oracle 95
+vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.microsoft.com&fp=chrome&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8&sid=684c7531e599dec0#🇯🇵 Japan | Oracle 96
+vless://3eb053cb-d6f8-4b31-8180-222e1cc6f8ff@djj.zjlo.top:23169?encryption=none&security=tls&sni=djj.zjlo.top&fp=chrome&packetEncoding=xudp&insecure=0&flow=xtls-rprx-vision#🇯🇵 Japan | Oracle 97
+vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.microsoft.com&fp=chrome&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8&sid=684c7531e599dec0#🇯🇵 Japan | Oracle 98
+vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?encryption=none&security=reality&sni=www.microsoft.com&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8&sid=684c7531e599dec0&packetEncoding=xudp&insecure=0&flow=xtls-rprx-vision#🇯🇵 Japan | Oracle 99
+ss://YWVzLTEyOC1nY206QndscWg3R2NGQg==@168.138.205.100:53758#🇯🇵 Japan | Oracle 100
+vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?security=reality&type=tcp&sni=www.microsoft.com&flow=xtls-rprx-vision&fp=firefox&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8&sid=684c7531e599dec0#🇯🇵 Japan | Oracle 101
+vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?security=reality&type=tcp&packetEncoding=none&sni=www.microsoft.com&fp=firefox&flow=xtls-rprx-vision&sid=684c7531e599dec0&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8#🇯🇵 Japan | Oracle 102
+ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@168.138.205.100:53758#🇯🇵 Japan | Oracle 103
+vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?security=reality&type=tcp&allowInsecure=1&sni=www.microsoft.com&fp=firefox&flow=xtls-rprx-vision&sid=684c7531e599dec0&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8#🇯🇵 Japan | Oracle 104
+vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.microsoft.com&fp=chrome&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8&sid=684c7531e599dec0#🇯🇵 Japan | Oracle 105
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@45.153.245.217:443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#🇯🇵 Japan | Oracle 106
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@45.129.8.204:443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#🇯🇵 Japan | Oracle 107
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@45.66.129.12:443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#🇯🇵 Japan | Oracle 108
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@45.153.245.181:443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#🇯🇵 Japan | Oracle 109
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@62.106.75.37:443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#🇯🇵 Japan | Oracle 110
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@62.106.75.2:443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#🇯🇵 Japan | Oracle 111
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@45.129.8.204:443?security=tls&sni=jp3.yohototo.top&type=ws&headerType=&host=jp3.yohototo.top&path=%2Ftyxyws#🇯🇵 Japan | Oracle 112
+ss://YWVzLTEyOC1nY206QndscWg3R2NGQg==@jpa.123069.xyz:53758#🇯🇵 Japan | Oracle 113
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@185.200.66.193:443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#🇯🇵 Japan | Oracle 114
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@62.106.70.68:443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#🇯🇵 Japan | Oracle 115
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@45.129.8.204:443?security=tls&sni=jp3.yohototo.top&type=ws&headerType=&host=jp3.yohototo.top&path=%2Ftyxyws#🇯🇵 Japan | Oracle 116
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@131.143.214.224:443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#🇯🇵 Japan | Oracle 117
+vless://7318caa1-93d1-4a9d-c481-504599902700@155.248.175.201:23169?sni=djj.zjlo.top&flow=xtls-rprx-vision&fp=firefox&security=tls#🇯🇵 Japan | Oracle 118
+ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@jpa.123069.xyz:53758#🇯🇵 Japan | Oracle 119
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@168.107.36.135:443?security=tls&fp=chrome&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#🇯🇵 Japan | Oracle 120
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.129.80.179:8443?encryption=none&security=tls&sni=jp3.yohototo.top&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#🇯🇵 Japan | Oracle 121
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.129.80.179:8443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#🇯🇵 Japan | Oracle 122
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@23.144.124.76:443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#🇯🇵 Japan | Oracle 123
+vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIxNjguMTM4LjQzLjc1IiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoiODAiLCJwcyI6IktpbmdvIHBpbmcgMjk0OCIsInNjeSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJzbmkiOiIxNjguMTM4LjQzLjc1IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#🇯🇵 Japan | Oracle 124
+vless://9da605d3-f5f7-4135-f806-450f036f9351@155.248.175.201:23169?encryption=none&security=tls&sni=djj.zjlo.top&fp=chrome&packetEncoding=xudp&insecure=0&flow=xtls-rprx-vision#🇯🇵 Japan | Oracle 125
+vless://9da605d3-f5f7-4135-f806-450f036f9351@djj.zjlo.top:23169?encryption=none&flow=xtls-rprx-vision&security=tls&sni=djj.zjlo.top&fp=chrome&packetEncoding=none#🇯🇵 Japan | Oracle 126
+vless://9da605d3-f5f7-4135-f806-450f036f9351@djj.zjlo.top:23169?encryption=none&security=tls&sni=djj.zjlo.top&fp=chrome&packetEncoding=xudp&insecure=0&flow=xtls-rprx-vision#🇯🇵 Japan | Oracle 127
+vless://9da605d3-f5f7-4135-f806-450f036f9351@djj.zjlo.top:23169?security=tls&type=tcp&packetEncoding=none&allowInsecure=0&sni=djj.zjlo.top&fp=chrome&flow=xtls-rprx-vision#🇯🇵 Japan | Oracle 128
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.156.62.218:443?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#🇯🇵 Japan | Oracle 129
+vmess://eyJhZGQiOiJjZG4uc2ZhY2cudWsiLCJhaWQiOiIwIiwiaG9zdCI6Im9yMy5zZmFjZy51ayIsImlkIjoiYWMyNTEyMzctNTc2Zi00MGM4LWE1NDMtNTU0OTYwYzk1OGIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL29yMyIsInBvcnQiOiIyMDgzIiwicHMiOiLwn4eq8J+HuiBBZXRyaXNWUE4iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9#🇯🇵 Japan | Oracle 130
+vless://f67b1159-a61f-4ae4-9844-0701b716a290@djj.zjlo.top:23169?encryption=none&security=tls&sni=djj.zjlo.top&fp=chrome&packetEncoding=xudp&insecure=0&flow=xtls-rprx-vision#🇯🇵 Japan | Oracle 131
+trojan://ec893967c30f4c3a8b6d4c975af95f45@oracle-tokyo-2.waverider.yingdigame.com:443?type=tcp&security=tls&fp=chrome&sni=oracle-tokyo-2.waverider.yingdigame.com#🇯🇵 Japan | Oracle 132
+vless://3eb053cb-d6f8-4b31-8180-222e1cc6f8ff@155.248.175.201:23169?encryption=none&flow=xtls-rprx-vision&security=tls&sni=djj.zjlo.top&allowInsecure=true&fp=firefox&packetEncoding=xudp#🇯🇵 Japan | Oracle 133
+vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?encryption=none&security=tls&sni=freeceshi6.frii.site&type=ws&host=freeceshi6.frii.site&path=/proxyip%3DProxyIP.JP.CMLiussss.net&packetEncoding=xudp#🇯🇵 Japan | SAKURA Internet 1
+vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?encryption=none&security=tls&sni=freeceshi6.frii.site&fp=chrome&type=ws&host=freeceshi6.frii.site&path=/proxyip%3DProxyIP.JP.CMLiussss.net&packetEncoding=xudp#🇯🇵 Japan | The Constant Company 1
+vmess://eyJhZGQiOiI2NC4xNzYuMzQuMTAyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjQ3NzM1MGIyLTc1MzYtNGYzOC1lZTIxLTAyMGVmZGRlMmQxZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDYxMzAiLCJwcyI6IktpbmdvIHBpbmcgMjk3OSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#🇯🇵 Japan | The Constant Company 2
+vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?security=tls&type=ws&path=%2Fproxyip%3DProxyIP.JP.CMLiussss.net&host=freeceshi6.frii.site&packetEncoding=none&sni=freeceshi6.frii.site&fp=chrome#🇯🇵 Japan | The Constant Company, 1
