@@ -3,8 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://de4729d8-4b52-4cac-b796-4ae1bb723631@189.74.118.4:443?security=tls&sni=cz-next.mediastvor.cc&alpn=h2&type=grpc&serviceName=r7Kp4mN9tQ2v&mode=gun&fp=ios#🇨🇿 Czechia | FDCservers.net 1
-vless://de4729d8-4b52-4cac-b796-4ae1bb723631@189.74.118.4:443?security=tls&sni=cz-next.mediastvor.cc&alpn=h2&type=grpc&serviceName=r7Kp4mN9tQ2v&mode=gun&fp=firefox#🇨🇿 Czechia | FDCservers.net 2
-vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@176.108.245.73:443?flow=xtls-rprx-vision&security=reality&sni=pawuk.belka.tv&fp=firefox&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc#🇨🇿 Czechia | Interkvm Host SRL 1
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@153.52.69.249:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cache-78.topp-con.xyz&fp=chrome&pbk=WVfpQqoeOrTtCq052_IOxvMv7RCWfLlAOxEfsH1aa2U&sid=d5492c7a39515c65&type=tcp&headerType=none#🇨🇿 Czechia | Host-Telecom.com s.r.o. 1
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@153.52.69.249:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=WVfpQqoeOrTtCq052_IOxvMv7RCWfLlAOxEfsH1aa2U&sid=d5492c7a39515c65&sni=cache-78.topp-con.xyz#🇨🇿 Czechia | Host-Telecom.com s.r.o. 2
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@153.52.69.249:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=WVfpQqoeOrTtCq052_IOxvMv7RCWfLlAOxEfsH1aa2U&sid=d5492c7a39515c65&sni=cache-78.topp-con.xyz#🇨🇿 Czechia | Host-Telecom.com s.r.o. 3
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@153.52.69.249:443?&security=reality&flow=xtls-rprx-vision&pbk=WVfpQqoeOrTtCq052_IOxvMv7RCWfLlAOxEfsH1aa2U&sid=d5492c7a39515c65&fp=chrome&sni=cache-78.topp-con.xyz&type=tcp&headerType=none&host=cache-78.topp-con.xyz&path=%2F#🇨🇿 Czechia | Host-Telecom.com s.r.o. 4
