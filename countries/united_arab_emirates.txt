@@ -3,13 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HpvCfh6ogQm9iaVZQTiDigJQgVW5pdGVkIEFyYWIgRW1pcmF0ZXMK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://a9d963bc-81a1-42b5-b62d-104af19a0f5c@135.136.182.175:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1h_quEcn8-33TXVqNwePJbl5f4xBQF8-b1jV4WUz73c&security=reality&sid=ff133c583853246f&sni=dubai-cdn-reverse-prsxv.keno.su&type=tcp#🇦🇪 United Arab Emirates | IP MARKET - FZCO 1
-vless://a9d963bc-81a1-42b5-b62d-104af19a0f5c@135.136.182.175:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1h_quEcn8-33TXVqNwePJbl5f4xBQF8-b1jV4WUz73c&sid=ff133c583853246f&sni=dubai-cdn-reverse-prsxv.keno.su#🇦🇪 United Arab Emirates | IP MARKET - FZCO 2
-vless://a9d963bc-81a1-42b5-b62d-104af19a0f5c@dubai-cdn-reverse-prsxv.keno.su:443?security=reality&encryption=none&pbk=1h_quEcn8-33TXVqNwePJbl5f4xBQF8-b1jV4WUz73c&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dubai-cdn-reverse-prsxv.keno.su&sid=ff133c583853246f#🇦🇪 United Arab Emirates | IP MARKET - FZCO 3
-vless://a9d963bc-81a1-42b5-b62d-104af19a0f5c@dubai-cdn-reverse-prsxv.keno.su:443?security=reality&encryption=none&pbk=1h_quEcn8-33TXVqNwePJbl5f4xBQF8-b1jV4WUz73c&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dubai-cdn-reverse-prsxv.keno.su&sid=ff133c583853246f#🇦🇪 United Arab Emirates | IP MARKET - FZCO 4
-vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?&sni=95.174.68.188&type=ws&headerType=none&host=95.174.68.188&path=/vless#🇦🇪 United Arab Emirates | Melbikomas UAB 1
+vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?sni=95.174.68.188&type=ws&host=95.174.68.188&path=/vless#🇦🇪 United Arab Emirates | Melbikomas UAB 1
 vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?sni=95.174.68.188&type=ws&host=95.174.68.188&path=/vless#🇦🇪 United Arab Emirates | Melbikomas UAB 2
-vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?sni=95.174.68.188&type=ws&host=95.174.68.188&path=/vless#🇦🇪 United Arab Emirates | Melbikomas UAB 3
-vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.41.31:8459?encryption=none&fp=firefox&path=/ws&security=tls&sni=photos.plumstatic.com&type=ws#🇦🇪 United Arab Emirates | Melbikomas UAB 4
+vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?sni=uae.unixzone.us&type=ws&host=uae.unixzone.us&path=/#🇦🇪 United Arab Emirates | Oracle 1
