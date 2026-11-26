@@ -3,17 +3,10 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hq/Cfh64gQm9iaVZQTiDigJQgRmlubGFuZArimqEgMTIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+Hq/Cfh64gQm9iaVZQTiDigJQgRmlubGFuZArimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://cdfc923e-8d34-4b44-ac72-ab41ec560ba8@origin5.pd-service.shop:2298?encryption=none&mode=gun&pbk=YVW5HyhXOqVIDLzngOhCHWXdSkVNrRBS029UK3Fl3mM&security=reality&serviceName=ads.x5.ru&sid=729bef613f43e925&sni=vimeo.com&type=grpc&fp=ios#🇫🇮 Finland | Aeza Group 1
-vless://cdfc923e-8d34-4b44-ac72-ab41ec560ba8@origin5.pd-service.shop:2298?encryption=none&mode=gun&pbk=YVW5HyhXOqVIDLzngOhCHWXdSkVNrRBS029UK3Fl3mM&security=reality&serviceName=ads.x5.ru&sid=729bef613f43e925&sni=vimeo.com&type=grpc&fp=firefox#🇫🇮 Finland | Aeza Group 2
-vless://cdfc923e-8d34-4b44-ac72-ab41ec560ba8@origin5.pd-service.shop:2298?encryption=none&mode=gun&pbk=YVW5HyhXOqVIDLzngOhCHWXdSkVNrRBS029UK3Fl3mM&security=reality&serviceName=ads.x5.ru&sid=729bef613f43e925&sni=vimeo.com&type=grpc&fp=random#🇫🇮 Finland | Aeza Group 3
 vless://83825c32-f2a9-4501-aa30-4131ecb40bbf@axe.mastopen14.ir:443?path=%2Ff13eb798-4cc9-41b0-a955-88a2fb289821&security=tls&alpn=h2&encryption=none&insecure=0&host=mojito1703.mastopen14.ir&fp=chrome&type=ws&allowInsecure=0&sni=mojito1703.mastopen14.ir#🇫🇮 Finland | Cloudflare, 1
-vless://83825c32-f2a9-4501-aa30-4131ecb40bbf@axe.mastopen14.ir:443?host=mojito1703.mastopen14.ir&path=%2Ff13eb798-4cc9-41b0-a955-88a2fb289821&security=tls&sni=mojito1703.mastopen14.ir&type=ws#🇫🇮 Finland | Cloudflare, 2
-vless://88a558b1-9645-42f3-89e5-341570d8486d@157.180.98.124:49659?encryption=none&flow=xtls-rprx-vision&pbk=bBVqro8tG6swTNoAkjwUzcu4Ew4N4VcyDHzADcGviCs&security=reality&sid=81959fce&sni=apple.com&type=tcp#🇫🇮 Finland | Hetzner Online GmbH 1
-vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@153.56.231.124:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=f309e0t.fi4.h1clayd.click&fp=firefox&pbk=tZoiwNSZeaVBoLJJcXe9A-GzCtbvU95fKkAJLc0vrgU&sid=6fddab1e1e358290#🇫🇮 Finland | Hetzner Online GmbH 2
-vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@f309e0t.fi4.h1clayd.click:443?encryption=none&type=tcp&security=reality&fp=firefox&pbk=tZoiwNSZeaVBoLJJcXe9A-GzCtbvU95fKkAJLc0vrgU&sni=f309e0t.fi4.h1clayd.click&sid=6fddab1e1e358290&flow=xtls-rprx-vision#🇫🇮 Finland | Hetzner Online GmbH 3
-vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@f309e0t.fi4.h1clayd.click:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=f309e0t.fi4.h1clayd.click&pbk=tZoiwNSZeaVBoLJJcXe9A-GzCtbvU95fKkAJLc0vrgU&sid=6fddab1e1e358290&fp=firefox&headerType=none#🇫🇮 Finland | Hetzner Online GmbH 4
 vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.150:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-6b04608f.adhil.uk&type=tcp#🇫🇮 Finland | Orion Network 1
-vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.157.150:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-6b04608f.adhil.uk&type=tcp#🇫🇮 Finland | Orion Network 2
-vless://0173d52e-8e1b-4681-831e-11529677b72f@one.alpheratzz.org:8443?type=raw&flow=xtls-rprx-vision&security=tls&sni=api-6b04608f.adhil.uk&alpn=h2&fp=safari#🇫🇮 Finland | Orion Network 3
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@2.27.203.38:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.google.com&pbk=Xuy5y3WGJjkxyUtkhiY87dwndv4fuD45gO64TWnlThI&sid=fd0cc2b3ac52deb8&fp=firefox&encryption=none#🇫🇮 Finland | Play2go - Fzco 1
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@2.27.203.38:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.google.com&pbk=Xuy5y3WGJjkxyUtkhiY87dwndv4fuD45gO64TWnlThI&sid=fd0cc2b3ac52deb8&fp=firefox#🇫🇮 Finland | Play2go - Fzco 2
+trojan://174rUJ1RGKdZ4ETwzu9uhT2GEeof2zrp@152.234.245.206:8443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=&fp=firefox&type=tcp&allowInsecure=0&sni=flf.serverstats.ru#🇫🇮 Finland | Senko Digital 1
