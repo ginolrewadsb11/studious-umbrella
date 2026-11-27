@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNZXhpY28K4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNZXhpY28K4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://b4d03a4c-3e34-4cbc-b0c9-05957748552a@38.95.76.93:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rsEOeimpWDYomTH1LDjPTMktj39p7yjPPZ1eG16yFRM&security=reality&sid=d78582da98f963c8&sni=www.amazon.com&type=tcp#🌍 Mexico | Latitude.sh 1
+vless://2098ca45-e61c-0018-ad7d-8badb6b154f4@64.130.46.4:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&sni=uk-lon1.connect.accessboy.com#🌍 Mexico | ONEPROVIDER 1
+vless://2098ca45-e61c-0018-ad7d-8badb6b154f4@64.130.46.4:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&security=reality&sid=1c5869a95671bcb0&sni=uk-lon1.connect.accessboy.com&type=tcp#🌍 Mexico | ONEPROVIDER 2
