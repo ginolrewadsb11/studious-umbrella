@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+Hp/Cfh6wgQm9iaVZQTiDigJQgQnVsZ2FyaWEK4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://ba373a70-295f-482d-a471-8bc17b54e23b@131.123.38.29:443?type=grpc&security=reality&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&sni=cindermoss.xyz&mode=gun&serviceName=neurex#🇧🇬 Bulgaria | Alexhost S.R.L. 1
-vless://ba373a70-295f-482d-a471-8bc17b54e23b@131.123.38.29:443?encryption=none&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&security=reality&serviceName=neurex&sid=27350908de933e09&sni=cindermoss.xyz&type=grpc#🇧🇬 Bulgaria | Alexhost S.R.L. 2
-vless://6589c320-db68-43cd-a273-b46299bab355@195.123.226.21:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gateway.icloud.com&fp=chrome&pbk=rabtI-ymNXBUvYYRwAw8DiR-1pdP7U0WPIaCBHEkgzo&sid=77bb0d07bddbc832&packetEncoding=xudp#🇧🇬 Bulgaria | LAYER6 1
-vless://6589c320-db68-43cd-a273-b46299bab355@195.123.226.21:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gateway.icloud.com&pbk=rabtI-ymNXBUvYYRwAw8DiR-1pdP7U0WPIaCBHEkgzo&sid=77bb0d07bddbc832&packetEncoding=xudp#🇧🇬 Bulgaria | LAYER6 2
+vless://6589c320-db68-43cd-a273-b46299bab355@195.123.226.21:443?type=tcp&flow=xtls-rprx-vision&security=reality&headerType=none&encryption=none&pbk=rabtI-ymNXBUvYYRwAw8DiR-1pdP7U0WPIaCBHEkgzo&sni=gateway.icloud.com&sid=77bb0d07bddbc832&fp=chrome#🇧🇬 Bulgaria | LAYER6 1
+vless://6589c320-db68-43cd-a273-b46299bab355@195.123.226.21:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gateway.icloud.com&fp=chrome&pbk=rabtI-ymNXBUvYYRwAw8DiR-1pdP7U0WPIaCBHEkgzo&sid=77bb0d07bddbc832&packetEncoding=xudp#🇧🇬 Bulgaria | LAYER6 2
+vless://6589c320-db68-43cd-a273-b46299bab355@195.123.226.21:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gateway.icloud.com&pbk=rabtI-ymNXBUvYYRwAw8DiR-1pdP7U0WPIaCBHEkgzo&sid=77bb0d07bddbc832&packetEncoding=xudp#🇧🇬 Bulgaria | LAYER6 3
+vless://963A4918-A630-29DA-A873-093CDF8AD784@still-bar-5702.vpnetwork3567.workers.dev:443?encryption=none&security=tls&type=ws#🇧🇬 Bulgaria | M247 Europe SRL 1
