@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HpvCfh7IgQm9iaVZQTiDigJQgQXJtZW5pYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HpvCfh7IgQm9iaVZQTiDigJQgQXJtZW5pYQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://5e610f80-fc6a-479d-8621-b672355b96a1@77.91.68.117:443?sni=cf-1rm.pages.dev&type=ws&host=cf-1rm.pages.dev&path=/fp=chrome&security=tls#🇦🇲 Armenia | Cloudflare, 1
+vless://ba373a70-295f-482d-a471-8bc17b54e23b@2.56.207.123:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&security=reality&sid=27350908de933e09&sni=ironlark.xyz&type=tcp#🇦🇲 Armenia | Proitlab 1
+vless://ba373a70-295f-482d-a471-8bc17b54e23b@2.56.207.123:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&sni=ironlark.xyz#🇦🇲 Armenia | Proitlab 2

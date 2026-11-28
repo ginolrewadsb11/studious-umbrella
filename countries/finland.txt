@@ -3,11 +3,23 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Hq/Cfh64gQm9iaVZQTiDigJQgRmlubGFuZArimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Hq/Cfh64gQm9iaVZQTiDigJQgRmlubGFuZArimqEgMTgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://da14e323-6af7-406f-a5c2-1eb7975ada8b@mail1.besttotaldns.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=mail1.besttotaldns.com#🇫🇮 Finland | Hetzner Online GmbH 1
 ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0=@213.176.92.148:40647#🇫🇮 Finland | NetCrafters OU 1
+vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:10444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=video.yandex.ru&fp=safari&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&type=tcp&headerType=none#🇫🇮 Finland | NetCrafters OU 2
 vless://848951d4-c5a5-484c-897d-d777929bcdc2@31.76.240.210:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gateway.icloud.com&fp=firefox&pbk=aykMwW19tGa685HLa9yI8FDTH567ovT4KipCSUHEySk&sid=54325343#🇫🇮 Finland | Node Host 1
-vless://0173d52e-8e1b-4681-831e-11529677b72f@one.alpheratzz.org:8443?&security=tls&flow=xtls-rprx-vision&fp=safari&alpn=h2&sni=api-6b04608f.adhil.uk&type=tcp&headerType=none&host=one.alpheratzz.org&path=%2F#🇫🇮 Finland | Orion Network 1
-vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@83.143.112.79:443?flow=xtls-rprx-vision&security=reality&sni=lesson10.schoolpizorbz.xyz&fp=firefox&pbk=IL8J51YZ8vzSpHXhvBNQUnACZjGKuSYLIDPLH5tZ4BA&sid=c9899c71959d69e4#🇫🇮 Finland | Play2go International 1
-vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@lesson10.schoolpizorbz.xyz:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=lesson10.schoolpizorbz.xyz&pbk=IL8J51YZ8vzSpHXhvBNQUnACZjGKuSYLIDPLH5tZ4BA&sid=c9899c71959d69e4#🇫🇮 Finland | Play2go International 2
+vless://f121ffc8-f6dc-4728-a871-a05e3f9cf8c5@196.198.111.166:8443?security=tls&flow=xtls-rprx-vision&fp=firefox&sni=usr-6b09ce88-api-v3.alcors.net#🇫🇮 Finland | Orion Network 1
+vless://f121ffc8-f6dc-4728-a871-a05e3f9cf8c5@196.198.111.166:8443?flow=xtls-rprx-vision&security=tls&sni=usr-6b09ce88-api-v3.alcors.net&alpn=h2&fp=firefox#🇫🇮 Finland | Orion Network 2
+vless://f121ffc8-f6dc-4728-a871-a05e3f9cf8c5@196.198.111.166:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=usr-6b09ce88-api-v3.alcors.net&type=tcp#🇫🇮 Finland | Orion Network 3
+vless://f121ffc8-f6dc-4728-a871-a05e3f9cf8c5@196.198.111.166:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=usr-6b09ce88-api-v3.alcors.net&fp=firefox&alpn=h2#🇫🇮 Finland | Orion Network 4
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@31.77.17.137:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kEtGermhVoTO4QWTy88C6Y52xDqOyR9f3bxR2oWqUA8&security=reality&sid=32772060abd44e31&sni=lesson6.schoolpizorbz.xyz&type=tcp#🇫🇮 Finland | Play2go - Fzco 1
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@31.77.17.137:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=kEtGermhVoTO4QWTy88C6Y52xDqOyR9f3bxR2oWqUA8&sid=32772060abd44e31&sni=lesson6.schoolpizorbz.xyz#🇫🇮 Finland | Play2go - Fzco 2
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@201.58.176.19:443?type=raw&flow=xtls-rprx-vision&sni=lesson9.schoolpizorbz.xyz&fp=chrome&security=reality&pbk=LkXRut71yrHguNpmKfCrLITrAxk7amJiI2npZ4jRYx8&sid=06df4d3e93672c24#🇫🇮 Finland | Play2go - Fzco 3
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@lesson9.schoolpizorbz.xyz:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=lesson9.schoolpizorbz.xyz&pbk=LkXRut71yrHguNpmKfCrLITrAxk7amJiI2npZ4jRYx8&sid=06df4d3e93672c24&fp=firefox#🇫🇮 Finland | Play2go - Fzco 4
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@31.76.8.195:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pFmgbfd2eUSmge-8f0dF7Yjo8OFaZWuZ3UWC7EXjwmg&security=reality&sid=ae3cdc4eca7374a8&sni=lesson12.schoolpizorbz.xyz&type=tcp#🇫🇮 Finland | Play2go International 1
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@31.76.21.252:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=hkbj7k2VDqVjrwQLXhoWIgjUwGOKFJ9Y1gdCv2YGQik&sid=190004e1840538bf&sni=lesson5.schoolpizorbz.xyz#🇫🇮 Finland | Play2go International 2
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@31.76.21.252:443?type=tcp&headerType=none&security=reality&encryption=none&sni=lesson5.schoolpizorbz.xyz&fp=firefox&pbk=hkbj7k2VDqVjrwQLXhoWIgjUwGOKFJ9Y1gdCv2YGQik&sid=190004e1840538bf&flow=xtls-rprx-vision#🇫🇮 Finland | Play2go International 3
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@31.76.21.252:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hkbj7k2VDqVjrwQLXhoWIgjUwGOKFJ9Y1gdCv2YGQik&security=reality&sid=190004e1840538bf&sni=lesson5.schoolpizorbz.xyz&type=tcp#🇫🇮 Finland | Play2go International 4
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@lesson12.schoolpizorbz.xyz:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=lesson12.schoolpizorbz.xyz&pbk=pFmgbfd2eUSmge-8f0dF7Yjo8OFaZWuZ3UWC7EXjwmg&sid=ae3cdc4eca7374a8&fp=firefox#🇫🇮 Finland | Play2go International 5
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@lesson5.schoolpizorbz.xyz:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=lesson5.schoolpizorbz.xyz&pbk=hkbj7k2VDqVjrwQLXhoWIgjUwGOKFJ9Y1gdCv2YGQik&sid=190004e1840538bf&fp=firefox#🇫🇮 Finland | Play2go International 6
